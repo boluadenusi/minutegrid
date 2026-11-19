@@ -1,0 +1,78 @@
+pitch_league_id,country_code,pitch_league_name,seasons,competition_id,confidence
+l_1rPvVD,DEN,1. Division,"[""2024/2025"", ""2025/2026"", ""2026/2027""]",,unmapped
+l_1BFfna,INT,1. Lig,"[""2024/2025"", ""2025/2026"", ""2026/2027""]",,unmapped
+l_0F4I4F,CZE,1. Liga,"[""2024/2025"", ""2025/2026"", ""2026/2027""]",,unmapped
+l_4MU9Yh,SVK,1. liga,"[""2024/2025"", ""2025/2026"", ""2026/2027""]",,unmapped
+l_3hvsne,GER,2. Bundesliga,"[""2021/2022"", ""2022/2023"", ""2023/2024"", ""2024/2025"", ""2025/2026"", ""2026/2027""]",,unmapped
+l_47077Y,GER,3. Liga,"[""2024/2025"", ""2025/2026"", ""2026/2027""]",,unmapped
+l_4MPd7x,AUS,A-League,"[""2021/2022"", ""2022/2023"", ""2023/2024"", ""2024/2025"", ""2025/2026"", ""2026/2027""]",AUS1,unsure
+l_1XsMdH,SWE,Allsvenskan,"[""2021"", ""2022"", ""2023"", ""2024"", ""2025"", ""2026""]",SE1,confident
+l_1TTHxD,ISL,Besta deild,"[""2024"", ""2025"", ""2026""]",,unmapped
+l_1Isor4,GER,Bundesliga,"[""2021/2022"", ""2022/2023"", ""2023/2024"", ""2024/2025"", ""2025/2026"", ""2026/2027""]",L1,confident
+l_3zsMpo,AUT,Bundesliga,"[""2021/2022"", ""2022/2023"", ""2023/2024"", ""2024/2025"", ""2025/2026"", ""2026/2027""]",A1,confident
+l_4auCPk,SUI,Challenge League,"[""2024/2025"", ""2025/2026"", ""2026/2027""]",,unmapped
+l_1pQOHK,BEL,Challenger Pro League,"[""2025/2026"", ""2026/2027""]",,unmapped
+l_0bfbkO,INT-2,Champions League,"[""2021/2022"", ""2022/2023"", ""2023/2024"", ""2024/2025"", ""2025/2026"", ""2026/2027""]",,unmapped
+l_4DWyTT,ENG,Championship,"[""2021/2022"", ""2022/2023"", ""2023/2024"", ""2024/2025"", ""2025/2026"", ""2026/2027""]",,unmapped
+l_2WZ2tt,INT-2,Conference League,"[""2021/2022"", ""2022/2023"", ""2023/2024"", ""2024/2025"", ""2025/2026"", ""2026/2027""]",,unmapped
+l_4FPF2L,PAR,Division Profesional,"[""2025"", ""2026""]",,unmapped
+l_49KZaB,NED,Eerste Divisie,"[""2024/2025"", ""2025/2026"", ""2026/2027""]",NL1,unsure
+l_214sqK,POL,Ekstraklasa,"[""2025/2026"", ""2026/2027""]",,unmapped
+l_0uqFK8,NOR,Eliteserien,"[""2021"", ""2022"", ""2023"", ""2024"", ""2025"", ""2026""]",NO1,confident
+l_4H43wr,NED,Eredivisie,"[""2021/2022"", ""2022/2023"", ""2023/2024"", ""2024/2025"", ""2025/2026"", ""2026/2027""]",NL1,confident
+l_38d9HA,INT-2,Europa League,"[""2021/2022"", ""2022/2023"", ""2023/2024"", ""2024/2025"", ""2025/2026"", ""2026/2027""]",,unmapped
+l_2L6d1F,BEL,First Division A,"[""2021/2022"", ""2022/2023"", ""2023/2024"", ""2024/2025"", ""2025/2026"", ""2026/2027""]",,unmapped
+l_2tFk9k,CRO,HNL,"[""2024/2025"", ""2025/2026"", ""2026/2027""]",,unmapped
+l_1qpFVw,IND,Indian Super League,"[""2021/2022"", ""2022/2023"", ""2023/2024"", ""2024/2025"", ""2025/2026"", ""2026/2027""]",,unmapped
+l_2ApGa4,JPN,J. League,"[""2022"", ""2023"", ""2024"", ""2025"", ""2026""]",JAP1,unsure
+l_3fglZv,JPN,J3 League,"[""2024"", ""2025"", ""2026/2027""]",JAP1,unsure
+l_2EKrnc,KOR,K League 1,"[""2022"", ""2023"", ""2024"", ""2025"", ""2026""]",RSK1,confident
+l_271pqa,KOR,K League 2,"[""2024"", ""2025"", ""2026""]",,unmapped
+l_0ErfuF,ESP,LaLiga,"[""2021/2022"", ""2022/2023"", ""2023/2024"", ""2024/2025"", ""2025/2026"", ""2026/2027""]",ES1,confident
+l_3kyHLd,ESP,LaLiga2,"[""2025/2026"", ""2026/2027""]",ES1,unsure
+l_0ahLw8,ENG,League One,"[""2022/2023"", ""2023/2024"", ""2024/2025"", ""2025/2026"", ""2026/2027""]",,unmapped
+l_1W6idJ,ENG,League Two,"[""2022/2023"", ""2023/2024"", ""2024/2025"", ""2025/2026"", ""2026/2027""]",,unmapped
+l_3uNwVX,PER,Liga 1,"[""2024"", ""2025"", ""2026""]",,unmapped
+l_0kSJLz,ROU,Liga I,"[""2024/2025"", ""2025/2026"", ""2026/2027""]",,unmapped
+l_3v84VE,MEX,Liga MX,"[""2021/2022"", ""2022/2023"", ""2023/2024"", ""2024/2025"", ""2025/2026"", ""2026/2027""]",,unmapped
+l_4QexZg,POR,Liga Portugal,"[""2021/2022"", ""2022/2023"", ""2023/2024"", ""2024/2025"", ""2025/2026"", ""2026/2027""]",PO1,confident
+l_45VZuL,ARG,Liga Profesional,"[""2023"", ""2024"", ""2025"", ""2026""]",,unmapped
+l_3qNjzC,CHI,Liga de Primera,"[""2024"", ""2025"", ""2026""]",,unmapped
+l_16Sq13,ISR,Ligat ha'Al,"[""2024/2025"", ""2025/2026"", ""2026/2027""]",,unmapped
+l_3FJFUl,FRA,Ligue 1,"[""2021/2022"", ""2022/2023"", ""2023/2024"", ""2024/2025"", ""2025/2026"", ""2026/2027""]",FR1,confident
+l_0275VP,FRA,Ligue 2,"[""2025/2026"", ""2026/2027""]",,unmapped
+l_0eg6C9,USA,MLS,"[""2021"", ""2022"", ""2023"", ""2024"", ""2025"", ""2026""]",,unmapped
+l_3Tn1kG,USA,MLS Next Pro,"[""2024"", ""2025"", ""2026""]",,unmapped
+l_4V6jPs,BRA,Paulista A1,"[""2024"", ""2025"", ""2026""]",,unmapped
+l_1eJSA7,IRL,Premier Division,"[""2024"", ""2025"", ""2026""]",,unmapped
+l_4WFCIZ,ENG,Premier League,"[""2021/2022"", ""2022/2023"", ""2023/2024"", ""2024/2025"", ""2025/2026"", ""2026/2027""]",GB1,confident
+l_2Mh0jT,RUS,Premier League,"[""2025/2026"", ""2026/2027""]",,unmapped
+l_46aZMC,EGY,Premier League,"[""2025/2026"", ""2026/2027""]",,unmapped
+l_3UiOcj,CAN,Premier League,"[""2024"", ""2025"", ""2026""]",,unmapped
+l_1Kknkl,RSA,Premier Soccer League,"[""2025/2026"", ""2026/2027""]",,unmapped
+l_1LMdEO,SCO,Premiership,"[""2021/2022"", ""2022/2023"", ""2023/2024"", ""2024/2025"", ""2025/2026"", ""2026/2027""]",,unmapped
+l_1xXulJ,COL,Primera A,"[""2024"", ""2025"", ""2026""]",,unmapped
+l_1TVRZW,VEN,Primera Division,"[""2024"", ""2025"", ""2026""]",,unmapped
+l_4dzm4e,BOL,Primera Division,"[""2024"", ""2025"", ""2026""]",,unmapped
+l_0aEfof,UAE,Pro League,"[""2024/2025"", ""2025/2026"", ""2026/2027""]",,unmapped
+l_3wr44B,QAT,Qatar Stars League,"[""2024/2025"", ""2025/2026"", ""2026/2027""]",,unmapped
+l_3CB6qX,KSA,Saudi First Division,"[""2024/2025"", ""2025/2026"", ""2026/2027""]",,unmapped
+l_0Lpz1f,KSA,Saudi Pro League,"[""2022/2023"", ""2023/2024"", ""2024/2025"", ""2025/2026"", ""2026/2027""]",SA1,confident
+l_1D8Xrl,BRA,Serie A,"[""2023"", ""2024"", ""2025"", ""2026""]",,unmapped
+l_0ALvwF,ITA,Serie A,"[""2021/2022"", ""2022/2023"", ""2023/2024"", ""2024/2025"", ""2025/2026"", ""2026/2027""]",IT1,confident
+l_1dmt9H,ECU,Serie A,"[""2024"", ""2025"", ""2026""]",,unmapped
+l_3qUkB8,BRA,Serie B,"[""2024"", ""2025"", ""2026""]",,unmapped
+l_0jy5yE,ITA,Serie B,"[""2025/2026"", ""2026/2027""]",,unmapped
+l_20pNSc,CHN,Super League,"[""2024"", ""2025"", ""2026""]",,unmapped
+l_4d6Bwl,SUI,Super League,"[""2021/2022"", ""2022/2023"", ""2023/2024"", ""2024/2025"", ""2025/2026"", ""2026/2027""]",C1,confident
+l_3xwVF2,GRE,Super League 1,"[""2024/2025"", ""2025/2026"", ""2026/2027""]",GR1,confident
+l_0S1uaf,TUR,Super Lig,"[""2022/2023"", ""2023/2024"", ""2024/2025"", ""2025/2026"", ""2026/2027""]",TR1,confident
+l_2xBPKk,SRB,Super Liga,"[""2024/2025"", ""2025/2026"", ""2026/2027""]",,unmapped
+l_49Zmno,DEN,Superligaen,"[""2021/2022"", ""2022/2023"", ""2023/2024"", ""2024/2025"", ""2025/2026"", ""2026/2027""]",DK1,unsure
+l_3hW1NO,THA,Thai League 1,"[""2025/2026"", ""2026/2027""]",,unmapped
+l_3yVUAO,USA,USL Championship,"[""2024"", ""2025"", ""2026""]",,unmapped
+l_3Kf7Ni,USA,USL League One,"[""2024"", ""2025"", ""2026""]",,unmapped
+l_3Ci5Cg,FIN,Veikkausliiga,"[""2024"", ""2025"", ""2026""]",,unmapped
+l_45xKXM,LVA,Virsliga,"[""2024"", ""2025"", ""2026""]",,unmapped
+l_1SGwQT,KSA,Women's Premier League,"[""2024/2025"", ""2025/2026"", ""2026/2027""]",,unmapped
+l_1XLtP0,INT,World Cup,"[""2022"", ""2026""]",,unmapped

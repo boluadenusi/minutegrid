@@ -1,0 +1,24 @@
+{
+ "tm_last_day": "2026-07-06",
+ "competitions": [
+  "GB1",
+  "ES1",
+  "IT1",
+  "L1",
+  "FR1",
+  "FAC",
+  "CDR",
+  "DFB",
+  "CIT",
+  "GBCS",
+  "SUC",
+  "DFL",
+  "SCI",
+  "FRCH",
+  "CL",
+  "EL",
+  "UCOL",
+  "USC"
+ ],
+ "history_from": "2016-07-01"
+}

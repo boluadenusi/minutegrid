@@ -1,0 +1,693 @@
+pitch_league_id,league,competition_id,pitch_team_id,pitch_team_name,tm_club_id,tm_club_name
+l_1XsMdH,Allsvenskan,SE1,t_0P769S,Halmstads BK,1011,Halmstads BK
+l_1XsMdH,Allsvenskan,SE1,t_1Fc4a0,IFK Värnamo,3622,IFK Värnamo
+l_1XsMdH,Allsvenskan,SE1,t_4R5NSf,IFK Norrköping,2844,IFK Norrköping
+l_1XsMdH,Allsvenskan,SE1,t_4UVgWV,Östers IF,1236,Östers IF
+l_1Isor4,Bundesliga,L1,t_0U19Vd,St. Pauli,35,FC St. Pauli
+l_1Isor4,Bundesliga,L1,t_0acTGj,Eintracht Frankfurt,24,Eintracht Frankfurt
+l_1Isor4,Bundesliga,L1,t_0iJNOA,VfB Stuttgart,79,VfB Stuttgart
+l_1Isor4,Bundesliga,L1,t_0oqUbb,RB Leipzig,23826,RB Leipzig
+l_1Isor4,Bundesliga,L1,t_0x6Gji,1. FC Köln,3,1.FC Köln
+l_1Isor4,Bundesliga,L1,t_14USF9,Augsburg,167,FC Augsburg
+l_1Isor4,Bundesliga,L1,t_1pQZDX,Hamburger SV,41,Hamburger SV
+l_1Isor4,Bundesliga,L1,t_2g37DO,Borussia Mönchengladbach,18,Borussia Mönchengladbach
+l_1Isor4,Bundesliga,L1,t_2yQXrt,Schalke 04,33,FC Schalke 04
+l_1Isor4,Bundesliga,L1,t_386iz1,Borussia Dortmund,16,Borussia Dortmund
+l_1Isor4,Bundesliga,L1,t_40kQKX,Freiburg,60,SC Freiburg
+l_3zsMpo,Bundesliga,A1,t_1ta56l,LASK,413,LASK
+l_3zsMpo,Bundesliga,A1,t_2rbgXI,Wolfsberger AC,4441,Wolfsberger AC
+l_3zsMpo,Bundesliga,A1,t_4BlVBx,WSG Tirol,2446,WSG Tirol
+l_0uqFK8,Eliteserien,NO1,t_2Qs9XR,FK Haugesund,2761,FK Haugesund
+l_0uqFK8,Eliteserien,NO1,t_2pLxVY,Hamarkameratene,4309,Hamarkameratene
+l_4H43wr,Eredivisie,NL1,t_0BHTxv,NAC Breda,132,NAC Breda
+l_4H43wr,Eredivisie,NL1,t_0IKBux,PEC Zwolle,1269,PEC Zwolle
+l_4H43wr,Eredivisie,NL1,t_0OrDTY,Telstar,1434,SC Telstar
+l_4H43wr,Eredivisie,NL1,t_0XuoVw,FC Groningen,202,FC Groningen
+l_4H43wr,Eredivisie,NL1,t_0aaGiw,ADO Den Haag,1268,ADO Den Haag
+l_4H43wr,Eredivisie,NL1,t_0maIeN,Go Ahead Eagles,1435,Go Ahead Eagles
+l_4H43wr,Eredivisie,NL1,t_0oYO4I,FC Utrecht,200,FC Utrecht
+l_4H43wr,Eredivisie,NL1,t_1cDwJb,AZ Alkmaar,1090,AZ Alkmaar
+l_4H43wr,Eredivisie,NL1,t_1jOgDP,PSV Eindhoven,383,PSV Eindhoven
+l_4H43wr,Eredivisie,NL1,t_20mGQ4,NEC Nijmegen,467,NEC Nijmegen
+l_4H43wr,Eredivisie,NL1,t_2SrGqX,Sparta Rotterdam,468,Sparta Rotterdam
+l_4H43wr,Eredivisie,NL1,t_2iAXol,FC Volendam,724,FC Volendam
+l_4H43wr,Eredivisie,NL1,t_4OA2eZ,SC Heerenveen,306,SC Heerenveen
+l_2EKrnc,K League 1,RSK1,t_0BmWKf,Suwon FC,31622,Suwon FC
+l_2EKrnc,K League 1,RSK1,t_0Bv8Oa,Bucheon FC 1995,35759,Bucheon Football Club 1995
+l_2EKrnc,K League 1,RSK1,t_0fQ6zG,Daegu FC,6504,Daegu FC
+l_2EKrnc,K League 1,RSK1,t_1E0lMj,Gangwon FC,21459,Gangwon Football Club
+l_2EKrnc,K League 1,RSK1,t_1yCcOt,Jeju SK,19684,Jeju SK Football Club
+l_2EKrnc,K League 1,RSK1,t_23cF97,Pohang Steelers,311,Football Club Pohang Steelers
+l_2EKrnc,K League 1,RSK1,t_3EXLOF,Jeonbuk Hyundai Motors FC,6502,Jeonbuk Hyundai Motors
+l_2EKrnc,K League 1,RSK1,t_3LZ4n2,Gwangju FC,30925,Gwangju Football Club
+l_2EKrnc,K League 1,RSK1,t_3taLki,Incheon United,2996,Incheon United Football Club
+l_2EKrnc,K League 1,RSK1,t_40E4Th,Gimcheon Sangmu,6505,Gimcheon Sangmu Football Club
+l_2EKrnc,K League 1,RSK1,t_431dP7,FC Anyang,38898,Football Club Anyang
+l_2EKrnc,K League 1,RSK1,t_4cae3z,FC Seoul,6500,Football Club Seoul
+l_0ErfuF,LaLiga,ES1,t_17aOG3,Rayo Vallecano,367,Rayo Vallecano
+l_0ErfuF,LaLiga,ES1,t_1cpTpB,Deportivo Alavés,1108,Deportivo Alavés
+l_0ErfuF,LaLiga,ES1,t_1hKtUw,Real Sociedad,681,Real Sociedad
+l_0ErfuF,LaLiga,ES1,t_1pKstK,Girona,12321,Girona FC
+l_0ErfuF,LaLiga,ES1,t_2DcXQn,Málaga,1084,Málaga CF
+l_0ErfuF,LaLiga,ES1,t_2PLTQW,Elche,1531,Elche CF
+l_0ErfuF,LaLiga,ES1,t_32jSEF,Barcelona,131,FC Barcelona
+l_0ErfuF,LaLiga,ES1,t_3TftmE,Valencia,1049,Valencia CF
+l_0ErfuF,LaLiga,ES1,t_3i7zAH,Getafe,3709,Getafe CF
+l_0ErfuF,LaLiga,ES1,t_3x8HUq,Real Oviedo,2497,Real Oviedo
+l_0ErfuF,LaLiga,ES1,t_4NZcri,Real Madrid,418,Real Madrid
+l_0ErfuF,LaLiga,ES1,t_4SV4jg,Villarreal,1050,Villarreal CF
+l_0ErfuF,LaLiga,ES1,t_4XayA9,Sevilla,368,Sevilla FC
+l_4QexZg,Liga Portugal,PO1,t_0LVHGt,Arouca,8024,FC Arouca
+l_4QexZg,Liga Portugal,PO1,t_0dVrhE,FC Porto,720,FC Porto
+l_4QexZg,Liga Portugal,PO1,t_0gXPER,Gil Vicente,2424,Gil Vicente FC
+l_4QexZg,Liga Portugal,PO1,t_0t0HHy,Moreirense,979,Moreirense FC
+l_4QexZg,Liga Portugal,PO1,t_1TAfIz,Sporting CP,336,Sporting CP
+l_4QexZg,Liga Portugal,PO1,t_1r1ant,Rio Ave,2425,Rio Ave FC
+l_4QexZg,Liga Portugal,PO1,t_2kXart,Braga,1075,SC Braga
+l_4QexZg,Liga Portugal,PO1,t_30Ofp1,Alverca,2521,FC Alverca
+l_4QexZg,Liga Portugal,PO1,t_3cfbYN,Famalicão,3329,FC Famalicão
+l_4QexZg,Liga Portugal,PO1,t_4M4lCK,Casa Pia AC,3268,Casa Pia AC
+l_3FJFUl,Ligue 1,FR1,t_0JtwBe,Nantes,995,FC Nantes
+l_3FJFUl,Ligue 1,FR1,t_0LMnwp,Paris FC,10004,Paris FC
+l_3FJFUl,Ligue 1,FR1,t_0YXPxP,Metz,347,FC Metz
+l_3FJFUl,Ligue 1,FR1,t_2lHmy6,Lorient,1158,FC Lorient
+l_3FJFUl,Ligue 1,FR1,t_3t6spd,Toulouse,415,FC Toulouse
+l_3FJFUl,Ligue 1,FR1,t_41iFW3,Paris Saint-Germain,583,Paris Saint-Germain
+l_3FJFUl,Ligue 1,FR1,t_4BCeSu,Le Havre,738,Le Havre AC
+l_4WFCIZ,Premier League,GB1,t_0BrMnM,Liverpool,31,Liverpool FC
+l_4WFCIZ,Premier League,GB1,t_0HV3k6,Hull City,3008,Hull City
+l_4WFCIZ,Premier League,GB1,t_0UCNPX,Manchester City,281,Manchester City
+l_4WFCIZ,Premier League,GB1,t_0VMURm,Burnley,1132,Burnley FC
+l_4WFCIZ,Premier League,GB1,t_0msSwp,Nottingham Forest,703,Nottingham Forest
+l_4WFCIZ,Premier League,GB1,t_18kSmS,Wolverhampton Wanderers,543,Wolverhampton Wanderers
+l_4WFCIZ,Premier League,GB1,t_19Nr9K,Leeds United,399,Leeds United
+l_4WFCIZ,Premier League,GB1,t_1c1ZPD,Fulham,931,Fulham FC
+l_4WFCIZ,Premier League,GB1,t_1gkhxH,Arsenal,11,Arsenal FC
+l_4WFCIZ,Premier League,GB1,t_1iaglr,AFC Bournemouth,989,AFC Bournemouth
+l_4WFCIZ,Premier League,GB1,t_21IR9d,Everton,29,Everton FC
+l_4WFCIZ,Premier League,GB1,t_2C9laO,Ipswich Town,677,Ipswich Town
+l_4WFCIZ,Premier League,GB1,t_2I313i,Manchester United,985,Manchester United
+l_4WFCIZ,Premier League,GB1,t_2eQl9k,Newcastle United,762,Newcastle United
+l_4WFCIZ,Premier League,GB1,t_2ihyjC,Brentford,1148,Brentford FC
+l_4WFCIZ,Premier League,GB1,t_2xPV6y,Sunderland,289,Sunderland AFC
+l_4WFCIZ,Premier League,GB1,t_3eV7Ev,Brighton & Hove Albion,1237,Brighton & Hove Albion
+l_4WFCIZ,Premier League,GB1,t_4A7FfD,Tottenham Hotspur,148,Tottenham Hotspur
+l_4WFCIZ,Premier League,GB1,t_4LT5Yy,West Ham United,379,West Ham United
+l_4WFCIZ,Premier League,GB1,t_4R934X,Chelsea,631,Chelsea FC
+l_4WFCIZ,Premier League,GB1,t_4RqKpo,Aston Villa,405,Aston Villa
+l_4WFCIZ,Premier League,GB1,t_4bz4EP,Crystal Palace,873,Crystal Palace
+l_0Lpz1f,Saudi Pro League,SA1,t_1LMW5W,Al Kholood,91427,Al-Kholood Club
+l_0Lpz1f,Saudi Pro League,SA1,t_1QQ2Rd,Al Fateh FC,27221,Al-Fateh Club
+l_0Lpz1f,Saudi Pro League,SA1,t_20ijfN,Damac FC,50532,Damac Football Club
+l_0Lpz1f,Saudi Pro League,SA1,t_2TmqKN,Al-Fayha,50531,Al-Fayha FC
+l_0Lpz1f,Saudi Pro League,SA1,t_2gdTKw,Al Shabab,9840,Al-Shabab Club
+l_0Lpz1f,Saudi Pro League,SA1,t_3ZMZNl,Al-Ettifaq,7732,Al-Ettifaq Football Club
+l_0Lpz1f,Saudi Pro League,SA1,t_3sZ7Ha,Al Nassr FC,18544,Al-Nassr Football Club
+l_0Lpz1f,Saudi Pro League,SA1,t_4BG5Jn,Al Ittihad,8023,Al-Ittihad Football Club
+l_0Lpz1f,Saudi Pro League,SA1,t_4YFW8w,Al-Taawoun,28844,Al-Taawoun Football Club
+l_0ALvwF,Serie A,IT1,t_0YcbNh,Hellas Verona,276,Hellas Verona
+l_0ALvwF,Serie A,IT1,t_1DYf1D,Milan,5,AC Milan
+l_0ALvwF,Serie A,IT1,t_1fXtzU,Torino,416,Torino FC
+l_0ALvwF,Serie A,IT1,t_1pp2Qa,Monza,2919,AC Monza
+l_0ALvwF,Serie A,IT1,t_3TALFY,Venezia,607,Venezia FC
+l_0ALvwF,Serie A,IT1,t_4ZwKDn,Juventus,506,Juventus FC
+l_4d6Bwl,Super League,C1,t_1akMDV,Lugano,2790,FC Lugano
+l_4d6Bwl,Super League,C1,t_1zYSCB,Sion,321,FC Sion
+l_4d6Bwl,Super League,C1,t_2wHnOW,Servette,61,Servette FC
+l_4d6Bwl,Super League,C1,t_3EZS3O,Luzern,434,FC Luzern
+l_4d6Bwl,Super League,C1,t_3g5OvX,Winterthur,242,FC Winterthur
+l_4d6Bwl,Super League,C1,t_3yN3O4,Thun,938,FC Thun
+l_4d6Bwl,Super League,C1,t_46kWss,FC Zürich,260,FC Zürich
+l_0S1uaf,Super Lig,TR1,t_0Pfdw1,Fatih Karagümrük,6646,Fatih Karagümrük
+l_0S1uaf,Super Lig,TR1,t_0UHTp8,Alanyaspor,11282,Alanyaspor
+l_0S1uaf,Super Lig,TR1,t_12JGSu,Kayserispor,3205,Kayserispor
+l_0S1uaf,Super Lig,TR1,t_13kqMs,Gaziantep FK,2832,Gaziantep FK
+l_0S1uaf,Super Lig,TR1,t_15TWxO,Galatasaray,141,Galatasaray
+l_0S1uaf,Super Lig,TR1,t_1O0f4S,Konyaspor,2293,Konyaspor
+l_0S1uaf,Super Lig,TR1,t_1rIGha,Kocaelispor,120,Kocaelispor
+l_0S1uaf,Super Lig,TR1,t_2KgWmI,Eyüpspor,7160,Eyüpspor
+l_0S1uaf,Super Lig,TR1,t_2wJJY2,Fenerbahçe,36,Fenerbahce
+l_0S1uaf,Super Lig,TR1,t_2xIP6M,Göztepe,1467,Göztepe
+l_0S1uaf,Super Lig,TR1,t_2xrSfW,Antalyaspor,589,Antalyaspor
+l_0S1uaf,Super Lig,TR1,t_2xuoCT,Erzurumspor FK,39722,Erzurumspor FK
+l_0S1uaf,Super Lig,TR1,t_3DwdkH,Trabzonspor,449,Trabzonspor
+l_0S1uaf,Super Lig,TR1,t_3ecBqd,Samsunspor,152,Samsunspor
+l_49Zmno,Superligaen,DK1,t_0IweBQ,Vejle Boldklub,443,Vejle Boldklub
+l_49Zmno,Superligaen,DK1,t_0b9L5I,FC Midtjylland,865,FC Midtjylland
+l_49Zmno,Superligaen,DK1,t_2y8zLm,Fredericia,5776,FC Fredericia
+l_49Zmno,Superligaen,DK1,t_4EBz7e,Randers FC,5724,Randers FC
+l_49Zmno,Superligaen,DK1,t_4L4qT5,Nordsjælland,2778,FC Nordsjaelland
+l_49Zmno,Superligaen,DK1,t_4Mrl3A,Brøndby IF,206,Bröndby IF
+l_49Zmno,Superligaen,DK1,t_4POeZG,AC Horsens,2414,AC Horsens
+l_4MPd7x,A-League,AUS1,t_00yBVj,Melbourne City FC,25580,Melbourne City FC
+l_4MPd7x,A-League,AUS1,t_0B1RYi,Adelaide United,875,Adelaide United
+l_4MPd7x,A-League,AUS1,t_0YXGTs,Brisbane Roar FC,7831,Brisbane Roar
+l_4MPd7x,A-League,AUS1,t_0yMxxq,Western Sydney Wanderers FC,36100,Western Sydney Wanderers
+l_4MPd7x,A-League,AUS1,t_1AoC5C,Sydney FC,8054,Sydney FC
+l_4MPd7x,A-League,AUS1,t_1mF1UZ,Macarthur FC,71085,Macarthur FC
+l_4MPd7x,A-League,AUS1,t_3ECj9v,Perth Glory,970,Perth Glory
+l_4MPd7x,A-League,AUS1,t_3hHFSY,Wellington Phoenix,8445,Wellington Phoenix
+l_4MPd7x,A-League,AUS1,t_3pYDFI,Melbourne Victory,7006,Melbourne Victory
+l_4MPd7x,A-League,AUS1,t_4EZ9gr,Auckland FC,118373,Auckland FC
+l_4MPd7x,A-League,AUS1,t_4PgxaI,Central Coast Mariners,6954,Central Coast Mariners
+l_2ApGa4,J. League,JAP1,t_0mCfSI,Shonan Bellmare,8457,Shonan Bellmare
+l_2ApGa4,J. League,JAP1,t_17gQhK,FC Tokyo,6631,Tokyo Football Club
+l_2ApGa4,J. League,JAP1,t_1kSmQT,Yokohama FC,943,Yokohama FC
+l_2ApGa4,J. League,JAP1,t_1pt1Bj,Gamba Osaka,596,Gamba Osaka
+l_2ApGa4,J. League,JAP1,t_2HK8gL,Tokyo Verdy,3734,Tokyo Verdy
+l_2ApGa4,J. League,JAP1,t_2SxYow,Urawa Red Diamonds,828,Urawa Red Diamonds
+l_2ApGa4,J. League,JAP1,t_2hE7e4,Albirex Niigata,8344,Albirex Niigata
+l_2ApGa4,J. League,JAP1,t_2u1BXQ,Avispa Fukuoka,9597,Avispa Fukuoka
+l_2ApGa4,J. League,JAP1,t_37dBko,Kawasaki Frontale,9598,Kawasaki Frontale
+l_2ApGa4,J. League,JAP1,t_3RSWKx,Kashima Antlers,2241,Kashima Antlers FC
+l_2ApGa4,J. League,JAP1,t_4Oonn6,Sanfrecce Hiroshima,2697,Sanfrecce Hiroshima
+l_2ApGa4,J. League,JAP1,t_4gLxod,Cerezo Osaka,1022,Cerezo Osaka
+l_2L6d1F,First Division A,BE1,t_0BmLrB,SK Beveren,28643,SK Beveren
+l_2L6d1F,First Division A,BE1,t_0E5vxj,Royal Antwerp,1096,Royal Antwerp FC
+l_2L6d1F,First Division A,BE1,t_0n3xxl,Zulte Waregem,3508,Zulte Waregem
+l_2L6d1F,First Division A,BE1,t_0xsWjs,Standard Liège,3057,Standard Liège
+l_2L6d1F,First Division A,BE1,t_1XQ7N5,FCV Dender EH,9010,FCV Dender EH
+l_2L6d1F,First Division A,BE1,t_1vesUg,RAAL La Louvière,3901,RAAL La Louvière
+l_2L6d1F,First Division A,BE1,t_3HWU9N,KV Mechelen,354,KV Mechelen
+l_2L6d1F,First Division A,BE1,t_4GqgXb,Cercle Brugge,520,Cercle Brugge
+l_2tFk9k,HNL,KR1,t_4MDUlL,HNK Gorica,24575,HNK Gorica
+l_214sqK,Ekstraklasa,PL1,t_0488Mu,Śląsk Wrocław,759,Slask Wroclaw
+l_214sqK,Ekstraklasa,PL1,t_0PcBZL,Lech Poznań,238,Lech Poznan
+l_214sqK,Ekstraklasa,PL1,t_0vT0AW,Raków Częstochowa,9644,Raków Częstochowa
+l_214sqK,Ekstraklasa,PL1,t_0yrnps,Pogoń Szczecin,324,Pogon Szczecin
+l_214sqK,Ekstraklasa,PL1,t_153En9,Lechia Gdańsk,4000,Lechia Gdansk
+l_214sqK,Ekstraklasa,PL1,t_184lFA,Piast Gliwice,6112,Piast Gliwice
+l_214sqK,Ekstraklasa,PL1,t_22Fh25,Legia Warszawa,255,Legia Warszawa
+l_214sqK,Ekstraklasa,PL1,t_2KeS2M,Cracovia,5689,Cracovia
+l_214sqK,Ekstraklasa,PL1,t_2hBlXK,Zagłębie Lubin,168,Zaglebie Lubin
+l_214sqK,Ekstraklasa,PL1,t_3X76P7,Górnik Zabrze,428,Górnik Zabrze
+l_214sqK,Ekstraklasa,PL1,t_3XLIIP,Radomiak Radom,7154,Radomiak Radom
+l_214sqK,Ekstraklasa,PL1,t_3dlqfL,Korona Kielce,6110,Korona Kielce
+l_214sqK,Ekstraklasa,PL1,t_406F4a,Widzew Łódź,88,Widzew Lodz
+l_214sqK,Ekstraklasa,PL1,t_4B94wa,Wisła Płock,2118,Wisla Plock
+l_214sqK,Ekstraklasa,PL1,t_4E67Fm,Jagiellonia Białystok,2300,Jagiellonia Bialystok
+l_0kSJLz,Liga I,RO1,t_0T7psQ,FCSB,301,FCSB
+l_0kSJLz,Liga I,RO1,t_0VlZPz,Oţelul Galați,4959,SC Otelul Galati
+l_0kSJLz,Liga I,RO1,t_11HeMJ,CFR Cluj,7769,CFR Cluj
+l_0kSJLz,Liga I,RO1,t_2AlLmq,Botoșani,8818,FC Botosani
+l_0kSJLz,Liga I,RO1,t_2SZyGH,Universitatea Craiova,40812,Universitatea Craiova
+l_0kSJLz,Liga I,RO1,t_307T8v,Universitatea Cluj,6429,FC Universitatea Cluj
+l_0kSJLz,Liga I,RO1,t_365rsF,Hermannstadt,58049,FC Hermannstadt
+l_0kSJLz,Liga I,RO1,t_3GrTFG,UTA Arad,952,UTA Arad
+l_3v84VE,Liga MX,MEX1,t_09cXNN,Necaxa,1146,Club Necaxa
+l_3v84VE,Liga MX,MEX1,t_0NY6cC,Atlético de San Luis,40188,Atlético de San Luis
+l_3v84VE,Liga MX,MEX1,t_0p2Sk7,FC Juárez,49283,FC Juárez
+l_3v84VE,Liga MX,MEX1,t_16UjNo,Puebla,5662,Puebla FC
+l_3v84VE,Liga MX,MEX1,t_1Qxyck,Querétaro FC,4961,Querétaro FC
+l_3v84VE,Liga MX,MEX1,t_1wrUAV,Monterrey,2407,CF Monterrey
+l_3v84VE,Liga MX,MEX1,t_37z0el,Pachuca,4035,CF Pachuca
+l_3v84VE,Liga MX,MEX1,t_3Aj84E,León,4941,Club León FC
+l_3v84VE,Liga MX,MEX1,t_3FfqhA,Santos Laguna,1403,Santos Laguna
+l_3v84VE,Liga MX,MEX1,t_3Wm9EG,Mazatlan FC,82696,Mazatlán FC
+l_3v84VE,Liga MX,MEX1,t_42FKLM,Tijuana,13353,Club Tijuana
+l_3v84VE,Liga MX,MEX1,t_4co6t5,CF América,3631,CF América
+l_45VZuL,Liga Profesional,ARG1,t_2Swqmw,Club Atlético Platense,928,Club Atlético Platense
+l_45VZuL,Liga Profesional,ARG1,t_45vTPl,Atlético Tucumán,14554,Club Atlético Tucumán
+l_1LMdEO,Premiership,SC1,t_0CVgUz,St. Johnstone,2578,St. Johnstone FC
+l_1LMdEO,Premiership,SC1,t_0DQtXp,St. Mirren,465,St. Mirren FC
+l_1LMdEO,Premiership,SC1,t_0TPUj3,Rangers,124,Rangers FC
+l_1LMdEO,Premiership,SC1,t_1MaGFI,Dundee United,1519,Dundee United FC
+l_1LMdEO,Premiership,SC1,t_1etTie,Aberdeen,370,Aberdeen FC
+l_1LMdEO,Premiership,SC1,t_2UPrdj,Heart of Midlothian,43,Heart of Midlothian FC
+l_1LMdEO,Premiership,SC1,t_2lf4Qe,Kilmarnock,2553,Kilmarnock FC
+l_1LMdEO,Premiership,SC1,t_2pkWY0,Hibernian,903,Hibernian FC
+l_1LMdEO,Premiership,SC1,t_2tSgyi,Dundee FC,511,Dundee FC
+l_1LMdEO,Premiership,SC1,t_2uXQev,Motherwell,987,Motherwell FC
+l_1LMdEO,Premiership,SC1,t_33JOEX,Falkirk,1191,Falkirk FC
+l_1LMdEO,Premiership,SC1,t_3k7Fcc,Celtic,371,Celtic FC
+l_1LMdEO,Premiership,SC1,t_4EkjWH,Livingston,1241,Livingston FC
+l_0eg6C9,MLS,MLS1,t_0DiXbX,Seattle Sounders FC,9636,Seattle Sounders FC
+l_0eg6C9,MLS,MLS1,t_0DpITA,Nashville SC,63966,Nashville SC
+l_0eg6C9,MLS,MLS1,t_0G2JlW,New England Revolution,626,New England Revolution
+l_0eg6C9,MLS,MLS1,t_0S1a2R,Minnesota United,56089,Minnesota United FC
+l_0eg6C9,MLS,MLS1,t_0T0wL5,FC Cincinnati,51772,Football Club Cincinnati
+l_0eg6C9,MLS,MLS1,t_0ptYTE,Portland Timbers,4291,Portland Timbers
+l_0eg6C9,MLS,MLS1,t_0uw6NW,Philadelphia Union,25467,Philadelphia Union
+l_0eg6C9,MLS,MLS1,t_1Rkw2U,FC Dallas,8816,FC Dallas
+l_0eg6C9,MLS,MLS1,t_1TFG85,Toronto FC,11141,Toronto FC
+l_0eg6C9,MLS,MLS1,t_1avIKi,Columbus Crew,813,Columbus Crew
+l_0eg6C9,MLS,MLS1,t_1ngZfb,San Jose Earthquakes,218,San Jose Earthquakes
+l_0eg6C9,MLS,MLS1,t_2CuHdk,Vancouver Whitecaps,6321,Vancouver Whitecaps FC
+l_0eg6C9,MLS,MLS1,t_2HLI7U,New York City FC,40058,New York City Football Club
+l_0eg6C9,MLS,MLS1,t_2L8yh8,Houston Dynamo FC,9168,Houston Dynamo
+l_0eg6C9,MLS,MLS1,t_2fvzmL,Austin FC,72309,Austin FC
+l_0eg6C9,MLS,MLS1,t_2o7nsk,Real Salt Lake,6643,Real Salt Lake
+l_0eg6C9,MLS,MLS1,t_32YjfW,Atlanta United,51663,Atlanta United Football Club
+l_0eg6C9,MLS,MLS1,t_3KnkWI,Colorado Rapids,1247,Colorado Rapids
+l_0eg6C9,MLS,MLS1,t_3NDbTT,Charlotte FC,78435,Charlotte Football Club
+l_0eg6C9,MLS,MLS1,t_3QNs7g,Sporting Kansas City,4284,Sporting Kansas City
+l_0eg6C9,MLS,MLS1,t_3qzA8c,San Diego FC,114977,San Diego Football Club
+l_0eg6C9,MLS,MLS1,t_49deIt,Red Bull New York,623,Red Bull New York
+l_0eg6C9,MLS,MLS1,t_4ac71F,Los Angeles FC,51828,Los Angeles Football Club
+l_1D8Xrl,Serie A,BRA1,t_2r3Nxv,Fluminense,2462,Fluminense Football Club
+l_2Mh0jT,Premier League,RU1,t_0sBFRq,Rubin Kazan,2698,FC Rubin Kazan
+l_2Mh0jT,Premier League,RU1,t_280mK2,Akron Togliatti,71985,Akron Togliatti
+l_2Mh0jT,Premier League,RU1,t_2Mlwuk,FC Orenburg,14589,FC Orenburg
+l_2xBPKk,Super Liga,SER1,t_1IJnn4,OFK Beograd,53,OFK Beograd
+l_0F4I4F,1. Liga,TS1,t_19pSyq,Sparta Prague,197,AC Sparta Prague
+l_0F4I4F,1. Liga,TS1,t_1EaAa4,Zlín,5545,FC Zlin
+l_0F4I4F,1. Liga,TS1,t_1G8RuA,Viktoria Plzeň,941,FC Viktoria Plzen
+l_0F4I4F,1. Liga,TS1,t_1heaIa,Slovan Liberec,697,FC Slovan Liberec
+l_0F4I4F,1. Liga,TS1,t_3syz3e,Hradec Králové,1897,FC Hradec Kralove
+l_0bfbkO,Champions League,CL,t_0BrMnM,Liverpool,31,Liverpool FC
+l_0bfbkO,Champions League,CL,t_0Gz1mu,Kairat Almaty,10482,Kairat Almaty
+l_0bfbkO,Champions League,CL,t_0UCNPX,Manchester City,281,Manchester City
+l_0bfbkO,Champions League,CL,t_0acTGj,Eintracht Frankfurt,24,Eintracht Frankfurt
+l_0bfbkO,Champions League,CL,t_0dVrhE,FC Porto,720,FC Porto
+l_0bfbkO,Champions League,CL,t_0iJNOA,VfB Stuttgart,79,VfB Stuttgart
+l_0bfbkO,Champions League,CL,t_0oqUbb,RB Leipzig,23826,RB Leipzig
+l_0bfbkO,Champions League,CL,t_15TWxO,Galatasaray,141,Galatasaray
+l_0bfbkO,Champions League,CL,t_1Bgyrl,Qarabag FK,10625,Qarabağ FK
+l_0bfbkO,Champions League,CL,t_1TAfIz,Sporting CP,336,Sporting CP
+l_0bfbkO,Champions League,CL,t_1gkhxH,Arsenal,11,Arsenal FC
+l_0bfbkO,Champions League,CL,t_1jOgDP,PSV Eindhoven,383,PSV Eindhoven
+l_0bfbkO,Champions League,CL,t_2I313i,Manchester United,985,Manchester United
+l_0bfbkO,Champions League,CL,t_2eQl9k,Newcastle United,762,Newcastle United
+l_0bfbkO,Champions League,CL,t_2yHOns,Slovan Bratislava,540,Slovan Bratislava
+l_0bfbkO,Champions League,CL,t_32jSEF,Barcelona,131,FC Barcelona
+l_0bfbkO,Champions League,CL,t_386iz1,Borussia Dortmund,16,Borussia Dortmund
+l_0bfbkO,Champions League,CL,t_3zsN4F,Pafos FC,45457,Pafos FC
+l_0bfbkO,Champions League,CL,t_41iFW3,Paris Saint-Germain,583,Paris Saint-Germain
+l_0bfbkO,Champions League,CL,t_4A7FfD,Tottenham Hotspur,148,Tottenham Hotspur
+l_0bfbkO,Champions League,CL,t_4NZcri,Real Madrid,418,Real Madrid
+l_0bfbkO,Champions League,CL,t_4R934X,Chelsea,631,Chelsea FC
+l_0bfbkO,Champions League,CL,t_4RqKpo,Aston Villa,405,Aston Villa
+l_0bfbkO,Champions League,CL,t_4SV4jg,Villarreal,1050,Villarreal CF
+l_0bfbkO,Champions League,CL,t_4Wrrym,Shakhtar Donetsk,660,FC Shakhtar Donetsk
+l_0bfbkO,Champions League,CL,t_4ZwKDn,Juventus,506,Juventus FC
+l_38d9HA,Europa League,EL,t_0PcBZL,Lech Poznań,238,Lech Poznan
+l_38d9HA,Europa League,EL,t_0T7psQ,FCSB,301,FCSB
+l_38d9HA,Europa League,EL,t_0TPUj3,Rangers,124,Rangers FC
+l_38d9HA,Europa League,EL,t_0YNrpr,Omonia Nicosia,829,Omonia Nicosia
+l_38d9HA,Europa League,EL,t_0b9L5I,FC Midtjylland,865,FC Midtjylland
+l_38d9HA,Europa League,EL,t_0dVrhE,FC Porto,720,FC Porto
+l_38d9HA,Europa League,EL,t_0iJNOA,VfB Stuttgart,79,VfB Stuttgart
+l_38d9HA,Europa League,EL,t_0maIeN,Go Ahead Eagles,1435,Go Ahead Eagles
+l_38d9HA,Europa League,EL,t_0msSwp,Nottingham Forest,703,Nottingham Forest
+l_38d9HA,Europa League,EL,t_0oYO4I,FC Utrecht,200,FC Utrecht
+l_38d9HA,Europa League,EL,t_19pSyq,Sparta Prague,197,AC Sparta Prague
+l_38d9HA,Europa League,EL,t_1DYf1D,Milan,5,AC Milan
+l_38d9HA,Europa League,EL,t_1G8RuA,Viktoria Plzeň,941,FC Viktoria Plzen
+l_38d9HA,Europa League,EL,t_1cDwJb,AZ Alkmaar,1090,AZ Alkmaar
+l_38d9HA,Europa League,EL,t_1hKtUw,Real Sociedad,681,Real Sociedad
+l_38d9HA,Europa League,EL,t_2kXart,Braga,1075,SC Braga
+l_38d9HA,Europa League,EL,t_2saIo8,Maccabi Tel Aviv,119,Maccabi Tel Aviv
+l_38d9HA,Europa League,EL,t_2wJJY2,Fenerbahçe,36,Fenerbahce
+l_38d9HA,Europa League,EL,t_35Zfsh,Ludogorets Razgrad,31614,Ludogorets Razgrad
+l_38d9HA,Europa League,EL,t_3A3W9Z,Hapoel Beer Sheva,2976,Hapoel Beer Sheva
+l_38d9HA,Europa League,EL,t_3k7Fcc,Celtic,371,Celtic FC
+l_38d9HA,Europa League,EL,t_40kQKX,Freiburg,60,SC Freiburg
+l_38d9HA,Europa League,EL,t_4RqKpo,Aston Villa,405,Aston Villa
+l_38d9HA,Europa League,EL,t_4ZwKDn,Juventus,506,Juventus FC
+l_2WZ2tt,Conference League,UCOL,t_03vYx2,Shamrock Rovers,3258,Shamrock Rovers
+l_2WZ2tt,Conference League,UCOL,t_0Gz1mu,Kairat Almaty,10482,Kairat Almaty
+l_2WZ2tt,Conference League,UCOL,t_0PcBZL,Lech Poznań,238,Lech Poznan
+l_2WZ2tt,Conference League,UCOL,t_0YNrpr,Omonia Nicosia,829,Omonia Nicosia
+l_2WZ2tt,Conference League,UCOL,t_0b9L5I,FC Midtjylland,865,FC Midtjylland
+l_2WZ2tt,Conference League,UCOL,t_0vT0AW,Raków Częstochowa,9644,Raków Częstochowa
+l_2WZ2tt,Conference League,UCOL,t_0xrE2R,Lincoln Red Imps FC,38204,Lincoln Red Imps FC
+l_2WZ2tt,Conference League,UCOL,t_17aOG3,Rayo Vallecano,367,Rayo Vallecano
+l_2WZ2tt,Conference League,UCOL,t_19pSyq,Sparta Prague,197,AC Sparta Prague
+l_2WZ2tt,Conference League,UCOL,t_1WO2w8,AEK Larnaca,2156,AEK Larnaca
+l_2WZ2tt,Conference League,UCOL,t_1akMDV,Lugano,2790,FC Lugano
+l_2WZ2tt,Conference League,UCOL,t_1cDwJb,AZ Alkmaar,1090,AZ Alkmaar
+l_2WZ2tt,Conference League,UCOL,t_1etTie,Aberdeen,370,Aberdeen FC
+l_2WZ2tt,Conference League,UCOL,t_22Fh25,Legia Warszawa,255,Legia Warszawa
+l_2WZ2tt,Conference League,UCOL,t_23f2zm,Hamrun Spartans,17149,Hamrun Spartans
+l_2WZ2tt,Conference League,UCOL,t_25skqc,CSKA Sofia,208,CSKA-Sofia
+l_2WZ2tt,Conference League,UCOL,t_2SZyGH,Universitatea Craiova,40812,Universitatea Craiova
+l_2WZ2tt,Conference League,UCOL,t_2ULmuf,NK Celje,710,NK Celje
+l_2WZ2tt,Conference League,UCOL,t_2UPrdj,Heart of Midlothian,43,Heart of Midlothian FC
+l_2WZ2tt,Conference League,UCOL,t_2YGh1d,Dynamo Kyiv,338,Dynamo Kyiv
+l_2WZ2tt,Conference League,UCOL,t_2aDqfi,Shelbourne,3909,Shelbourne FC
+l_2WZ2tt,Conference League,UCOL,t_2kXart,Braga,1075,SC Braga
+l_2WZ2tt,Conference League,UCOL,t_2yHOns,Slovan Bratislava,540,Slovan Bratislava
+l_2WZ2tt,Conference League,UCOL,t_30PMPP,Drita,33741,FC Drita
+l_2WZ2tt,Conference League,UCOL,t_3DwdkH,Trabzonspor,449,Trabzonspor
+l_2WZ2tt,Conference League,UCOL,t_3ecBqd,Samsunspor,152,Samsunspor
+l_2WZ2tt,Conference League,UCOL,t_3zsN4F,Pafos FC,45457,Pafos FC
+l_2WZ2tt,Conference League,UCOL,t_4E67Fm,Jagiellonia Białystok,2300,Jagiellonia Bialystok
+l_2WZ2tt,Conference League,UCOL,t_4L4qT5,Nordsjælland,2778,FC Nordsjaelland
+l_2WZ2tt,Conference League,UCOL,t_4Wrrym,Shakhtar Donetsk,660,FC Shakhtar Donetsk
+l_2WZ2tt,Conference League,UCOL,t_4bz4EP,Crystal Palace,873,Crystal Palace
+l_1XLtP0,World Cup,FIWC,t_0IuuRb,Mexico,6303,Mexico
+l_1XLtP0,World Cup,FIWC,t_0WmIZB,Argentina,3437,Argentina
+l_1XLtP0,World Cup,FIWC,t_0aeKt0,South Africa,3806,South Africa
+l_1XLtP0,World Cup,FIWC,t_0dGP0n,South Korea,3589,South Korea
+l_1XLtP0,World Cup,FIWC,t_0qpVVj,Uzbekistan,3563,Uzbekistan
+l_1XLtP0,World Cup,FIWC,t_0rmH6L,Cape Verde,4311,Cape Verde
+l_1XLtP0,World Cup,FIWC,t_11chjf,Egypt,3672,Egypt
+l_1XLtP0,World Cup,FIWC,t_12GeUa,Paraguay,3581,Paraguay
+l_1XLtP0,World Cup,FIWC,t_12qJWW,Saudi Arabia,3807,Saudi Arabia
+l_1XLtP0,World Cup,FIWC,t_1I9yHx,Japan,3435,Japan
+l_1XLtP0,World Cup,FIWC,t_1Lq3ya,Sweden,3557,Sweden
+l_1XLtP0,World Cup,FIWC,t_1amicm,Iraq,3560,Iraq
+l_1XLtP0,World Cup,FIWC,t_1iQdcY,Ghana,3441,Ghana
+l_1XLtP0,World Cup,FIWC,t_1sdYCl,Switzerland,3384,Switzerland
+l_1XLtP0,World Cup,FIWC,t_1vAmTx,Netherlands,3379,Netherlands
+l_1XLtP0,World Cup,FIWC,t_1xZ20V,Jordan,15737,Jordan
+l_1XLtP0,World Cup,FIWC,t_26dFyq,Croatia,3556,Croatia
+l_1XLtP0,World Cup,FIWC,t_2AB6Xn,Australia,3433,Australia
+l_1XLtP0,World Cup,FIWC,t_2O7du1,Panama,3577,Panama
+l_1XLtP0,World Cup,FIWC,t_2YDUOZ,Algeria,3614,Algeria
+l_1XLtP0,World Cup,FIWC,t_2enEEp,Senegal,3499,Senegal
+l_1XLtP0,World Cup,FIWC,t_2lbA3n,Austria,3383,Austria
+l_1XLtP0,World Cup,FIWC,t_2ysHaw,France,3377,France
+l_1XLtP0,World Cup,FIWC,t_3082pB,Colombia,3816,Colombia
+l_1XLtP0,World Cup,FIWC,t_34cYWK,New Zealand,9171,New Zealand
+l_1XLtP0,World Cup,FIWC,t_3ElO76,Ecuador,5750,Ecuador
+l_1XLtP0,World Cup,FIWC,t_3Hi55I,Iran,3582,Iran
+l_1XLtP0,World Cup,FIWC,t_3HmJMr,Haiti,14161,Haiti
+l_1XLtP0,World Cup,FIWC,t_3PHH2o,Brazil,3439,Brazil
+l_1XLtP0,World Cup,FIWC,t_3Rr7NK,Morocco,3575,Morocco
+l_1XLtP0,World Cup,FIWC,t_3ZJD1c,Uruguay,3449,Uruguay
+l_1XLtP0,World Cup,FIWC,t_3cJCtQ,Qatar,14162,Qatar
+l_1XLtP0,World Cup,FIWC,t_3f7BVa,Turkiye,3381,Turkiye
+l_1XLtP0,World Cup,FIWC,t_3m01i5,Scotland,3380,Scotland
+l_1XLtP0,World Cup,FIWC,t_3md7Ne,Tunisia,3670,Tunisia
+l_1XLtP0,World Cup,FIWC,t_46FWvW,England,3299,England
+l_1XLtP0,World Cup,FIWC,t_46TAEZ,Canada,3510,Canada
+l_1XLtP0,World Cup,FIWC,t_486gYN,Spain,3375,Spain
+l_1XLtP0,World Cup,FIWC,t_4BP0bM,Curacao,32364,Curaçao
+l_1XLtP0,World Cup,FIWC,t_4Jybsf,Germany,3262,Germany
+l_1XLtP0,World Cup,FIWC,t_4KGRnx,Norway,3440,Norway
+l_1XLtP0,World Cup,FIWC,t_4NoJRj,Ivory Coast,3591,Ivory Coast
+l_1XLtP0,World Cup,FIWC,t_4UU5r1,Portugal,3300,Portugal
+l_1XLtP0,World Cup,FIWC,t_4fEqYQ,Belgium,3382,Belgium
+l_0ALvwF,Serie A,IT1,t_03WIaG,Cremonese,2239,US Cremonese
+l_0ALvwF,Serie A,IT1,t_0KBH0z,Lazio,398,Società Sportiva Lazio S.p.A.
+l_0ALvwF,Serie A,IT1,t_0RhqmW,Roma,12,Associazione Sportiva Roma
+l_0ALvwF,Serie A,IT1,t_0oXTvZ,Como,1047,Como 1907
+l_0ALvwF,Serie A,IT1,t_0r0zEG,Atalanta,800,Atalanta BC
+l_0ALvwF,Serie A,IT1,t_20vMky,Sassuolo,6574,US Sassuolo
+l_0ALvwF,Serie A,IT1,t_24sV8w,Genoa,252,Genoa CFC
+l_0ALvwF,Serie A,IT1,t_2O0E6I,Bologna,1025,Bologna Football Club 1909
+l_0ALvwF,Serie A,IT1,t_2QjZae,Parma,130,Parma Calcio 1913
+l_0ALvwF,Serie A,IT1,t_2toJRF,Napoli,6195,SSC Napoli
+l_0ALvwF,Serie A,IT1,t_2ur07g,Udinese,410,Udinese Calcio
+l_0ALvwF,Serie A,IT1,t_35suku,Lecce,1005,US Lecce
+l_0ALvwF,Serie A,IT1,t_3CPHHF,Inter,46,Inter Milan
+l_0ALvwF,Serie A,IT1,t_3QzSiW,Fiorentina,430,ACF Fiorentina
+l_0ALvwF,Serie A,IT1,t_3V0mmv,Cagliari,1390,Cagliari Calcio
+l_0ALvwF,Serie A,IT1,t_4bV9e3,Pisa,4172,Pisa Sporting Club
+l_0ErfuF,LaLiga,ES1,t_06N2GA,Mallorca,237,RCD Mallorca
+l_0ErfuF,LaLiga,ES1,t_0HBI4G,Osasuna,331,CA Osasuna
+l_0ErfuF,LaLiga,ES1,t_0HSzvM,Real Betis,150,Real Betis Balompié
+l_0ErfuF,LaLiga,ES1,t_0NnBSa,Levante,3368,Levante UD
+l_0ErfuF,LaLiga,ES1,t_3NIiXl,Atlético Madrid,13,Atlético de Madrid
+l_0ErfuF,LaLiga,ES1,t_3WlXqr,Espanyol,714,RCD Espanyol Barcelona
+l_0ErfuF,LaLiga,ES1,t_3kZPrE,Athletic Club,621,Athletic Bilbao
+l_0ErfuF,LaLiga,ES1,t_4aQcO7,Celta Vigo,940,Celta de Vigo
+l_0F4I4F,1. Liga,TS1,t_10bdCj,Karviná,13726,MFK Karvina
+l_0F4I4F,1. Liga,TS1,t_11JbPq,Slovácko,5544,1.FC Slovacko
+l_0F4I4F,1. Liga,TS1,t_1OB46o,Teplice,814,FK Teplice
+l_0F4I4F,1. Liga,TS1,t_1f8Jae,Sigma Olomouc,2311,"SK Sigma Olomouc, a.s."
+l_0F4I4F,1. Liga,TS1,t_33z5hz,Jablonec,1322,FK Jablonec
+l_0F4I4F,1. Liga,TS1,t_39E1lf,Dukla Praha,450,FK Dukla Prague
+l_0F4I4F,1. Liga,TS1,t_3bqJOI,Bohemians 1905,715,"Bohemians Praha 1905, a.s."
+l_0F4I4F,1. Liga,TS1,t_41GCDg,Slavia Prague,62,SK Slavia Prague
+l_0F4I4F,1. Liga,TS1,t_46tRLy,Pardubice,1496,FK Pardubice
+l_0F4I4F,1. Liga,TS1,t_4T4c7t,Mladá Boleslav,5546,FK Mlada Boleslav
+l_0F4I4F,1. Liga,TS1,t_4cz6mV,Baník Ostrava,377,FC Baník Ostrava a.s.
+l_0Lpz1f,Saudi Pro League,SA1,t_11bUft,Al Ahli,18487,Al-Ahli Saudi Football Club
+l_0Lpz1f,Saudi Pro League,SA1,t_1nhtp3,Al Riyadh,31008,Al-Riyadh Saudi Club
+l_0Lpz1f,Saudi Pro League,SA1,t_1vUJwA,Al Najma,32328,Al-Najma Sport Club
+l_0Lpz1f,Saudi Pro League,SA1,t_2OHCH1,Al Akhdoud,71665,Al-Okhdood Club
+l_0Lpz1f,Saudi Pro League,SA1,t_2jwuK5,Neom SC,34911,Neom Sports Club
+l_0Lpz1f,Saudi Pro League,SA1,t_2r8ytM,Al Hilal,1114,Al-Hilal Saudi Football Club
+l_0Lpz1f,Saudi Pro League,SA1,t_398m23,Al Qadsiah,26069,Al-Qadsiah Saudi Football Club
+l_0Lpz1f,Saudi Pro League,SA1,t_3ME0TB,Al Khaleej,6070,Al-Khaleej Club (Saihat)
+l_0Lpz1f,Saudi Pro League,SA1,t_47e0om,Al Hazem,9131,Al-Hazem Sport Club
+l_0S1uaf,Super Lig,TR1,t_0QAIlC,Beşiktaş,114,Beşiktaş Jimnastik Kulübü
+l_0S1uaf,Super Lig,TR1,t_0Re9DV,Kasımpaşa,10484,Kasimpasa
+l_0S1uaf,Super Lig,TR1,t_0vXWmF,Başakşehir,6890,Basaksehir FK
+l_0S1uaf,Super Lig,TR1,t_1AQRlk,Gençlerbirliği,820,Gençlerbirliği Spor Kulübü
+l_0S1uaf,Super Lig,TR1,t_1BOam4,Rizespor,126,Caykur Rizespor
+l_0bfbkO,Champions League,CL,t_0Mzm1V,Benfica,294,SL Benfica
+l_0bfbkO,Champions League,CL,t_0SGPHB,Bodø/Glimt,501,Fotballklubben Bodø/Glimt
+l_0bfbkO,Champions League,CL,t_0r0zEG,Atalanta,800,Atalanta BC
+l_0bfbkO,Champions League,CL,t_13gLEF,Monaco,162,AS Monaco
+l_0bfbkO,Champions League,CL,t_1cpjqO,Bayern München,27,Bayern Munich
+l_0bfbkO,Champions League,CL,t_1mTmMO,Club Brugge,2282,Club Brugge KV
+l_0bfbkO,Champions League,CL,t_2lHR8t,Bayer Leverkusen,15,Bayer 04 Leverkusen
+l_0bfbkO,Champions League,CL,t_2s2eyG,Marseille,244,Olympique Marseille
+l_0bfbkO,Champions League,CL,t_2toJRF,Napoli,6195,SSC Napoli
+l_0bfbkO,Champions League,CL,t_3CPHHF,Inter,46,Inter Milan
+l_0bfbkO,Champions League,CL,t_3NIiXl,Atlético Madrid,13,Atlético de Madrid
+l_0bfbkO,Champions League,CL,t_3kZPrE,Athletic Club,621,Athletic Bilbao
+l_0bfbkO,Champions League,CL,t_3pK6v1,Union St.Gilloise,3948,Union Saint-Gilloise
+l_0bfbkO,Champions League,CL,t_3rpdJh,Olympiacos,683,Olympiakos Syndesmos Filathlon Peiraios
+l_0bfbkO,Champions League,CL,t_3t08JG,Ajax,610,Ajax Amsterdam
+l_0eg6C9,MLS,MLS1,t_09gmAn,Chicago Fire FC,432,Chicago Fire Soccer Club
+l_0eg6C9,MLS,MLS1,t_0vjCk0,CF Montréal,4078,Club de Foot Montréal
+l_0eg6C9,MLS,MLS1,t_1rgPN4,Inter Miami CF,69261,Club Internacional de Fútbol Miami
+l_0eg6C9,MLS,MLS1,t_2zauCD,LA Galaxy,1061,Los Angeles Galaxy
+l_0eg6C9,MLS,MLS1,t_3B5RBi,St. Louis City,82686,St. Louis City Soccer Club
+l_0eg6C9,MLS,MLS1,t_3BC5BT,DC United,2440,D.C. United
+l_0eg6C9,MLS,MLS1,t_3N3Xe0,Orlando City,45604,Orlando City Soccer Club
+l_0kSJLz,Liga I,RO1,t_1Kvoa4,Farul Constanţa,29831,FCV Farul Constanta
+l_0kSJLz,Liga I,RO1,t_1UKod6,Metaloglobus,37624,FC Metaloglobus Bucharest
+l_0kSJLz,Liga I,RO1,t_1d3str,Dinamo Bucureşti,312,FC Dinamo 1948
+l_0kSJLz,Liga I,RO1,t_1gO4GP,Argeș,41278,ACSC FC Arges
+l_0kSJLz,Liga I,RO1,t_1zLfCo,Rapid Bucureşti,455,FC Rapid 1923
+l_0kSJLz,Liga I,RO1,t_2EfdWl,Unirea Slobozia,29700,AFC Unirea 04 Slobozia
+l_0kSJLz,Liga I,RO1,t_2xzRUe,Petrolul 52,9465,Petrolul Ploiesti
+l_0kSJLz,Liga I,RO1,t_36ZG9o,Csikszereda,37255,FK Csikszereda Miercurea Ciuc
+l_0uqFK8,Eliteserien,NO1,t_06ESMm,Bryne,1057,Bryne FK
+l_0uqFK8,Eliteserien,NO1,t_0SGPHB,Bodø/Glimt,501,Fotballklubben Bodø/Glimt
+l_0uqFK8,Eliteserien,NO1,t_0jcQ4I,Sarpsborg 08,10217,Sarpsborg 08 Fotballforening
+l_0uqFK8,Eliteserien,NO1,t_0jjyWh,Viking,239,Viking Fotballklubb
+l_0uqFK8,Eliteserien,NO1,t_0rrHss,Sandefjord,6399,Sandefjord Fotball
+l_0uqFK8,Eliteserien,NO1,t_14EJ9t,Molde,687,Molde Fotballklubb
+l_0uqFK8,Eliteserien,NO1,t_18X5R3,Rosenborg,195,Rosenborg Ballklub
+l_0uqFK8,Eliteserien,NO1,t_1XFW8M,Brann,1100,Sportsklubben Brann
+l_0uqFK8,Eliteserien,NO1,t_1XQxdj,Vålerenga,76,Vålerengens Idrettsforening
+l_0uqFK8,Eliteserien,NO1,t_1wU4wq,Lillestrøm,353,Lillestrøm Sportsklubb
+l_0uqFK8,Eliteserien,NO1,t_2K3SfK,Tromsø,1293,Tromsø Idrettslag
+l_0uqFK8,Eliteserien,NO1,t_2YsR0z,Strømsgodset,2817,Strømsgodset IF
+l_0uqFK8,Eliteserien,NO1,t_3QvIoP,Aalesund,5619,Aalesunds Fotballklubb
+l_0uqFK8,Eliteserien,NO1,t_3c8V46,Kristiansund,21101,Kristiansund Ballklubb
+l_0uqFK8,Eliteserien,NO1,t_3r3rgc,KFUM,23184,KFUM-Kameratene Oslo
+l_0uqFK8,Eliteserien,NO1,t_4Fgeii,Start,267,Idrettsklubben Start
+l_0uqFK8,Eliteserien,NO1,t_4buU5Q,Fredrikstad,3837,Fredrikstad Fotballklubb
+l_1D8Xrl,Serie A,BRA1,t_0BNCm8,Corinthians,199,Sport Club Corinthians Paulista
+l_1D8Xrl,Serie A,BRA1,t_0h77bm,Remo,10997,Clube do Remo
+l_1D8Xrl,Serie A,BRA1,t_1E0X8D,Flamengo,614,Clube de Regatas do Flamengo
+l_1D8Xrl,Serie A,BRA1,t_1Mjs7r,Grêmio,210,Grêmio Foot-Ball Porto Alegrense
+l_1D8Xrl,Serie A,BRA1,t_1QWIMY,Vasco da Gama,978,Club de Regatas Vasco da Gama
+l_1D8Xrl,Serie A,BRA1,t_1RYE8n,Palmeiras,1023,Sociedade Esportiva Palmeiras
+l_1D8Xrl,Serie A,BRA1,t_1iVO3o,Botafogo,537,S. A. F. Botafogo
+l_1D8Xrl,Serie A,BRA1,t_1xkjGG,Coritiba,776,Coritiba Foot Ball Club
+l_1D8Xrl,Serie A,BRA1,t_20rgU2,Ceará,2029,Ceará Sporting Club
+l_1D8Xrl,Serie A,BRA1,t_22aCVC,RB Bragantino,8793,Red Bull Bragantino
+l_1D8Xrl,Serie A,BRA1,t_25lns2,São Paulo,585,São Paulo Futebol Clube
+l_1D8Xrl,Serie A,BRA1,t_27JMSm,Fortaleza,10870,Fortaleza Esporte Clube
+l_1D8Xrl,Serie A,BRA1,t_27VAuc,Chapecoense,17776,Associação Chapecoense de Futebol
+l_1D8Xrl,Serie A,BRA1,t_2PEbuH,Athletico Paranaense,679,Clube Atlético Paranaense
+l_1D8Xrl,Serie A,BRA1,t_2S65sJ,Santos,221,Santos Futebol Clube
+l_1D8Xrl,Serie A,BRA1,t_2YvfeX,Sport Recife,8718,Sport Club do Recife
+l_1D8Xrl,Serie A,BRA1,t_39HXUo,Mirassol,3876,Mirasol Futebol Clube
+l_1D8Xrl,Serie A,BRA1,t_3K8ET0,Atlético-MG,330,Clube Atlético Mineiro
+l_1D8Xrl,Serie A,BRA1,t_3aT5MF,Bahia,10010,Esporte Clube Bahia
+l_1D8Xrl,Serie A,BRA1,t_3fooXn,Internacional,6600,Sport Club Internacional
+l_1D8Xrl,Serie A,BRA1,t_3npCjp,Cruzeiro,609,Cruzeiro Esporte Clube
+l_1D8Xrl,Serie A,BRA1,t_4NUcOH,Juventude,10492,Esporte Clube Juventude
+l_1D8Xrl,Serie A,BRA1,t_4Rm6xj,Vitória,2125,Esporte Clube Vitória
+l_1Isor4,Bundesliga,L1,t_1VWvPZ,Union Berlin,89,1.FC Union Berlin
+l_1Isor4,Bundesliga,L1,t_1cpjqO,Bayern München,27,Bayern Munich
+l_1Isor4,Bundesliga,L1,t_2lHR8t,Bayer Leverkusen,15,Bayer 04 Leverkusen
+l_1Isor4,Bundesliga,L1,t_2lPgUL,Wolfsburg,82,VfL Wolfsburg
+l_1Isor4,Bundesliga,L1,t_2m5aqN,FC Heidenheim,2036,1. Fußballclub Heidenheim 1846
+l_1Isor4,Bundesliga,L1,t_2vkbPM,Werder Bremen,86,SV Werder Bremen
+l_1Isor4,Bundesliga,L1,t_3pp390,Mainz 05,39,1.FSV Mainz 05
+l_1Isor4,Bundesliga,L1,t_3xyER9,Hoffenheim,533,TSG 1899 Hoffenheim
+l_1XLtP0,World Cup,FIWC,t_0VTpHr,Bosnia and Herzegovina,3446,Bosnia-Herzegovina
+l_1XLtP0,World Cup,FIWC,t_2I6BNy,USA,3505,United States
+l_1XLtP0,World Cup,FIWC,t_2IxhHW,DR Congo,3854,Democratic Republic of the Congo
+l_1XsMdH,Allsvenskan,SE1,t_07zOhG,AIK,272,Allmänna Idrottsklubben
+l_1XsMdH,Allsvenskan,SE1,t_0BJtVe,Malmö FF,496,Malmö Fotbollförening
+l_1XsMdH,Allsvenskan,SE1,t_0GBav3,GAIS,7009,Göteborgs Atlet- och Idrottssällskap
+l_1XsMdH,Allsvenskan,SE1,t_0uPsiJ,Degerfors,3641,Degerfors IF
+l_1XsMdH,Allsvenskan,SE1,t_16Q0cn,Häcken,1109,BK Häcken
+l_1XsMdH,Allsvenskan,SE1,t_1A5Ku8,Elfsborg,1101,Idrottsföreningen Elfsborg
+l_1XsMdH,Allsvenskan,SE1,t_1sUBD0,IFK Göteborg,801,Idrottsföreningen Kamraterna Göteborg
+l_1XsMdH,Allsvenskan,SE1,t_22NLCn,Kalmar FF,3654,Kalmar Fotbollförening
+l_1XsMdH,Allsvenskan,SE1,t_2CZLlh,Västerås SK,5202,Västerås Sportklubb FK
+l_1XsMdH,Allsvenskan,SE1,t_2PcGIa,Örgryte,1118,Örgryte IS
+l_1XsMdH,Allsvenskan,SE1,t_2VKc0M,Sirius,7945,IK Sirius
+l_1XsMdH,Allsvenskan,SE1,t_3EsmDL,Djurgården,1044,Djurgårdens Idrottsförening
+l_1XsMdH,Allsvenskan,SE1,t_3qN7LN,Brommapojkarna,1092,Idrottsföreningen  Brommapojkarna
+l_1XsMdH,Allsvenskan,SE1,t_4E7vY4,Hammarby,1059,Hammarby IF
+l_1XsMdH,Allsvenskan,SE1,t_4WZCfY,Mjällby,2719,Mjällby Almänna Idrottsförening
+l_214sqK,Ekstraklasa,PL1,t_0lO1Ul,GKS Katowice,6456,GKS GieKSa Katowice Spółka Akcyjna
+l_214sqK,Ekstraklasa,PL1,t_3A21S1,Motor Lublin,3527,Motor Lublin Spółka Akcyjna
+l_214sqK,Ekstraklasa,PL1,t_3qW64u,Termalica Nieciecza,15906,Termalica Bruk-Bet Nieciecza Klub Sportowy
+l_214sqK,Ekstraklasa,PL1,t_4QT3ma,Arka Gdynia,6107,Morski Związkowy Klub Sportowy Arka Gdynia Spółka Akcyjna
+l_2ApGa4,J. League,JAP1,t_0LfLJ4,Vissel Kobe,3958,Rakuten Vissel Kobe
+l_2ApGa4,J. League,JAP1,t_1E6Pbm,Shimizu S-Pulse,1062,S-Pulse
+l_2ApGa4,J. League,JAP1,t_1mrdfo,Nagoya Grampus,1066,Nagoya Grampus Eight
+l_2ApGa4,J. League,JAP1,t_2fx2NT,Fagiano Okayama FC,22171,Fagiano Okayama Sports Club
+l_2ApGa4,J. League,JAP1,t_3lBlnh,Kyoto Sanga FC,593,Kyoto Purple Sanga
+l_2EKrnc,K League 1,RSK1,t_04Kt4F,Ulsan HD FC,3535,Ulsan Hyundai Football Club
+l_2EKrnc,K League 1,RSK1,t_46FQj1,Daejeon Hana Citizen,6499,Foundation Coorperation Hana Financial Group Inc. Football Club
+l_2L6d1F,First Division A,BE1,t_0wF6Y2,Westerlo,968,KVC Westerlo
+l_2L6d1F,First Division A,BE1,t_11R95l,St.Truiden,475,Sint-Truidense VV
+l_2L6d1F,First Division A,BE1,t_1mTmMO,Club Brugge,2282,Club Brugge KV
+l_2L6d1F,First Division A,BE1,t_2J5yFC,Anderlecht,58,RSC Anderlecht
+l_2L6d1F,First Division A,BE1,t_3CeUfH,Gent,157,KAA Gent
+l_2L6d1F,First Division A,BE1,t_3UiOcj,Sporting Charleroi,172,Royal Charleroi Sporting Club
+l_2L6d1F,First Division A,BE1,t_3o2Gex,Genk,1184,KRC Genk
+l_2L6d1F,First Division A,BE1,t_3pK6v1,Union St.Gilloise,3948,Union Saint-Gilloise
+l_2L6d1F,First Division A,BE1,t_3rAYPk,OH Leuven,2727,Oud-Heverlee Leuven
+l_2Mh0jT,Premier League,RU1,t_06Cqku,Krylya Sovetov Samara,2696,PFK Krylya Sovetov Samara
+l_2Mh0jT,Premier League,RU1,t_0FIbMb,FC Rostov,1083,FK Rostov
+l_2Mh0jT,Premier League,RU1,t_0gA6Aq,Baltika,2741,FK Baltika
+l_2Mh0jT,Premier League,RU1,t_0y6Z8F,Zenit St. Petersburg,964,AO FK Zenit Sankt-Peterburg
+l_2Mh0jT,Premier League,RU1,t_1DhcK0,PFC Sochi,41231,FK Sochi
+l_2Mh0jT,Premier League,RU1,t_1LtiUA,CSKA Moscow,2410,PFK CSKA Moskva
+l_2Mh0jT,Premier League,RU1,t_28ZWDL,Dynamo Moscow,121,FK Dinamo Moskva
+l_2Mh0jT,Premier League,RU1,t_2CaEha,Spartak Moscow,232,FK Spartak Moskva
+l_2Mh0jT,Premier League,RU1,t_2Z4NtQ,Nizhny Novgorod,49702,FK Nizhny Novgorod
+l_2Mh0jT,Premier League,RU1,t_2gyKuh,FC Krasnodar,16704,FK Krasnodar
+l_2Mh0jT,Premier League,RU1,t_39i1br,FK Akhmat,3725,RFK Akhmat Grozny
+l_2Mh0jT,Premier League,RU1,t_3IHGdc,Dynamo Makhachkala,75231,Dinamo Makhachkala
+l_2Mh0jT,Premier League,RU1,t_3qYRtS,Lokomotiv Moscow,932,"Футбольный клуб ""Локомотив"" Москва"
+l_2WZ2tt,Conference League,UCOL,t_0LLBxI,FC Noah,60368,FC Noah Yerevan
+l_2WZ2tt,Conference League,UCOL,t_16Q0cn,Häcken,1109,BK Häcken
+l_2WZ2tt,Conference League,UCOL,t_1f8Jae,Sigma Olomouc,2311,"SK Sigma Olomouc, a.s."
+l_2WZ2tt,Conference League,UCOL,t_1p1AQf,Strasbourg,667,RC Strasbourg Alsace
+l_2WZ2tt,Conference League,UCOL,t_2RYv68,Rijeka,144,HNK Rijeka
+l_2WZ2tt,Conference League,UCOL,t_2jeqmO,AEK Athens,2441,Athlitiki Enosi Konstantinoupoleos
+l_2WZ2tt,Conference League,UCOL,t_2tidjE,Lausanne,527,Football Club Lausanne-Sport
+l_2WZ2tt,Conference League,UCOL,t_3QzSiW,Fiorentina,430,ACF Fiorentina
+l_2WZ2tt,Conference League,UCOL,t_3pp390,Mainz 05,39,1.FSV Mainz 05
+l_2tFk9k,HNL,KR1,t_0rciKT,Vukovar,456,HNK Vukovar 1991
+l_2tFk9k,HNL,KR1,t_0tQnN0,Osijek,327,NK Osijek
+l_2tFk9k,HNL,KR1,t_1XmH0P,Hajduk Split,447,HNK Hajduk Split
+l_2tFk9k,HNL,KR1,t_1n1mzJ,Dinamo Zagreb,419,GNK Dinamo Zagreb
+l_2tFk9k,HNL,KR1,t_2PWt2N,Slaven Koprivnica,2362,Slaven Belupo Koprivnica
+l_2tFk9k,HNL,KR1,t_2RYv68,Rijeka,144,HNK Rijeka
+l_2tFk9k,HNL,KR1,t_2W2Fsd,Istra 1961,999,NK Istra 1961
+l_2tFk9k,HNL,KR1,t_2dYbzd,Varaždin,599,NK Varazdin
+l_2tFk9k,HNL,KR1,t_3jcZgw,Lokomotiva Zagreb,11194,NK Lokomotiva Zagreb
+l_2xBPKk,Super Liga,SER1,t_1YGq6m,Javor,8819,FK Javor-Matis Ivanjica
+l_2xBPKk,Super Liga,SER1,t_25ex0s,Partizan Beograd,669,FK Partizan Belgrade
+l_2xBPKk,Super Liga,SER1,t_2gwv05,Železničar Pančevo,59358,FK Zeleznicar Pancevo
+l_2xBPKk,Super Liga,SER1,t_2rCgAm,Radnički Niš,7567,FK Radnicki Nis
+l_2xBPKk,Super Liga,SER1,t_39pqEa,Radnički 1923,4645,FK Radnicki 1923 Kragujevac
+l_2xBPKk,Super Liga,SER1,t_3cFDTA,TSC Bačka Topola,3137,FK TSC Backa Topola
+l_2xBPKk,Super Liga,SER1,t_3in1S9,Čukarički,6621,FK Cukaricki
+l_2xBPKk,Super Liga,SER1,t_3x2u7P,Radnik Surdulica,33328,FK Radnik Surdulica
+l_2xBPKk,Super Liga,SER1,t_42j5I4,IMT,32113,FK IMT Belgrad
+l_2xBPKk,Super Liga,SER1,t_47DAlu,Novi Pazar,4633,FK Novi Pazar
+l_2xBPKk,Super Liga,SER1,t_49UIKT,Mladost Lučani,6622,FK Mladost Lucani
+l_2xBPKk,Super Liga,SER1,t_4JIp6m,Vojvodina,448,FK Vojvodina Novi Sad
+l_2xBPKk,Super Liga,SER1,t_4Kwcr6,Napredak,788,FK Napredak Krusevac
+l_2xBPKk,Super Liga,SER1,t_4StiA5,Spartak Subotica,15276,FK Spartak Subotica
+l_2xBPKk,Super Liga,SER1,t_4W9DaV,FK Crvena Zvezda,159,Red Star Belgrade
+l_38d9HA,Europa League,EL,t_0Ep5Xd,Ferencváros,279,Ferencvárosi TC
+l_38d9HA,Europa League,EL,t_0HSzvM,Real Betis,150,Real Betis Balompié
+l_38d9HA,Europa League,EL,t_0QUJ2Y,Nice,417,OGC Nice
+l_38d9HA,Europa League,EL,t_0RhqmW,Roma,12,Associazione Sportiva Roma
+l_38d9HA,Europa League,EL,t_0nmcie,Basel,26,FC Basel 1893
+l_38d9HA,Europa League,EL,t_0qB4tc,Sturm Graz,122,Sportklub Puntigamer Sturm Graz
+l_38d9HA,Europa League,EL,t_0tnX1I,Lille,1082,LOSC Lille
+l_38d9HA,Europa League,EL,t_0xMlRV,Lyon,1041,Olympique Lyon
+l_38d9HA,Europa League,EL,t_1XFW8M,Brann,1100,Sportsklubben Brann
+l_38d9HA,Europa League,EL,t_1n1mzJ,Dinamo Zagreb,419,GNK Dinamo Zagreb
+l_38d9HA,Europa League,EL,t_2LBMDR,PAOK Thessaloniki,1091,Panthessalonikios Athlitikos Omilos Konstantinoupoliton
+l_38d9HA,Europa League,EL,t_2Mf10x,Salzburg,409,Fußballclub Red Bull Salzburg
+l_38d9HA,Europa League,EL,t_2O0E6I,Bologna,1025,Bologna Football Club 1909
+l_38d9HA,Europa League,EL,t_3ImeRW,Panathinaikos,265,Panathinaikos Athlitikos Omilos
+l_38d9HA,Europa League,EL,t_3o2Gex,Genk,1184,KRC Genk
+l_38d9HA,Europa League,EL,t_4BMKXx,Young Boys,452,BSC Young Boys
+l_38d9HA,Europa League,EL,t_4KvHFN,Feyenoord,234,Feyenoord Rotterdam
+l_38d9HA,Europa League,EL,t_4W9DaV,FK Crvena Zvezda,159,Red Star Belgrade
+l_38d9HA,Europa League,EL,t_4aQcO7,Celta Vigo,940,Celta de Vigo
+l_3FJFUl,Ligue 1,FR1,t_0EMLtg,Brest,3911,Stade Brestois 29
+l_3FJFUl,Ligue 1,FR1,t_0QUJ2Y,Nice,417,OGC Nice
+l_3FJFUl,Ligue 1,FR1,t_0ZkdUF,Angers,1420,Angers SCO
+l_3FJFUl,Ligue 1,FR1,t_0tnX1I,Lille,1082,LOSC Lille
+l_3FJFUl,Ligue 1,FR1,t_0xMlRV,Lyon,1041,Olympique Lyon
+l_3FJFUl,Ligue 1,FR1,t_13gLEF,Monaco,162,AS Monaco
+l_3FJFUl,Ligue 1,FR1,t_1p1AQf,Strasbourg,667,RC Strasbourg Alsace
+l_3FJFUl,Ligue 1,FR1,t_2Vc7mg,Auxerre,290,AJ Auxerre
+l_3FJFUl,Ligue 1,FR1,t_2s2eyG,Marseille,244,Olympique Marseille
+l_3FJFUl,Ligue 1,FR1,t_38NVJO,Lens,826,RC Lens
+l_3FJFUl,Ligue 1,FR1,t_3Ng6PH,Rennes,273,Stade Rennais FC
+l_3v84VE,Liga MX,MEX1,t_06pffY,Atlas,8590,Atlas Guadalajara
+l_3v84VE,Liga MX,MEX1,t_08l6Cu,Pumas,7633,UNAM Pumas
+l_3xwVF2,Super League 1,GR1,t_0G7jPq,OFI Crete,653,Omilos Filathlon Irakliou FC
+l_3xwVF2,Super League 1,GR1,t_0rCy1r,Panetolikos,6418,Panetolikos Agrinio
+l_3xwVF2,Super League 1,GR1,t_1uUsje,Kifisia FC,30120,Athlitiki Enosi Kifisias
+l_3xwVF2,Super League 1,GR1,t_27hFVh,Atromitos,3060,APS Atromitos Athinon
+l_3xwVF2,Super League 1,GR1,t_2DRkpy,Asteras Tripolis,6676,A.G.S Asteras Tripolis
+l_3xwVF2,Super League 1,GR1,t_2LBMDR,PAOK Thessaloniki,1091,Panthessalonikios Athlitikos Omilos Konstantinoupoliton
+l_3xwVF2,Super League 1,GR1,t_2brRQM,Panserraikos FC,3385,Panserraikos Serres
+l_3xwVF2,Super League 1,GR1,t_2jeqmO,AEK Athens,2441,Athlitiki Enosi Konstantinoupoleos
+l_3xwVF2,Super League 1,GR1,t_3AH224,NFC Volos,60949,Volou Neos Podosferikos Syllogos
+l_3xwVF2,Super League 1,GR1,t_3ImeRW,Panathinaikos,265,Panathinaikos Athlitikos Omilos
+l_3xwVF2,Super League 1,GR1,t_3ezqyM,Levadiakos,2672,APO Levadiakos Football Club
+l_3xwVF2,Super League 1,GR1,t_3rpdJh,Olympiacos,683,Olympiakos Syndesmos Filathlon Peiraios
+l_3xwVF2,Super League 1,GR1,t_3uzoWx,AE Larissa,4603,Athlitiki Enosi Larisas
+l_3xwVF2,Super League 1,GR1,t_48GNlO,Aris Thessaloniki,605,Aris Thessalonikis
+l_3zsMpo,Bundesliga,A1,t_0BUzDV,Grazer AK,316,Grazer AK 1902
+l_3zsMpo,Bundesliga,A1,t_0qB4tc,Sturm Graz,122,Sportklub Puntigamer Sturm Graz
+l_3zsMpo,Bundesliga,A1,t_1AVPg7,Austria Wien,14,Austria Vienna
+l_3zsMpo,Bundesliga,A1,t_2Mf10x,Salzburg,409,Fußballclub Red Bull Salzburg
+l_3zsMpo,Bundesliga,A1,t_34FD4Z,Ried,266,SV Ried
+l_3zsMpo,Bundesliga,A1,t_3A58ap,Rapid Wien,170,Rapid Vienna
+l_3zsMpo,Bundesliga,A1,t_3GNEpw,Altach,3551,Sportclub Rheindorf Altach
+l_3zsMpo,Bundesliga,A1,t_3I73GL,BW Linz,2157,FC Blau-Weiss Linz
+l_3zsMpo,Bundesliga,A1,t_3qXYYf,Hartberg,4467,TSV Hartberg
+l_45VZuL,Liga Profesional,ARG1,t_02LuKO,Talleres,3938,Club Atlético Talleres
+l_45VZuL,Liga Profesional,ARG1,t_0SmVI4,Independiente Rivadavia,12179,Club Sportivo Independiente Rivadavia
+l_45VZuL,Liga Profesional,ARG1,t_0bW0AU,Banfield,830,Club Atlético Banfield
+l_45VZuL,Liga Profesional,ARG1,t_0oa5Fc,Unión,7097,Club Atlético Unión
+l_45VZuL,Liga Profesional,ARG1,t_0otcXZ,Boca Juniors,189,Club Atlético Boca Juniors
+l_45VZuL,Liga Profesional,ARG1,t_0rGDE4,Gimnasia LP,1106,Club de Gimnasia y Esgrima La Plata
+l_45VZuL,Liga Profesional,ARG1,t_0rsFNq,Lanús,333,Club Atlético Lanús
+l_45VZuL,Liga Profesional,ARG1,t_1DVMAZ,Defensa y Justicia,2402,Club Social y Deportivo Defensa y Justicia
+l_45VZuL,Liga Profesional,ARG1,t_1HsET8,Estudiantes,288,Club Estudiantes de La Plata
+l_45VZuL,Liga Profesional,ARG1,t_1XZg6T,Independiente,1234,Club Atlético Independiente de Avellaneda
+l_45VZuL,Liga Profesional,ARG1,t_1g5yTJ,Gimnasia Mendoza,14687,Club Atlético Gimnasia y Esgrima de Mendoza
+l_45VZuL,Liga Profesional,ARG1,t_1rEb7t,Rosario Central,1418,Club Atlético Rosario Central
+l_45VZuL,Liga Profesional,ARG1,t_2Ba0sx,Belgrano,2417,Club Atlético Belgrano
+l_45VZuL,Liga Profesional,ARG1,t_2M7cot,Central Córdoba de Santiago,31284,Club Atlético Central Córdoba
+l_45VZuL,Liga Profesional,ARG1,t_2eRs85,Vélez Sarsfield,1029,Club Atlético Vélez Sársfield
+l_45VZuL,Liga Profesional,ARG1,t_2qXAzu,Huracán,2063,Club Atlético Huracán
+l_45VZuL,Liga Profesional,ARG1,t_2rXlDo,Instituto,1829,Instituto Atlético Central Córdoba
+l_45VZuL,Liga Profesional,ARG1,t_3XuEvf,Argentinos Juniors,1030,Asociación Atlética Argentinos Juniors
+l_45VZuL,Liga Profesional,ARG1,t_3mLGSt,Newell's Old Boys,1286,Club Atlético Newell’s Old Boys
+l_45VZuL,Liga Profesional,ARG1,t_3qkV0m,Sarmiento,12454,Club Atlético Sarmiento
+l_49Zmno,Superligaen,DK1,t_0CWBdu,OB,173,Odense Boldklub
+l_49Zmno,Superligaen,DK1,t_0rrO78,AGF,678,Aarhus GF
+l_49Zmno,Superligaen,DK1,t_3W62M7,Sønderjyske,5817,Sönderjyske Fodbold
+l_49Zmno,Superligaen,DK1,t_3rFzZU,Silkeborg,1177,Silkeborg IF
+l_49Zmno,Superligaen,DK1,t_4eCFHQ,FC København,190,FC Copenhagen
+l_49Zmno,Superligaen,DK1,t_4eVDVk,Viborg,1063,Viborg FF
+l_4H43wr,Eredivisie,NL1,t_0Q0ym3,FC Twente,317,FC Twente Enschede
+l_4H43wr,Eredivisie,NL1,t_0YKcf0,Excelsior,798,Excelsior Rotterdam
+l_4H43wr,Eredivisie,NL1,t_1L1Qfc,Heracles,1304,Heracles Almelo
+l_4H43wr,Eredivisie,NL1,t_3t08JG,Ajax,610,Ajax Amsterdam
+l_4H43wr,Eredivisie,NL1,t_4CovDc,Fortuna Sittard,385,Fortuna Sittardia Combinatie
+l_4H43wr,Eredivisie,NL1,t_4KvHFN,Feyenoord,234,Feyenoord Rotterdam
+l_4MPd7x,A-League,AUS1,t_4Y0MzA,Newcastle Jets,5551,Newcastle United Jets
+l_4QexZg,Liga Portugal,PO1,t_0Mzm1V,Benfica,294,SL Benfica
+l_4QexZg,Liga Portugal,PO1,t_0V3djZ,Estoril,1465,GD Estoril Praia
+l_4QexZg,Liga Portugal,PO1,t_1gBcAQ,Tondela,7179,CD Tondela
+l_4QexZg,Liga Portugal,PO1,t_2JgxI7,Nacional,982,CD Nacional
+l_4QexZg,Liga Portugal,PO1,t_2S7UQI,Vitória de Guimarães,2420,Vitória Guimarães SC
+l_4QexZg,Liga Portugal,PO1,t_2TePe3,Santa Clara,2423,CD Santa Clara
+l_4QexZg,Liga Portugal,PO1,t_3dYtb5,AVS Futebol SAD,110302,Avs Futebol
+l_4QexZg,Liga Portugal,PO1,t_4JHbKY,Estrela da Amadora,2431,CF Estrela Amadora
+l_4d6Bwl,Super League,C1,t_0mQK0a,St. Gallen,257,FC St. Gallen 1879
+l_4d6Bwl,Super League,C1,t_0nmcie,Basel,26,FC Basel 1893
+l_4d6Bwl,Super League,C1,t_2tidjE,Lausanne,527,Football Club Lausanne-Sport
+l_4d6Bwl,Super League,C1,t_4BMKXx,Young Boys,452,BSC Young Boys
+l_4d6Bwl,Super League,C1,t_4O5rx2,Grasshopper,504,Grasshopper Club Zurich

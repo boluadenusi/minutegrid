@@ -1,0 +1,673 @@
+competition_id,team,pitch_player_id,player_name,goals
+C1,Basel,p_3MapE4,Žan Celar,8
+BE1,Westerlo,p_2LxvGF,Norman Bassette,8
+IT1,Frosinone,p_0X7FV3,Antonio Raimondo,8
+RSK1,FC Seoul,p_1cttLG,Seung-Won Jung,7
+RO1,Farul Constanţa,p_3vp1cQ,Mattéo Ahlinvi,7
+RO1,CFR Cluj,p_1Ons3k,Stefan Dražić,7
+DK1,Lyngby,p_1UtDgt,Simon Colyn,6
+PL1,Wisła Kraków,p_1KSkqf,Jordi Sánchez,6
+SC1,St. Johnstone,p_41q235,Josh Fowler,6
+C1,FC Vaduz,p_3BozVu,Marcel Monsberger,6
+KR1,Osijek,p_08Wrkv,Armando León,6
+SA1,Al Kholood,p_1PDGRk,Julien Domingues,6
+TR1,Amed Sportif,p_1Bcc7o,Dia Saba,6
+ARG1,Lanús,p_0nbgqX,Allan Wlk,6
+RO1,Voluntari,p_2K4qY5,Remus Gabriel Guțea,6
+MEX1,León,p_0ie0sT,José Alvarado,6
+FR1,Auxerre,p_1me0Tq,Cameron Archer,6
+MEX1,CF América,p_1vhEfu,Miguel Borja,6
+MLS1,Colorado Rapids,p_3r3iqx,Morgan Whittaker,6
+RO1,Dinamo Bucureşti,p_39guC9,Martín Pascual,5
+PL1,Śląsk Wrocław,p_1xmZ8o,Przemysław Banaszak,5
+C1,FC Vaduz,p_3sicuJ,Juan Cabrera,5
+BE1,SK Beveren,p_2dKyR0,Chris Lokesa,5
+SA1,Al-Faisaly,p_4ZrEwR,Alexandre Mendy,5
+FR1,Le Mans,p_0wfhzt,Louis Mafouta,5
+IT1,Milan,p_1Dxzry,Alphadjo Cissè,5
+NL1,Cambuur,p_1PYpkc,Ilyès Hamache,5
+NL1,Cambuur,p_39ln9u,Nicolas Binder,5
+MEX1,Toluca,p_2IeFeE,Paulinho,5
+ES1,Málaga,p_1H3xuS,Adrián Niño,5
+IT1,Frosinone,p_0j0IkP,Giacomo Calò,5
+NO1,Molde,p_4DlOWX,Sander Hestetun Kilen,5
+SER1,Železničar Pančevo,p_48C26q,David Ankeye,5
+JAP1,FC Tokyo,p_2fwN5S,Dani Gómez,5
+RO1,Petrolul 52,p_1Pu7W4,Rodrigo Martins,4
+PL1,Jagiellonia Białystok,p_4UunzZ,Nik Prelec,4
+PL1,Wisła Kraków,p_3ycyBu,Marko Božić,4
+PL1,Wieczysta Kraków,p_4Nf1WG,Lucas Piazón,4
+PL1,Legia Warszawa,p_2mjLKt,Łukasz Zjawiński,4
+A1,Wolfsberger AC,p_357ZIF,Giacomo Vrioni,4
+DK1,AC Horsens,p_3kMpzo,Kelvin Ehibhatiomhan,4
+PL1,Wisła Kraków,p_4U5d5R,Ángel Rodado,4
+DK1,Randers FC,p_2FyZ2e,Mohamed Sankoh,4
+C1,Basel,p_3hALz5,Asane Sow,4
+A1,Ried,p_3eCp3f,Stefan Schwab,4
+SER1,Mladost Lučani,p_326XxV,Vasil Tašovski,4
+PL1,Wieczysta Kraków,p_1Jorkr,Lisandro Semedo,4
+BE1,Zulte Waregem,p_1zcpb4,István Átrok,4
+PO1,Académico Viseu,p_3DL4jr,André Clovis,4
+MEX1,Toluca,p_44gX8Y,Helinho,4
+BE1,Royal Antwerp,p_3Y15YM,Snayder Porozo,4
+GR1,OFI Crete,p_1pBTm2,Kenan Kodro,4
+NL1,ADO Den Haag,p_0DMwLJ,Nigel Thomas,4
+L1,Elversberg,p_2vNWEa,Maurice Krattenmacher,4
+SC1,Dundee FC,p_3SLxP1,Bradley Fink,4
+FR1,Le Havre,p_14MaKI,Josh Maja,4
+ARG1,Tigre,p_0Dmkk5,Jerónimo Dómina,4
+TS1,Artis Brno,p_3aHmjL,Quadri Adebayo Adediran,3
+TS1,Sparta Prague,p_3r80MJ,Andy Irving,3
+DK1,Lyngby,p_0PyX4z,Frederik Gytkjær,3
+PL1,Raków Częstochowa,p_48be4G,Mahir Emreli,3
+NL1,Excelsior,p_3OuOEZ,David Garden,3
+NL1,Willem II,p_1NISZY,Devin Haen,3
+PL1,Górnik Zabrze,p_3B0dt0,Peter González,3
+BE1,Gent,p_1CMYRC,Josué Vergara,3
+SC1,Hibernian,p_34F29h,Callum Wright,3
+SC1,Heart of Midlothian,p_3z8fPH,Joshua McPake,3
+NL1,Telstar,p_4BtNlQ,Abdelnor Soualhia,3
+RO1,Petrolul 52,p_22cZTb,Breston Malula,3
+SA1,Al-Faisaly,p_33mLmn,Théo Bongonda,3
+PL1,Widzew Łódź,p_0R5s3M,Steve Kapuadi,3
+MLS1,Atlanta United,p_19FNRQ,Fabrice Picault,3
+PO1,Alverca,p_2wdfGN,Vivaldo Semedo,3
+RU1,Rodina,p_3ETA2X,Artem Maksimenko,3
+DK1,Lyngby,p_2D8gOq,Gustav Fraulo,3
+SE1,AIK,p_3SXVuB,Linus Carlstrand,3
+PO1,Académico Viseu,p_4VoUD1,Soufiane Messeguem,3
+DK1,Lyngby,p_34a0fG,Ísak Thorvaldsson,3
+C1,FC Vaduz,p_10JBdx,Milos Cocic,3
+BE1,Lommel,p_1u52b4,Tom Reyners,3
+TS1,Zbrojovka Brno,p_1AzlZH,Antonín Vanícek,3
+TR1,Erzurumspor FK,p_00D0Sm,Eren Tozlu,3
+ARG1,Estudiantes de Río Cuarto,p_3x7FNy,Ibrahim Hesar,3
+MEX1,Atlante,p_1aAcgT,Martín Sarrafiore,3
+SER1,FK Crvena Zvezda,p_0s1vHH,Mohammad Abu Fani,3
+MEX1,Atlético de San Luis,p_2DRvER,Rafa Llorente,3
+SC1,Motherwell,p_0sEK7D,Alex Lowry,3
+SC1,Heart of Midlothian,p_3v52FE,Laurent Mendy,3
+FR1,Le Mans,p_4W7ERW,Adil Bourabaa,3
+IT1,Parma,p_4agsLY,Simone Lontani,3
+PO1,Académico Viseu,p_2KFi8S,João Guilherme,3
+BE1,Anderlecht,p_2DoT3f,Tawfik Bentayeb,3
+PO1,Alverca,p_10WUPw,Dawda Camara,3
+GR1,Iraklis,p_1o6748,Pedro Marques,3
+GB1,Hull City,p_0AJ3rl,Mohamed Belloumi,3
+PL1,Śląsk Wrocław,p_0KK5X7,Malaly Dembélé,3
+TS1,Artis Brno,p_3XHAG1,El Hadji Latyr Ndiaye,3
+PL1,Pogoń Szczecin,p_1KSkqf,Jordi Sánchez,3
+ARG1,Lanús,p_0Hiw2z,Gonzalo Lobos,3
+MEX1,Atlas,p_4RwCvZ,Ryan Mmaee,3
+ARG1,Boca Juniors,p_4fRzo0,Leonel Flores,3
+PO1,Gil Vicente,p_0rZDk0,Walace França,3
+GB1,Coventry City,p_1oE8ug,Jack Rudoni,3
+ARG1,Gimnasia LP,p_15wJtA,Ignacio Fernández,3
+EL,Milan,p_1Dxzry,Alphadjo Cissè,3
+JAP1,Cerezo Osaka,p_15oMEo,Pablo Sabbag,3
+SER1,Zemun,p_3z8YIB,Đorđe Petrović,2
+RO1,Corvinul Hunedoara,p_1d52SE,Daniel Nicolae Pîrvulescu,2
+RO1,Corvinul Hunedoara,p_1Ghjbf,Sérgio Ribeiro,2
+TS1,Zbrojovka Brno,p_2PZSHg,Tadeáš Vachoušek,2
+RSK1,Daejeon Hana Citizen,p_3keG9i,Sung-Kwon Jo,2
+RO1,Sepsi,p_040joP,Doru Cristian Andrei,2
+ARG1,Deportivo Riestra,p_30zDYy,Tomás González,2
+TS1,Zlín,p_1xTlsf,Daniel Šmiga,2
+MLS1,Red Bull New York,p_1775pK,Mijahir Jiménez,2
+PL1,Piast Gliwice,p_05f7ot,Samuel Ntamack,2
+A1,WSG Tirol,p_4GWjGW,Michael Olakigbe,2
+A1,Austria Lustenau,p_4SEPMv,Dion Kacuri,2
+RO1,Csikszereda,p_0P3dkU,Ádám Czékus,2
+KR1,Lokomotiva Zagreb,p_0MCBBf,Mirko Marić,2
+KR1,Lokomotiva Zagreb,p_0ESGfT,Noel Đurković,2
+KR1,Rudeš,p_04t71w,Lenny Ilečić,2
+C1,FC Vaduz,p_0yb2ZY,Julian Stark,2
+ARG1,Banfield,p_2Dzb5G,Alexander Machado,2
+A1,Ried,p_3QWJs3,Niama Sissoko,2
+RO1,Voluntari,p_0Ea1cq,Mihai Alexandru Roman,2
+SER1,Mačva Šabac,p_3ArI7J,Luka Pejović,2
+NL1,NEC Nijmegen,p_4Aweav,Adam Tahaui,2
+PO1,Alverca,p_1MZOH7,Ian Luccas,2
+NL1,Fortuna Sittard,p_1VkqrF,Shiloh Zand,2
+NO1,Sandefjord,p_0ub2Kd,Oscar Forsmo Kapskarmo,2
+DK1,FC København,p_0aR2mU,Mads Madsen,2
+A1,Austria Wien,p_2NBBSb,Julian Hettwer,2
+RO1,Corvinul Hunedoara,p_4XjY7T,Gideon Uche Goodlad,2
+BRA1,Chapecoense,p_4AjjAJ,Túlio,2
+DK1,AC Horsens,p_4df5K7,Yamirou Ouorou,2
+SER1,Novi Pazar,p_0Xf8UG,Fejsal Mulić,2
+RO1,UTA Arad,p_1gp99y,Andrei Cristian Dorobanțu,2
+MEX1,Necaxa,p_3xL6x8,Matías Espíndola,2
+JAP1,V-Varen Nagasaki,p_0iM2NG,Tenmu Matsumoto,2
+PL1,Widzew Łódź,p_34yHka,Mario García,2
+SER1,FK Crvena Zvezda,p_2Ud33K,Loizos Loizou,2
+BE1,Lommel,p_3TLMtm,Lucas Schoofs,2
+DK1,Brøndby IF,p_188YGg,Oskar Fenger,2
+DK1,AC Horsens,p_2netCg,Ivan Miličević,2
+BE1,RAAL La Louvière,p_1g0yca,Elias Filet,2
+NL1,NEC Nijmegen,p_3IOrLE,Perr Schuurs,2
+GR1,Iraklis,p_4KkycM,Nanú,2
+RSK1,Gwangju FC,p_2cpJek,Chang-Moo Sin,2
+NL1,Willem II,p_24M29E,Uriël van Aalst,2
+C1,St. Gallen,p_2NtBY7,Leon Frokaj,2
+C1,FC Vaduz,p_4JPehk,Dominik Schwizer,2
+MLS1,Orlando City,p_0n6x4T,Daryl Dike,2
+TR1,Beşiktaş,p_44N1Ww,İlhan Fakılı,2
+SC1,Motherwell,p_4IBSnM,Seb Palmer Houlden,2
+PL1,Wisła Kraków,p_2GuZ39,Alan Uryga,2
+L1,Elversberg,p_4WodiI,Felix Keidel,2
+DK1,Silkeborg,p_1UfrAw,Lucas Riisgaard,2
+GR1,OFI Crete,p_3dq721,Thanasis Androutsos,2
+PO1,Santa Clara,p_23oJAw,Tiago Ribeiro,2
+BRA1,Mirassol,p_2O18hy,Bruno Santos,2
+IT1,Monza,p_1VkCHe,Jay Robinson,2
+KR1,Hajduk Split,p_17MqbP,Khalil Fayad,2
+PL1,Wieczysta Kraków,p_1eeK4h,Duje Dujmović,2
+RU1,Rodina,p_2kSn5q,Ivan Timoshenko,2
+IT1,Venezia,p_08WgTJ,Antoine Hainaut,2
+RO1,Dinamo Bucureşti,p_4Hfk0L,Dean Zandbergen,2
+JAP1,Shimizu S-Pulse,p_3g5SiT,,2
+PO1,Nacional,p_1MhFvD,Matchoi,2
+JAP1,Machida Zelvia,p_3f2myk,Henry Mochizuki,2
+NL1,Cambuur,p_3n0kNp,Iwan Henstra,2
+ARG1,Aldosivi,p_4IA6aI,Tomás Fernández,2
+ARG1,Aldosivi,p_0VZwYw,Lucas Nahuel Castro,2
+SER1,Radnički 1923,p_3ssaFd,Nemanja Glavčić,2
+NO1,Sarpsborg 08,p_2pME6F,Olaus Jair Skarsem,2
+TR1,Amed Sportif,p_0fSxCF,Mbaye Diagne,2
+GR1,Kalamata,p_41q4xi,Erik Hamza,2
+JAP1,JEF United Chiba,p_06Mq3U,Erison,2
+TR1,Galatasaray,p_3yAkSa,Abdülkerim Bardakci,2
+PO1,Moreirense,p_22E9D2,Manuel Mendonça,2
+SC1,Falkirk,p_2R9MHr,Ben Krauhaus,2
+SC1,Falkirk,p_1OuIhj,Owen Eames,2
+C1,Thun,p_0AEkgR,Fabio Saiz,2
+EL,Celtic,p_43neRW,Mika Baur,2
+EL,Torreense,p_09dfIh,Manuel Pozo,2
+ES1,Málaga,p_3ZIo53,Carlos Dotor,2
+KR1,Rudeš,p_40Wldt,Saad El Haddad,2
+KR1,HNK Gorica,p_0fMQSM,Jakov Pranjić,2
+JAP1,Fagiano Okayama FC,p_3g5SiT,,2
+JAP1,Kyoto Sanga FC,p_47S4rr,Alex Negueba,2
+BE1,Anderlecht,p_4fIMdh,Marten Winkler,2
+L1,Paderborn,p_283Otf,Stefano Marino,2
+L1,Paderborn,p_2hYTGd,Steffen Tigges,2
+MLS1,Vancouver Whitecaps,p_2dLDgF,Yadaly Diaby,2
+PO1,Casa Pia AC,p_2P03Yo,Selvi Clua,2
+ARG1,Vélez Sarsfield,p_0Ndsjk,Juan Policella,2
+MEX1,Atlante,p_0jm1AH,Luis Calzadilla,2
+BRA1,Cruzeiro,p_0OQWPx,Zé Lucas,2
+RO1,Corvinul Hunedoara,p_0u9Yj9,Ion Cărăruș,2
+KR1,Rudeš,p_3lykI3,Antenor Junior Fernándes da Silva Vitoria,2
+JAP1,Avispa Fukuoka,p_3g5SiT,,2
+SER1,Čukarički,p_3JhjO9,Djordje Jovanović,2
+DK1,Lyngby,p_0damjj,Markus Anderson,2
+PO1,Nacional,p_3jwrxd,Njoya Kader,2
+ES1,Deportivo A Coruña,p_4cS7ia,Mario Soriano,2
+GB1,Hull City,p_2yTfKG,Joe Gelhardt,2
+A1,Austria Lustenau,p_2izeaC,Albin Gashi,2
+A1,Hartberg,p_1Nq5QQ,Nikolaus Feldhofer,2
+MEX1,Cruz Azul,p_2ptNdT,Agustín Palavecino,2
+PL1,Radomiak Radom,p_1bFnE3,Filip Koperski,2
+CL,Sporting CP,p_2IPu2h,Issa Doumbia,2
+EL,Levski Sofia,p_2zOPWp,Reinaldo,2
+UCOL,Egnatia,p_1cdeg3,Ildi Gruda,2
+UCOL,Panathinaikos,p_0iCxw2,Kings Kangwa,2
+ES1,Deportivo A Coruña,p_4g11vD,Bil Nsongo,2
+ARG1,Atlético Tucumán,p_4UVSic,Pedro Canelo,2
+NL1,ADO Den Haag,p_2yC1Sa,Juho Kilo,2
+GR1,PAOK Thessaloniki,p_0Jv9cJ,Simon Banza,2
+SER1,Mladost Lučani,p_25W3Zq,Vukašin Marković,2
+AUS1,Wellington Phoenix,p_3K4DP5,Riley Bidois,2
+CL,AEK Athens,p_4fMS0F,Stavros Pilios,2
+UCOL,Inter Club d'Escaldes,p_3bq8DQ,Borja Arellano,2
+UCOL,CSKA Sofia,p_3sCLh3,Leandro Godoy,2
+EL,Anderlecht,p_4fIMdh,Marten Winkler,2
+RO1,Petrolul 52,p_2f2ECf,Mario Alexandru Ioniță,2
+BE1,RAAL La Louvière,p_1eZ4LY,Léandro Rousseau,2
+BE1,OH Leuven,p_0WwlNs,Emmanuel Addai,2
+RO1,FCSB,p_1o5hRT,Aymen Boutoutaou,2
+NL1,Cambuur,p_43TdBt,Ismaël Baouf,2
+NL1,Cambuur,p_06izti,Jason Çeka,2
+RSK1,Gimcheon Sangmu,p_3VCjNk,Jae-Min Jeong,2
+GB1,Hull City,p_1PfXEl,Oli McBurnie,2
+DK1,AC Horsens,p_05IYey,Kingsley Bimpong,2
+DK1,AC Horsens,p_0WL4SS,Julius Madsen,2
+PL1,Wisła Płock,p_2mOxIG,Olaf Kobacki,2
+BE1,Cercle Brugge,p_3g5SiT,,2
+RO1,Sepsi,p_3sijiu,Dimitri Oberlin,2
+NO1,Kristiansund,p_0WCc3b,Marius Elvius,2
+BE1,Lommel,p_0xEGEF,Djordje Gordić,2
+ARG1,Atlético Tucumán,p_4gTa0L,Juan Rodríguez,2
+PL1,Raków Częstochowa,p_1IowdL,Oliwier Kwiatkowski,2
+NL1,NEC Nijmegen,p_2hkkvM,Dušan Tadić,2
+TS1,Pardubice,p_0N8lTs,Arouna Abdala Ouattara,2
+RO1,Voluntari,p_0QWRRp,George Cristian Merloi,1
+SER1,Zemun,p_3mZOjp,Novak Petrusić,1
+SER1,Radnik Surdulica,p_1eFQ0K,Darko Stojanović,1
+RSK1,Gangwon FC,p_401F8Q,Young-Joon Goh,1
+MLS1,Colorado Rapids,p_4U6XEC,Loïc Williams,1
+RO1,UTA Arad,p_1pZHuA,Ismet Sinani,1
+PL1,Wieczysta Kraków,p_0DcZvZ,Stefan Feiertag,1
+TS1,Slavia Prague,p_3JHzsi,Adonija Bryan Ouanda,1
+DK1,Lyngby,p_1DwbGT,Renzo Tytens,1
+PL1,Wisła Płock,p_0rnOD2,Marcin Flis,1
+RSK1,Gwangju FC,p_0MjnkW,Ji-Hoon Jeong,1
+PL1,GKS Katowice,p_0cuDwL,Szymon Bartlewicz,1
+SER1,Partizan Beograd,p_01D1sP,Chaka Traorè,1
+RO1,Voluntari,p_0INGDw,Marvin Schieb,1
+SER1,Čukarički,p_0cBopr,Fiorin Durmishaj,1
+TS1,Artis Brno,p_32Pdmz,Issa Fomba,1
+KR1,Lokomotiva Zagreb,p_4eB9jY,Thanasis Triantafyllou,1
+DK1,Lyngby,p_1Oon2X,Casper Winther,1
+SC1,St. Johnstone,p_3eEqW5,Cheick Diabate,1
+SC1,St. Johnstone,p_2tZEGw,Louis Lloyd,1
+ARG1,Aldosivi,p_3SLFiW,Nicolás Gaitán,1
+PL1,Śląsk Wrocław,p_40cV9m,Luka Marjanac,1
+A1,Wolfsberger AC,p_3NpRGZ,Aaron Schwarz,1
+KR1,Rudeš,p_0HPvIr,Stefan Vukić,1
+RO1,Corvinul Hunedoara,p_444kGl,Mario George Bratu,1
+RO1,Sepsi,p_1enN7i,Cosmin Gabriel Matei,1
+JAP1,Kashima Antlers,p_3g5SiT,,1
+A1,WSG Tirol,p_1NWLl8,Husein Balić,1
+RO1,Dinamo Bucureşti,p_4V2zmZ,Oliver Abner Endrias Hintsa,1
+BE1,Cercle Brugge,p_0Hi6lN,Lukas Mondele,1
+BE1,Lommel,p_1HSiE6,Ralf Seuntjens,1
+RSK1,Daejeon Hana Citizen,p_1m4YMC,Anton Krivotsyuk,1
+NL1,Fortuna Sittard,p_235nsE,Ole Romeny,1
+PL1,Lech Poznań,p_2j5EVM,Karol Delikat,1
+DK1,Randers FC,p_1iQpXG,Kasper Junker,1
+BE1,RAAL La Louvière,p_3g5SiT,,1
+ARG1,Defensa y Justicia,p_0EHXR1,Tomás Pérez,1
+SER1,Čukarički,p_0VssLm,Aires Tino Nanque,1
+SER1,OFK Beograd,p_1Wdhor,Đorđe Ranković,1
+SC1,Heart of Midlothian,p_1eHJyj,Tom Renaud,1
+TS1,Artis Brno,p_09F4Ow,Aleksandar Komljenović,1
+SA1,Abha,p_0WIT8Z,Mohammed Al Dossary,1
+SA1,Al Qadsiah,p_3g5SiT,,1
+MLS1,New England Revolution,p_1oHST6,Wilson Harris,1
+ES1,Deportivo Alavés,p_0Sf5Yd,Mikel Rodríguez,1
+NL1,Willem II,p_4EqnMn,Thomas Verheijdt,1
+TS1,Zlín,p_3C6r7i,Naphthalene Frank Appiah,1
+RO1,Oţelul Galați,p_0RrxKd,Teodor Lungu,1
+TR1,Amed Sportif,p_2azI2t,Gokhan Gul,1
+RSK1,Jeonbuk Hyundai Motors FC,p_3Z0kAs,Ji-Soo Park,1
+PO1,Marítimo,p_3B9M3Y,Simo Bouzaidi,1
+PO1,Marítimo,p_2VVCzw,Maurice Boakye,1
+RO1,Corvinul Hunedoara,p_1t4y5o,Antoniu Ştefăniţă Manolache,1
+RO1,Corvinul Hunedoara,p_2YmV7Z,Mihajlo Ivančević,1
+TS1,Slovan Liberec,p_26A9fK,Ghislain Vénuste Baboula,1
+BE1,SK Beveren,p_2sIpIq,Yoni Gomis,1
+ES1,Racing Santander,p_1sLBsw,Andrés Martin,1
+ES1,Racing Santander,p_0xLNKu,Sergio Martínez,1
+DK1,AC Horsens,p_2OUohI,Kristian Kirkegaard,1
+TR1,Göztepe,p_49A4gI,Alex Matos,1
+DK1,Sønderjyske,p_05kh6f,Bubacarr Tambedou,1
+ARG1,Rosario Central,p_2kakNB,Alan Rodriguez,1
+KR1,Rudeš,p_2dceBC,Xavi Fernandes,1
+KR1,Rudeš,p_1EMwvI,Josip Bralić,1
+KR1,Rudeš,p_39MWIW,Ivan Đorić,1
+IT1,Cagliari,p_2u1lA2,Alessandro Romano,1
+TR1,Samsunspor,p_1TPkcA,Josafat Mendes,1
+TR1,Samsunspor,p_0J2u8y,Fatih Kaya,1
+PO1,Marítimo,p_2SFqDa,Paulo Henrique,1
+PO1,Marítimo,p_0sO3u6,Adrián Butzke,1
+ES1,Espanyol,p_0T2a0M,Álex Calatrava,1
+FR1,Le Mans,p_2HH4uv,Dame Gueye,1
+SER1,Mačva Šabac,p_2APbyc,Đorđe Đorđić,1
+BRA1,Coritiba,p_49l708,Paulo Roberto,1
+SER1,Radnik Surdulica,p_3ZmInW,Luka Jovanović,1
+KR1,Hajduk Split,p_3WmPUu,Etnik Brruti,1
+MLS1,Columbus Crew,p_2nvpAR,André Gomes,1
+SER1,FK Crvena Zvezda,p_437iIe,Kristiyan Teodorov Balov,1
+RO1,Sepsi,p_0d12n0,Hunor Szabolcs Batzula,1
+PO1,Vitória de Guimarães,p_1tO42b,Gustavo Silva,1
+MEX1,Atlético de San Luis,p_3beLEh,Luis Nájera,1
+ES1,Málaga,p_2190i5,Chupe,1
+RU1,Baltika,p_3g5SiT,,1
+TR1,Kocaelispor,p_47cYne,Matej Maglica,1
+RSK1,Pohang Steelers,p_0GLgC5,Ki-Jong Won,1
+RSK1,Jeju SK,p_0peCsE,Seung-Ro Lee,1
+SA1,Al Kholood,p_3g5SiT,,1
+SA1,Al Diriyah,p_3g5SiT,,1
+ES1,Osasuna,p_32lFTN,Enrique Barja,1
+RO1,Petrolul 52,p_2lSAc9,Robert Dumitru Jerdea,1
+A1,WSG Tirol,p_1ughYl,Marc Striednig,1
+JAP1,JEF United Chiba,p_3g5SiT,,1
+IT1,Monza,p_3wjdQj,Andrea Colpani,1
+SC1,St. Johnstone,p_1QSwMG,Ruari Paton,1
+RO1,Corvinul Hunedoara,p_0YJrmz,Renato Espinosa Torres,1
+BE1,KV Mechelen,p_2KvTu0,Adeshina Ayodele,1
+IT1,Frosinone,p_10Ikad,Gabriele Bracaglia,1
+ES1,Levante,p_2TAhkn,Enzo Bardeli,1
+FR1,Toulouse,p_1uFQrQ,Christ Tapé,1
+PO1,Marítimo,p_2cSySH,Martín Tejón,1
+SER1,Vojvodina,p_273MCD,Stefan Mitrović,1
+TS1,Zbrojovka Brno,p_3L4vXH,Filip Vedral,1
+FR1,Troyes,p_3XkBq5,Renaud Ripart,1
+FR1,Troyes,p_4PUqNs,Lucas Maronnier,1
+RO1,Sepsi,p_4QCbkm,Bogdan Florin Oteliță,1
+C1,Basel,p_41qq6A,Akpe Victory,1
+BRA1,São Paulo,p_3kSsNk,Gustavo Santana,1
+TR1,Eyüpspor,p_2GAHRD,Zak Jules,1
+SC1,St. Mirren,p_2Yw2Ks,Paul Nsio,1
+SC1,St. Mirren,p_3r2EI4,Samuel Ramos,1
+SC1,Motherwell,p_3u4QXJ,Jardell Kanga,1
+MEX1,CF América,p_3Erzok,Ícaro,1
+GB1,Ipswich Town,p_0IGl0W,Chuba Akpom,1
+PO1,Nacional,p_4SGeit,Wesley,1
+A1,Ried,p_15RKmq,Samuel Chukwudi,1
+GR1,Kifisia FC,p_0XQ2sG,Bernardo Martins,1
+L1,Werder Bremen,p_4gQb6L,Dariusz Stalmach,1
+NO1,Hamarkameratene,p_3zMKrG,Blerton Isufi,1
+PL1,Raków Częstochowa,p_0Gz5x7,Jakub Jendryka,1
+NL1,ADO Den Haag,p_0fpaRN,Sékou Sylla,1
+BRA1,Cruzeiro,p_0hWhkK,Felipe Morais,1
+SER1,Partizan Beograd,p_1JOlrr,Igor Miladinović,1
+A1,WSG Tirol,p_2p8OP8,Drew Murray,1
+C1,Luzern,p_2tZxxJ,Nando Toggenburger,1
+SC1,Hibernian,p_2ut9gM,Adam Mayor,1
+NL1,PEC Zwolle,p_3Iya6n,Ibrahim Cissoko,1
+NO1,Sandefjord,p_0uZR1c,Tobias Borchgrevink Børkeeiet,1
+BE1,Sporting Charleroi,p_3g5SiT,,1
+BRA1,São Paulo,p_4O4UwI,Iago,1
+SC1,St. Mirren,p_4CmtfJ,Nikolas Agrafiotis,1
+SC1,Dundee United,p_4Bp2eT,Michael Forbes,1
+ES1,Deportivo A Coruña,p_0Leeg1,Luismi Cruz,1
+ES1,Deportivo A Coruña,p_3Vl11M,Zakaria Eddahchouri,1
+SER1,Zemun,p_3TBc7k,Mykhailo Meskhi,1
+SC1,Hibernian,p_07Vfaa,Nathan Lowe,1
+ES1,Sevilla,p_0aXeEy,Lucas Stassin,1
+ES1,Espanyol,p_2l3bne,Marcos Fernández,1
+JAP1,JEF United Chiba,p_2ld85R,Ken Yamura,1
+DK1,AC Horsens,p_22Zw6O,Ole Kolskogen,1
+DK1,AC Horsens,p_2cONTh,Abdul Moro,1
+NL1,ADO Den Haag,p_0NRU1P,Jesse Bal,1
+BRA1,Mirassol,p_4EEjhJ,Gustavo Silva,1
+RO1,Petrolul 52,p_2Xb7Nz,Mark Alexandru Sicco Țuțu,1
+DK1,FC København,p_3KX2hB,Marvin Nasnas,1
+RU1,Akron Togliatti,p_19d7XO,Dudu,1
+BE1,Zulte Waregem,p_1i2uJO,Akpa Chukwu Hemsley,1
+FR1,Troyes,p_0JQYWC,Antoine Mille,1
+FR1,Strasbourg,p_31Oexi,Jacobo Ortega,1
+FR1,Troyes,p_0eArw5,Jérémy Le Douaron,1
+RSK1,Gangwon FC,p_3frww8,Abdelkarim Mammar Chaouche,1
+PL1,Wisła Płock,p_0QuT7a,Martin Haglind Sangré,1
+ARG1,Atlético Tucumán,p_3g5SiT,,1
+CL,Lille,p_1GkC6p,Alexsandro Ribeiro,1
+CL,Slovan Bratislava,p_2voPug,Suleiman Camara,1
+RSK1,Daejeon Hana Citizen,p_3g5SiT,,1
+SA1,Abha,p_3p4tVs,Nabil Fekir,1
+SC1,Celtic,p_43neRW,Mika Baur,1
+RSK1,Jeonbuk Hyundai Motors FC,p_05SjQT,Italo,1
+GR1,Panathinaikos,p_0iCxw2,Kings Kangwa,1
+JAP1,Vissel Kobe,p_3g5SiT,,1
+DK1,FC København,p_3Zv7xF,Viktor Daðason,1
+ARG1,Newell's Old Boys,p_3M34nC,Alan Soñora,1
+RO1,Sepsi,p_4URZVL,Boris Cmiljanić,1
+RO1,Sepsi,p_2r7mgB,Lindsay Rose,1
+RO1,Sepsi,p_2MrSMX,Ignacio Heras García,1
+BE1,Westerlo,p_3jYPTi,Pape Diong,1
+PO1,Académico Viseu,p_0TF3gL,Lorougnon Gohi,1
+PO1,Vitória de Guimarães,p_3WJNsh,Gonçalo Nogueira,1
+PO1,Académico Viseu,p_3Ehv8o,Mohamed Bouldini,1
+ARG1,Central Córdoba de Santiago,p_42f4P8,Martín Cuitiño,1
+BRA1,Botafogo,p_1SSVHn,Vitinho,1
+RU1,Fakel,p_4emiRd,Ravil Netfullin,1
+RU1,Fakel,p_2VLeLi,Butta Magomedov,1
+MEX1,Toluca,p_0xpuI6,Jesús Angulo,1
+MEX1,Atlas,p_0ajP7l,Duk,1
+TR1,Konyaspor,p_0WvKnG,Rajmund Tóth,1
+BE1,Union St.Gilloise,p_3Q6ye8,Ilan Hurtevent,1
+SER1,Radnički 1923,p_2FPyER,Jovan Živković,1
+FR1,Lorient,p_3Dkppq,Ibrahima Baldé,1
+FR1,Lorient,p_1GVseZ,Noah Mbamba,1
+ARG1,Independiente,p_1OwbCC,Juan Miguel Arrayago,1
+KR1,Hajduk Split,p_05FkxH,Dali,1
+FR1,Le Mans,p_0scCb2,Lucas Calodat,1
+MEX1,Cruz Azul,p_07GSsk,Jesús Orozco,1
+DK1,OB,p_31t2OH,Alexander Ahl Holmström,1
+RU1,FK Akhmat,p_0WqMWv,Kalidou Sidibé,1
+RU1,FK Akhmat,p_1daTUm,Manuel Keliano,1
+ES1,Barcelona,p_0HYrZ6,Xavi Espart,1
+RO1,Argeș,p_2KEj1F,Taylor Luvambo,1
+RO1,Botoșani,p_32NCEM,Gabriel Gama,1
+PO1,Rio Ave,p_2iaN2q,Roland Galcík,1
+KR1,Varaždin,p_2ByP86,Valentin Akrap,1
+PO1,Moreirense,p_44G3qN,Leonardo Vonić,1
+PO1,Marítimo,p_3LG72C,Romain Correia,1
+PO1,Moreirense,p_4GyjVu,Alexandre Duville-Parsemain,1
+IT1,Como,p_2Z5hbO,Kaiki,1
+NL1,Willem II,p_0A5oTD,Alessandro Ciranni,1
+C1,Lugano,p_20ai4e,Behruzjon Karimov,1
+ES1,Racing Santander,p_3ozROl,Maguette Gueye,1
+EL,Torreense,p_1P3f5H,Alejandro Alfaro,1
+RU1,Akron Togliatti,p_4OfMuw,Karlen Hovhannisyan,1
+EL,OFI Crete,p_0Xig2G,Giorgios Kanellopoulos,1
+EL,Beşiktaş,p_44N1Ww,İlhan Fakılı,1
+PL1,Śląsk Wrocław,p_3g5SiT,,1
+DK1,Silkeborg,p_2ZBfey,Alexander Madsen,1
+DK1,Silkeborg,p_0oeGBc,Malthe Soegaard,1
+BE1,Gent,p_3g5SiT,,1
+BRA1,Vasco da Gama,p_30xm61,Ramon Rique,1
+JAP1,FC Tokyo,p_3g5SiT,,1
+L1,Augsburg,p_1oRJ9c,Calvin Brackelmann,1
+SC1,St. Johnstone,p_0sOFbK,Enes Alić,1
+NO1,Aalesund,p_40nbyW,Isak Gabriel Skotheim,1
+SER1,Zemun,p_0U0KCe,Vasilije Bakić,1
+SER1,Novi Pazar,p_3jpr7L,Aleksandar Miljković,1
+JAP1,JEF United Chiba,p_3K2LMt,Matheus Índio,1
+NL1,Cambuur,p_182xTm,Fabian Kvam,1
+NL1,ADO Den Haag,p_4bdZB6,Donat Barany,1
+L1,Paderborn,p_3T0VJ1,Santiago Castañeda,1
+NO1,Sandefjord,p_2Rcm4i,Ervin Gigović,1
+JAP1,Vissel Kobe,p_3kfqfl,Erik,1
+A1,Wolfsberger AC,p_3MjkD4,Matteo Kitz,1
+RSK1,Daejeon Hana Citizen,p_3M8Tis,Yoon-Sung Kang,1
+ES1,Deportivo A Coruña,p_30BnXW,Diego Villares,1
+DK1,Sønderjyske,p_1h1Tvr,Brynjar Ingi Bjarnason,1
+SER1,Mačva Šabac,p_14rzjP,Nikša Delibašić,1
+A1,Salzburg,p_2p7s5Z,Aboubacar Camara,1
+RO1,Corvinul Hunedoara,p_4SobaF,Ángel Nahuel Gillard,1
+MLS1,Chicago Fire FC,p_2xT2PY,Johan Gómez,1
+MEX1,Atlante,p_3msaEs,Eduardo Tercero,1
+ARG1,Instituto,p_1xKto7,Jonathan Galván,1
+RO1,Voluntari,p_0KXwrv,Lovro Cvek,1
+RO1,Voluntari,p_08GOaK,Matko Babić,1
+GB1,Brentford,p_4dgH0u,Yehor Yarmoliuk,1
+SE1,Degerfors,p_4Oblyw,Armann Taranis,1
+SC1,Dundee United,p_0EytgT,Daniel Bennie,1
+SA1,Al Hazem,p_1vw9CV,Aboubacar Diakité,1
+MEX1,Querétaro FC,p_4XD09J,Denilson Muñoz,1
+PO1,Académico Viseu,p_4LNCOU,Cihan Kahraman,1
+SER1,IMT,p_0I9BkC,Karl Kezy Fabien,1
+SER1,Mačva Šabac,p_4JMXPA,Mitar Ergelaš,1
+SER1,Mačva Šabac,p_1y5Ele,Stefan Čolović,1
+PO1,Santa Clara,p_3pUafN,Vasconcelos,1
+TS1,Artis Brno,p_2j5CqS,Neil Glossoa,1
+C1,Thun,p_3Iii3t,Simon Lengen,1
+C1,FC Zürich,p_15I0sI,Doron Lichtenstein,1
+C1,Thun,p_1P4dCW,Dorian Derbaci,1
+ARG1,San Lorenzo,p_4WViuG,Teo Pagano,1
+ARG1,Belgrano,p_3v2tAE,Lucas Zelarayán,1
+JAP1,Nagoya Grampus,p_3g5SiT,,1
+JAP1,Sanfrecce Hiroshima,p_3g5SiT,,1
+BRA1,Grêmio,p_2KeiCS,Wallace,1
+L1,Schalke 04,p_0zhP59,Adrian Gantenbein,1
+GR1,Iraklis,p_1oXodz,Marco Krainz,1
+DK1,Lyngby,p_3GpGJv,Jens Jakob Thomasen,1
+ES1,Deportivo A Coruña,p_2qabuw,Yeremay Hernández,1
+BE1,St.Truiden,p_0cTERR,Frédéric Soèllé Soèllé,1
+PL1,Wieczysta Kraków,p_3nqDe7,Bartosz Białek,1
+RO1,Rapid Bucureşti,p_2nbSMx,Mohammed Kamara,1
+GB1,Coventry City,p_3O2Ty8,Ellis Simms,1
+PO1,Famalicão,p_37qNLt,Víctor Rofino,1
+PO1,Alverca,p_3YY3e4,André Vidigal,1
+CL,Sabah FK,p_4HW4A9,Kaheem Parris,1
+CL,Sabah FK,p_2faKiy,Joy-Lance Mickels,1
+UCOL,Riga FC,p_44AXFQ,Salah Oulad M'Hand,1
+UCOL,KuPS,p_2ZO95J,Petteri Pennanen,1
+UCOL,KuPS,p_4IOzNP,Gustav Engvall,1
+EL,Hapoel Beer Sheva,p_2cKpTP,Forson Amankwah,1
+EL,Torreense,p_14vEio,Volnei,1
+EL,Sunderland,p_0WuH1F,Jules Ahoka,1
+EL,Sunderland,p_4QO3W8,Noah Sadiki,1
+UCOL,Borac Banja Luka,p_2xNrKV,Miloš Jojić,1
+SA1,Al Khaleej,p_1AJ6CA,Mateo Benegas,1
+UCOL,CSKA Sofia,p_0zyHDO,Joël Zwarts,1
+EL,Omonia Nicosia,p_3mnhqL,Jaden Montnor,1
+EL,Omonia Nicosia,p_3yJqZP,Senou Coulibaly,1
+A1,Hartberg,p_3rZ092,Magnus Dalpiaz,1
+ES1,Levante,p_1bxRgx,Dani Requena,1
+RO1,Csikszereda,p_0SpWIE,Nino Kukovec,1
+AUS1,Macarthur FC,p_4CIhQT,Jonathan Aspropotamitis,1
+RU1,Fakel,p_2TKAsS,Clayton,1
+RU1,Fakel,p_0TFSXN,Matvey Bardachev,1
+SE1,AIK,p_40jWm7,Diogo Tomas,1
+NL1,Telstar,p_2SyUqp,Noach Shenkman,1
+L1,Elversberg,p_2dr4iI,Lasse Günther,1
+L1,Elversberg,p_1xHD3m,Maximilian Rohr,1
+L1,Elversberg,p_0HMDEz,Frederik Schmahl,1
+PL1,Motor Lublin,p_3LX908,Yacine Bourhane,1
+RO1,Petrolul 52,p_0VUnn0,Léo Teixeira,1
+KR1,Dinamo Zagreb,p_22741M,Dani Rodríguez,1
+IT1,Como,p_2O4xvs,Mattia Liberali,1
+GR1,Aris Thessaloniki,p_2D5JGE,Bruma,1
+GR1,Kalamata,p_4EVzGR,Arnór Sigurðsson,1
+BRA1,Cruzeiro,p_08MXp5,João Marcelo,1
+GR1,Panathinaikos,p_4Gt2cj,Imrân Louza,1
+RO1,FCSB,p_43ekdf,Paul Arnold Garita,1
+CL,Barcelona,p_0HYrZ6,Xavi Espart,1
+CL,Sabah FK,p_2s0q6g,Aden McCarthy,1
+ARG1,Deportivo Riestra,p_0FJbuK,Juan Cruz Randazzo,1
+SA1,Al Diriyah,p_1scNDp,Óscar Rodríguez,1
+MEX1,Atlante,p_1ervNP,Nico Carrera,1
+JAP1,Tokyo Verdy,p_3w7gcn,Kanya Fujimoto,1
+UCOL,FK Kauno Žalgiris,p_3ql3yb,Renan,1
+UCOL,Lincoln Red Imps FC,p_3PZOLV,Nano,1
+UCOL,Riga FC,p_0pcV3J,Caio Ferreira,1
+UCOL,St.Truiden,p_0cTERR,Frédéric Soèllé Soèllé,1
+UCOL,Borac Banja Luka,p_2xPw6x,Stefan Savić,1
+UCOL,Borac Banja Luka,p_3xvynM,Matej Deket,1
+UCOL,Kairat Almaty,p_1dQTr0,Ismail Bekbolat,1
+UCOL,Hajduk Split,p_3sI4go,Dalisson de Almeida,1
+EL,Ferencváros,p_1aqEOi,Krisztián Lisztes,1
+EL,Levski Sofia,p_29q79g,Everton Bala,1
+UCOL,Iberia 1999,p_0EFv7x,Jemali-Giorgi Jinjolava,1
+EL,Anderlecht,p_0xSypg,Jayden Seke,1
+SA1,Al Hazem,p_1qCWaU,Bonheur Mugisha,1
+MEX1,Tijuana,p_27VJyN,Jonathan Padilla,1
+RU1,FC Orenburg,p_3jm88H,Dmitri Rybchinskiy,1
+PO1,Vitória de Guimarães,p_1WwZIc,Yeimar Mosquera,1
+NL1,Telstar,p_01s8si,Sem Valk,1
+SER1,Zemun,p_2UIxQj,Dimitrije Tabaković,1
+BE1,Lommel,p_3JNgA9,Stredair Appuah,1
+BE1,Lommel,p_1x7KDa,Jason van Duiven,1
+BRA1,São Paulo,p_2nzhKi,Pedro Lima,1
+RU1,Baltika,p_4Sfh3N,Loris Mouyokolo,1
+TR1,Erzurumspor FK,p_4FoBCL,Amar Gërxhaliu,1
+A1,Austria Lustenau,p_4QOrBa,Haris Ismailcebioglu,1
+PL1,Wisła Kraków,p_1ndVYP,Julius Ertlthaler,1
+PL1,Wisła Kraków,p_3oXLe4,Kacper Duda,1
+NL1,Willem II,p_0XYR9P,Anass Zarrouk,1
+SC1,Aberdeen,p_0v0rlX,Nesta Guinness-Walker,1
+PL1,Pogoń Szczecin,p_1qToeg,Alessandro Pio Riccio,1
+GR1,Aris Thessaloniki,p_0BIrHN,Jeremy Petris,1
+FR1,Le Havre,p_1hDCTu,Lamine N'Diaye,1
+AUS1,Sydney FC,p_0XGZwo,Oriola Sunday,1
+C1,Thun,p_3TvtU7,Nassim Zoukit,1
+ARG1,Boca Juniors,p_2FsuJc,Facundo Herrera,1
+DK1,Viborg,p_3FUoJh,Giulio,1
+DK1,AC Horsens,p_0GsvDM,John Batigi,1
+MEX1,Puebla,p_2h0bFl,Luifer Hernández,1
+FR1,Le Mans,p_3bny3S,Lucas Buadés,1
+MEX1,Tijuana,p_2aG0gK,Francisco González,1
+IT1,Lazio,p_0g9xDf,Romano Floriani,1
+SA1,Al-Faisaly,p_2jjjo4,Flávio,1
+SC1,Hibernian,p_3dVrqc,Marko Ivezić,1
+SER1,Radnički Niš,p_2QM4nb,Dusan Jovanovic,1
+IT1,Frosinone,p_2ER9Rf,Matteo Cichella,1
+SA1,Al Qadsiah,p_1jl4Nf,Mahamadou Sangaré,1
+MLS1,Austin FC,p_0OVmTU,Jorge Alastuey,1
+SA1,Al Kholood,p_1nQhR4,Loic Essomba,1
+BRA1,Bahia,p_3LG7LB,Marcos Victor,1
+L1,Elversberg,p_0yP97j,Francis Onyeka,1
+KR1,Istra 1961,p_2GwQxZ,Isaac Aguiar,1
+AUS1,Brisbane Roar FC,p_0P89hm,Tom Aldred,1
+SER1,Mačva Šabac,p_0gryPh,Igor Ristivojević,1
+GB1,Coventry City,p_0o2LGb,Tatsuhiro Sakamoto,1
+PL1,Wisła Kraków,p_1PpyEv,Jakub Krzyżanowski,1
+GB1,Ipswich Town,p_0rblRM,Florentino,1
+AUS1,Melbourne City FC,p_4UiJb2,Emiliano Marcondes,1
+AUS1,Melbourne City FC,p_49h7kH,Awer Mabil,1
+GR1,Kifisia FC,p_1C4XzM,Jordi Mboula,1
+SC1,Kilmarnock,p_3WR0Zy,Cathal McCarthy,1
+SC1,St. Johnstone,p_2B1O6a,Danny Schmidt,1
+TS1,Artis Brno,p_0jSZnV,Emmanuel Favor Fully,1
+TS1,Zlín,p_2KaOfU,Milos Kratochvíl,1
+RO1,Corvinul Hunedoara,p_0GWn3N,Muhammed Alyiu Hayatu,1
+KR1,Hajduk Split,p_0B3mgh,Anđelo Šutalo,1
+NL1,PSV Eindhoven,p_2wJT2G,Shuryjano Cornecion,1
+FR1,Troyes,p_2Pf6M9,Mouhamed Diop,1
+FR1,Troyes,p_00apzt,Ismaël Boura,1
+C1,FC Vaduz,p_3AwQpG,Liridon Berisha,1
+C1,Grasshopper,p_3xwrBj,Manex Guibelalde,1
+IT1,Frosinone,p_2idjoz,Farès Ghedjemis,1
+GR1,Asteras Tripolis,p_3sAulc,Benjamin Mbunga Kimpioka,1
+KR1,Osijek,p_2urkjx,Balelo,1
+PO1,Rio Ave,p_2rT7oV,Miguel Patricio,1
+DK1,OB,p_1azaLk,Julian Pauli,1
+BE1,St.Truiden,p_3Yvjot,Nathanaël Mbuku,1
+NO1,Kristiansund,p_3JTUfE,Zymer Bytyqi,1
+NO1,Kristiansund,p_4eYdMA,Gustav Christensen,1
+DK1,FC Midtjylland,p_2imV2e,Kjell Wätjen,1
+NL1,Telstar,p_2PQMme,Arjany Martha,1
+TR1,Gençlerbirliği,p_12ltsp,Pedro Mendes,1
+IT1,Fiorentina,p_0qPwnO,Valde,1
+MLS1,Minnesota United,p_4ejpzY,Cherrion Valerius,1
+MLS1,Los Angeles FC,p_06hmSf,Sergio Vasquez,1
+RO1,Voluntari,p_2DyKaj,Sava Cestic,1
+CL,Como,p_2O4xvs,Mattia Liberali,1
+CL,Sabah FK,p_0ZX4jf,Orphé Mbina,1
+BE1,Kortrijk,p_1RASV5,Thierry Ambrose,1
+EL,Levski Sofia,p_1viYDu,Stivan Stoyanchov,1
+UCOL,Monaco,p_0IwIYz,Mathys Detourbet,1
+EL,Torreense,p_0hrXms,Jorge Aguirre,1
+EL,Torreense,p_38AUVZ,Musa Drammeh,1
+EL,Torreense,p_1uz28E,Javi Vázquez,1
+UCOL,Pafos FC,p_3eLEXc,Lelê,1
+UCOL,CSKA Sofia,p_4I1R4u,Dinis Almeida,1
+UCOL,Riga FC,p_1hkGKL,Reginaldo Ramires,1
+UCOL,Iberia 1999,p_1FugOC,Amiran Dzagania,1
+EL,Omonia Nicosia,p_3bfamv,Loïs Diony,1
+RU1,Rubin Kazan,p_2vZF8S,Yegor Teslenko,1
+RO1,Argeș,p_0Twoxm,Mendy Mamadou,1
+PL1,Wisła Kraków,p_1A7s1m,Marc Carbó,1
+NL1,Willem II,p_45Ls23,Hidde ter Avest,1
+ARG1,Independiente,p_0nB8to,Felipe Tempone,1
+L1,Paderborn,p_0nW6QQ,Raphael Obermair,1
+SER1,Radnički Niš,p_4MyJJ6,Aleksandar Vidović,1
+KR1,HNK Gorica,p_2Vb94A,Dušan Stevanović,1
+ARG1,Independiente Rivadavia,p_0wgKrv,Luis Díaz,1
+SER1,Zemun,p_0Ehm6e,Nemanja Kalat,1
+A1,Austria Lustenau,p_3kxOZC,Seydou Diarra,1
+NO1,Start,p_1PsVvU,Nicolas Koutsakos,1
+L1,Elversberg,p_2uHXoL,Noel Futkeu,1
+AUS1,Melbourne City FC,p_2OXdUh,Matheus Rossetto,1
+NL1,ADO Den Haag,p_2fWgnI,Daryl van Mieghem,1
+TR1,Samsunspor,p_18PA2j,Anto Sekongo,1
+A1,LASK,p_0va92y,Alemão,1
+SC1,Rangers,p_3Eeq1T,Daniel Neil,1
+RU1,Fakel,p_1ZLdF4,Vyacheslav Yakimov,1
+BE1,Sporting Charleroi,p_1N0IlL,Adama Bojang,1
+TS1,Artis Brno,p_3B2Aah,Papalélé,1
+SC1,Falkirk,p_10Bu98,Finley Barbrook,1
+SC1,Heart of Midlothian,p_3nmBOv,Sabri Guendouz,1
+FR1,Lorient,p_1MRgeL,Souleymane Touré,1
+SE1,Kalmar FF,p_1Cqg0m,Amara Camara,1
+SER1,Mačva Šabac,p_2VaRID,Vasilije Đurić,1
+SER1,Mačva Šabac,p_2Afrtv,Danilo Knežević,1
+MEX1,Cruz Azul,p_27uQJ5,Carlos Rodolfo Rotondi,1
+FR1,Le Mans,p_2Y0SST,Erwan Colas,1
+RO1,Sepsi,p_4FvvRD,Fábio Vianna,1
+NL1,Cambuur,p_3tbAAK,Nicky Souren,1

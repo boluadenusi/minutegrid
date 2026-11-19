@@ -1,0 +1,350 @@
+athlete_id,name,dob,team,competition_id
+112492,Héctor Mejía,2005-07-01,Racing Santander,ES1
+123772,Frank Lehmann,1989-04-29,SV Elversberg,L1
+169619,Ben Wilson,1992-08-09,Coventry City,GB1
+178237,Jorge Salinas,2007-04-03,Racing Santander,ES1
+181582,Adrien Monfray,1990-12-20,Troyes,FR1
+182573,Steven Hall,2005-01-16,Brighton & Hove Albion,GB1
+184757,Jorge Castillo,2006-03-26,Atlético Madrid,ES1
+186306,Mohamed Coulibaly,1988-08-07,AJ Auxerre,FR1
+190167,Maximilian Rohr,1995-06-27,SV Elversberg,L1
+198150,Matteo Pisseri,1991-11-21,Frosinone,IT1
+206835,Hillel Konaté,1994-12-28,Troyes,FR1
+220823,Tom Baack,1999-03-13,SC Paderborn 07,L1
+231826,Lewie Coyle,1995-10-15,Hull City,GB1
+233308,Nicolas Kocik,1998-08-04,Le Mans,FR1
+233515,Sulayman Jallow,2007-05-04,Fiorentina,IT1
+233702,Dame Guèye,1995-08-12,Le Mans,FR1
+240624,Alfonso Herrero,1994-04-21,Málaga,ES1
+259915,Miguel Loureiro,1996-11-21,Deportivo,ES1
+263816,Alessio Pozzi,2000-12-14,Venezia,IT1
+270173,Antoine Mille,1997-08-14,Troyes,FR1
+275817,Tim Boss,1993-06-28,SV Elversberg,L1
+277526,Edwin Quarshie,1995-10-25,Le Mans,FR1
+277614,Josh Eccles,2000-04-06,Coventry City,GB1
+279699,Íñigo Sainz,1998-06-16,Racing Santander,ES1
+286967,Jack Rudoni,2001-06-14,Coventry City,GB1
+291817,Lion Schweers,1996-04-01,Borussia Mönchengladbach,L1
+292225,Ramón Enríquez,2001-04-19,Málaga,ES1
+300471,Alvaro Mantilla,2000-05-09,Racing Santander,ES1
+307725,Mario Vuskovic,2001-11-16,Hamburg SV,L1
+3098218,Alessandro Di Nunzio,,AS Roma,IT1
+3098291,Sean Dulic,,TSG Hoffenheim,L1
+3098337,Clemens Lippmann,,SC Paderborn 07,L1
+3098553,Marcelo Vaz,,Genoa,IT1
+3099527,Dennis Beldenti,,Fiorentina,IT1
+3099569,Hjalte Morel Lærke,,Lecce,IT1
+3099574,Juan Tiago Esteban Poller,,TSG Hoffenheim,L1
+3099575,Jykese Fields,,TSG Hoffenheim,L1
+3100710,Darwin Kaan Soylu,,Werder Bremen,L1
+3100741,Noé Poillion,,Brest,FR1
+3100788,Hugo Pérez Sañudo,,Racing Santander,ES1
+3100792,Frank Germain Jonathan Miller,,Celta Vigo,ES1
+3100794,Enrique Ribes,,Celta Vigo,ES1
+3101324,Nizar El Jmili Ben Hamou,,Villarreal,ES1
+3101325,Cheikh Ahmad Tidiane Thiam,,Villarreal,ES1
+3101327,Sebastián Salazar Trujillo,,Getafe,ES1
+3101339,César Bonafé Ceita,,Villarreal,ES1
+3101887,Julien Piet Friedrich,,1. FC Union Berlin,L1
+3102194,Yanis Kasonga Musuayi,,Levante,ES1
+3102531,Arman Durmiši,,Juventus,IT1
+3102556,Jan-Luca Riedl,,Borussia Dortmund,L1
+3102821,Bruno Galassi,,Lazio,IT1
+3104151,Tim Binder,,Bayern Munich,L1
+3105981,Muhammed Yasin Batuhan Zor,,TSG Hoffenheim,L1
+3106512,Jesús Vizcay Hurtado,,Athletic Club,ES1
+3106924,Paul Bright Max Erevbenagie,,Werder Bremen,L1
+3107094,Jean-Paul N'Diaye,,Schalke 04,L1
+3109554,Niko Iličević,,Eintracht Frankfurt,L1
+3110056,David Podar-Stiube,,Bayern Munich,L1
+3110063,Lorenzo Ossola,,AC Milan,IT1
+3110513,Juani,,Málaga,ES1
+3110515,Otu Junior,,Málaga,ES1
+3111010,Tom Proctor,,Sunderland,GB1
+3111131,Tristan Spranger,,TSG Hoffenheim,L1
+3111134,Oskar Hencke,,TSG Hoffenheim,L1
+3111135,Lion Wagenbach,,TSG Hoffenheim,L1
+3111247,Jan Peries Duran,,Espanyol,ES1
+3111255,Alejandro Santiago,,Espanyol,ES1
+3111599,Mohamed Malang Touré,,Venezia,IT1
+3113344,Mekhi Anthony Gray,,1. FC Union Berlin,L1
+3113346,Elias Etringer,,SV Elversberg,L1
+3114409,Jonathan Friemel,,FC Cologne,L1
+3114443,Thomas Pompei,,Atalanta,IT1
+3114554,Assad Kotya-Fofana,,FC Cologne,L1
+3114681,Mateo Zelic,,SC Freiburg,L1
+3114844,Lucca Benetton,,Crystal Palace,GB1
+3115342,Kelvin Ojo,,Hamburg SV,L1
+3115345,Jason-Dean Bissi Mouelle,,Hamburg SV,L1
+3115809,Marlon Nnamdi Ubani,,Lecce,IT1
+3115980,Ricardo Fúnez Gómez,,Real Betis,ES1
+3115984,Gnangoro Bouare Samake,,Rayo Vallecano,ES1
+3115993,Borja Alonso Cabrera,,Real Betis,ES1
+3116064,Josiah Kaled Uwakhonye,,Borussia Mönchengladbach,L1
+3116071,Iaia Manco Danfa,,Borussia Mönchengladbach,L1
+3117200,Romeo Hueso Moya,,Atlético Madrid,ES1
+3117261,Xavier Junior Mandza Tsiendi,,Nice,FR1
+3117406,Alejandro Moya Grediaga,,Levante,ES1
+3117407,Alexis Ciria,,Real Madrid,ES1
+3117410,Jacobo Ortega Conde,,Strasbourg,FR1
+3118047,Brando Mazzeo,,Fiorentina,IT1
+3121265,Enzo Monchatre,,Brest,FR1
+3121500,Grady Makiobo Makiobo,,Juventus,IT1
+3121652,Younes Idder,,Paris Saint-Germain,FR1
+3121766,Ibrahima Danfakha Keita,,Getafe,ES1
+3121791,Martin Ponsot,,Nice,FR1
+3121808,Rael-Tshimbela Nakuzola,,Mainz,L1
+3122028,Yan Zhuravskyi,,Real Betis,ES1
+3122617,Aritz Conde Albiol,,Athletic Club,ES1
+312338,Haitam Abaida,2002-06-01,Málaga,ES1
+3123405,Divine Onyemachi,,Lecce,IT1
+3124560,Ibra Drammeh,2007-01-06,Getafe,ES1
+3124770,Rodrigo Gamón Martín,,Valencia,ES1
+3124771,Jaume Durá I Soler,,Valencia,ES1
+3124793,Aymen Assab,,AS Monaco,FR1
+3124794,Safouane Benzahra,,AS Monaco,FR1
+3124795,Anis Soubeir,,AS Monaco,FR1
+3125566,Gabriel Jiménez Carpintero,,Racing Santander,ES1
+3125573,Alejandro Laso Molino,,Racing Santander,ES1
+3127048,Nassim Laarej,,Nice,FR1
+3127847,Ricardo Bordon,,Lazio,IT1
+3128651,Iván Alonso Martín,,Rayo Vallecano,ES1
+3128883,Isaac Collins Isoa,,Atalanta,IT1
+3128976,Jorge Castellanos Del Olmo,,Racing Santander,ES1
+3128992,Mikel Bermejo Sola,,Osasuna,ES1
+3129002,Asier Bonel Aicua,,Osasuna,ES1
+3129035,Antonio Stefano Merola,,Juventus,IT1
+3129042,Manel Usedo Domingo,,Levante,ES1
+3129043,Marc Santos Gavilán,,Levante,ES1
+3129044,Ihor Galdin,,Levante,ES1
+3129045,Alberto Calatrava Ragull,,Levante,ES1
+3129214,Yacouba Koné,,Troyes,FR1
+3129530,Dexter Oliver,,Manchester City,GB1
+3129533,Gabriel Kulla,,Sassuolo,IT1
+3129647,Álvaro Padilla Escribá,,Elche,ES1
+3130136,Mack Allan,,AFC Bournemouth,GB1
+3130628,Mattia Sonzogni,,Atalanta,IT1
+3130908,Jules Bouffandeau,,Angers,FR1
+3131322,Andrea Ballanti,,Torino,IT1
+3131323,Manuel Carrascosa Moreno,,Torino,IT1
+3131801,Salimou Danfakha,,AJ Auxerre,FR1
+3131879,Manuel Ángel Castillo Rodríguez,,Sevilla,ES1
+3131891,Aleksandr Ballabio,,Monza,IT1
+3131916,Idrissa Soukouna,,Troyes,FR1
+3131925,Evan Mailly,,Brest,FR1
+3131927,Aboulaye Camara,,Nice,FR1
+3132216,Djibril Ouziad,,Le Havre AC,FR1
+3132863,Matthew Charles Compton,,Ipswich Town,GB1
+3135995,Djelan Morana,,Nice,FR1
+3138825,Claudio Pugliese,,Napoli,IT1
+3139134,Víctor Mullerat Tomas,,Espanyol,ES1
+3139281,Moha Achraf,,Getafe,ES1
+3139430,Enisio Carneiro,,Troyes,FR1
+3140451,Lorenzo Luigi Ginelli,,Como,IT1
+3140851,Théo Collin,,Toulouse,FR1
+3140852,Hakim Dongopandji,,Le Havre AC,FR1
+3140905,Lassana Simakha,,Troyes,FR1
+3141489,Nathanael James Kalembo,,Crystal Palace,GB1
+3143886,Adam Mouak,,Paris Saint-Germain,FR1
+3145436,Milton Agustín Pereyra,,Napoli,IT1
+3145437,Samir Said Haribou,,Lorient,FR1
+3145596,Youssef Khoudda,,AJ Auxerre,FR1
+315460,Jean Vercruysse,2000-07-03,Le Mans,FR1
+318343,Soufian El-Faouzi,2002-07-13,Schalke 04,L1
+323882,Luca Sirch,1999-06-14,SV Elversberg,L1
+324021,Nicolas Kristof,1999-12-20,SV Elversberg,L1
+324945,Yayo,2004-07-30,Deportivo,ES1
+326187,Charlie Hughes,2008-09-19,Hull City,GB1
+326766,Adrian Gantenbein,2001-04-18,Schalke 04,L1
+328740,Óscar Zambrano,2004-04-20,Hull City,GB1
+331533,Daniel Lorenzo,2003-04-05,Málaga,ES1
+331742,Diego Villares,1996-06-17,Deportivo,ES1
+331785,Carlos Puga,2000-11-26,Málaga,ES1
+334281,Lucas Maronnier,2000-03-09,Troyes,FR1
+334794,Enzo Bardeli,2001-04-11,Levante,ES1
+341826,Lukas Finn Pinckert,2000-01-22,SV Elversberg,L1
+341950,Maximilian Kinzig,2003-12-04,Mainz,L1
+342654,Maguette Gueye,2002-12-30,Racing Santander,ES1
+342667,Otto Ruoppi,2006-01-31,Mainz,L1
+343990,Enzo Leopold,2000-07-23,Borussia Mönchengladbach,L1
+344518,Augustin Delbecque,2002-02-03,Le Mans,FR1
+345106,Calvin Brackelmann,1999-08-22,FC Augsburg,L1
+346359,Mouhamed Diop,2000-09-30,Troyes,FR1
+346596,Raphael Kofler,2005-04-26,Cagliari,IT1
+346913,Darryl Ombang,2005-07-11,Leeds United,GB1
+346974,Gabriele Bracaglia,2003-07-19,Frosinone,IT1
+347523,Ewen Jaouen,2005-12-29,Newcastle United,GB1
+349101,Justin Oboavwoduo,2006-08-23,Juventus,IT1
+352751,Gabriele Calvani,2004-01-12,Frosinone,IT1
+354378,Jorge Domínguez,2009-12-21,Atlético Madrid,ES1
+355859,Adam Bakoune,2006-02-06,Monza,IT1
+362553,Alex Borto,2003-11-06,Fulham,GB1
+364593,Laurin Curda,2001-10-30,SC Paderborn 07,L1
+364789,Timur Gayret,1998-08-08,SC Paderborn 07,L1
+364790,Tom Zimmerschied,1998-09-22,SV Elversberg,L1
+365318,Jesse Bisiwu,2008-01-22,Barcelona,ES1
+365351,Chibuzo Nwoko,2005-12-05,Fulham,GB1
+366362,Florian Pruhs,2006-02-06,SC Paderborn 07,L1
+366370,Jano Horst,2002-06-19,SC Paderborn 07,L1
+366828,Jonah Sticker,2004-05-08,SC Paderborn 07,L1
+366972,Matteo Dagasso,2004-04-01,Venezia,IT1
+367058,Nyamekye Awortwie-Grant,2000-08-07,SC Paderborn 07,L1
+368006,Diego Mascardi,2006-09-26,Torino,IT1
+368334,Omar Sissoko,2006-08-18,Paris FC,FR1
+368592,Nosa Obaretin,2003-01-26,Lorient,FR1
+371564,Izan Merino,2006-04-15,Málaga,ES1
+371806,Tjark Scheller,2002-01-12,SC Paderborn 07,L1
+375392,Martín Ochoa,2004-12-20,Deportivo,ES1
+375400,Mohamed Hamdoune,2004-05-24,Getafe,ES1
+376050,Bradley Slade,,Fulham,GB1
+376166,Rafa Garrido,2004-11-09,Málaga,ES1
+377387,Mandjou Camara,2005-11-04,AS Roma,IT1
+377481,Luis Seifert,2004-01-26,SV Elversberg,L1
+377899,Joseph Kalulu Kyatengwa,2004-11-29,Angers,FR1
+379070,Rayan Mandengue,2006-01-06,AJ Auxerre,FR1
+380963,Sebastian Williams,2007-01-10,Crystal Palace,GB1
+381055,Daniel Armer,2007-10-23,Manchester United,GB1
+383070,Justin Lerma,2008-05-05,Borussia Dortmund,L1
+384168,Jesús Martínez,2004-02-08,Getafe,ES1
+385000,Christ Tapé,2006-03-02,Toulouse,FR1
+385593,Vakho Salia,2007-08-30,Newcastle United,GB1
+386387,Merwan Ifnaoui,1998-10-22,Troyes,FR1
+386465,Vitalie Becker,2005-03-03,Schalke 04,L1
+386505,David Puczka,2005-01-26,Genoa,IT1
+387460,Tymur Tutierov,2005-06-11,Sunderland,GB1
+387725,Alessandro Longoni,2008-01-31,Paris Saint-Germain,FR1
+387837,Francesco Stante,2005-01-19,Internazionale,IT1
+387844,Alessandro Sugamele,2007-02-22,Cagliari,IT1
+388239,Sankhoun Diawara,2006-01-13,AC Milan,IT1
+388600,Andres Cespedes,2004-07-22,Málaga,ES1
+388602,Chupete,2004-08-24,Málaga,ES1
+388779,Matteo Cichella,2005-10-04,Frosinone,IT1
+388803,Beñat Gerenabarrena,2003-03-29,Athletic Club,ES1
+389448,Matia Barzic,2004-05-31,Elche,ES1
+392052,Harvey Foster,2007-02-22,Everton,GB1
+392697,Macauley Zepa,2008-07-07,Fulham,GB1
+393424,Theo Julienne,2008-01-11,Arsenal,GB1
+393721,Harold Voyer,1997-03-26,Le Mans,FR1
+394309,Laro Gómez,2006-10-16,Racing Santander,ES1
+394885,Álvaro De Pablo,2002-08-07,Real Betis,ES1
+394958,Curro Burgos,2004-05-30,Getafe,ES1
+395890,Joshua Lambie,2007-11-16,Liverpool,GB1
+397317,Théo Eyoum,2002-01-07,Le Mans,FR1
+397327,Martin Rossignol,2003-11-03,Le Mans,FR1
+397384,Ismail Diallo,2003-08-23,Toulouse,FR1
+397394,Noa Boissé,2006-01-20,Le Mans,FR1
+397596,Mario Solórzano,2005-02-08,Racing Santander,ES1
+397994,Mathys Detourbet,2007-04-29,AS Monaco,FR1
+399007,Maalik Hashi,2008-09-08,Arsenal,GB1
+399562,Mahdi Nicoll-Jazuli,2010-01-06,Chelsea,GB1
+399563,Demi Akarakiri,2008-09-16,Cagliari,IT1
+399564,Reggie Watson,2010-01-26,Chelsea,GB1
+399587,Joel Agyekum,2005-03-08,Hamburg SV,L1
+399747,Dariusz Stalmach,2005-12-08,Werder Bremen,L1
+399893,Marcell Washington,2007-08-21,Arsenal,GB1
+400649,Wei Xiangxin,2008-03-05,AJ Auxerre,FR1
+401325,Tristan Zobel,2003-10-04,SC Paderborn 07,L1
+401421,Alejandro Postigo,2006-01-01,Real Betis,ES1
+403400,Mert Can Ayhan,2006-09-08,Schalke 04,L1
+403575,Brian Fariñas,2006-02-09,Barcelona,ES1
+403576,Iker Rodríguez,2008-02-22,Barcelona,ES1
+403583,Guillem Víctor,2007-05-03,Barcelona,ES1
+403802,Natnael Abraha,2008-03-14,TSG Hoffenheim,L1
+403807,Christian Comotto,2008-04-25,AC Milan,IT1
+403808,Leonardo Bovio,2008-02-04,Internazionale,IT1
+403819,Karlo Pajsar,2008-03-07,Parma,IT1
+403824,Andrea Luongo,2008-02-16,Torino,IT1
+403839,Léo-Paul Bouyer,2008-08-14,AC Milan,IT1
+403843,Emmanuel Mbemba,2008-03-20,Paris FC,FR1
+403898,Mathieu Nguefack,2008-05-14,Borussia Mönchengladbach,L1
+403982,Hermann Diandaga,2008-01-08,Strasbourg,FR1
+403998,Christ Batola,2009-06-03,Troyes,FR1
+404034,Destiny Elimoghale,2009-04-23,Juventus,IT1
+404143,Gil Neves,2008-02-09,FC Cologne,L1
+404381,Alynho Haïdara,2008-07-26,Mainz,L1
+404675,Ibrahim Gomis,2005-03-20,Marseille,FR1
+405490,Illia Voloshyn,2007-01-15,Real Madrid,ES1
+406374,Jeremiaha Maluze,2004-11-11,Eintracht Frankfurt,L1
+406466,Ruben Müller,2005-08-24,SC Paderborn 07,L1
+407583,Rory Mahady,2006-08-16,Leeds United,GB1
+407614,William Harhouz,1999-12-30,Le Mans,FR1
+407682,Cajetan Lenz,2006-06-16,TSG Hoffenheim,L1
+408085,Mouhamed N'Diaye,2005-07-16,Le Havre AC,FR1
+408247,Johannes Siebeking,2006-03-02,Schalke 04,L1
+408339,Julian Etse,2006-03-23,Eintracht Frankfurt,L1
+408508,Olutayo Subuloye,2007-12-18,Chelsea,GB1
+408725,Lorenzo Berardi,2006-04-05,Venezia,IT1
+408779,Roman Murcy,2006-02-23,Troyes,FR1
+408780,Anis Ouzenadji,2006-11-04,Troyes,FR1
+409108,Niklas Mohr,2004-07-23,SC Paderborn 07,L1
+409310,Owen Asemota,2008-04-12,Aston Villa,GB1
+409318,Sergio Martínez,2007-05-15,Real Madrid,ES1
+409565,Aljaz Strajnar,2007-08-16,Monza,IT1
+409634,Lorenzo Paratici,2008-10-21,AS Roma,IT1
+409924,Callum Mills,2008-09-19,Leeds United,GB1
+409974,Edion Gashi,2006-01-22,Schalke 04,L1
+410098,Digne Pounga,2006-05-15,Atalanta,IT1
+410325,Marco Libra,2008-03-21,Bologna,IT1
+410613,Jamal Iddrissou,2007-09-22,Internazionale,IT1
+410646,Ertugrul Yigit,2009-01-08,VfB Stuttgart,L1
+411023,Vladyslav Kysil,2005-06-14,Getafe,ES1
+411027,Ilane Touré,2006-08-04,AS Monaco,FR1
+411412,Vladimir Silva,2009-03-19,Celta Vigo,ES1
+411697,Shane Nti,,Brighton & Hove Albion,GB1
+412245,Mattia Marello,2008-03-13,Internazionale,IT1
+413274,Younes Ibrahim,2008-02-16,Brighton & Hove Albion,GB1
+413727,Loris Husic,2008-01-17,FC Augsburg,L1
+413818,Simone Lontani,2008-01-18,Parma,IT1
+413819,Francesco Cereser,2008-01-05,Torino,IT1
+413855,Max-Edgar Chabot,2008-04-01,Manchester City,GB1
+414075,Andrés Vallecillo,2006-02-21,Racing Santander,ES1
+414116,Kyran Thompson,2009-09-06,Newcastle United,GB1
+414161,Ale Gomes,2008-02-14,Venezia,IT1
+414299,Bil Nsongo,2004-09-21,Deportivo,ES1
+414315,Miguel Adje,2008-02-03,Borussia Dortmund,L1
+414334,Luca Vozar,2007-05-06,Schalke 04,L1
+414361,Lasse Eickel,2008-02-28,SC Paderborn 07,L1
+414372,Archie Howard,2006-12-02,Hull City,GB1
+414398,Noah Donkor,2006-11-25,Troyes,FR1
+415276,Xanet Oláiz,2005-07-18,Alavés,ES1
+416412,Albert Millgramm,2004-11-12,SC Paderborn 07,L1
+416448,Mason Miley,2008-09-29,Newcastle United,GB1
+416496,Orian Goren,2009-03-15,Barcelona,ES1
+416502,Ebrima Tunkara,2010-03-10,Barcelona,ES1
+416511,Jordi Pesquer,2009-01-26,Barcelona,ES1
+416515,Mathis Mout,2007-08-06,Monza,IT1
+417336,Raif Adam,2005-09-07,SV Elversberg,L1
+418536,Adil Bourabaa,2004-11-30,Le Mans,FR1
+418769,Michael Mills,2009-02-18,Newcastle United,GB1
+418840,Samuel Wiafe,2008-06-22,Genoa,IT1
+422929,Christian Imga,2009-02-17,Athletic Club,ES1
+422950,Djibril Diallo,2009-03-09,Parma,IT1
+422953,Federico Croci,2010-07-01,Fiorentina,IT1
+422962,Christian Lupo,2009-05-29,Lecce,IT1
+422968,Kenan Doganay,2009-01-22,Bayer Leverkusen,L1
+422969,Aymen Ammaouch,2009-09-30,Toulouse,FR1
+5324063,Arnis Ademi,,Fiorentina,IT1
+5324162,Jesús Cruz Morales,,Sevilla,ES1
+5325687,Angel Daniel Garcia,,Lyon,FR1
+5325768,Antoine Dominique Henri Valero,,Marseille,FR1
+5325769,Gabriel Minutillo,,Bayer Leverkusen,L1
+5326108,Ibrahim Meïté,,Paris FC,FR1
+5326304,Lenny Videira,,Le Mans,FR1
+5326343,El Hadji Malick Cissé,,AC Milan,IT1
+5326344,Nirash Raffaello Perera,,AC Milan,IT1
+5326345,Luca Menon,,AC Milan,IT1
+5326689,Mauro Roca Martínez,,Villarreal,ES1
+5326690,Sergio Barrera Martín,,Villarreal,ES1
+5326829,Luca Lo Monaco,,Bologna,IT1
+5327243,Dustin Buck,,Bayer Leverkusen,L1
+5327620,Cluver Sambi Mbungu,,Lyon,FR1
+5327645,Nikita Melnyk,,Napoli,IT1
+5327646,Claudio Lieto,,Napoli,IT1
+5327647,Andrea Chiummariello,,Napoli,IT1
+5328183,Arthur Bar,,Paris Saint-Germain,FR1
+5328215,Yéli Traoré,,Lille,FR1
+5330604,Federico Grilli,,Como,IT1
+5331494,Márton Prettenhoffer,,Cagliari,IT1
+5331647,Valerio Maccaroni,,AS Roma,IT1
+5331648,Levente Kilvinger,,AS Roma,IT1
+5331888,Adnane Hamza Kharroubi,,Le Mans,FR1

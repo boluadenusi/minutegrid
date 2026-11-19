@@ -1,0 +1,49 @@
+# Keeps Minute Grid up to date with no one running anything:
+# every 3 hours it fetches new goals and squads from ESPN, rebuilds data/
+# and commits the changes. The host (e.g. Vercel) redeploys on that commit.
+name: Update data
+
+on:
+  schedule:
+    - cron: "23 */3 * * *"   # every 3 hours (GitHub may start it a few minutes late)
+  workflow_dispatch: {}      # "Run workflow" button in the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scripts/requirements.txt
+
+      - run: pip install -r scripts/requirements.txt
+
+      - name: Fetch new goals and squads from ESPN
+        run: python scripts/espn_sync.py
+
+      - name: Rebuild site data
+        run: python scripts/prep.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "minutegrid-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No new data."
+          else
+            git commit -m "Update data $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi

@@ -1,0 +1,2781 @@
+{
+ "window_start": "20161118",
+ "catalogue": [
+  {
+   "code": "afc.asian.cup",
+   "name": "AFC Asian Cup",
+   "first": 2007,
+   "last": 2027,
+   "seasons": 6
+  },
+  {
+   "code": "afc.champions",
+   "name": "AFC Champions League Elite",
+   "first": 2006,
+   "last": 2026,
+   "seasons": 21
+  },
+  {
+   "code": "afc.champions_qual",
+   "name": "AFC Champions League Elite Qualifying",
+   "first": 2026,
+   "last": 2026,
+   "seasons": 1
+  },
+  {
+   "code": "afc.cup",
+   "name": "AFC Champions League Two",
+   "first": 2021,
+   "last": 2026,
+   "seasons": 6
+  },
+  {
+   "code": "afc.cup_qual",
+   "name": "AFC Champions League Two Qualifying",
+   "first": 2026,
+   "last": 2026,
+   "seasons": 1
+  },
+  {
+   "code": "afc.cupq",
+   "name": "AFC Asian Cup Qualifiers",
+   "first": 2006,
+   "last": 2024,
+   "seasons": 6
+  },
+  {
+   "code": "afc.saff.championship",
+   "name": "SAFF Championship",
+   "first": 2018,
+   "last": 2026,
+   "seasons": 4
+  },
+  {
+   "code": "afc.w.asian.cup",
+   "name": "AFC Women's Asian Cup",
+   "first": 2026,
+   "last": 2026,
+   "seasons": 1
+  },
+  {
+   "code": "aff.championship",
+   "name": "ASEAN Championship",
+   "first": 2006,
+   "last": 2026,
+   "seasons": 10
+  },
+  {
+   "code": "arg.1",
+   "name": "Argentine Liga Profesional de Fútbol",
+   "first": 2000,
+   "last": 2026,
+   "seasons": 27
+  },
+  {
+   "code": "arg.2",
+   "name": "Argentine Nacional B",
+   "first": 2007,
+   "last": 2026,
+   "seasons": 20
+  },
+  {
+   "code": "arg.3",
+   "name": "Argentine Primera B",
+   "first": 2008,
+   "last": 2026,
+   "seasons": 18
+  },
+  {
+   "code": "arg.copa",
+   "name": "Copa Argentina",
+   "first": 2011,
+   "last": 2026,
+   "seasons": 14
+  },
+  {
+   "code": "arg.copa_de_la_superliga",
+   "name": "Argentine Copa de la Superliga",
+   "first": 2019,
+   "last": 2020,
+   "seasons": 2
+  },
+  {
+   "code": "arg.supercopa",
+   "name": "Argentine Supercopa",
+   "first": 2014,
+   "last": 2026,
+   "seasons": 10
+  },
+  {
+   "code": "arg.supercopa.internacional",
+   "name": "Argentine Supercopa Internacional",
+   "first": 2023,
+   "last": 2025,
+   "seasons": 3
+  },
+  {
+   "code": "arg.trofeo_de_la_campeones",
+   "name": "Argentine Trofeo de Campeones",
+   "first": 2019,
+   "last": 2025,
+   "seasons": 6
+  },
+  {
+   "code": "aus.1",
+   "name": "Australian A-League Men",
+   "first": 2005,
+   "last": 2026,
+   "seasons": 22
+  },
+  {
+   "code": "aus.w.1",
+   "name": "Australian A-League Women",
+   "first": 2019,
+   "last": 2026,
+   "seasons": 8
+  },
+  {
+   "code": "aut.1",
+   "name": "Austrian Bundesliga",
+   "first": 2000,
+   "last": 2026,
+   "seasons": 22
+  },
+  {
+   "code": "bel.1",
+   "name": "Belgian Pro League",
+   "first": 2000,
+   "last": 2026,
+   "seasons": 22
+  },
+  {
+   "code": "bel.promotion.relegation",
+   "name": "Belgian Pro League Promotion/Relegation Playoffs",
+   "first": 2020,
+   "last": 2025,
+   "seasons": 5
+  },
+  {
+   "code": "bol.1",
+   "name": "Bolivian Liga Profesional",
+   "first": 2005,
+   "last": 2026,
+   "seasons": 21
+  },
+  {
+   "code": "bol.copa",
+   "name": "Copa Bolivia",
+   "first": 2025,
+   "last": 2026,
+   "seasons": 2
+  },
+  {
+   "code": "bol.ply.rel",
+   "name": "Bolivian Liga Profesional Promotion/Relegation Playoffs",
+   "first": 2020,
+   "last": 2025,
+   "seasons": 6
+  },
+  {
+   "code": "bra.1",
+   "name": "Brazilian Serie A",
+   "first": 2006,
+   "last": 2026,
+   "seasons": 21
+  },
+  {
+   "code": "bra.2",
+   "name": "Brazilian Serie B",
+   "first": 2008,
+   "last": 2026,
+   "seasons": 19
+  },
+  {
+   "code": "bra.camp.carioca",
+   "name": "Brazilian Campeonato Carioca",
+   "first": 2006,
+   "last": 2026,
+   "seasons": 20
+  },
+  {
+   "code": "bra.camp.gaucho",
+   "name": "Brazilian Campeonato Gaucho",
+   "first": 2006,
+   "last": 2026,
+   "seasons": 21
+  },
+  {
+   "code": "bra.camp.mineiro",
+   "name": "Brazilian Campeonato Mineiro",
+   "first": 2016,
+   "last": 2026,
+   "seasons": 11
+  },
+  {
+   "code": "bra.camp.paulista",
+   "name": "Brazilian Campeonato Paulista",
+   "first": 2006,
+   "last": 2026,
+   "seasons": 21
+  },
+  {
+   "code": "bra.copa_do_brazil",
+   "name": "Copa do Brasil",
+   "first": 2006,
+   "last": 2026,
+   "seasons": 21
+  },
+  {
+   "code": "bra.supercopa_do_brazil",
+   "name": "Brazilian Supercopa Rei",
+   "first": 2020,
+   "last": 2026,
+   "seasons": 7
+  },
+  {
+   "code": "caf.champions",
+   "name": "CAF Champions League",
+   "first": 2017,
+   "last": 2026,
+   "seasons": 10
+  },
+  {
+   "code": "caf.championship",
+   "name": "African Nations Championship",
+   "first": 2016,
+   "last": 2024,
+   "seasons": 5
+  },
+  {
+   "code": "caf.confed",
+   "name": "CAF Confederation Cup",
+   "first": 2017,
+   "last": 2026,
+   "seasons": 10
+  },
+  {
+   "code": "caf.cosafa",
+   "name": "COSAFA Cup",
+   "first": 2021,
+   "last": 2025,
+   "seasons": 5
+  },
+  {
+   "code": "caf.nations",
+   "name": "Africa Cup of Nations",
+   "first": 2004,
+   "last": 2025,
+   "seasons": 12
+  },
+  {
+   "code": "caf.nations_qual",
+   "name": "Africa Cup of Nations Qualifying",
+   "first": 2014,
+   "last": 2026,
+   "seasons": 7
+  },
+  {
+   "code": "caf.w.nations",
+   "name": "Women's Africa Cup of Nations",
+   "first": 2024,
+   "last": 2026,
+   "seasons": 2
+  },
+  {
+   "code": "campeones.cup",
+   "name": "Campeones Cup",
+   "first": 2018,
+   "last": 2026,
+   "seasons": 8
+  },
+  {
+   "code": "can.w.nsl",
+   "name": "Northern Super League",
+   "first": 2025,
+   "last": 2026,
+   "seasons": 2
+  },
+  {
+   "code": "chi.1",
+   "name": "Chilean Primera División",
+   "first": 2005,
+   "last": 2026,
+   "seasons": 22
+  },
+  {
+   "code": "chi.1.promotion.relegation",
+   "name": "Chilean Primera División Promotion/Relegation Playoffs",
+   "first": 2021,
+   "last": 2021,
+   "seasons": 1
+  },
+  {
+   "code": "chi.copa_chi",
+   "name": "Copa Chile",
+   "first": 2014,
+   "last": 2026,
+   "seasons": 12
+  },
+  {
+   "code": "chi.super_cup",
+   "name": "Chilean Supercopa",
+   "first": 2015,
+   "last": 2026,
+   "seasons": 12
+  },
+  {
+   "code": "chn.1",
+   "name": "Chinese Super League",
+   "first": 2016,
+   "last": 2026,
+   "seasons": 11
+  },
+  {
+   "code": "chn.1.promotion.relegation",
+   "name": "Chinese Super League Promotion/Relegation Playoffs",
+   "first": 2020,
+   "last": 2021,
+   "seasons": 2
+  },
+  {
+   "code": "club.friendly",
+   "name": "Club Friendly",
+   "first": 2003,
+   "last": 2027,
+   "seasons": 20
+  },
+  {
+   "code": "col.1",
+   "name": "Colombian Primera A",
+   "first": 2005,
+   "last": 2026,
+   "seasons": 22
+  },
+  {
+   "code": "col.copa",
+   "name": "Copa Colombia",
+   "first": 2014,
+   "last": 2026,
+   "seasons": 13
+  },
+  {
+   "code": "col.superliga",
+   "name": "Colombian Superliga",
+   "first": 2019,
+   "last": 2026,
+   "seasons": 8
+  },
+  {
+   "code": "concacaf.central.american.cup",
+   "name": "Concacaf Central American Cup",
+   "first": 2024,
+   "last": 2026,
+   "seasons": 3
+  },
+  {
+   "code": "concacaf.champions",
+   "name": "Concacaf Champions Cup",
+   "first": 2008,
+   "last": 2026,
+   "seasons": 18
+  },
+  {
+   "code": "concacaf.champions_cup",
+   "name": "CONCACAF Champions Cup",
+   "first": 2007,
+   "last": 2008,
+   "seasons": 2
+  },
+  {
+   "code": "concacaf.confederations_playoff",
+   "name": "Concacaf Cup",
+   "first": 2015,
+   "last": 2015,
+   "seasons": 1
+  },
+  {
+   "code": "concacaf.gold",
+   "name": "Concacaf Gold Cup",
+   "first": 2003,
+   "last": 2025,
+   "seasons": 12
+  },
+  {
+   "code": "concacaf.gold_qual",
+   "name": "Concacaf Gold Cup Qualifying",
+   "first": 2020,
+   "last": 2025,
+   "seasons": 3
+  },
+  {
+   "code": "concacaf.leagues.cup",
+   "name": "Leagues Cup",
+   "first": 2019,
+   "last": 2026,
+   "seasons": 8
+  },
+  {
+   "code": "concacaf.nations.league",
+   "name": "Concacaf Nations League",
+   "first": 2019,
+   "last": 2026,
+   "seasons": 5
+  },
+  {
+   "code": "concacaf.u23",
+   "name": "CONCACAF U23 Tournament",
+   "first": 2008,
+   "last": 2015,
+   "seasons": 3
+  },
+  {
+   "code": "concacaf.w.champions_cup",
+   "name": "Concacaf W Champions Cup",
+   "first": 2024,
+   "last": 2025,
+   "seasons": 2
+  },
+  {
+   "code": "concacaf.w.gold",
+   "name": "Concacaf W Gold Cup",
+   "first": 2024,
+   "last": 2024,
+   "seasons": 1
+  },
+  {
+   "code": "concacaf.womens.championship",
+   "name": "Concacaf W Championship",
+   "first": 2018,
+   "last": 2026,
+   "seasons": 3
+  },
+  {
+   "code": "conmebol.america",
+   "name": "Copa América",
+   "first": 2001,
+   "last": 2024,
+   "seasons": 9
+  },
+  {
+   "code": "conmebol.america.femenina",
+   "name": "Copa América Femenina",
+   "first": 2022,
+   "last": 2025,
+   "seasons": 2
+  },
+  {
+   "code": "conmebol.libertadores",
+   "name": "CONMEBOL Libertadores",
+   "first": 2002,
+   "last": 2026,
+   "seasons": 24
+  },
+  {
+   "code": "conmebol.recopa",
+   "name": "CONMEBOL Recopa",
+   "first": 2015,
+   "last": 2026,
+   "seasons": 12
+  },
+  {
+   "code": "conmebol.sudamericana",
+   "name": "CONMEBOL Sudamericana",
+   "first": 2005,
+   "last": 2026,
+   "seasons": 22
+  },
+  {
+   "code": "crc.1",
+   "name": "Costa Rican Primera Division",
+   "first": 2006,
+   "last": 2026,
+   "seasons": 21
+  },
+  {
+   "code": "den.1",
+   "name": "Danish Superliga",
+   "first": 2000,
+   "last": 2026,
+   "seasons": 22
+  },
+  {
+   "code": "ecu.1",
+   "name": "LigaPro Ecuador",
+   "first": 2005,
+   "last": 2026,
+   "seasons": 22
+  },
+  {
+   "code": "eng.1",
+   "name": "English Premier League",
+   "first": 2001,
+   "last": 2026,
+   "seasons": 26
+  },
+  {
+   "code": "eng.2",
+   "name": "English League Championship",
+   "first": 2001,
+   "last": 2026,
+   "seasons": 26
+  },
+  {
+   "code": "eng.3",
+   "name": "English League One",
+   "first": 2001,
+   "last": 2026,
+   "seasons": 26
+  },
+  {
+   "code": "eng.4",
+   "name": "English League Two",
+   "first": 2001,
+   "last": 2026,
+   "seasons": 26
+  },
+  {
+   "code": "eng.5",
+   "name": "English National League",
+   "first": 2001,
+   "last": 2026,
+   "seasons": 26
+  },
+  {
+   "code": "eng.charity",
+   "name": "English FA Community Shield",
+   "first": 2001,
+   "last": 2026,
+   "seasons": 26
+  },
+  {
+   "code": "eng.fa",
+   "name": "English FA Cup",
+   "first": 2001,
+   "last": 2026,
+   "seasons": 26
+  },
+  {
+   "code": "eng.fa_qual",
+   "name": "English FA Cup Qualifying",
+   "first": 2026,
+   "last": 2026,
+   "seasons": 1
+  },
+  {
+   "code": "eng.league_cup",
+   "name": "English Carabao Cup",
+   "first": 2001,
+   "last": 2026,
+   "seasons": 26
+  },
+  {
+   "code": "eng.trophy",
+   "name": "English EFL Trophy",
+   "first": 2001,
+   "last": 2026,
+   "seasons": 26
+  },
+  {
+   "code": "eng.w.1",
+   "name": "English Women's Super League",
+   "first": 2011,
+   "last": 2026,
+   "seasons": 12
+  },
+  {
+   "code": "eng.w.fa",
+   "name": "English Women's FA Cup",
+   "first": 2020,
+   "last": 2026,
+   "seasons": 7
+  },
+  {
+   "code": "eng.w.league_cup",
+   "name": "English WSL Players Cup",
+   "first": 2025,
+   "last": 2026,
+   "seasons": 2
+  },
+  {
+   "code": "eng.w.promotion.relegation",
+   "name": "English Women's Super League Promotion/Relegation Playoff",
+   "first": 2025,
+   "last": 2025,
+   "seasons": 1
+  },
+  {
+   "code": "esp.1",
+   "name": "Spanish LALIGA",
+   "first": 2000,
+   "last": 2026,
+   "seasons": 27
+  },
+  {
+   "code": "esp.2",
+   "name": "Spanish LALIGA 2",
+   "first": 2006,
+   "last": 2026,
+   "seasons": 21
+  },
+  {
+   "code": "esp.copa_de_la_reina",
+   "name": "Spanish Copa de la Reina",
+   "first": 2021,
+   "last": 2026,
+   "seasons": 6
+  },
+  {
+   "code": "esp.copa_del_rey",
+   "name": "Spanish Copa del Rey",
+   "first": 2004,
+   "last": 2026,
+   "seasons": 22
+  },
+  {
+   "code": "esp.joan_gamper",
+   "name": "Trofeo Joan Gamper",
+   "first": 2017,
+   "last": 2026,
+   "seasons": 10
+  },
+  {
+   "code": "esp.super_cup",
+   "name": "Spanish Supercopa",
+   "first": 2011,
+   "last": 2026,
+   "seasons": 16
+  },
+  {
+   "code": "esp.w.1",
+   "name": "Spanish Liga F",
+   "first": 2022,
+   "last": 2026,
+   "seasons": 5
+  },
+  {
+   "code": "fifa.concacaf.olympicsq",
+   "name": "Men's Olympic Qualifying Playoff",
+   "first": 2004,
+   "last": 2020,
+   "seasons": 3
+  },
+  {
+   "code": "fifa.conmebol.olympicsq",
+   "name": "CONMEBOL Pre-Olympic Tournament",
+   "first": 2020,
+   "last": 2024,
+   "seasons": 2
+  },
+  {
+   "code": "fifa.cwc",
+   "name": "FIFA Club World Cup",
+   "first": 2005,
+   "last": 2025,
+   "seasons": 20
+  },
+  {
+   "code": "fifa.friendly",
+   "name": "International Friendly",
+   "first": 2001,
+   "last": 2027,
+   "seasons": 27
+  },
+  {
+   "code": "fifa.friendly.w",
+   "name": "Women's International Friendly",
+   "first": 2003,
+   "last": 2027,
+   "seasons": 20
+  },
+  {
+   "code": "fifa.friendly_u21",
+   "name": "Under-21 International Friendly",
+   "first": 2021,
+   "last": 2026,
+   "seasons": 6
+  },
+  {
+   "code": "fifa.intercontinental.cup",
+   "name": "Intercontinental Cup (India)",
+   "first": 2020,
+   "last": 2024,
+   "seasons": 3
+  },
+  {
+   "code": "fifa.intercontinental_cup",
+   "name": "FIFA Intercontinental Cup",
+   "first": 2024,
+   "last": 2026,
+   "seasons": 3
+  },
+  {
+   "code": "fifa.olympics",
+   "name": "Men's Olympic Soccer Tournament",
+   "first": 2008,
+   "last": 2024,
+   "seasons": 5
+  },
+  {
+   "code": "fifa.shebelieves",
+   "name": "SheBelieves Cup",
+   "first": 2020,
+   "last": 2026,
+   "seasons": 7
+  },
+  {
+   "code": "fifa.w.champions_cup",
+   "name": "FIFA Women's Champions Cup",
+   "first": 2026,
+   "last": 2027,
+   "seasons": 2
+  },
+  {
+   "code": "fifa.w.concacaf.olympicsq",
+   "name": "Concacaf Women's Olympic Qualifying",
+   "first": 2004,
+   "last": 2020,
+   "seasons": 2
+  },
+  {
+   "code": "fifa.w.olympics",
+   "name": "Women's Olympic Soccer Tournament",
+   "first": 2004,
+   "last": 2024,
+   "seasons": 6
+  },
+  {
+   "code": "fifa.wcq.ply",
+   "name": "FIFA World Cup Qualifying - Playoff Tournament",
+   "first": 2026,
+   "last": 2026,
+   "seasons": 1
+  },
+  {
+   "code": "fifa.world",
+   "name": "FIFA World Cup",
+   "first": 1930,
+   "last": 2026,
+   "seasons": 23
+  },
+  {
+   "code": "fifa.world.u17",
+   "name": "FIFA Under-17 World Cup",
+   "first": 2007,
+   "last": 2026,
+   "seasons": 9
+  },
+  {
+   "code": "fifa.world.u20",
+   "name": "FIFA Under-20 World Cup",
+   "first": 2003,
+   "last": 2025,
+   "seasons": 10
+  },
+  {
+   "code": "fifa.worldq.afc",
+   "name": "FIFA World Cup Qualifying - AFC",
+   "first": 2006,
+   "last": 2023,
+   "seasons": 13
+  },
+  {
+   "code": "fifa.worldq.caf",
+   "name": "FIFA World Cup Qualifying - CAF",
+   "first": 2006,
+   "last": 2023,
+   "seasons": 12
+  },
+  {
+   "code": "fifa.worldq.concacaf",
+   "name": "FIFA World Cup Qualifying - Concacaf",
+   "first": 2006,
+   "last": 2024,
+   "seasons": 13
+  },
+  {
+   "code": "fifa.worldq.conmebol",
+   "name": "FIFA World Cup Qualifying - CONMEBOL",
+   "first": 2006,
+   "last": 2023,
+   "seasons": 12
+  },
+  {
+   "code": "fifa.worldq.ofc",
+   "name": "FIFA World Cup Qualifying - OFC",
+   "first": 2006,
+   "last": 2024,
+   "seasons": 12
+  },
+  {
+   "code": "fifa.worldq.uefa",
+   "name": "FIFA World Cup Qualifying - UEFA",
+   "first": 2006,
+   "last": 2025,
+   "seasons": 12
+  },
+  {
+   "code": "fifa.wwc",
+   "name": "FIFA Women's World Cup",
+   "first": 2003,
+   "last": 2023,
+   "seasons": 6
+  },
+  {
+   "code": "fifa.wwcq.ply",
+   "name": "FIFA Women's World Cup Qualifying - Playoff Tournament",
+   "first": 2023,
+   "last": 2026,
+   "seasons": 2
+  },
+  {
+   "code": "fifa.wworld.u17",
+   "name": "FIFA Under-17 Women's World Cup",
+   "first": 2022,
+   "last": 2026,
+   "seasons": 4
+  },
+  {
+   "code": "fifa.wworldq.uefa",
+   "name": "FIFA Women's World Cup Qualifying - UEFA",
+   "first": 2021,
+   "last": 2026,
+   "seasons": 2
+  },
+  {
+   "code": "fra.1",
+   "name": "French Ligue 1",
+   "first": 2000,
+   "last": 2026,
+   "seasons": 27
+  },
+  {
+   "code": "fra.1.promotion.relegation",
+   "name": "French Ligue 1 Promotion/Relegation Playoffs",
+   "first": 2019,
+   "last": 2025,
+   "seasons": 6
+  },
+  {
+   "code": "fra.2",
+   "name": "French Ligue 2",
+   "first": 2006,
+   "last": 2026,
+   "seasons": 21
+  },
+  {
+   "code": "fra.coupe_de_france",
+   "name": "Coupe de France",
+   "first": 2006,
+   "last": 2026,
+   "seasons": 21
+  },
+  {
+   "code": "fra.super_cup",
+   "name": "French Trophee des Champions",
+   "first": 2015,
+   "last": 2026,
+   "seasons": 12
+  },
+  {
+   "code": "fra.w.1",
+   "name": "French Première Ligue",
+   "first": 2022,
+   "last": 2026,
+   "seasons": 5
+  },
+  {
+   "code": "friendly.emirates_cup",
+   "name": "Emirates Cup",
+   "first": 2017,
+   "last": 2026,
+   "seasons": 7
+  },
+  {
+   "code": "ger.1",
+   "name": "German Bundesliga",
+   "first": 2000,
+   "last": 2026,
+   "seasons": 27
+  },
+  {
+   "code": "ger.2",
+   "name": "German 2. Bundesliga",
+   "first": 2006,
+   "last": 2026,
+   "seasons": 21
+  },
+  {
+   "code": "ger.2.promotion.relegation",
+   "name": "German Bundesliga 2. Promotion/Relegation Playoffs",
+   "first": 2019,
+   "last": 2025,
+   "seasons": 7
+  },
+  {
+   "code": "ger.dfb_pokal",
+   "name": "German Cup",
+   "first": 2006,
+   "last": 2026,
+   "seasons": 21
+  },
+  {
+   "code": "ger.playoff.relegation",
+   "name": "German Bundesliga Promotion/Relegation Playoff",
+   "first": 2012,
+   "last": 2025,
+   "seasons": 14
+  },
+  {
+   "code": "ger.super_cup",
+   "name": "German Supercup",
+   "first": 2011,
+   "last": 2026,
+   "seasons": 16
+  },
+  {
+   "code": "global.arnold.clark_cup",
+   "name": "Arnold Clark Cup",
+   "first": 2022,
+   "last": 2023,
+   "seasons": 2
+  },
+  {
+   "code": "global.club_challenge",
+   "name": "CONMEBOL-UEFA Club Challenge",
+   "first": 2023,
+   "last": 2023,
+   "seasons": 1
+  },
+  {
+   "code": "global.finalissima",
+   "name": "CONMEBOL-UEFA Cup of Champions",
+   "first": 2022,
+   "last": 2026,
+   "seasons": 2
+  },
+  {
+   "code": "global.gulf_cup",
+   "name": "Arabian Gulf Cup",
+   "first": 2024,
+   "last": 2026,
+   "seasons": 2
+  },
+  {
+   "code": "global.pinatar_cup",
+   "name": "Pinatar Cup",
+   "first": 2022,
+   "last": 2025,
+   "seasons": 4
+  },
+  {
+   "code": "global.u20.intercontinental_cup",
+   "name": "CONMEBOL-UEFA U20 Intercontinental Cup",
+   "first": 2024,
+   "last": 2026,
+   "seasons": 3
+  },
+  {
+   "code": "global.w.finalissima",
+   "name": "CONMEBOL-UEFA Women's Cup of Champions",
+   "first": 2023,
+   "last": 2023,
+   "seasons": 1
+  },
+  {
+   "code": "gre.1",
+   "name": "Greek Super League",
+   "first": 2006,
+   "last": 2026,
+   "seasons": 21
+  },
+  {
+   "code": "gua.1",
+   "name": "Guatemalan Liga Nacional",
+   "first": 2006,
+   "last": 2026,
+   "seasons": 21
+  },
+  {
+   "code": "hon.1",
+   "name": "Honduran Liga Nacional",
+   "first": 2006,
+   "last": 2026,
+   "seasons": 21
+  },
+  {
+   "code": "ind.1",
+   "name": "Indian Super League",
+   "first": 2015,
+   "last": 2026,
+   "seasons": 12
+  },
+  {
+   "code": "ind.2",
+   "name": "Indian Football League",
+   "first": 2017,
+   "last": 2026,
+   "seasons": 10
+  },
+  {
+   "code": "ita.1",
+   "name": "Italian Serie A",
+   "first": 2000,
+   "last": 2026,
+   "seasons": 27
+  },
+  {
+   "code": "ita.2",
+   "name": "Italian Serie B",
+   "first": 2006,
+   "last": 2026,
+   "seasons": 21
+  },
+  {
+   "code": "ita.coppa_italia",
+   "name": "Coppa Italia",
+   "first": 2006,
+   "last": 2026,
+   "seasons": 21
+  },
+  {
+   "code": "ita.super_cup",
+   "name": "Italian Supercoppa",
+   "first": 2011,
+   "last": 2026,
+   "seasons": 16
+  },
+  {
+   "code": "jpn.1",
+   "name": "Japanese J.League",
+   "first": 2006,
+   "last": 2026,
+   "seasons": 21
+  },
+  {
+   "code": "jpn.world_challenge",
+   "name": "Japanese J.League World Challenge",
+   "first": 2017,
+   "last": 2025,
+   "seasons": 5
+  },
+  {
+   "code": "ksa.1",
+   "name": "Saudi Pro League",
+   "first": 2022,
+   "last": 2026,
+   "seasons": 5
+  },
+  {
+   "code": "ksa.kings.cup",
+   "name": "Saudi King's Cup",
+   "first": 2023,
+   "last": 2026,
+   "seasons": 4
+  },
+  {
+   "code": "mex.1",
+   "name": "Mexican Liga BBVA MX",
+   "first": 2000,
+   "last": 2026,
+   "seasons": 27
+  },
+  {
+   "code": "mex.2",
+   "name": "Mexican Liga de Expansión MX",
+   "first": 2008,
+   "last": 2026,
+   "seasons": 19
+  },
+  {
+   "code": "mex.campeon",
+   "name": "Mexican Campeon de Campeones",
+   "first": 2017,
+   "last": 2026,
+   "seasons": 9
+  },
+  {
+   "code": "mex.w.1",
+   "name": "Mexican Liga BBVA MX Femenil",
+   "first": 2026,
+   "last": 2026,
+   "seasons": 1
+  },
+  {
+   "code": "ned.1",
+   "name": "Dutch Eredivisie",
+   "first": 2000,
+   "last": 2026,
+   "seasons": 27
+  },
+  {
+   "code": "ned.2",
+   "name": "Dutch Keuken Kampioen Divisie",
+   "first": 2006,
+   "last": 2026,
+   "seasons": 21
+  },
+  {
+   "code": "ned.3.promotion.relegation",
+   "name": "Dutch Tweede Divisie Promotion/Relegation Playoffs",
+   "first": 2021,
+   "last": 2025,
+   "seasons": 5
+  },
+  {
+   "code": "ned.cup",
+   "name": "Dutch KNVB Beker",
+   "first": 2006,
+   "last": 2026,
+   "seasons": 21
+  },
+  {
+   "code": "ned.playoff.relegation",
+   "name": "Dutch Eredivisie Promotion/Relegation Playoffs",
+   "first": 2012,
+   "last": 2025,
+   "seasons": 13
+  },
+  {
+   "code": "ned.supercup",
+   "name": "Dutch Johan Cruyff Shield",
+   "first": 2016,
+   "last": 2026,
+   "seasons": 10
+  },
+  {
+   "code": "ned.w.1",
+   "name": "Dutch Vrouwen Eredivisie",
+   "first": 2020,
+   "last": 2026,
+   "seasons": 7
+  },
+  {
+   "code": "ned.w.knvb_cup",
+   "name": "Dutch KNVB Beker Vrouwen",
+   "first": 2020,
+   "last": 2026,
+   "seasons": 7
+  },
+  {
+   "code": "nonfifa",
+   "name": "Non-FIFA Friendly",
+   "first": 2020,
+   "last": 2026,
+   "seasons": 4
+  },
+  {
+   "code": "nor.1",
+   "name": "Norwegian Eliteserien",
+   "first": 2008,
+   "last": 2026,
+   "seasons": 19
+  },
+  {
+   "code": "nor.1.promotion.relegation",
+   "name": "Norwegian Eliteserien Promotion/Relegation Playoffs",
+   "first": 2020,
+   "last": 2026,
+   "seasons": 7
+  },
+  {
+   "code": "par.1",
+   "name": "Paraguayan Primera División",
+   "first": 2005,
+   "last": 2026,
+   "seasons": 22
+  },
+  {
+   "code": "par.1.supercopa",
+   "name": "Paraguayan Supercopa",
+   "first": 2021,
+   "last": 2025,
+   "seasons": 4
+  },
+  {
+   "code": "per.1",
+   "name": "Peruvian Liga 1",
+   "first": 2005,
+   "last": 2026,
+   "seasons": 22
+  },
+  {
+   "code": "por.1",
+   "name": "Portuguese Primeira Liga",
+   "first": 2000,
+   "last": 2026,
+   "seasons": 22
+  },
+  {
+   "code": "por.1.promotion.relegation",
+   "name": "Portuguese Primeira Liga Promotion/Relegation Playoffs",
+   "first": 2020,
+   "last": 2025,
+   "seasons": 6
+  },
+  {
+   "code": "por.taca.portugal",
+   "name": "Taca de Portugal",
+   "first": 2021,
+   "last": 2026,
+   "seasons": 6
+  },
+  {
+   "code": "rsa.1",
+   "name": "South African Premiership",
+   "first": 2006,
+   "last": 2026,
+   "seasons": 21
+  },
+  {
+   "code": "rus.1",
+   "name": "Russian Premier League",
+   "first": 2000,
+   "last": 2026,
+   "seasons": 23
+  },
+  {
+   "code": "rus.1.promotion.relegation",
+   "name": "Russian Premier League Relegation/Promotion Playoffs",
+   "first": 2019,
+   "last": 2025,
+   "seasons": 7
+  },
+  {
+   "code": "sco.1",
+   "name": "Scottish Premiership",
+   "first": 2001,
+   "last": 2026,
+   "seasons": 26
+  },
+  {
+   "code": "sco.1.promotion.relegation",
+   "name": "Scottish Premiership Promotion/Relegation Playoffs",
+   "first": 2020,
+   "last": 2025,
+   "seasons": 6
+  },
+  {
+   "code": "sco.2",
+   "name": "Scottish Championship",
+   "first": 2001,
+   "last": 2026,
+   "seasons": 26
+  },
+  {
+   "code": "sco.2.promotion.relegation",
+   "name": "Scottish Championship Promotion/Relegation Playoffs",
+   "first": 2020,
+   "last": 2025,
+   "seasons": 6
+  },
+  {
+   "code": "sco.challenge",
+   "name": "Scottish League Challenge Cup",
+   "first": 2001,
+   "last": 2026,
+   "seasons": 25
+  },
+  {
+   "code": "sco.cis",
+   "name": "Scottish League Cup",
+   "first": 2001,
+   "last": 2026,
+   "seasons": 26
+  },
+  {
+   "code": "sco.tennents",
+   "name": "Scottish Cup",
+   "first": 2001,
+   "last": 2026,
+   "seasons": 26
+  },
+  {
+   "code": "sco.tennents_qual",
+   "name": "Scottish Cup Qualifying",
+   "first": 2026,
+   "last": 2026,
+   "seasons": 1
+  },
+  {
+   "code": "slv.1",
+   "name": "Salvadoran Primera Division",
+   "first": 2006,
+   "last": 2026,
+   "seasons": 21
+  },
+  {
+   "code": "swe.1",
+   "name": "Swedish Allsvenskan",
+   "first": 2008,
+   "last": 2026,
+   "seasons": 19
+  },
+  {
+   "code": "swe.1.promotion.relegation",
+   "name": "Swedish Allsvenskan Promotion/Relegation Playoffs",
+   "first": 2020,
+   "last": 2026,
+   "seasons": 7
+  },
+  {
+   "code": "tur.1",
+   "name": "Turkish Super Lig",
+   "first": 2000,
+   "last": 2026,
+   "seasons": 22
+  },
+  {
+   "code": "uefa.champions",
+   "name": "UEFA Champions League",
+   "first": 2001,
+   "last": 2026,
+   "seasons": 26
+  },
+  {
+   "code": "uefa.champions_qual",
+   "name": "UEFA Champions League Qualifying",
+   "first": 2020,
+   "last": 2026,
+   "seasons": 7
+  },
+  {
+   "code": "uefa.euro",
+   "name": "UEFA European Championship",
+   "first": 2004,
+   "last": 2024,
+   "seasons": 6
+  },
+  {
+   "code": "uefa.euro.u19",
+   "name": "UEFA European Under-19 Championship",
+   "first": 2008,
+   "last": 2026,
+   "seasons": 16
+  },
+  {
+   "code": "uefa.euro_u21",
+   "name": "UEFA European Under-21 Championship",
+   "first": 2007,
+   "last": 2025,
+   "seasons": 11
+  },
+  {
+   "code": "uefa.euro_u21_qual",
+   "name": "UEFA European Under-21 Championship Qualifying",
+   "first": 2021,
+   "last": 2025,
+   "seasons": 3
+  },
+  {
+   "code": "uefa.europa",
+   "name": "UEFA Europa League",
+   "first": 2009,
+   "last": 2026,
+   "seasons": 18
+  },
+  {
+   "code": "uefa.europa.conf",
+   "name": "UEFA Conference League",
+   "first": 2021,
+   "last": 2026,
+   "seasons": 6
+  },
+  {
+   "code": "uefa.europa.conf_qual",
+   "name": "UEFA Conference League Qualifying",
+   "first": 2021,
+   "last": 2026,
+   "seasons": 6
+  },
+  {
+   "code": "uefa.europa_qual",
+   "name": "UEFA Europa League Qualifying",
+   "first": 2020,
+   "last": 2026,
+   "seasons": 7
+  },
+  {
+   "code": "uefa.euroq",
+   "name": "UEFA European Championship Qualifying",
+   "first": 2004,
+   "last": 2023,
+   "seasons": 8
+  },
+  {
+   "code": "uefa.nations",
+   "name": "UEFA Nations League",
+   "first": 2018,
+   "last": 2026,
+   "seasons": 5
+  },
+  {
+   "code": "uefa.super_cup",
+   "name": "UEFA Super Cup",
+   "first": 2005,
+   "last": 2026,
+   "seasons": 22
+  },
+  {
+   "code": "uefa.w.europa",
+   "name": "UEFA Women's Europa Cup",
+   "first": 2025,
+   "last": 2026,
+   "seasons": 2
+  },
+  {
+   "code": "uefa.w.nations",
+   "name": "UEFA Women's Nations League",
+   "first": 2025,
+   "last": 2027,
+   "seasons": 2
+  },
+  {
+   "code": "uefa.wchampions",
+   "name": "UEFA Women's Champions League",
+   "first": 2019,
+   "last": 2026,
+   "seasons": 8
+  },
+  {
+   "code": "uefa.wchampions_qual",
+   "name": "UEFA Women's Champions League Qualifying",
+   "first": 2026,
+   "last": 2026,
+   "seasons": 1
+  },
+  {
+   "code": "uefa.weuro",
+   "name": "UEFA Women's European Championship",
+   "first": 2017,
+   "last": 2025,
+   "seasons": 3
+  },
+  {
+   "code": "uru.1",
+   "name": "Liga AUF Uruguaya",
+   "first": 2005,
+   "last": 2026,
+   "seasons": 22
+  },
+  {
+   "code": "uru.2",
+   "name": "Segunda División de Uruguay",
+   "first": 2008,
+   "last": 2011,
+   "seasons": 3
+  },
+  {
+   "code": "usa.1",
+   "name": "MLS",
+   "first": 1996,
+   "last": 2027,
+   "seasons": 32
+  },
+  {
+   "code": "usa.ncaa.m.1",
+   "name": "NCAA Men's Soccer",
+   "first": 2005,
+   "last": 2026,
+   "seasons": 16
+  },
+  {
+   "code": "usa.ncaa.w.1",
+   "name": "NCAA Women's Soccer",
+   "first": 2005,
+   "last": 2026,
+   "seasons": 16
+  },
+  {
+   "code": "usa.nwsl",
+   "name": "NWSL",
+   "first": 2013,
+   "last": 2026,
+   "seasons": 14
+  },
+  {
+   "code": "usa.nwsl.cup",
+   "name": "NWSL Challenge Cup",
+   "first": 2020,
+   "last": 2026,
+   "seasons": 7
+  },
+  {
+   "code": "usa.open",
+   "name": "U.S. Open Cup",
+   "first": 2003,
+   "last": 2026,
+   "seasons": 17
+  },
+  {
+   "code": "usa.usl.1",
+   "name": "USL Championship",
+   "first": 2008,
+   "last": 2026,
+   "seasons": 12
+  },
+  {
+   "code": "usa.usl.l1",
+   "name": "USL League One",
+   "first": 2020,
+   "last": 2026,
+   "seasons": 7
+  },
+  {
+   "code": "usa.usl.l1.cup",
+   "name": "USL Cup",
+   "first": 2024,
+   "last": 2026,
+   "seasons": 3
+  },
+  {
+   "code": "usa.w.usl.1",
+   "name": "USL Super League",
+   "first": 2025,
+   "last": 2026,
+   "seasons": 2
+  },
+  {
+   "code": "ven.1",
+   "name": "Venezuelan Primera División",
+   "first": 2005,
+   "last": 2026,
+   "seasons": 22
+  }
+ ],
+ "results": {
+  "eng.1": {
+   "tm": "GB1",
+   "name": "Premier League",
+   "listed": {
+    "code": "eng.1",
+    "name": "English Premier League",
+    "first": 2001,
+    "last": 2026,
+    "seasons": 26
+   },
+   "samples": [
+    {
+     "window": "20161119-20161127",
+     "days": 1,
+     "matches": 8,
+     "with_goals": 7,
+     "with_details": 7,
+     "errors": 0
+    },
+    {
+     "window": "20201121-20201129",
+     "days": 1,
+     "matches": 4,
+     "with_goals": 4,
+     "with_details": 4,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "esp.1": {
+   "tm": "ES1",
+   "name": "LaLiga",
+   "listed": {
+    "code": "esp.1",
+    "name": "Spanish LALIGA",
+    "first": 2000,
+    "last": 2026,
+    "seasons": 27
+   },
+   "samples": [
+    {
+     "window": "20161119-20161127",
+     "days": 1,
+     "matches": 4,
+     "with_goals": 3,
+     "with_details": 3,
+     "errors": 0
+    },
+    {
+     "window": "20201121-20201129",
+     "days": 1,
+     "matches": 4,
+     "with_goals": 4,
+     "with_details": 4,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "ger.1": {
+   "tm": "L1",
+   "name": "Bundesliga",
+   "listed": {
+    "code": "ger.1",
+    "name": "German Bundesliga",
+    "first": 2000,
+    "last": 2026,
+    "seasons": 27
+   },
+   "samples": [
+    {
+     "window": "20161119-20161127",
+     "days": 1,
+     "matches": 6,
+     "with_goals": 5,
+     "with_details": 5,
+     "errors": 0
+    },
+    {
+     "window": "20201121-20201129",
+     "days": 1,
+     "matches": 7,
+     "with_goals": 7,
+     "with_details": 7,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "ita.1": {
+   "tm": "IT1",
+   "name": "Serie A",
+   "listed": {
+    "code": "ita.1",
+    "name": "Italian Serie A",
+    "first": 2000,
+    "last": 2026,
+    "seasons": 27
+   },
+   "samples": [
+    {
+     "window": "20161119-20161127",
+     "days": 1,
+     "matches": 3,
+     "with_goals": 3,
+     "with_details": 3,
+     "errors": 0
+    },
+    {
+     "window": "20201121-20201129",
+     "days": 2,
+     "matches": 10,
+     "with_goals": 9,
+     "with_details": 9,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "fra.1": {
+   "tm": "FR1",
+   "name": "Ligue 1",
+   "listed": {
+    "code": "fra.1",
+    "name": "French Ligue 1",
+    "first": 2000,
+    "last": 2026,
+    "seasons": 27
+   },
+   "samples": [
+    {
+     "window": "20161119-20161127",
+     "days": 1,
+     "matches": 5,
+     "with_goals": 5,
+     "with_details": 5,
+     "errors": 0
+    },
+    {
+     "window": "20201121-20201129",
+     "days": 2,
+     "matches": 7,
+     "with_goals": 7,
+     "with_details": 7,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "ned.1": {
+   "tm": "NL1",
+   "name": "Eredivisie",
+   "listed": {
+    "code": "ned.1",
+    "name": "Dutch Eredivisie",
+    "first": 2000,
+    "last": 2026,
+    "seasons": 27
+   },
+   "samples": [
+    {
+     "window": "20161119-20161127",
+     "days": 1,
+     "matches": 5,
+     "with_goals": 4,
+     "with_details": 4,
+     "errors": 0
+    },
+    {
+     "window": "20201121-20201129",
+     "days": 1,
+     "matches": 3,
+     "with_goals": 3,
+     "with_details": 3,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "por.1": {
+   "tm": "PO1",
+   "name": "Liga Portugal",
+   "listed": {
+    "code": "por.1",
+    "name": "Portuguese Primeira Liga",
+    "first": 2000,
+    "last": 2026,
+    "seasons": 22
+   },
+   "samples": [
+    {
+     "window": "20161119-20161127",
+     "days": 8,
+     "matches": 5,
+     "with_goals": 3,
+     "with_details": 3,
+     "errors": 0
+    },
+    {
+     "window": "20201121-20201129",
+     "days": 8,
+     "matches": 4,
+     "with_goals": 4,
+     "with_details": 4,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "sco.1": {
+   "tm": "SC1",
+   "name": "Scottish Premiership",
+   "listed": {
+    "code": "sco.1",
+    "name": "Scottish Premiership",
+    "first": 2001,
+    "last": 2026,
+    "seasons": 26
+   },
+   "samples": [
+    {
+     "window": "20161119-20161127",
+     "days": 1,
+     "matches": 4,
+     "with_goals": 4,
+     "with_details": 4,
+     "errors": 0
+    },
+    {
+     "window": "20201121-20201129",
+     "days": 1,
+     "matches": 5,
+     "with_goals": 5,
+     "with_details": 5,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "bel.1": {
+   "tm": "BE1",
+   "name": "Belgian Pro League",
+   "listed": {
+    "code": "bel.1",
+    "name": "Belgian Pro League",
+    "first": 2000,
+    "last": 2026,
+    "seasons": 22
+   },
+   "samples": [
+    {
+     "window": "20161119-20161127",
+     "days": 1,
+     "matches": 4,
+     "with_goals": 4,
+     "with_details": 4,
+     "errors": 0
+    },
+    {
+     "window": "20201121-20201129",
+     "days": 1,
+     "matches": 4,
+     "with_goals": 4,
+     "with_details": 4,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "aut.1": {
+   "tm": "A1",
+   "name": "Austrian Bundesliga",
+   "listed": {
+    "code": "aut.1",
+    "name": "Austrian Bundesliga",
+    "first": 2000,
+    "last": 2026,
+    "seasons": 22
+   },
+   "samples": [
+    {
+     "window": "20161119-20161127",
+     "days": 1,
+     "matches": 4,
+     "with_goals": 4,
+     "with_details": 4,
+     "errors": 0
+    },
+    {
+     "window": "20201121-20201129",
+     "days": 1,
+     "matches": 3,
+     "with_goals": 3,
+     "with_details": 3,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "den.1": {
+   "tm": "DK1",
+   "name": "Danish Superliga",
+   "listed": {
+    "code": "den.1",
+    "name": "Danish Superliga",
+    "first": 2000,
+    "last": 2026,
+    "seasons": 22
+   },
+   "samples": [
+    {
+     "window": "20161119-20161127",
+     "days": 2,
+     "matches": 4,
+     "with_goals": 4,
+     "with_details": 4,
+     "errors": 0
+    },
+    {
+     "window": "20201121-20201129",
+     "days": 2,
+     "matches": 4,
+     "with_goals": 4,
+     "with_details": 4,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "gre.1": {
+   "tm": "GR1",
+   "name": "Greek Super League",
+   "listed": {
+    "code": "gre.1",
+    "name": "Greek Super League",
+    "first": 2006,
+    "last": 2026,
+    "seasons": 21
+   },
+   "samples": [
+    {
+     "window": "20161119-20161127",
+     "days": 8,
+     "matches": 4,
+     "with_goals": 3,
+     "with_details": 3,
+     "errors": 0
+    },
+    {
+     "window": "20201121-20201129",
+     "days": 1,
+     "matches": 3,
+     "with_goals": 3,
+     "with_details": 3,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "tur.1": {
+   "tm": "TR1",
+   "name": "Süper Lig",
+   "listed": {
+    "code": "tur.1",
+    "name": "Turkish Super Lig",
+    "first": 2000,
+    "last": 2026,
+    "seasons": 22
+   },
+   "samples": [
+    {
+     "window": "20161119-20161127",
+     "days": 1,
+     "matches": 4,
+     "with_goals": 3,
+     "with_details": 3,
+     "errors": 0
+    },
+    {
+     "window": "20201121-20201129",
+     "days": 1,
+     "matches": 4,
+     "with_goals": 4,
+     "with_details": 4,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "rus.1": {
+   "tm": "RU1",
+   "name": "Russian Premier League",
+   "listed": {
+    "code": "rus.1",
+    "name": "Russian Premier League",
+    "first": 2000,
+    "last": 2026,
+    "seasons": 23
+   },
+   "samples": [
+    {
+     "window": "20161119-20161127",
+     "days": 2,
+     "matches": 5,
+     "with_goals": 5,
+     "with_details": 5,
+     "errors": 0
+    },
+    {
+     "window": "20201121-20201129",
+     "days": 1,
+     "matches": 4,
+     "with_goals": 4,
+     "with_details": 4,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "ksa.1": {
+   "tm": "SA1",
+   "name": "Saudi Pro League",
+   "listed": {
+    "code": "ksa.1",
+    "name": "Saudi Pro League",
+    "first": 2022,
+    "last": 2026,
+    "seasons": 5
+   },
+   "samples": [
+    {
+     "window": "20161119-20161127",
+     "days": 9,
+     "matches": 0,
+     "with_goals": 0,
+     "with_details": 0,
+     "errors": 0
+    },
+    {
+     "window": "20201121-20201129",
+     "days": 9,
+     "matches": 0,
+     "with_goals": 0,
+     "with_details": 0,
+     "errors": 0
+    }
+   ],
+   "verdict": "no matches found in the sample"
+  },
+  "arg.1": {
+   "tm": "ARG1",
+   "name": "Argentine Primera",
+   "listed": {
+    "code": "arg.1",
+    "name": "Argentine Liga Profesional de Fútbol",
+    "first": 2000,
+    "last": 2026,
+    "seasons": 27
+   },
+   "samples": [
+    {
+     "window": "20161119-20161127",
+     "days": 1,
+     "matches": 5,
+     "with_goals": 5,
+     "with_details": 5,
+     "errors": 0
+    },
+    {
+     "window": "20201121-20201129",
+     "days": 2,
+     "matches": 6,
+     "with_goals": 4,
+     "with_details": 4,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "mex.1": {
+   "tm": "MEX1",
+   "name": "Liga MX",
+   "listed": {
+    "code": "mex.1",
+    "name": "Mexican Liga BBVA MX",
+    "first": 2000,
+    "last": 2026,
+    "seasons": 27
+   },
+   "samples": [
+    {
+     "window": "20161119-20161127",
+     "days": 1,
+     "matches": 6,
+     "with_goals": 6,
+     "with_details": 6,
+     "errors": 0
+    },
+    {
+     "window": "20201121-20201129",
+     "days": 2,
+     "matches": 4,
+     "with_goals": 4,
+     "with_details": 4,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "aus.1": {
+   "tm": "AUS1",
+   "name": "A-League Men",
+   "listed": {
+    "code": "aus.1",
+    "name": "Australian A-League Men",
+    "first": 2005,
+    "last": 2026,
+    "seasons": 22
+   },
+   "samples": [
+    {
+     "window": "20161119-20161127",
+     "days": 6,
+     "matches": 3,
+     "with_goals": 3,
+     "with_details": 3,
+     "errors": 0
+    },
+    {
+     "window": "20201121-20201129",
+     "days": 9,
+     "matches": 0,
+     "with_goals": 0,
+     "with_details": 0,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "nor.1": {
+   "tm": "NO1",
+   "name": "Eliteserien",
+   "listed": {
+    "code": "nor.1",
+    "name": "Norwegian Eliteserien",
+    "first": 2008,
+    "last": 2026,
+    "seasons": 19
+   },
+   "samples": [
+    {
+     "window": "20170506-20170520",
+     "days": 2,
+     "matches": 7,
+     "with_goals": 6,
+     "with_details": 6,
+     "errors": 0
+    },
+    {
+     "window": "20210508-20210522",
+     "days": 2,
+     "matches": 4,
+     "with_goals": 4,
+     "with_details": 4,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "swe.1": {
+   "tm": "SE1",
+   "name": "Allsvenskan",
+   "listed": {
+    "code": "swe.1",
+    "name": "Swedish Allsvenskan",
+    "first": 2008,
+    "last": 2026,
+    "seasons": 19
+   },
+   "samples": [
+    {
+     "window": "20170506-20170520",
+     "days": 2,
+     "matches": 5,
+     "with_goals": 5,
+     "with_details": 5,
+     "errors": 0
+    },
+    {
+     "window": "20210508-20210522",
+     "days": 1,
+     "matches": 4,
+     "with_goals": 4,
+     "with_details": 4,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "jpn.1": {
+   "tm": "JAP1",
+   "name": "J1 League",
+   "listed": {
+    "code": "jpn.1",
+    "name": "Japanese J.League",
+    "first": 2006,
+    "last": 2026,
+    "seasons": 21
+   },
+   "samples": [
+    {
+     "window": "20170506-20170520",
+     "days": 1,
+     "matches": 3,
+     "with_goals": 3,
+     "with_details": 3,
+     "errors": 0
+    },
+    {
+     "window": "20210508-20210522",
+     "days": 2,
+     "matches": 10,
+     "with_goals": 9,
+     "with_details": 9,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "bra.1": {
+   "tm": "BRA1",
+   "name": "Brasileirão",
+   "listed": {
+    "code": "bra.1",
+    "name": "Brazilian Serie A",
+    "first": 2006,
+    "last": 2026,
+    "seasons": 21
+   },
+   "samples": [
+    {
+     "window": "20170506-20170520",
+     "days": 9,
+     "matches": 9,
+     "with_goals": 8,
+     "with_details": 8,
+     "errors": 0
+    },
+    {
+     "window": "20210508-20210522",
+     "days": 15,
+     "matches": 0,
+     "with_goals": 0,
+     "with_details": 0,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "usa.1": {
+   "tm": "MLS1",
+   "name": "MLS",
+   "listed": {
+    "code": "usa.1",
+    "name": "MLS",
+    "first": 1996,
+    "last": 2027,
+    "seasons": 32
+   },
+   "samples": [
+    {
+     "window": "20170506-20170520",
+     "days": 1,
+     "matches": 8,
+     "with_goals": 8,
+     "with_details": 8,
+     "errors": 0
+    },
+    {
+     "window": "20210508-20210522",
+     "days": 1,
+     "matches": 9,
+     "with_goals": 9,
+     "with_details": 9,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "uefa.champions": {
+   "tm": "CL",
+   "name": "Champions League",
+   "listed": {
+    "code": "uefa.champions",
+    "name": "UEFA Champions League",
+    "first": 2001,
+    "last": 2026,
+    "seasons": 26
+   },
+   "samples": [
+    {
+     "window": "20161122-20161123",
+     "days": 1,
+     "matches": 8,
+     "with_goals": 7,
+     "with_details": 7,
+     "errors": 0
+    },
+    {
+     "window": "20201201-20201202",
+     "days": 1,
+     "matches": 8,
+     "with_goals": 7,
+     "with_details": 7,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "uefa.europa": {
+   "tm": "EL",
+   "name": "Europa League",
+   "listed": {
+    "code": "uefa.europa",
+    "name": "UEFA Europa League",
+    "first": 2009,
+    "last": 2026,
+    "seasons": 18
+   },
+   "samples": [
+    {
+     "window": "20161124-20161124",
+     "days": 1,
+     "matches": 24,
+     "with_goals": 23,
+     "with_details": 23,
+     "errors": 0
+    },
+    {
+     "window": "20201203-20201203",
+     "days": 1,
+     "matches": 24,
+     "with_goals": 22,
+     "with_details": 22,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "uefa.europa.conf": {
+   "tm": "UCOL",
+   "name": "Conference League (since 2021)",
+   "listed": {
+    "code": "uefa.europa.conf",
+    "name": "UEFA Conference League",
+    "first": 2021,
+    "last": 2026,
+    "seasons": 6
+   },
+   "samples": [
+    {
+     "window": "20210916-20210916",
+     "days": 1,
+     "matches": 14,
+     "with_goals": 12,
+     "with_details": 12,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "uefa.champions_qual": {
+   "tm": "CLQ",
+   "name": "Champions League qualifying",
+   "listed": {
+    "code": "uefa.champions_qual",
+    "name": "UEFA Champions League Qualifying",
+    "first": 2020,
+    "last": 2026,
+    "seasons": 7
+   },
+   "samples": [
+    {
+     "window": "20170711-20170719",
+     "days": 9,
+     "matches": 0,
+     "with_goals": 0,
+     "with_details": 0,
+     "errors": 0
+    }
+   ],
+   "verdict": "no matches found in the sample"
+  },
+  "uefa.europa_qual": {
+   "tm": "ELQ",
+   "name": "Europa League qualifying",
+   "listed": {
+    "code": "uefa.europa_qual",
+    "name": "UEFA Europa League Qualifying",
+    "first": 2020,
+    "last": 2026,
+    "seasons": 7
+   },
+   "samples": [
+    {
+     "window": "20170713-20170720",
+     "days": 8,
+     "matches": 0,
+     "with_goals": 0,
+     "with_details": 0,
+     "errors": 0
+    }
+   ],
+   "verdict": "no matches found in the sample"
+  },
+  "uefa.europa.conf_qual": {
+   "tm": "ECLQ",
+   "name": "Conference League qualifying (since 2021)",
+   "listed": {
+    "code": "uefa.europa.conf_qual",
+    "name": "UEFA Conference League Qualifying",
+    "first": 2021,
+    "last": 2026,
+    "seasons": 6
+   },
+   "samples": [
+    {
+     "window": "20210708-20210715",
+     "days": 1,
+     "matches": 30,
+     "with_goals": 26,
+     "with_details": 25,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "uefa.super_cup": {
+   "tm": "USC",
+   "name": "UEFA Super Cup",
+   "listed": {
+    "code": "uefa.super_cup",
+    "name": "UEFA Super Cup",
+    "first": 2005,
+    "last": 2026,
+    "seasons": 22
+   },
+   "samples": [
+    {
+     "window": "20170805-20170810",
+     "days": 6,
+     "matches": 1,
+     "with_goals": 1,
+     "with_details": 1,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "fifa.world": {
+   "tm": "FIWC",
+   "name": "World Cup 2018",
+   "listed": {
+    "code": "fifa.world",
+    "name": "FIFA World Cup",
+    "first": 1930,
+    "last": 2026,
+    "seasons": 23
+   },
+   "samples": [
+    {
+     "window": "20180614-20180618",
+     "days": 2,
+     "matches": 4,
+     "with_goals": 4,
+     "with_details": 4,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "uefa.euro": {
+   "tm": "EURO",
+   "name": "Euro 2020 (played 2021)",
+   "listed": {
+    "code": "uefa.euro",
+    "name": "UEFA European Championship",
+    "first": 2004,
+    "last": 2024,
+    "seasons": 6
+   },
+   "samples": [
+    {
+     "window": "20210611-20210615",
+     "days": 2,
+     "matches": 4,
+     "with_goals": 4,
+     "with_details": 4,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "conmebol.america": {
+   "tm": "COPA",
+   "name": "Copa América 2019",
+   "listed": {
+    "code": "conmebol.america",
+    "name": "Copa América",
+    "first": 2001,
+    "last": 2024,
+    "seasons": 9
+   },
+   "samples": [
+    {
+     "window": "20190614-20190618",
+     "days": 3,
+     "matches": 5,
+     "with_goals": 4,
+     "with_details": 4,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "caf.nations": {
+   "tm": "AFCN",
+   "name": "Africa Cup of Nations 2017",
+   "listed": {
+    "code": "caf.nations",
+    "name": "Africa Cup of Nations",
+    "first": 2004,
+    "last": 2025,
+    "seasons": 12
+   },
+   "samples": [
+    {
+     "window": "20170114-20170120",
+     "days": 2,
+     "matches": 4,
+     "with_goals": 4,
+     "with_details": 4,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "afc.asian.cup": {
+   "tm": "AFAC",
+   "name": "Asian Cup 2019",
+   "listed": {
+    "code": "afc.asian.cup",
+    "name": "AFC Asian Cup",
+    "first": 2007,
+    "last": 2027,
+    "seasons": 6
+   },
+   "samples": [
+    {
+     "window": "20190105-20190110",
+     "days": 2,
+     "matches": 4,
+     "with_goals": 3,
+     "with_details": 3,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "eng.fa": {
+   "tm": "FAC",
+   "name": "FA Cup",
+   "listed": {
+    "code": "eng.fa",
+    "name": "English FA Cup",
+    "first": 2001,
+    "last": 2026,
+    "seasons": 26
+   },
+   "samples": [
+    {
+     "window": "20170106-20170109",
+     "days": 2,
+     "matches": 26,
+     "with_goals": 21,
+     "with_details": 21,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "esp.copa_del_rey": {
+   "tm": "CDR",
+   "name": "Copa del Rey",
+   "listed": {
+    "code": "esp.copa_del_rey",
+    "name": "Spanish Copa del Rey",
+    "first": 2004,
+    "last": 2026,
+    "seasons": 22
+   },
+   "samples": [
+    {
+     "window": "20170103-20170105",
+     "days": 1,
+     "matches": 4,
+     "with_goals": 4,
+     "with_details": 4,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "ger.dfb_pokal": {
+   "tm": "DFB",
+   "name": "DFB-Pokal",
+   "listed": {
+    "code": "ger.dfb_pokal",
+    "name": "German Cup",
+    "first": 2006,
+    "last": 2026,
+    "seasons": 21
+   },
+   "samples": [
+    {
+     "window": "20170207-20170208",
+     "days": 1,
+     "matches": 4,
+     "with_goals": 4,
+     "with_details": 4,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "ita.coppa_italia": {
+   "tm": "CIT",
+   "name": "Coppa Italia",
+   "listed": {
+    "code": "ita.coppa_italia",
+    "name": "Coppa Italia",
+    "first": 2006,
+    "last": 2026,
+    "seasons": 21
+   },
+   "samples": [
+    {
+     "window": "20170111-20170119",
+     "days": 2,
+     "matches": 3,
+     "with_goals": 3,
+     "with_details": 3,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "ned.cup": {
+   "tm": "NLP",
+   "name": "KNVB Beker",
+   "listed": {
+    "code": "ned.cup",
+    "name": "Dutch KNVB Beker",
+    "first": 2006,
+    "last": 2026,
+    "seasons": 21
+   },
+   "samples": [
+    {
+     "window": "20161213-20161215",
+     "days": 2,
+     "matches": 6,
+     "with_goals": 6,
+     "with_details": 6,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "sco.tennents": {
+   "tm": "SFA",
+   "name": "Scottish Cup",
+   "listed": {
+    "code": "sco.tennents",
+    "name": "Scottish Cup",
+    "first": 2001,
+    "last": 2026,
+    "seasons": 26
+   },
+   "samples": [
+    {
+     "window": "20170121-20170122",
+     "days": 1,
+     "matches": 14,
+     "with_goals": 13,
+     "with_details": 13,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "eng.charity": {
+   "tm": "GBCS",
+   "name": "Community Shield",
+   "listed": {
+    "code": "eng.charity",
+    "name": "English FA Community Shield",
+    "first": 2001,
+    "last": 2026,
+    "seasons": 26
+   },
+   "samples": [
+    {
+     "window": "20170805-20170807",
+     "days": 3,
+     "matches": 1,
+     "with_goals": 1,
+     "with_details": 1,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "ger.super_cup": {
+   "tm": "DFL",
+   "name": "German Supercup",
+   "listed": {
+    "code": "ger.super_cup",
+    "name": "German Supercup",
+    "first": 2011,
+    "last": 2026,
+    "seasons": 16
+   },
+   "samples": [
+    {
+     "window": "20170804-20170806",
+     "days": 3,
+     "matches": 1,
+     "with_goals": 1,
+     "with_details": 1,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "ita.super_cup": {
+   "tm": "SCI",
+   "name": "Supercoppa Italiana",
+   "listed": {
+    "code": "ita.super_cup",
+    "name": "Italian Supercoppa",
+    "first": 2011,
+    "last": 2026,
+    "seasons": 16
+   },
+   "samples": [
+    {
+     "window": "20161222-20161224",
+     "days": 3,
+     "matches": 1,
+     "with_goals": 1,
+     "with_details": 1,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "ned.supercup": {
+   "tm": "NLSC",
+   "name": "Johan Cruijff Schaal",
+   "listed": {
+    "code": "ned.supercup",
+    "name": "Dutch Johan Cruyff Shield",
+    "first": 2016,
+    "last": 2026,
+    "seasons": 10
+   },
+   "samples": [
+    {
+     "window": "20170804-20170806",
+     "days": 3,
+     "matches": 1,
+     "with_goals": 1,
+     "with_details": 1,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "fra.super_cup": {
+   "tm": "FRCH",
+   "name": "Trophée des Champions",
+   "listed": {
+    "code": "fra.super_cup",
+    "name": "French Trophee des Champions",
+    "first": 2015,
+    "last": 2026,
+    "seasons": 12
+   },
+   "samples": [
+    {
+     "window": "20170728-20170730",
+     "days": 3,
+     "matches": 1,
+     "with_goals": 1,
+     "with_details": 1,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  },
+  "esp.super_cup": {
+   "tm": "SUC",
+   "name": "Supercopa de España",
+   "listed": {
+    "code": "esp.super_cup",
+    "name": "Spanish Supercopa",
+    "first": 2011,
+    "last": 2026,
+    "seasons": 16
+   },
+   "samples": [
+    {
+     "window": "20170812-20170817",
+     "days": 6,
+     "matches": 2,
+     "with_goals": 2,
+     "with_details": 2,
+     "errors": 0
+    }
+   ],
+   "verdict": "full goal detail at the window start"
+  }
+ }
+}

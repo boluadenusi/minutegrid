@@ -1,0 +1,2567 @@
+athlete_id,tm_player_id,method,espn_name,tm_name,mapped_on
+3141,531277,date of birth + name,Andrés Martín,Andrés Martín,2026-11-18
+4946,118534,date of birth + name,Michael Keane,Michael Keane,2026-11-18
+6327,192765,date of birth + name,Ben Davies,Ben Davies,2026-11-18
+6729,911224,date of birth + name,Alessandro Romano,Alessandro Romano,2026-11-18
+7441,357658,date of birth + name,Mark Travers,Mark Travers,2026-11-18
+12172,948272,date of birth + name,César Palacios,César Palacios,2026-11-18
+16340,834764,goals: 4/4 goals coincide,Javier Guerra,Javi Guerra,2026-11-18
+20975,660867,date of birth + name,Julio Enciso,Julio Enciso,2026-11-18
+21990,1182738,date of birth + name,Abdoulaye Faye,Abdoulaye Faye,2026-11-18
+24412,686965,date of birth + name,Juan Cabal,Juan Cabal,2026-11-18
+30116,381753,date of birth + name,Ilia Gruev,Ilia Gruev,2026-11-18
+30302,161869,date of birth + name,Djibril Sidibé,Djibril Sidibé,2026-11-18
+32572,670861,date of birth + name,Luke Chambers,Luke Chambers,2026-11-18
+38721,918969,date of birth + name,Lamine Camara,Lamine Camara,2026-11-18
+40791,460655,date of birth + name,Moussa Sylla,Moussa Sylla,2026-11-18
+42250,34130,date of birth + name,Tom Heaton,Tom Heaton,2026-11-18
+68070,33571,date of birth + name,Lorenzo De Silvestri,Lorenzo De Silvestri,2026-11-18
+70224,461617,date of birth + name,Rodrigo Riquelme,Rodrigo Riquelme,2026-11-18
+72487,277033,date of birth + name,David Brooks,David Brooks,2026-11-18
+74630,961297,date of birth + name,Rodrigo Mendoza,Rodrigo Mendoza,2026-11-18
+76017,486031,date of birth + name,Nico González,Nico González,2026-11-18
+76762,27992,date of birth + name,Luka Modric,Luka Modrić,2026-11-18
+76884,398131,date of birth + name,Cristian Rivero,Cristian Rivero,2026-11-18
+77072,429259,date of birth + name,Mark McKenzie,Mark McKenzie,2026-11-18
+83494,634427,date of birth + name,Miguel Rodríguez,Miguel Rodríguez,2026-11-18
+84349,1328089,date of birth + shared name word,Javier Navarro,Javi Navarro,2026-11-18
+84774,17259,date of birth + name,Manuel Neuer,Manuel Neuer,2026-11-18
+87297,935230,date of birth + name,Gonzalo García,Gonzalo García,2026-11-18
+88865,537598,date of birth + name,Fabio Vieira,Fábio Vieira,2026-11-18
+88965,82442,date of birth + name,Olivier Giroud,Olivier Giroud,2026-11-18
+89216,126634,date of birth + name,Francesco Rossi,Francesco Rossi,2026-11-18
+91873,54906,date of birth + name,Matteo Darmian,Matteo Darmian,2026-11-18
+92800,72047,date of birth + name,Iago Aspas,Iago Aspas,2026-11-18
+93193,52570,date of birth + name,Fraser Forster,Fraser Forster,2026-11-18
+93435,188077,date of birth + name,Ryan Christie,Ryan Christie,2026-11-18
+93816,27807,date of birth + name,Daniele Padelli,Daniele Padelli,2026-11-18
+96060,453704,date of birth + name,Álvaro Fernández,Álvaro Fernández,2026-11-18
+96970,355915,date of birth + name,Cristian Romero,Cristian Romero,2026-11-18
+97111,353892,date of birth + name,Hiroki Ito,Hiroki Ito,2026-11-18
+99909,698259,date of birth + name,Thomas Kristensen,Thomas Kristensen,2026-11-18
+101451,39918,date of birth + name,Régis Gurtner,Régis Gurtner,2026-11-18
+102053,256178,date of birth + name,Joe Gomez,Joe Gomez,2026-11-18
+102337,28396,date of birth + name,Edin Dzeko,Edin Dzeko,2026-11-18
+102368,711337,date of birth + name,Evanilson,Evanilson,2026-11-18
+104943,234803,date of birth + shared name word,Andy Robertson,Andrew Robertson,2026-11-18
+106139,670858,club + name,Lewis Hall,Lewis Hall,2026-11-18
+106326,785353,date of birth + name,Pablo Ibáñez,Pablo Ibáñez,2026-11-18
+107960,876298,date of birth + name,Matteo Prati,Matteo Prati,2026-11-18
+108482,59377,date of birth + name,David de Gea,David de Gea,2026-11-18
+108662,403151,date of birth + name,Robert Sánchez,Robert Sánchez,2026-11-18
+111114,73564,date of birth + name,Jason Steele,Jason Steele,2026-11-18
+111337,61814,date of birth + name,David Button,David Button,2026-11-18
+112988,1009596,date of birth + shared name word,Michel Diaz,Junior Diaz,2026-11-18
+113733,40680,date of birth + name,Sven Ulreich,Sven Ulreich,2026-11-18
+114031,1119876,date of birth + name,Alex Teixeira,Alex Teixeira,2026-11-18
+115025,88595,date of birth + name,Mauro Vigorito,Mauro Vigorito,2026-11-18
+115271,67063,date of birth + name,Danny Welbeck,Danny Welbeck,2026-11-18
+118279,672381,date of birth + shared name word,Jon Rowe,Jonathan Rowe,2026-11-18
+118444,59016,date of birth + name,David Alaba,David Alaba,2026-11-18
+119332,833884,date of birth + shared name word,Rafael Romero,Rafa Romero,2026-11-18
+119620,57071,date of birth + name,Péter Gulácsi,Péter Gulácsi,2026-11-18
+120829,691892,date of birth + name,Nathaniel Brown,Nathaniel Brown,2026-11-18
+121007,21327,date of birth + name,Ron-Robert Zieler,Ron-Robert Zieler,2026-11-18
+121036,75411,date of birth + name,Carlo Pinsoglio,Carlo Pinsoglio,2026-11-18
+122260,58864,date of birth + name,Pierre-Emerick Aubameyang,Pierre-Emerick Aubameyang,2026-11-18
+122268,61841,date of birth + name,Adam Smith,Adam Smith,2026-11-18
+122273,31653,date of birth + name,Tobias Sippel,Tobias Sippel,2026-11-18
+122280,45672,date of birth + name,Kevin Trapp,Kevin Trapp,2026-11-18
+122292,284769,date of birth + name,Florian Müller,Florian Müller,2026-11-18
+122396,40034,date of birth + name,Jens Grahl,Jens Grahl,2026-11-18
+123683,84301,date of birth + name,Benjamin André,Benjamin André,2026-11-18
+124091,240306,date of birth + name,Bruno Fernandes,Bruno Fernandes,2026-11-18
+125200,257062,date of birth + name,Álvaro García,Álvaro García,2026-11-18
+125383,66106,date of birth + name,Sergio Canales,Sergio Canales,2026-11-18
+125749,76467,date of birth + name,Kiko Femenía,Kiko Femenía,2026-11-18
+126703,74960,date of birth + name,Martin Dúbravka,Martin Dúbravka,2026-11-18
+127262,61651,date of birth + name,Jordan Henderson,Jordan Henderson,2026-11-18
+128521,49723,date of birth + name,Timothy Chandler,Timothy Chandler,2026-11-18
+128714,466794,date of birth + name,Eric García,Eric García,2026-11-18
+130036,94529,date of birth + name,Stephan El Shaarawy,Stephan El Shaarawy,2026-11-18
+130877,99397,date of birth + name,Karl Darlow,Karl Darlow,2026-11-18
+131634,44058,date of birth + name,Wojciech Szczesny,Wojciech Szczesny,2026-11-18
+131742,60543,date of birth + name,Mathieu Gorgelin,Mathieu Gorgelin,2026-11-18
+131743,60561,date of birth + name,Anthony Lopes,Anthony Lopes,2026-11-18
+132233,124884,date of birth + name,Marco Bizot,Marco Bizot,2026-11-18
+132659,82873,date of birth + name,Pascal Gross,Pascal Groß,2026-11-18
+133259,102423,date of birth + name,Leandro Cabrera,Leandro Cabrera,2026-11-18
+133768,61812,date of birth + name,Yuri Berchiche,Yuri Berchiche,2026-11-18
+134103,314398,date of birth + name,Lee Jae-Sung,Jae-sung Lee,2026-11-18
+134169,48015,date of birth + name,Lukas Hradecky,Lukas Hradecky,2026-11-18
+134190,108725,date of birth + name,Chris Wood,Chris Wood,2026-11-18
+134283,108390,date of birth + name,Thibaut Courtois,Thibaut Courtois,2026-11-18
+134947,88755,date of birth + name,Kevin De Bruyne,Kevin De Bruyne,2026-11-18
+135422,93936,date of birth + shared name word,Enrique García,Kike García,2026-11-18
+135743,74683,date of birth + name,Nemanja Matic,Nemanja Matić,2026-11-18
+136673,74294,date of birth + name,Nemanja Gudelj,Nemanja Gudelj,2026-11-18
+136865,86784,date of birth + name,Ricardo Rodríguez,Ricardo Rodríguez,2026-11-18
+137397,127191,date of birth + name,Formose Mendy,Formose Mendy,2026-11-18
+138213,55089,date of birth + name,Oliver Baumann,Oliver Baumann,2026-11-18
+138398,111819,date of birth + name,Neto,Neto,2026-11-18
+138448,905997,date of birth + name,Pablo Durán,Pablo Durán,2026-11-18
+138481,123536,date of birth + name,Simon Moore,Simon Moore,2026-11-18
+138563,122115,date of birth + name,Vincent Sasso,Vincent Sasso,2026-11-18
+138924,123682,date of birth + name,Callum Wilson,Callum Wilson,2026-11-18
+139008,537602,goals: 2/2 goals coincide,Joao Victor,João Mário,2026-11-18
+139363,124901,date of birth + name,Benjamin Leroy,Benjamin Leroy,2026-11-18
+139520,46580,date of birth + name,Andrej Kramaric,Andrej Kramaric,2026-11-18
+139744,458178,date of birth + name,Jack Taylor,Jack Taylor,2026-11-18
+140033,123275,date of birth + name,Tom Cairney,Tom Cairney,2026-11-18
+140624,106405,date of birth + name,Jeffrey Gouweleeuw,Jeffrey Gouweleeuw,2026-11-18
+140754,127108,date of birth + name,Florian Lejeune,Florian Lejeune,2026-11-18
+140791,74229,date of birth + name,Koke,Koke,2026-11-18
+141438,128969,date of birth + name,Mathew Ryan,Mathew Ryan,2026-11-18
+141705,142389,date of birth + name,Mark Gillespie,Mark Gillespie,2026-11-18
+142200,132098,date of birth + name,Harry Kane,Harry Kane,2026-11-18
+142743,1071430,date of birth + name,Lassine Diarra,Lassine Diarra,2026-11-18
+143007,136401,date of birth + name,Daniel Bentley,Daniel Bentley,2026-11-18
+143020,74842,date of birth + name,Mario Götze,Mario Götze,2026-11-18
+143100,96254,date of birth + name,Pietro Terracciano,Pietro Terracciano,2026-11-18
+143564,85288,date of birth + name,Isco,Isco,2026-11-18
+143643,126737,date of birth + name,Juanmi,Juanmi,2026-11-18
+144620,82350,date of birth + name,Stefan Bell,Stefan Bell,2026-11-18
+144720,303657,date of birth + shared name word,Andrei Radu,Ionuț Radu,2026-11-18
+144759,118997,date of birth + name,Aitor Fernández,Aitor Fernández,2026-11-18
+145078,99922,date of birth + name,Marc Bartra,Marc Bartra,2026-11-18
+145138,155038,date of birth + name,Matteo Grandi,Matteo Grandi,2026-11-18
+145190,131225,date of birth + name,Nicolás Tagliafico,Nicolás Tagliafico,2026-11-18
+145565,585700,date of birth + name,Juan Cruz,Juan Cruz,2026-11-18
+146127,112515,date of birth + name,Marcos Alonso,Marcos Alonso,2026-11-18
+146335,133179,date of birth + name,Marten de Roon,Marten de Roon,2026-11-18
+146485,75921,date of birth + name,Christopher Trimmel,Christopher Trimmel,2026-11-18
+146679,493003,date of birth + name,Daniel Muñoz,Daniel Muñoz,2026-11-18
+146804,120205,date of birth + name,Michael Gregoritsch,Michael Gregoritsch,2026-11-18
+147106,148153,date of birth + name,Lewis Dunk,Lewis Dunk,2026-11-18
+147625,55735,date of birth + name,Henrikh Mkhitaryan,Henrikh Mkhitaryan,2026-11-18
+148515,215810,date of birth + name,Tom King,Tom King,2026-11-18
+148974,118689,date of birth + name,Leonardo Spinazzola,Leonardo Spinazzola,2026-11-18
+149276,43824,date of birth + name,Kevin Müller,Kevin Müller,2026-11-18
+149297,90317,date of birth + name,Daniel Batz,Daniel Batz,2026-11-18
+149306,581326,date of birth + name,Ville Koski,Ville Koski,2026-11-18
+149517,127181,date of birth + name,Benjamin Lecomte,Benjamin Lecomte,2026-11-18
+149622,121483,date of birth + name,Jan Oblak,Jan Oblak,2026-11-18
+149981,111455,date of birth + name,Granit Xhaka,Granit Xhaka,2026-11-18
+150081,81512,date of birth + name,Christian Kabasele,Christian Kabasele,2026-11-18
+150374,608382,date of birth + name,Adrián Rodríguez,Adrián Rodríguez,2026-11-18
+150450,111041,date of birth + name,Zacharie Boucher,Zacharie Boucher,2026-11-18
+150451,80293,date of birth + name,Aïssa Mandi,Aïssa Mandi,2026-11-18
+152044,124555,date of birth + name,Cristiano Biraghi,Cristiano Biraghi,2026-11-18
+152270,127189,date of birth + name,Geoffrey Kondogbia,Geoffrey Kondogbia,2026-11-18
+152469,131978,date of birth + name,Ross Barkley,Ross Barkley,2026-11-18
+152479,146310,date of birth + name,Wataru Endo,Wataru Endo,2026-11-18
+153613,169416,date of birth + name,Matt Crooks,Matt Crooks,2026-11-18
+153765,72476,date of birth + name,Bernd Leno,Bernd Leno,2026-11-18
+154595,51471,date of birth + name,Mateo Kovacic,Mateo Kovacic,2026-11-18
+154603,85906,date of birth + name,Danny da Costa,Danny da Costa,2026-11-18
+155226,173504,date of birth + name,James Tarkowski,James Tarkowski,2026-11-18
+155532,175722,date of birth + name,Eric Dier,Eric Dier,2026-11-18
+155904,169880,date of birth + name,Giovanni Di Lorenzo,Giovanni Di Lorenzo,2026-11-18
+156172,177467,date of birth + name,Gerard Moreno,Gerard Moreno,2026-11-18
+156416,93763,date of birth + name,Alexander Schwolow,Alexander Schwolow,2026-11-18
+156799,378710,date of birth + name,Richarlison,Richarlison,2026-11-18
+156898,184892,date of birth + name,Florian Thauvin,Florian Thauvin,2026-11-18
+157073,177907,date of birth + name,Harry Maguire,Harry Maguire,2026-11-18
+157568,184767,date of birth + name,Ximo Navarro,Ximo Navarro,2026-11-18
+157688,503482,date of birth + name,Kim Min-Jae,Min-jae Kim,2026-11-18
+157708,126751,date of birth + name,Iñigo Ruiz de Galarreta,Iñigo Ruiz de Galarreta,2026-11-18
+157739,170472,date of birth + name,Dimitri Foulquier,Dimitri Foulquier,2026-11-18
+157892,139208,date of birth + name,Virgil van Dijk,Virgil van Dijk,2026-11-18
+157933,128899,date of birth + name,Jack Butland,Jack Butland,2026-11-18
+157974,186590,date of birth + name,John Stones,John Stones,2026-11-18
+158066,102226,date of birth + name,Thorgan Hazard,Thorgan Hazard,2026-11-18
+158151,85295,date of birth + name,Iván Balliu,Iván Balliu,2026-11-18
+158626,111873,date of birth + name,Emiliano Martínez,Emiliano Martínez,2026-11-18
+159047,181767,date of birth + name,Marquinhos,Marquinhos,2026-11-18
+159051,181778,date of birth + name,Emerson,Emerson,2026-11-18
+159135,124419,date of birth + shared name word,Odisseas Vlachodimos,Odysseas Vlachodimos,2026-11-18
+159139,119211,date of birth + name,Mitchell Weiser,Mitchell Weiser,2026-11-18
+159142,119296,date of birth + name,Emre Can,Emre Can,2026-11-18
+159152,124410,date of birth + name,Rani Khedira,Rani Khedira,2026-11-18
+159312,189744,date of birth + name,Paul Nardi,Paul Nardi,2026-11-18
+159317,176553,date of birth + name,Aymeric Laporte,Aymeric Laporte,2026-11-18
+159348,165793,date of birth + name,Takumi Minamino,Takumi Minamino,2026-11-18
+159443,130164,date of birth + name,Jordan Pickford,Jordan Pickford,2026-11-18
+159543,167799,date of birth + name,Pierre-Emile Højbjerg,Pierre-Emile Højbjerg,2026-11-18
+160115,126664,date of birth + name,Lucas Digne,Lucas Digne,2026-11-18
+161715,192080,date of birth + name,Nick Pope,Nick Pope,2026-11-18
+161825,81173,date of birth + name,Janis Blaswich,Janis Blaswich,2026-11-18
+162111,99451,date of birth + name,Markus Kolke,Markus Kolke,2026-11-18
+162162,93740,date of birth + name,Willi Orbán,Willi Orbán,2026-11-18
+162843,193116,date of birth + name,John McGinn,John McGinn,2026-11-18
+163068,165007,date of birth + name,Denis Suárez,Denis Suárez,2026-11-18
+164126,191056,date of birth + name,Brice Samba,Brice Samba,2026-11-18
+164148,194386,date of birth + name,Alex Cairns,Alex Cairns,2026-11-18
+164187,174196,date of birth + name,Kenny Lala,Kenny Lala,2026-11-18
+164581,135747,date of birth + name,Luca Lezzerini,Luca Lezzerini,2026-11-18
+164826,424042,date of birth + name,Nahuel Molina,Nahuel Molina,2026-11-18
+164839,206050,date of birth + name,Paulo Dybala,Paulo Dybala,2026-11-18
+164895,35047,date of birth + name,Axel Witsel,Axel Witsel,2026-11-18
+165334,165467,date of birth + name,Stole Dimitrievski,Stole Dimitrievski,2026-11-18
+165424,107775,date of birth + name,Frederik Ronnow,Frederik Rönnow,2026-11-18
+165764,85864,date of birth + name,Loris Karius,Loris Karius,2026-11-18
+166396,193082,date of birth + name,Alejandro Grimaldo,Alejandro Grimaldo,2026-11-18
+166473,100986,date of birth + name,Thomas Meunier,Thomas Meunier,2026-11-18
+167127,183288,date of birth + name,Luke Shaw,Luke Shaw,2026-11-18
+167192,229604,date of birth + name,Gerónimo Rulli,Gerónimo Rulli,2026-11-18
+167297,203043,date of birth + name,Pedro Bigas,Pedro Bigas,2026-11-18
+168421,207014,date of birth + name,Will Hughes,Will Hughes,2026-11-18
+168424,121324,date of birth + name,John Egan,John Egan,2026-11-18
+168453,401529,date of birth + name,Dodô,Dodô,2026-11-18
+168531,138927,date of birth + shared name word,Dani Carvajal,Daniel Carvajal,2026-11-18
+168746,208379,date of birth + name,Christian Walton,Christian Walton,2026-11-18
+169089,175449,date of birth + name,Moi Gómez,Moi Gómez,2026-11-18
+169189,223967,date of birth + name,Konrad Laimer,Konrad Laimer,2026-11-18
+169213,199248,date of birth + name,Bryan Cristante,Bryan Cristante,2026-11-18
+169438,86202,date of birth + name,Antonio Rüdiger,Antonio Rüdiger,2026-11-18
+169481,282349,date of birth + name,Timo Becker,Timo Becker,2026-11-18
+169532,192279,date of birth + name,Kepa Arrizabalaga,Kepa Arrizabalaga,2026-11-18
+169753,58995,date of birth + name,Anthony Jung,Anthony Jung,2026-11-18
+170154,213670,date of birth + name,Lucas Torró,Lucas Torró,2026-11-18
+170209,124502,date of birth + name,Matthias Ginter,Matthias Ginter,2026-11-18
+170257,75489,date of birth + name,Niclas Füllkrug,Niclas Füllkrug,2026-11-18
+170553,94005,date of birth + name,Sead Kolasinac,Sead Kolasinac,2026-11-18
+170604,177779,date of birth + name,Janik Haberer,Janik Haberer,2026-11-18
+170663,121985,date of birth + name,Juan Jesus,Juan Jesus,2026-11-18
+170785,126414,date of birth + name,Hakan Çalhanoglu,Hakan Çalhanoğlu,2026-11-18
+171701,93604,date of birth + name,Lukas Kübler,Lukas Kübler,2026-11-18
+172836,199527,date of birth + name,Jacob Murphy,Jacob Murphy,2026-11-18
+172850,203460,date of birth + name,Jack Grealish,Jack Grealish,2026-11-18
+172997,118847,date of birth + name,Dominik Kohr,Dominik Kohr,2026-11-18
+173247,262939,date of birth + name,Johan Mojica,Johan Mojica,2026-11-18
+173266,215977,date of birth + name,Adrien Thomasson,Adrien Thomasson,2026-11-18
+173282,184894,date of birth + name,Alfred Duncan,Alfred Duncan,2026-11-18
+173749,144128,date of birth + name,Matías Dituro,Matías Dituro,2026-11-18
+173817,177843,date of birth + name,Domenico Berardi,Domenico Berardi,2026-11-18
+173907,106987,date of birth + name,Marcel Sabitzer,Marcel Sabitzer,2026-11-18
+174521,94192,date of birth + name,Patrick Drewes,Patrick Drewes,2026-11-18
+174550,153084,date of birth + name,Leon Goretzka,Leon Goretzka,2026-11-18
+174617,227085,date of birth + name,Jonas Hofmann,Jonas Hofmann,2026-11-18
+174618,93707,date of birth + name,Christian Günter,Christian Günter,2026-11-18
+174915,199976,date of birth + name,Marco Sportiello,Marco Sportiello,2026-11-18
+174967,221316,date of birth + name,Lucas Vázquez,Lucas Vázquez,2026-11-18
+174971,162038,date of birth + name,Raúl de Tomás,Raúl de Tomás,2026-11-18
+175006,106872,date of birth + name,Kevin Stöger,Kevin Stöger,2026-11-18
+175063,242631,date of birth + name,Alex Iwobi,Alex Iwobi,2026-11-18
+175069,85543,date of birth + name,Niklas Lomb,Niklas Lomb,2026-11-18
+175887,160938,date of birth + name,Marc-Oliver Kempf,Marc Oliver Kempf,2026-11-18
+175905,168989,date of birth + name,Silvan Widmer,Silvan Widmer,2026-11-18
+176203,182913,date of birth + name,Adrien Rabiot,Adrien Rabiot,2026-11-18
+176312,175446,date of birth + name,Jonny,Jonny Otto,2026-11-18
+176399,182712,date of birth + name,João Cancelo,João Cancelo,2026-11-18
+176406,234802,date of birth + name,Renaud Ripart,Renaud Ripart,2026-11-18
+176816,174094,date of birth + name,Morgan Sanson,Morgan Sanson,2026-11-18
+177545,116648,date of birth + name,Marcus Bettinelli,Marcus Bettinelli,2026-11-18
+177652,160241,date of birth + name,Kevin Akpoguma,Kevin Akpoguma,2026-11-18
+177782,181136,date of birth + name,Piotr Zielinski,Piotr Zielinski,2026-11-18
+177812,238537,date of birth + name,Wladimiro Falcone,Wladimiro Falcone,2026-11-18
+177821,125714,date of birth + name,Mark Flekken,Mark Flekken,2026-11-18
+177862,167491,date of birth + name,Stefano Sabelli,Stefano Sabelli,2026-11-18
+177927,242359,date of birth + name,Juan Musso,Juan Musso,2026-11-18
+178051,251912,date of birth + name,Semi Ajayi,Semi Ajayi,2026-11-18
+178077,148367,date of birth + name,Christian Nørgaard,Christian Nørgaard,2026-11-18
+178328,213260,date of birth + name,Rubén García,Rubén García,2026-11-18
+178380,76158,date of birth + name,Alexander Meyer,Alexander Meyer,2026-11-18
+178627,199733,date of birth + name,Danilo Cataldi,Danilo Cataldi,2026-11-18
+178747,221322,date of birth + name,José Gayà,José Gayà,2026-11-18
+178760,217115,date of birth + name,Neal Maupay,Neal Maupay,2026-11-18
+178978,191217,date of birth + name,Héctor Bellerín,Héctor Bellerín,2026-11-18
+178980,159471,date of birth + name,Serge Gnabry,Serge Gnabry,2026-11-18
+179187,245537,date of birth + name,Nabil Bentaleb,Nabil Bentaleb,2026-11-18
+179211,94308,date of birth + name,Marko Dmitrovic,Marko Dmitrovic,2026-11-18
+179233,135343,date of birth + name,Fabian Schär,Fabian Schär,2026-11-18
+179358,80894,date of birth + name,Lukasz Skorupski,Lukasz Skorupski,2026-11-18
+179359,191891,date of birth + name,Arkadiusz Milik,Arkadiusz Milik,2026-11-18
+179497,127202,date of birth + name,Matz Sels,Matz Sels,2026-11-18
+179571,185077,date of birth + name,Vincenzo Grifo,Vincenzo Grifo,2026-11-18
+180162,84993,date of birth + name,Daniel Heuer Fernandes,Daniel Heuer Fernandes,2026-11-18
+180174,249636,date of birth + name,Gautier Lloris,Gautier Lloris,2026-11-18
+180444,396334,date of birth + name,Joaquín Muñoz,Joaquín Muñoz,2026-11-18
+180956,197300,date of birth + name,Federico Bernardeschi,Federico Bernardeschi,2026-11-18
+180998,159088,date of birth + name,Robert Andrich,Robert Andrich,2026-11-18
+181060,242940,date of birth + name,Edoardo Goldaniga,Edoardo Goldaniga,2026-11-18
+181092,197642,date of birth + name,Chuba Akpom,Chuba Akpom,2026-11-18
+181133,238626,date of birth + name,Laurent Abergel,Laurent Abergel,2026-11-18
+181192,228444,date of birth + name,Ridgeciano Haps,Ridgeciano Haps,2026-11-18
+181288,126746,date of birth + name,Germán Parreño,Germán Parreño,2026-11-18
+181312,253677,date of birth + name,Tyrone Mings,Tyrone Mings,2026-11-18
+181322,70580,date of birth + name,Raffaele Di Gennaro,Raffaele Di Gennaro,2026-11-18
+181355,221150,date of birth + name,Djené,Dakonam Djené,2026-11-18
+181530,246291,date of birth + name,Diego Llorente,Diego Llorente,2026-11-18
+181673,162959,date of birth + name,Daniele Rugani,Daniele Rugani,2026-11-18
+181757,302371,date of birth + name,Toni Martínez,Toni Martínez,2026-11-18
+181836,197929,date of birth + name,Ivan Provedel,Ivan Provedel,2026-11-18
+181946,203746,date of birth + name,Ruben Aguilar,Ruben Aguilar,2026-11-18
+182245,157635,date of birth + name,Yussuf Poulsen,Yussuf Poulsen,2026-11-18
+182627,173859,date of birth + name,Davide Zappacosta,Davide Zappacosta,2026-11-18
+184488,819590,date of birth + name,José Salinas,José Salinas,2026-11-18
+184550,196813,date of birth + name,Michael Zetterer,Michael Zetterer,2026-11-18
+184737,241923,date of birth + name,Lorenzo Montipò,Lorenzo Montipò,2026-11-18
+184883,238752,date of birth + name,Keita Baldé,Keita Baldé,2026-11-18
+185906,193033,date of birth + name,Tim Kleindienst,Tim Kleindienst,2026-11-18
+186024,129674,date of birth + name,Jeremy Toljan,Jeremy Toljan,2026-11-18
+186026,162434,date of birth + name,Niklas Stark,Niklas Stark,2026-11-18
+186381,270541,date of birth + name,Serhou Guirassy,Serhou Guirassy,2026-11-18
+186408,250779,date of birth + name,Brendan Chardonnet,Brendan Chardonnet,2026-11-18
+186430,196948,date of birth + name,Andreas Christensen,Andreas Christensen,2026-11-18
+186437,235931,date of birth + name,Alessandro Deiola,Alessandro Deiola,2026-11-18
+186457,1144700,date of birth + name,Matías Moreno,Matías Moreno,2026-11-18
+186505,202886,date of birth + name,Ruben Loftus-Cheek,Ruben Loftus-Cheek,2026-11-18
+187647,274862,date of birth + name,Moses Simon,Moses Simon,2026-11-18
+187946,205927,date of birth + name,Dominik Livakovic,Dominik Livakovic,2026-11-18
+188052,196357,date of birth + name,Jonathan Tah,Jonathan Tah,2026-11-18
+188057,119557,date of birth + name,Kenan Karaman,Kenan Karaman,2026-11-18
+188230,238407,date of birth + name,Alexander Sørloth,Alexander Sørloth,2026-11-18
+188306,165895,date of birth + name,Matteo Politano,Matteo Politano,2026-11-18
+188391,892929,date of birth + name,Hugo Álvarez,Hugo Álvarez,2026-11-18
+188398,250845,date of birth + name,José María Giménez,José María Giménez,2026-11-18
+188412,192735,date of birth + name,Stanislav Lobotka,Stanislav Lobotka,2026-11-18
+189007,472423,date of birth + name,Reece James,Reece James,2026-11-18
+189026,182906,date of birth + name,Mike Maignan,Mike Maignan,2026-11-18
+189668,205938,date of birth + name,Mario Pasalic,Mario Pašalić,2026-11-18
+189804,623024,date of birth + name,Jesús Vázquez,Jesús Vázquez,2026-11-18
+189974,282388,date of birth + name,Giovanni Simeone,Giovanni Simeone,2026-11-18
+190161,161056,date of birth + name,Joshua Kimmich,Joshua Kimmich,2026-11-18
+190257,433188,date of birth + name,Curtis Jones,Curtis Jones,2026-11-18
+190291,205562,date of birth + name,Thomas Lemar,Thomas Lemar,2026-11-18
+190293,193256,date of birth + name,Gauthier Gallon,Gauthier Gallon,2026-11-18
+190806,239743,date of birth + name,Przemyslaw Frankowski,Przemyslaw Frankowski,2026-11-18
+190974,206746,date of birth + name,Kenny Tete,Kenny Tete,2026-11-18
+191209,157672,date of birth + name,Vladimír Coufal,Vladimír Coufal,2026-11-18
+191337,265471,date of birth + name,Matt Grimes,Matt Grimes,2026-11-18
+191352,196095,date of birth + name,Luca Waldschmidt,Luca Waldschmidt,2026-11-18
+191360,248738,date of birth + name,Sergio Herrera,Sergio Herrera,2026-11-18
+191574,282939,date of birth + name,Luke O'Nien,Luke O'Nien,2026-11-18
+191603,308431,date of birth + name,Dillon Phillips,Dillon Phillips,2026-11-18
+191712,192492,date of birth + name,Jordan Lefort,Jordan Lefort,2026-11-18
+192015,283994,date of birth + name,Ludovic Ajorque,Ludovic Ajorque,2026-11-18
+192060,190393,date of birth + name,Corentin Tolisso,Corentin Tolisso,2026-11-18
+192133,246968,date of birth + name,Ayoze Pérez,Ayoze Pérez,2026-11-18
+192146,709957,date of birth + name,Álex Valle,Álex Valle,2026-11-18
+192278,996897,date of birth + name,Diego Gómez,Diego Gómez,2026-11-18
+192430,251046,date of birth + name,Einar Galilea,Einar Galilea,2026-11-18
+192570,215167,date of birth + name,Marco Bleve,Marco Bleve,2026-11-18
+192672,238639,date of birth + name,Steve Mounié,Steve Mounié,2026-11-18
+192743,255838,date of birth + name,Patrick Ciurria,Patrick Ciurria,2026-11-18
+192893,397676,date of birth + shared name word,Daniel Cárdenas,Dani Cárdenas,2026-11-18
+192929,250478,date of birth + name,Matt Targett,Matt Targett,2026-11-18
+193010,298477,date of birth + shared name word,Oliver McBurnie,Oli McBurnie,2026-11-18
+193246,226973,date of birth + name,Harrison Reed,Harrison Reed,2026-11-18
+193297,249565,date of birth + name,Youri Tielemans,Youri Tielemans,2026-11-18
+193610,73517,date of birth + name,Ørjan Nyland,Ørjan Nyland,2026-11-18
+193644,73794,date of birth + name,Duván Zapata,Duván Zapata,2026-11-18
+193919,290017,date of birth + name,Hassane Kamara,Hassane Kamara,2026-11-18
+193943,249513,date of birth + name,Diego Rico,Diego Rico,2026-11-18
+193977,197471,date of birth + name,Roberto Gagliardini,Roberto Gagliardini,2026-11-18
+194114,258916,date of birth + name,Kieran Dowell,Kieran Dowell,2026-11-18
+194115,258889,date of birth + name,Dominic Solanke,Dominic Solanke,2026-11-18
+194121,226049,date of birth + name,Freddie Woodman,Freddie Woodman,2026-11-18
+194450,294057,date of birth + name,James Maddison,James Maddison,2026-11-18
+194553,296783,date of birth + name,Ezequiel Ponce,Ezequiel Ponce,2026-11-18
+194686,295313,date of birth + name,Taiwo Awoniyi,Taiwo Awoniyi,2026-11-18
+194711,294808,date of birth + name,Franck Kessié,Franck Kessié,2026-11-18
+194748,198116,date of birth + name,Federico Dimarco,Federico Dimarco,2026-11-18
+194766,238266,date of birth + name,Duje Caleta-Car,Duje Caleta-Car,2026-11-18
+194801,279455,date of birth + name,Harry Wilson,Harry Wilson,2026-11-18
+195027,188888,date of birth + name,Sheraldo Becker,Sheraldo Becker,2026-11-18
+195032,275218,date of birth + name,Augusto Batalla,Augusto Batalla,2026-11-18
+195082,186374,date of birth + name,Alexander Schlager,Alexander Schlager,2026-11-18
+195501,263918,date of birth + name,Aleksandr Golovin,Aleksandr Golovin,2026-11-18
+195738,296802,date of birth + name,Walter Benítez,Walter Benítez,2026-11-18
+195790,258987,date of birth + name,Carl Starfelt,Carl Starfelt,2026-11-18
+196029,229006,date of birth + name,Franck Honorat,Franck Honorat,2026-11-18
+196081,260827,date of birth + name,Joachim Andersen,Joachim Andersen,2026-11-18
+196176,262749,date of birth + name,David Raya,David Raya,2026-11-18
+196200,281963,date of birth + name,Lucas Hernández,Lucas Hernández,2026-11-18
+196234,203938,date of birth + name,Branco van den Boomen,Branco van den Boomen,2026-11-18
+196339,226012,date of birth + name,David Soria,David Soria,2026-11-18
+196729,297070,date of birth + name,Hamari Traoré,Hamari Traoré,2026-11-18
+196860,329145,date of birth + name,Diego Carlos,Diego Carlos,2026-11-18
+196876,105470,date of birth + name,Alisson Becker,Alisson,2026-11-18
+196901,289446,date of birth + name,Yerry Mina,Yerry Mina,2026-11-18
+196914,225593,date of birth + name,Pere Milla,Pere Milla,2026-11-18
+197163,262226,date of birth + name,Timothy Castagne,Timothy Castagne,2026-11-18
+197187,126557,date of birth + name,Jonathan Gradit,Jonathan Gradit,2026-11-18
+197399,262980,date of birth + name,Jefferson Lerma,Jefferson Lerma,2026-11-18
+197627,277697,goals: 3/3 goals coincide,Alan Browne,,2026-11-18
+197717,306024,date of birth + name,Dominic Calvert-Lewin,Dominic Calvert-Lewin,2026-11-18
+197764,724069,date of birth + name,Kevin Martins,Kevin Martins,2026-11-18
+197796,186988,date of birth + name,Sven Michel,Sven Michel,2026-11-18
+198082,250683,date of birth + name,Nikita Contini,Nikita Contini,2026-11-18
+198087,273132,date of birth + name,Robin Gosens,Robin Gosens,2026-11-18
+198138,134270,date of birth + name,Dan Burn,Dan Burn,2026-11-18
+198832,225020,date of birth + name,Mariano Díaz,Mariano Díaz,2026-11-18
+199381,147051,date of birth + name,Yvon Mvogo,Yvon Mvogo,2026-11-18
+199833,241641,date of birth + name,Bernardo Silva,Bernardo Silva,2026-11-18
+200079,160971,date of birth + name,Leopold Zingerle,Leopold Zingerle,2026-11-18
+200910,298197,date of birth + name,Antonio Sivera,Antonio Sivera,2026-11-18
+201123,187624,date of birth + name,Fabian Bredlow,Fabian Bredlow,2026-11-18
+201803,215599,date of birth + name,Lukas Klostermann,Lukas Klostermann,2026-11-18
+202232,333241,date of birth + name,Joelinton,Joelinton,2026-11-18
+202332,249126,date of birth + name,Harry Winks,Harry Winks,2026-11-18
+202429,428563,date of birth + name,Lewis Ferguson,Lewis Ferguson,2026-11-18
+202642,196231,date of birth + name,Marvin Friedrich,Marvin Friedrich,2026-11-18
+202717,319745,date of birth + name,Dani Ceballos,Dani Ceballos,2026-11-18
+203072,319301,date of birth + name,Daniel James,Daniel James,2026-11-18
+203112,439022,date of birth + name,Marcão,Marcão,2026-11-18
+203669,316264,date of birth + name,Martin Ødegaard,Martin Ødegaard,2026-11-18
+203680,195762,date of birth + name,Víctor García,Víctor García,2026-11-18
+203711,192009,date of birth + name,Unai López,Unai López,2026-11-18
+204082,286047,date of birth + name,Guglielmo Vicario,Guglielmo Vicario,2026-11-18
+204320,286297,date of birth + name,Lorenzo Pellegrini,Lorenzo Pellegrini,2026-11-18
+204441,255942,date of birth + name,Nicolò Barella,Nicolò Barella,2026-11-18
+204669,283735,date of birth + name,Mattia Zaccagni,Mattia Zaccagni,2026-11-18
+204679,184573,date of birth + name,Victor Lindelöf,Victor Lindelöf,2026-11-18
+205081,1011140,date of birth + name,Jack Fletcher,Jack Fletcher,2026-11-18
+205576,257732,date of birth + name,Amir Rrahmani,Amir Rrahmani,2026-11-18
+205653,315121,date of birth + name,Justin Bijlow,Justin Bijlow,2026-11-18
+205751,160929,date of birth + name,Marvin Schwäbe,Marvin Schwäbe,2026-11-18
+205981,196722,date of birth + name,Remi Matthews,Remi Matthews,2026-11-18
+206114,160963,date of birth + name,Robin Zentner,Robin Zentner,2026-11-18
+206153,216569,date of birth + name,Jérémie Boga,Jérémie Boga,2026-11-18
+206172,258915,date of birth + shared name word,Jay Da Silva,Jay Dasilva,2026-11-18
+206173,328658,date of birth + name,Kristoffer Ajer,Kristoffer Ajer,2026-11-18
+206227,236490,date of birth + name,Ola Aina,Ola Aina,2026-11-18
+206378,293200,date of birth + name,Nikola Vlasic,Nikola Vlašić,2026-11-18
+206474,282411,date of birth + name,Marcos Llorente,Marcos Llorente,2026-11-18
+206587,244192,date of birth + name,Pierluigi Gollini,Pierluigi Gollini,2026-11-18
+206761,339556,date of birth + name,Rico Henry,Rico Henry,2026-11-18
+206863,335209,date of birth + name,Kevin Diks,Kevin Diks,2026-11-18
+206993,138055,date of birth + name,Haris Belkebla,Haris Belkebla,2026-11-18
+207136,332889,date of birth + name,Valentin Rongier,Valentin Rongier,2026-11-18
+207236,334222,date of birth + name,Lucas Boyé,Lucas Boyé,2026-11-18
+207288,46413,date of birth + name,Ante Budimir,Ante Budimir,2026-11-18
+207335,229991,goals: 6/6 goals coincide,Luca Schnellbacher,,2026-11-18
+207343,348795,date of birth + name,Giovani Lo Celso,Giovani Lo Celso,2026-11-18
+207369,333175,date of birth + name,Bingourou Kamara,Bingourou Kamara,2026-11-18
+207623,193900,date of birth + name,Marius Wolf,Marius Wolf,2026-11-18
+207834,256339,date of birth + name,Emil Audero,Emil Audero,2026-11-18
+208285,328784,date of birth + name,Robin Koch,Robin Koch,2026-11-18
+208518,745173,club + name,Mamadou Coulibaly,Mamadou Coulibaly,2026-11-18
+208608,57598,date of birth + name,Klaus Gjasula,Klaus Gjasula,2026-11-18
+209579,338425,date of birth + name,Álex Berenguer,Álex Berenguer,2026-11-18
+209580,298575,date of birth + shared name word,Enrique Barja,Kike Barja,2026-11-18
+209581,338424,date of birth + name,Mikel Merino,Mikel Merino,2026-11-18
+209595,290587,date of birth + name,Ellyes Skhiri,Ellyes Skhiri,2026-11-18
+209746,240414,date of birth + name,Alex Meret,Alex Meret,2026-11-18
+210139,167268,date of birth + name,Paddy McNair,Paddy McNair,2026-11-18
+210391,312773,date of birth + name,Daniele Sommariva,Daniele Sommariva,2026-11-18
+210392,308279,date of birth + name,Rolando Mandragora,Rolando Mandragora,2026-11-18
+210397,343052,date of birth + name,Nicolas Pépé,Nicolas Pépé,2026-11-18
+210818,232454,date of birth + name,Nadiem Amiri,Nadiem Amiri,2026-11-18
+211669,164915,date of birth + name,Lionel Mpasi,Lionel Mpasi-Nzau,2026-11-18
+211770,337715,date of birth + name,Umar Sadiq,Umar Sadiq,2026-11-18
+212185,342385,date of birth + name,Guido Rodríguez,Guido Rodríguez,2026-11-18
+212237,192635,date of birth + name,Nico Elvedi,Nico Elvedi,2026-11-18
+212330,242086,date of birth + name,Patrik Schick,Patrik Schick,2026-11-18
+212476,272812,date of birth + name,Kingsley Ehizibue,Kingsley Ehizibue,2026-11-18
+212478,341317,date of birth + name,Oliver Burke,Oliver Burke,2026-11-18
+212597,256448,date of birth + name,Gianluca Mancini,Gianluca Mancini,2026-11-18
+213050,341264,date of birth + name,Fran García,Fran García,2026-11-18
+213141,225122,date of birth + name,Gonçalo Guedes,Gonçalo Guedes,2026-11-18
+213181,291200,date of birth + name,Moussa Niakhaté,Moussa Niakhaté,2026-11-18
+213248,321528,date of birth + name,Denzel Dumfries,Denzel Dumfries,2026-11-18
+213535,694509,date of birth + name,Moussa Diarra,Moussa Diarra,2026-11-18
+213718,375885,date of birth + name,Ibrahim Sangaré,Ibrahim Sangaré,2026-11-18
+213725,346779,date of birth + name,Ché Adams,Ché Adams,2026-11-18
+214188,348026,date of birth + name,Nordi Mukiele,Nordi Mukiele,2026-11-18
+214203,190284,date of birth + name,Maximilian Eggestein,Maximilian Eggestein,2026-11-18
+214305,287635,date of birth + name,Assane Dioussé,Assane Dioussé,2026-11-18
+214319,277179,date of birth + name,Angeliño,Angeliño,2026-11-18
+214330,277533,date of birth + name,Josan,Josan,2026-11-18
+214375,321247,date of birth + name,Emiliano Buendía,Emiliano Buendía,2026-11-18
+214402,285845,date of birth + name,Ainsley Maitland-Niles,Ainsley Maitland-Niles,2026-11-18
+214412,255508,date of birth + name,Iñaki Williams,Iñaki Williams,2026-11-18
+214562,284730,date of birth + name,Manuel Akanji,Manuel Akanji,2026-11-18
+214596,350219,date of birth + name,Fabián Ruiz,Fabián Ruiz,2026-11-18
+214649,187718,date of birth + name,Clinton Mata,Clinton Mata,2026-11-18
+214689,349599,date of birth + name,Pervis Estupiñán,Pervis Estupiñán,2026-11-18
+214740,290537,date of birth + name,Jean Butez,Jean Butez,2026-11-18
+214888,351809,date of birth + name,Robin Le Normand,Robin Le Normand,2026-11-18
+214995,278359,date of birth + name,Borja Iglesias,Borja Iglesias,2026-11-18
+215035,352332,date of birth + name,Florian Le Joncour,Florian Le Joncour,2026-11-18
+215075,351755,date of birth + name,Darnell Furlong,Darnell Furlong,2026-11-18
+215378,353366,date of birth + name,Benjamin Pavard,Benjamin Pavard,2026-11-18
+215386,155025,date of birth + name,Fábio Cardoso,Fábio Cardoso,2026-11-18
+215401,353032,date of birth + name,Omar Alderete,Omar Alderete,2026-11-18
+215574,353948,date of birth + name,Lucas Tousart,Lucas Tousart,2026-11-18
+215687,354726,date of birth + name,Florian Sotoca,Florian Sotoca,2026-11-18
+215721,354361,date of birth + name,Frank Anguissa,Frank Anguissa,2026-11-18
+215772,354362,date of birth + name,Rodrigo Bentancur,Rodrigo Bentancur,2026-11-18
+216017,318508,date of birth + name,Olivier Boscagli,Olivier Boscagli,2026-11-18
+216225,282660,date of birth + name,Maximilian Mittelstädt,Maximilian Mittelstädt,2026-11-18
+217092,315858,date of birth + name,Gianluigi Donnarumma,Gianluigi Donnarumma,2026-11-18
+217225,255488,date of birth + name,Yeray,Yeray Álvarez,2026-11-18
+217289,363205,date of birth + name,Gabriel Jesus,Gabriel Jesus,2026-11-18
+217319,212862,date of birth + name,Álex Remiro,Álex Remiro,2026-11-18
+217331,318528,date of birth + name,Marcus Thuram,Marcus Thuram,2026-11-18
+217381,258364,date of birth + name,Calvin Verdonk,Calvin Verdonk,2026-11-18
+217475,291417,date of birth + name,Ferland Mendy,Ferland Mendy,2026-11-18
+217538,265088,date of birth + name,Manuel Locatelli,Manuel Locatelli,2026-11-18
+217668,373939,date of birth + name,Nicolas Lemaitre,Nicolas Lemaître,2026-11-18
+218105,239802,date of birth + name,Adam Marusic,Adam Marusic,2026-11-18
+218122,251106,date of birth + name,Enes Ünal,Enes Ünal,2026-11-18
+218439,356197,date of birth + name,Alfonso Pedraza,Alfonso Pedraza,2026-11-18
+218522,520624,date of birth + name,Bruno Guimarães,Bruno Guimarães,2026-11-18
+218596,270393,date of birth + name,Robert Skov,Robert Skov,2026-11-18
+218703,371686,date of birth + name,Carlens Arcus,Carlens Arcus,2026-11-18
+218714,234029,date of birth + name,Grischa Prömel,Grischa Prömel,2026-11-18
+218793,298976,date of birth + name,Borja Mayoral,Borja Mayoral,2026-11-18
+218857,280387,date of birth + name,Vincent Sierro,Vincent Sierro,2026-11-18
+218980,364258,date of birth + name,Bernardo,Bernardo,2026-11-18
+218998,333014,date of birth + name,Sander Berge,Sander Berge,2026-11-18
+219022,326330,date of birth + name,Frenkie de Jong,Frenkie de Jong,2026-11-18
+219153,374040,date of birth + name,Vincent Marchetti,Vincent Marchetti,2026-11-18
+219294,261504,date of birth + name,Aleix García,Aleix García,2026-11-18
+219304,195736,date of birth + name,Florian Grillitsch,Florian Grillitsch,2026-11-18
+219316,225657,date of birth + name,Philipp Lienhart,Philipp Lienhart,2026-11-18
+219362,356141,date of birth + name,Daichi Kamada,Daichi Kamada,2026-11-18
+219390,245625,date of birth + name,Alex Palmer,Alex Palmer,2026-11-18
+219531,257474,date of birth + name,Vanja Milinkovic-Savic,Vanja Milinković-Savić,2026-11-18
+219627,358504,date of birth + name,Ritsu Doan,Ritsu Doan,2026-11-18
+219713,406625,date of birth + name,Lautaro Martínez,Lautaro Martínez,2026-11-18
+219725,268429,date of birth + name,Sandi Lovric,Sandi Lovrić,2026-11-18
+220474,315291,date of birth + name,Haji Wright,Haji Wright,2026-11-18
+220538,422051,date of birth + name,Nikola Katic,Nikola Katic,2026-11-18
+220626,204103,date of birth + name,Adama Traoré,Adama Traoré,2026-11-18
+220703,284732,date of birth + name,Ramy Bensebaini,Ramy Bensebaini,2026-11-18
+220711,202591,date of birth + name,Benjamin Henrichs,Benjamin Henrichs,2026-11-18
+220714,193004,date of birth + name,Waldemar Anton,Waldemar Anton,2026-11-18
+220718,192616,date of birth + name,Ulisses Garcia,Ulisses Garcia,2026-11-18
+220796,287920,date of birth + name,Tim Skarke,Tim Skarke,2026-11-18
+221057,334835,date of birth + name,Toma Basic,Toma Bašić,2026-11-18
+221278,316884,date of birth + name,Dominik Greif,Dominik Greif,2026-11-18
+221436,336125,date of birth + name,Mërgim Vojvoda,Mërgim Vojvoda,2026-11-18
+221460,161057,date of birth + name,Carl Klaus,Carl Klaus,2026-11-18
+221527,377393,date of birth + name,Pierre Lees-Melou,Pierre Lees-Melou,2026-11-18
+221548,324800,date of birth + name,Alec Georgen,Alec Georgen,2026-11-18
+221671,241307,date of birth + name,Finn Porath,Finn Porath,2026-11-18
+221690,322073,date of birth + name,Isac Lidberg,Isac Lidberg,2026-11-18
+222037,385105,date of birth + name,Gabriel Suazo,Gabriel Suazo,2026-11-18
+222175,282028,date of birth + name,Rémy Descamps,Rémy Descamps,2026-11-18
+222176,344381,date of birth + name,Christopher Nkunku,Christopher Nkunku,2026-11-18
+222180,344152,date of birth + name,Odsonne Édouard,Odsonne Édouard,2026-11-18
+222300,245056,date of birth + name,Sasa Lukic,Saša Lukić,2026-11-18
+222365,251897,date of birth + name,Asier Villalibre,Asier Villalibre,2026-11-18
+222375,262396,date of birth + name,Unai Simón,Unai Simón,2026-11-18
+222396,349701,date of birth + name,Antonee Robinson,Antonee Robinson,2026-11-18
+222446,212723,date of birth + name,Djibril Sow,Djibril Sow,2026-11-18
+222477,345189,date of birth + name,Luka Lochoshvili,Luka Lochoshvili,2026-11-18
+222529,281769,date of birth + name,Mario Hermoso,Mario Hermoso,2026-11-18
+222567,362977,date of birth + name,Josip Juranovic,Josip Juranovic,2026-11-18
+222614,207580,date of birth + name,Amara Conde,Amara Condé,2026-11-18
+222628,334526,date of birth + name,Denis Zakaria,Denis Zakaria,2026-11-18
+222661,251876,date of birth + name,Pablo Maffeo,Pablo Maffeo,2026-11-18
+222776,332705,date of birth + name,Tyler Adams,Tyler Adams,2026-11-18
+222793,344695,date of birth + name,Dayot Upamecano,Dayot Upamecano,2026-11-18
+222991,370789,date of birth + name,Julian Ryerson,Julian Ryerson,2026-11-18
+223117,386048,date of birth + name,Samuel Yohou,Samuel Yohou,2026-11-18
+223120,288225,date of birth + name,Ludovic Blas,Ludovic Blas,2026-11-18
+223122,290862,date of birth + name,Maxime López,Maxime Lopez,2026-11-18
+223292,911328,date of birth + name,Mohamed Kaba,Mohamed Kaba,2026-11-18
+223376,344888,date of birth + name,Habib Diallo,Habib Diallo,2026-11-18
+223452,249089,date of birth + name,Lewis Cook,Lewis Cook,2026-11-18
+223532,314353,date of birth + name,Trent Alexander-Arnold,Trent Alexander-Arnold,2026-11-18
+223947,386552,date of birth + name,Lassana Coulibaly,Lassana Coulibaly,2026-11-18
+224044,305947,date of birth + name,Albert Gudmundsson,Albert Gudmundsson,2026-11-18
+224074,1084638,date of birth + name,Karim Coulibaly,Karim Coulibaly,2026-11-18
+224077,388165,date of birth + name,Yoane Wissa,Yoane Wissa,2026-11-18
+224187,258482,date of birth + name,Boris Radunovic,Boris Radunović,2026-11-18
+224246,160954,date of birth + name,Jannik Huth,Jannik Huth,2026-11-18
+224455,332179,date of birth + name,Matteo Pessina,Matteo Pessina,2026-11-18
+225426,316125,date of birth + name,Ben Chilwell,Ben Chilwell,2026-11-18
+225557,322305,date of birth + name,Jean-Victor Makengo,Jean-Victor Makengo,2026-11-18
+225559,324690,date of birth + name,Jonathan Ikoné,Jonathan Ikoné,2026-11-18
+225564,270171,date of birth + name,Vitaly Janelt,Vitaly Janelt,2026-11-18
+225565,275249,date of birth + name,Niklas Schmidt,Niklas Schmidt,2026-11-18
+225579,296741,date of birth + name,Markus Schubert,Markus Schubert,2026-11-18
+225607,315779,date of birth + name,Christian Pulisic,Christian Pulisic,2026-11-18
+225637,457931,date of birth + name,Luiz Felipe,Luiz Felipe,2026-11-18
+226140,251845,date of birth + name,Sergi Canós,Sergi Canós,2026-11-18
+226177,338070,date of birth + shared name word,Kostas Tsimikas,Konstantinos Tsimikas,2026-11-18
+226211,343537,date of birth + name,Artem Dovbyk,Artem Dovbyk,2026-11-18
+227472,319859,date of birth + name,Mathias Jensen,Mathias Jensen,2026-11-18
+227697,413565,date of birth + name,Jhon Lucumí,Jhon Lucumí,2026-11-18
+227714,357885,date of birth + name,Pablo Fornals,Pablo Fornals,2026-11-18
+227765,293385,date of birth + name,Dani Olmo,Dani Olmo,2026-11-18
+227784,346314,date of birth + name,Trevoh Chalobah,Trevoh Chalobah,2026-11-18
+228298,401922,date of birth + name,Samuel Chukwueze,Samuel Chukwueze,2026-11-18
+228319,293194,date of birth + name,Borna Sosa,Borna Sosa,2026-11-18
+228328,282169,date of birth + name,Marin Sverko,Marin Šverko,2026-11-18
+228333,316934,date of birth + name,Nikola Moro,Nikola Moro,2026-11-18
+228393,401578,date of birth + name,Exequiel Palacios,Exequiel Palacios,2026-11-18
+228402,401530,date of birth + name,Éder Militão,Éder Militão,2026-11-18
+228424,289592,date of birth + name,Orel Mangala,Orel Mangala,2026-11-18
+228503,384593,date of birth + name,Alexis Claude-Maurice,Alexis Claude-Maurice,2026-11-18
+228507,251299,date of birth + name,Finn Dahmen,Finn Dahmen,2026-11-18
+228547,808348,date of birth + name,Mamadou Sangare,Mamadou Sangaré,2026-11-18
+228557,402008,date of birth + name,Amadou Haidara,Amadou Haidara,2026-11-18
+228707,315253,date of birth + name,Jeffrey de Lange,Jeffrey de Lange,2026-11-18
+229018,351478,date of birth + name,Mikel Oyarzabal,Mikel Oyarzabal,2026-11-18
+229524,342046,date of birth + name,Axel Tuanzebe,Axel Tuanzebe,2026-11-18
+229645,406040,date of birth + name,Ademola Lookman,Ademola Lookman,2026-11-18
+229744,288230,date of birth + name,Ousmane Dembélé,Ousmane Dembélé,2026-11-18
+230081,240692,date of birth + name,Reinildo Mandava,Reinildo Mandava,2026-11-18
+230896,353399,date of birth + name,Romain Del Castillo,Romain Del Castillo,2026-11-18
+230945,258923,date of birth + name,Marcus Rashford,Marcus Rashford,2026-11-18
+230963,272622,date of birth + name,Issa Diop,Issa Diop,2026-11-18
+231049,559263,date of birth + name,Fábio Carvalho,Fábio Carvalho,2026-11-18
+231050,411295,date of birth + name,Raphinha,Raphinha,2026-11-18
+231167,346483,date of birth + name,Mason Mount,Mason Mount,2026-11-18
+231173,335103,date of birth + name,Linton Maina,Linton Maina,2026-11-18
+231182,309400,date of birth + name,Kai Havertz,Kai Havertz,2026-11-18
+231190,342967,date of birth + name,Niklas Beste,Niklas Beste,2026-11-18
+231198,258878,date of birth + name,Tosin Adarabioyo,Tosin Adarabioyo,2026-11-18
+231366,182201,date of birth + shared name word,Mbwana Samatta,Ally Samatta,2026-11-18
+231388,342229,date of birth + name,Kylian Mbappé,Kylian Mbappé,2026-11-18
+231603,328480,date of birth + name,Pepelu,Pepelu,2026-11-18
+231618,355861,date of birth + name,Arnaut Danjuma,Arnaut Danjuma,2026-11-18
+231674,263361,date of birth + name,Maximilian Wöber,Maximilian Wöber,2026-11-18
+231692,411975,date of birth + name,Jules Koundé,Jules Koundé,2026-11-18
+231697,298583,date of birth + name,Eray Cömert,Eray Cömert,2026-11-18
+231718,386047,date of birth + name,Axel Disasi,Axel Disasi,2026-11-18
+231764,296879,date of birth + name,Steffen Tigges,Steffen Tigges,2026-11-18
+231778,353404,date of birth + name,Gaetan Perrin,Gaëtan Perrin,2026-11-18
+231828,357565,date of birth + name,Rodri,Rodri,2026-11-18
+231838,448628,date of birth + name,Javi Galán,Javi Galán,2026-11-18
+231859,413403,date of birth + name,Ezri Konsa,Ezri Konsa,2026-11-18
+231863,413220,date of birth + name,James Justin,James Justin,2026-11-18
+231905,340205,date of birth + name,Gorka Guruzeta,Gorka Guruzeta,2026-11-18
+232089,175639,date of birth + name,Jonathan Clauss,Jonathan Clauss,2026-11-18
+232325,297212,date of birth + name,Joe Rodon,Joe Rodon,2026-11-18
+232335,146373,date of birth + name,Antoine Rabillard,Antoine Rabillard,2026-11-18
+232477,156990,date of birth + name,Marco Friedl,Marco Friedl,2026-11-18
+232662,365172,date of birth + name,Patson Daka,Patson Daka,2026-11-18
+232670,1180835,date of birth + name,Issiaga Camara,Issiaga Camara,2026-11-18
+232803,410427,date of birth + name,Aliou Dieng,Aliou Dieng,2026-11-18
+233088,372720,date of birth + name,Nicholas Pierini,Nicholas Pierini,2026-11-18
+233140,315867,date of birth + name,Gianluca Scamacca,Gianluca Scamacca,2026-11-18
+233199,344886,date of birth + name,Matthieu Udol,Matthieu Udol,2026-11-18
+233241,432914,date of birth + name,John Victor,John Victor,2026-11-18
+233499,278343,date of birth + name,Felix Uduokhai,Felix Uduokhai,2026-11-18
+233622,387047,date of birth + name,Danilho Doekhi,Danilho Doekhi,2026-11-18
+233654,412660,date of birth + name,Keinan Davis,Keinan Davis,2026-11-18
+233802,284854,date of birth + name,Carles Aleñá,Carles Aleñá,2026-11-18
+233937,480762,date of birth + name,Lisandro Martínez,Lisandro Martínez,2026-11-18
+233945,469781,date of birth + name,Marcos Senesi,Marcos Senesi,2026-11-18
+234153,243856,date of birth + name,Cedric Itten,Cedric Itten,2026-11-18
+234172,258919,date of birth + name,Dean Henderson,Dean Henderson,2026-11-18
+234300,495722,date of birth + name,Devis Vásquez,Devis Vásquez,2026-11-18
+234305,323255,date of birth + name,Giacomo Satalino,Giacomo Satalino,2026-11-18
+234306,341092,date of birth + name,Federico Chiesa,Federico Chiesa,2026-11-18
+234376,288340,date of birth + name,Phillip Tietz,Phillip Tietz,2026-11-18
+234426,368482,date of birth + name,Riccardo Orsolini,Riccardo Orsolini,2026-11-18
+234698,425334,date of birth + name,Matty Cash,Matty Cash,2026-11-18
+234757,289835,date of birth + name,Jens Stage,Jens Stage,2026-11-18
+234878,258004,date of birth + name,Rúben Dias,Rúben Dias,2026-11-18
+234881,376514,date of birth + name,Mathías Olivera,Mathías Olivera,2026-11-18
+234951,335516,date of birth + name,Idrissa Touré,Idrissa Touré,2026-11-18
+235072,372246,date of birth + name,Carlos Soler,Carlos Soler,2026-11-18
+235319,712181,date of birth + name,James Wright,James Wright,2026-11-18
+235453,347253,date of birth + name,Dany Mota,Dany Mota,2026-11-18
+235662,349066,date of birth + name,Alexander Isak,Alexander Isak,2026-11-18
+235693,355628,date of birth + name,Igor Zubeldia,Igor Zubeldia,2026-11-18
+235818,369081,date of birth + name,Federico Valverde,Federico Valverde,2026-11-18
+236038,301235,date of birth + name,Giacomo Calo,Giacomo Calò,2026-11-18
+236136,340166,date of birth + name,Alessio Castro-Montes,Alessio Castro-Montes,2026-11-18
+236156,280730,date of birth + name,Álvaro Odriozola,Álvaro Odriozola,2026-11-18
+236185,378293,date of birth + name,Yangel Herrera,Yangel Herrera,2026-11-18
+236209,331726,date of birth + name,Tammy Abraham,Tammy Abraham,2026-11-18
+236210,303254,date of birth + name,Fikayo Tomori,Fikayo Tomori,2026-11-18
+236211,1018830,date of birth + name,Jack Whittaker,Jack Whittaker,2026-11-18
+236322,435338,date of birth + name,Gabriel Magalhães,Gabriel,2026-11-18
+236721,424204,date of birth + name,Alphonso Davies,Alphonso Davies,2026-11-18
+236912,322985,date of birth + name,Gustavo Hamer,Gustavo Hamer,2026-11-18
+236957,566025,date of birth + shared name word,Mohamed Abdelmoneim,Mohamed Abdelmonem,2026-11-18
+237055,222855,date of birth + name,Jesper Karlström,Jesper Karlström,2026-11-18
+237224,292246,date of birth + name,Hwang Hee-Chan,Hee-chan Hwang,2026-11-18
+237435,400489,date of birth + name,Eljif Elmas,Eljif Elmas,2026-11-18
+238004,331560,date of birth + name,Takehiro Tomiyasu,Takehiro Tomiyasu,2026-11-18
+238025,415035,date of birth + name,Koki Machida,Koki Machida,2026-11-18
+238033,355816,date of birth + shared name word,Kou Itakura,Ko Itakura,2026-11-18
+238129,170517,date of birth + name,Marius Funk,Marius Funk,2026-11-18
+238213,283227,date of birth + name,Rasmus Nicolaisen,Rasmus Nicolaisen,2026-11-18
+238252,441170,date of birth + name,Valentin Rosier,Valentin Rosier,2026-11-18
+238262,357662,date of birth + name,Declan Rice,Declan Rice,2026-11-18
+238296,346853,date of birth + name,Romano Schmid,Romano Schmid,2026-11-18
+238318,369316,date of birth + shared name word,Ferdi Kadioglu,Ferdi Kadıoğlu,2026-11-18
+238407,345590,date of birth + name,Jens Odgaard,Jens Odgaard,2026-11-18
+238472,567576,date of birth + name,Elliot Anderson,Elliot Anderson,2026-11-18
+238520,236981,date of birth + name,Timo Hübers,Timo Hübers,2026-11-18
+238525,248999,date of birth + name,Lucas Höler,Lucas Höler,2026-11-18
+238527,278332,date of birth + name,Florian Neuhaus,Florian Neuhaus,2026-11-18
+238536,284270,date of birth + name,Moritz Nicolas,Moritz Nicolas,2026-11-18
+238542,415194,date of birth + name,Bakery Jatta,Bakery Jatta,2026-11-18
+238544,257814,date of birth + name,Gregor Kobel,Gregor Kobel,2026-11-18
+238706,386685,date of birth + name,Matheo Raab,Matheo Raab,2026-11-18
+238712,328609,date of birth + name,Derek Cornelius,Derek Cornelius,2026-11-18
+238798,338670,date of birth + name,Mile Svilar,Mile Svilar,2026-11-18
+238885,265078,date of birth + name,Patrick Cutrone,Patrick Cutrone,2026-11-18
+238886,223979,date of birth + name,Xaver Schlager,Xaver Schlager,2026-11-18
+238902,357147,date of birth + name,Diogo Dalot,Diogo Dalot,2026-11-18
+238906,223974,date of birth + name,Stefan Posch,Stefan Posch,2026-11-18
+238917,372711,date of birth + name,Amine Harit,Amine Harit,2026-11-18
+238990,413507,date of birth + name,Nikola Milenkovic,Nikola Milenković,2026-11-18
+239086,315865,date of birth + name,Andrea Pinamonti,Andrea Pinamonti,2026-11-18
+239120,435228,date of birth + shared name word,Adrian Ismajli,Ardian Ismajli,2026-11-18
+239349,326031,date of birth + name,Matthijs de Ligt,Matthijs de Ligt,2026-11-18
+239350,340456,date of birth + name,Noussair Mazraoui,Noussair Mazraoui,2026-11-18
+239574,127573,date of birth + name,Phillipp Mwene,Phillipp Mwene,2026-11-18
+239750,271495,date of birth + name,Abdülkadir Ömür,Abdülkadir Ömür,2026-11-18
+239905,344892,date of birth + name,Gauthier Hein,Gauthier Hein,2026-11-18
+240055,301238,date of birth + name,Michele Di Gregorio,Michele Di Gregorio,2026-11-18
+240109,780136,date of birth + name,Aleksandar Stankovic,Aleksandar Stanković,2026-11-18
+240233,398073,date of birth + name,Achraf Hakimi,Achraf Hakimi,2026-11-18
+240235,217144,date of birth + name,Aleix Febas,Aleix Febas,2026-11-18
+240495,451747,date of birth + name,Brandon Thomas-Asante,Brandon Thomas-Asante,2026-11-18
+240533,388516,date of birth + name,Josep Martínez,Josep Martínez,2026-11-18
+240623,380598,date of birth + name,Santi Comesaña,Santi Comesaña,2026-11-18
+240660,364245,date of birth + name,Jordan Teze,Jordan Teze,2026-11-18
+240912,408574,date of birth + name,Joey Veerman,Joey Veerman,2026-11-18
+241012,410225,date of birth + name,Ismaïla Sarr,Ismaïla Sarr,2026-11-18
+241029,448632,date of birth + name,Yehvann Diouf,Yehvann Diouf,2026-11-18
+241077,335721,date of birth + name,Ben White,Ben White,2026-11-18
+241093,442248,date of birth + name,Ethan Pinnock,Ethan Pinnock,2026-11-18
+241117,346289,date of birth + name,Mouctar Diakhaby,Mouctar Diakhaby,2026-11-18
+241187,420002,date of birth + name,Jean-Philippe Mateta,Jean-Philippe Mateta,2026-11-18
+241253,425902,date of birth + name,Ryan Yates,Ryan Yates,2026-11-18
+241297,453016,date of birth + name,Anthony Caci,Anthony Caci,2026-11-18
+241317,392771,date of birth + name,Ethan Ampadu,Ethan Ampadu,2026-11-18
+241328,392775,date of birth + name,Ryan Sessegnon,Ryan Sessegnon,2026-11-18
+241405,324377,date of birth + name,Youssef Maleh,Youssef Maleh,2026-11-18
+241430,331401,date of birth + name,Manuel Lazzari,Manuel Lazzari,2026-11-18
+241468,476701,date of birth + name,Manuel Ugarte,Manuel Ugarte,2026-11-18
+241662,442891,date of birth + name,Martin Terrier,Martin Terrier,2026-11-18
+241742,232320,date of birth + name,Atakan Karazor,Atakan Karazor,2026-11-18
+242007,251878,date of birth + name,Aarón Martín,Aarón Martín,2026-11-18
+242008,336869,date of birth + name,Marc Roca,Marc Roca,2026-11-18
+242439,392964,date of birth + name,Emmanuel Latte Lath,Emmanuel Latte Lath,2026-11-18
+242580,297194,date of birth + name,Iván Villar,Iván Villar,2026-11-18
+242593,371149,date of birth + name,Evan Ndicka,Evan Ndicka,2026-11-18
+242601,342877,date of birth + name,Enzo Ebosse,Enzo Ebosse,2026-11-18
+242710,480763,date of birth + name,Juan Foyth,Juan Foyth,2026-11-18
+242738,324811,date of birth + name,Arnaud Nordin,Arnaud Nordin,2026-11-18
+242739,342048,date of birth + name,Grady Diangana,Grady Diangana,2026-11-18
+243364,399434,date of birth + name,Marcus Tavernier,Marcus Tavernier,2026-11-18
+243386,398065,date of birth + name,Harvey Barnes,Harvey Barnes,2026-11-18
+243396,429014,date of birth + name,Morgan Gibbs-White,Morgan Gibbs-White,2026-11-18
+243408,465717,date of birth + name,Jayden Bogle,Jayden Bogle,2026-11-18
+243440,401320,date of birth + name,Dara O'Shea,Dara O'Shea,2026-11-18
+243514,453824,date of birth + name,Josh Maja,Josh Maja,2026-11-18
+243576,504581,date of birth + name,Ryan Giles,Ryan Giles,2026-11-18
+243578,990997,date of birth + name,Jenson Arron Jones,Jenson Jones,2026-11-18
+243626,298603,date of birth + name,Miro Muheim,Miro Muheim,2026-11-18
+243648,364827,date of birth + name,Cedric Kipre,Cédric Kipré,2026-11-18
+243725,471690,date of birth + name,Max Aarons,Max Aarons,2026-11-18
+243748,392767,date of birth + name,Danny Namaso,Danny Namaso,2026-11-18
+243787,480116,date of birth + name,Lloyd Kelly,Lloyd Kelly,2026-11-18
+243844,320748,date of birth + name,Sebastian Szymanski,Sebastian Szymanski,2026-11-18
+245243,361914,date of birth + name,Nayef Aguerd,Nayef Aguerd,2026-11-18
+245538,357778,date of birth + name,Sandro Kulenovic,Sandro Kulenović,2026-11-18
+245623,237658,date of birth + name,Michel Aebischer,Michel Aebischer,2026-11-18
+245637,469822,date of birth + name,David Neres,David Neres,2026-11-18
+245839,289255,date of birth + name,Andoni Gorosabel,Andoni Gorosabel,2026-11-18
+245916,330659,date of birth + name,Justin Kluivert,Justin Kluivert,2026-11-18
+245940,330635,date of birth + name,Felix Götze,Felix Götze,2026-11-18
+246244,463527,date of birth + name,Kjell Scherpen,Kjell Scherpen,2026-11-18
+246309,340321,date of birth + name,Josh Dasilva,Josh Dasilva,2026-11-18
+246532,314678,date of birth + name,Brahim Díaz,Brahim Díaz,2026-11-18
+246560,292812,date of birth + name,Hasan Kurucay,Hasan Kuruçay,2026-11-18
+246771,410708,date of birth + name,Pascal Struijk,Pascal Struijk,2026-11-18
+246805,340177,date of birth + name,Thibault De Smet,Thibault De Smet,2026-11-18
+246825,315145,date of birth + name,Azor Matusiwa,Azor Matusiwa,2026-11-18
+246847,325924,date of birth + name,Ahmed Touba,Ahmed Touba,2026-11-18
+246954,466637,goals: 3/3 goals coincide,Ephron Mason-Clark,,2026-11-18
+248276,985806,date of birth + name,Alex Freeman,Alex Freeman,2026-11-18
+248440,461019,date of birth + name,Samuele Birindelli,Samuele Birindelli,2026-11-18
+248633,364135,date of birth + name,Moise Kean,Moise Kean,2026-11-18
+248681,394236,date of birth + name,Filip Ugrinic,Filip Ugrinic,2026-11-18
+248699,318470,date of birth + shared name word,Matvei Safonov,Matvey Safonov,2026-11-18
+248761,406556,date of birth + name,Tom McGill,Tom McGill,2026-11-18
+249280,315853,date of birth + name,Alessandro Bastoni,Alessandro Bastoni,2026-11-18
+249299,534033,date of birth + name,Alexis Mac Allister,Alexis Mac Allister,2026-11-18
+249524,434675,date of birth + name,Cody Gakpo,Cody Gakpo,2026-11-18
+249527,456292,date of birth + name,Ellery Balcombe,Ellery Balcombe,2026-11-18
+249548,318204,date of birth + name,David Raum,David Raum,2026-11-18
+249663,474800,date of birth + name,Facundo Medina,Facundo Medina,2026-11-18
+249668,471936,date of birth + name,Oliver Christensen,Oliver Christensen,2026-11-18
+249851,473080,date of birth + name,Regan Slater,Regan Slater,2026-11-18
+250166,362108,date of birth + name,Gabriel Gudmundsson,Gabriel Gudmundsson,2026-11-18
+250183,624258,date of birth + name,Conor Bradley,Conor Bradley,2026-11-18
+250284,849520,date of birth + name,Santiago Castro,Santiago Castro,2026-11-18
+250377,474662,date of birth + name,Hugo Magnetti,Hugo Magnetti,2026-11-18
+250465,683840,date of birth + name,Pedri,Pedri,2026-11-18
+250478,475416,date of birth + name,Sorba Thomas,Sorba Thomas,2026-11-18
+250543,263236,date of birth + name,Kevin Danso,Kevin Danso,2026-11-18
+250707,389837,date of birth + name,Nicoló Casale,Nicolò Casale,2026-11-18
+250758,475208,date of birth + name,Bryan Reynolds,Bryan Reynolds,2026-11-18
+250787,406635,date of birth + name,Phil Foden,Phil Foden,2026-11-18
+250850,394300,date of birth + name,Davide Frattesi,Davide Frattesi,2026-11-18
+250853,318523,date of birth + name,Romain Perraud,Romain Perraud,2026-11-18
+250866,477109,date of birth + name,Bryan Lasme,Bryan Lasme,2026-11-18
+250936,394327,date of birth + name,Boubacar Kamara,Boubacar Kamara,2026-11-18
+250945,477758,date of birth + name,Aaron Wan-Bissaka,Aaron Wan-Bissaka,2026-11-18
+251061,227110,date of birth + name,Jordan Torunarigha,Jordan Torunarigha,2026-11-18
+251100,399776,date of birth + name,Pau Torres,Pau Torres,2026-11-18
+251141,364133,date of birth + name,Pietro Pellegri,Pietro Pellegri,2026-11-18
+251144,346567,date of birth + name,Luca Pellegrini,Luca Pellegrini,2026-11-18
+251388,392085,date of birth + name,Nicolò Zaniolo,Nicolò Zaniolo,2026-11-18
+251400,479999,date of birth + name,Eberechi Eze,Eberechi Eze,2026-11-18
+251556,272619,date of birth + name,Romain Cagnon,Romain Cagnon,2026-11-18
+251634,357119,date of birth + name,Ibrahima Konaté,Ibrahima Konaté,2026-11-18
+251639,330699,date of birth + name,Raphael Obermair,Raphael Obermair,2026-11-18
+251658,346707,date of birth + name,Sean Longstaff,Sean Longstaff,2026-11-18
+252031,494880,date of birth + name,Jorge Cuenca,Jorge Cuenca,2026-11-18
+252107,371998,date of birth + name,Vinícius Júnior,Vinicius Junior,2026-11-18
+252136,668941,date of birth + name,Sekou Fofana,Sékou Fofana,2026-11-18
+252323,897505,date of birth + name,Lazar Jovanovic,Lazar Jovanovic,2026-11-18
+252372,385394,date of birth + name,Alberto Dossena,Alberto Dossena,2026-11-18
+252385,377042,date of birth + name,Michael Folorunsho,Michael Folorunsho,2026-11-18
+252389,475188,date of birth + name,Kiernan Dewsbury-Hall,Kiernan Dewsbury-Hall,2026-11-18
+252406,352041,date of birth + name,Lucas Perri,Lucas Perri,2026-11-18
+252447,433584,date of birth + name,Alessio Zerbin,Alessio Zerbin,2026-11-18
+252605,386446,date of birth + name,Alessandro Buongiorno,Alessandro Buongiorno,2026-11-18
+252740,476836,date of birth + name,Aron Donnum,Aron Dønnum,2026-11-18
+252747,429983,date of birth + name,Jørgen Strand Larsen,Jørgen Strand Larsen,2026-11-18
+252927,357983,date of birth + name,Simone Ghidotti,Simone Ghidotti,2026-11-18
+252971,487969,date of birth + name,Randal Kolo Muani,Randal Kolo Muani,2026-11-18
+253173,489359,date of birth + name,Ao Tanaka,Ao Tanaka,2026-11-18
+253569,300532,date of birth + name,Pontus Almqvist,Pontus Almqvist,2026-11-18
+253754,431190,date of birth + name,Carlos Protesoni,Carlos Protesoni,2026-11-18
+253763,413262,date of birth + name,Dani Raba,Dani Raba,2026-11-18
+253989,418560,date of birth + name,Erling Haaland,Erling Haaland,2026-11-18
+254118,497291,date of birth + name,Nicolás Domínguez,Nicolás Domínguez,2026-11-18
+254270,500067,date of birth + name,Chidera Ejuke,Chidera Ejuke,2026-11-18
+254320,289257,date of birth + name,Jon Guridi,Jon Guridi,2026-11-18
+255192,674612,date of birth + name,Youssouf Ndayishimiye,Youssouf Ndayishimiye,2026-11-18
+255272,506248,date of birth + name,Edu Expósito,Edu Expósito,2026-11-18
+255344,339332,date of birth + name,Noa Lang,Noa Lang,2026-11-18
+255355,416380,date of birth + name,Ragnar Ache,Ragnar Ache,2026-11-18
+255650,282144,date of birth + name,Marin Pongracic,Marin Pongracic,2026-11-18
+255780,417278,date of birth + name,Arnaud Bodart,Arnaud Bodart,2026-11-18
+255850,315969,date of birth + name,Scott McTominay,Scott McTominay,2026-11-18
+255889,485963,date of birth + name,Pape Gueye,Pape Gueye,2026-11-18
+255922,323167,date of birth + name,Matteo Gabbia,Matteo Gabbia,2026-11-18
+255931,533354,date of birth + name,Facundo Garcés,Facundo Garcés,2026-11-18
+256015,403692,date of birth + name,Victor Torp,Victor Torp,2026-11-18
+256115,487465,date of birth + name,Pedro Neto,Pedro Neto,2026-11-18
+256587,405398,date of birth + name,Takefusa Kubo,Takefusa Kubo,2026-11-18
+256607,357162,date of birth + name,Florentino,Florentino,2026-11-18
+256715,332697,date of birth + name,Weston McKennie,Weston McKennie,2026-11-18
+256768,337036,date of birth + name,Florent Muslija,Florent Muslija,2026-11-18
+256773,392770,date of birth + name,Angel Gomes,Angel Gomes,2026-11-18
+256966,387191,date of birth + name,Daiki Hashioka,Daiki Hashioka,2026-11-18
+257058,391065,date of birth + name,Hamed Traoré,Hamed Traoré,2026-11-18
+257126,358515,date of birth + shared name word,Jean-Phillipe Krasso,Jean-Philippe Krasso,2026-11-18
+257206,451276,date of birth + name,Dominik Szoboszlai,Dominik Szoboszlai,2026-11-18
+257237,404839,date of birth + name,Andriy Lunin,Andriy Lunin,2026-11-18
+257267,361256,date of birth + name,Berke Özer,Berke Özer,2026-11-18
+257287,564545,date of birth + name,Edmond Tapsoba,Edmond Tapsoba,2026-11-18
+257390,480692,date of birth + name,Luis Díaz,Luis Díaz,2026-11-18
+257489,551505,date of birth + name,Mousa Al-Tamari,Mousa Tamari,2026-11-18
+257786,404418,date of birth + name,Dávid Hancko,Dávid Hancko,2026-11-18
+258100,239647,date of birth + name,Tosin Aiyegun,Aiyegun Tosin,2026-11-18
+258158,434433,date of birth + name,Nikola Krstovic,Nikola Krstović,2026-11-18
+258270,405389,date of birth + name,Ayumu Seko,Ayumu Seko,2026-11-18
+258307,516716,date of birth + name,Bremer,Bremer,2026-11-18
+258424,345452,date of birth + name,Bartosz Mrozek,Bartosz Mrozek,2026-11-18
+258491,421637,date of birth + name,Frank Onyeka,Frank Onyeka,2026-11-18
+258870,344598,date of birth + name,Dan-Axel Zagadou,Dan-Axel Zagadou,2026-11-18
+258871,344600,date of birth + name,Michaël Cuisance,Michaël Cuisance,2026-11-18
+258875,251322,date of birth + name,Philipp Köhn,Philipp Köhn,2026-11-18
+258876,284010,date of birth + name,Robin Hack,Robin Hack,2026-11-18
+258906,325443,date of birth + name,Viktor Gyökeres,Viktor Gyökeres,2026-11-18
+258909,303219,date of birth + name,Jeff Chabot,Jeff Chabot,2026-11-18
+258910,357156,date of birth + name,Diogo Leite,Diogo Leite,2026-11-18
+258923,405564,date of birth + name,Giorgi Kochorashvili,Giorgi Kochorashvili,2026-11-18
+258933,412616,date of birth + name,Giorgi Chakvetadze,Giorgi Chakvetadze,2026-11-18
+258956,314288,date of birth + name,Lukas Nmecha,Lukas Nmecha,2026-11-18
+258963,327251,date of birth + name,Ridle Baku,Ridle Baku,2026-11-18
+258968,360518,date of birth + name,Teun Koopmeiners,Teun Koopmeiners,2026-11-18
+258973,227089,date of birth + name,Matthias Köbbing,Matthias Köbbing,2026-11-18
+259357,307800,date of birth + name,Lion Lauberbach,Lion Lauberbach,2026-11-18
+259474,346551,date of birth + name,Kamil Grabara,Kamil Grabara,2026-11-18
+259481,326029,date of birth + name,Donyell Malen,Donyell Malen,2026-11-18
+259486,340324,date of birth + name,Eddie Nketiah,Eddie Nketiah,2026-11-18
+259513,345886,date of birth + name,Rubén Vargas,Rubén Vargas,2026-11-18
+259517,340329,date of birth + name,Joe Willock,Joe Willock,2026-11-18
+259653,393323,date of birth + name,Brenden Aaronson,Brenden Aaronson,2026-11-18
+259743,418659,date of birth + name,Amine Gouiri,Amine Gouiri,2026-11-18
+259744,463620,date of birth + name,Willem Geubbels,Willem Geubbels,2026-11-18
+259838,371021,date of birth + name,Arijanet Muric,Arijanet Murić,2026-11-18
+259839,396161,date of birth + name,Manu,Manu Hernando,2026-11-18
+259871,314944,date of birth + name,Ricardo Mangas,Ricardo Mangas,2026-11-18
+259878,400546,date of birth + name,Nikolas Nartey,Nikolas Nartey,2026-11-18
+259902,517894,date of birth + name,Matheus Cunha,Matheus Cunha,2026-11-18
+259910,284857,date of birth + name,Marc Cucurella,Marc Cucurella,2026-11-18
+259916,339816,date of birth + shared name word,José Antonio Morente,Tete Morente,2026-11-18
+259942,428016,date of birth + name,Brandon Austin,Brandon Austin,2026-11-18
+259960,325223,date of birth + name,Mama Baldé,Mama Baldé,2026-11-18
+259975,532937,date of birth + name,Johan Vásquez,Johan Vásquez,2026-11-18
+260004,470794,date of birth + name,Ivan Ilic,Ivan Ilić,2026-11-18
+260005,404260,date of birth + name,Aleksa Terzic,Aleksa Terzic,2026-11-18
+260168,412823,date of birth + name,Joel Latibeaudiere,Joel Latibeaudiere,2026-11-18
+260188,250153,date of birth + name,Pasquale Mazzocchi,Pasquale Mazzocchi,2026-11-18
+260242,412045,date of birth + name,Pol Lozano,Pol Lozano,2026-11-18
+260243,408471,date of birth + shared name word,Javier Puado,Javi Puado,2026-11-18
+260256,465967,date of birth + name,Ander Guevara,Ander Guevara,2026-11-18
+260262,336012,date of birth + name,Nicolas Kühn,Nicolas Kühn,2026-11-18
+260300,496857,date of birth + name,Edon Zhegrova,Edon Zhegrova,2026-11-18
+260740,455181,date of birth + name,Jorge de Frutos,Jorge de Frutos,2026-11-18
+260902,338285,date of birth + name,Unai Núñez,Unai Núñez,2026-11-18
+261047,397033,date of birth + name,Sandro Tonali,Sandro Tonali,2026-11-18
+261054,449151,date of birth + name,Junior Messias,Junior Messias,2026-11-18
+261066,463665,date of birth + name,Oumar Solet,Oumar Solet,2026-11-18
+261083,527425,date of birth + name,Luke Woolfenden,Luke Woolfenden,2026-11-18
+261087,406634,date of birth + name,Matt O'Riley,Matt O'Riley,2026-11-18
+261173,354814,date of birth + name,M'Bala Nzola,M'Bala Nzola,2026-11-18
+261199,357884,date of birth + name,Fernando Calero,Fernando Calero,2026-11-18
+261274,445126,date of birth + name,Emanuele Valeri,Emanuele Valeri,2026-11-18
+261363,490884,date of birth + name,Ludovit Reis,Ludovit Reis,2026-11-18
+261399,543666,date of birth + name,Stefano Turati,Stefano Turati,2026-11-18
+261403,371371,date of birth + name,Marash Kumbulla,Marash Kumbulla,2026-11-18
+261419,392768,date of birth + name,Callum Hudson-Odoi,Callum Hudson-Odoi,2026-11-18
+261594,433984,date of birth + name,Sam Beukema,Sam Beukema,2026-11-18
+261598,411537,date of birth + name,Zian Flemming,Zian Flemming,2026-11-18
+261616,341227,date of birth + name,Juan Miranda,Juan Miranda,2026-11-18
+262061,461843,date of birth + name,Juan Berrocal,Juan Berrocal,2026-11-18
+262071,523318,date of birth + shared name word,Tasos Douvikas,Anastasios Douvikas,2026-11-18
+262481,346561,date of birth + name,Luca Ranieri,Luca Ranieri,2026-11-18
+262482,531960,date of birth + name,Lucas Buades,Lucas Buades,2026-11-18
+262491,533568,date of birth + name,Nahuel Tenaglia,Nahuel Tenaglia,2026-11-18
+262591,426620,date of birth + name,Pedro Gonçalves,Pedro Gonçalves,2026-11-18
+262594,404842,date of birth + name,Vitaliy Mykolenko,Vitaliy Mykolenko,2026-11-18
+262862,287188,date of birth + name,Dejan Ljubicic,Dejan Ljubicic,2026-11-18
+263110,461883,date of birth + name,Calvin Bassey,Calvin Bassey,2026-11-18
+263134,340322,date of birth + name,Nathan Tella,Nathan Tella,2026-11-18
+263202,391780,date of birth + name,Derrick Köhn,Derrick Köhn,2026-11-18
+263508,375877,date of birth + shared name word,Bayo Youssouf,Vakoun Bayo,2026-11-18
+263705,504209,date of birth + name,Gianluca Busio,Gianluca Busio,2026-11-18
+264078,363057,date of birth + name,Pedro Díaz,Pedro Díaz,2026-11-18
+264175,449796,date of birth + name,Alejandro Catena,Alejandro Catena,2026-11-18
+264177,278837,date of birth + name,Luis Rioja,Luis Rioja,2026-11-18
+264197,362086,date of birth + name,Isi Palazón,Isi Palazón,2026-11-18
+264211,281989,date of birth + name,Luis Milla,Luis Milla,2026-11-18
+264217,517753,date of birth + name,Óscar Valentín,Óscar Valentín,2026-11-18
+265099,496706,date of birth + name,Montassar Talbi,Montassar Talbi,2026-11-18
+265140,481675,date of birth + name,Christos Mandas,Christos Mandas,2026-11-18
+265234,211474,date of birth + name,Ali Abdi,Ali Abdi,2026-11-18
+265653,503743,date of birth + name,Morgan Rogers,Morgan Rogers,2026-11-18
+265869,398184,date of birth + name,Ferran Torres,Ferran Torres,2026-11-18
+265907,392757,date of birth + name,Marc Guéhi,Marc Guéhi,2026-11-18
+265912,395237,date of birth + name,Maxence Caqueret,Maxence Caqueret,2026-11-18
+265915,494237,date of birth + name,Wilson Isidor,Wilson Isidor,2026-11-18
+265918,434224,date of birth + name,Maxence Lacroix,Maxence Lacroix,2026-11-18
+265919,413112,date of birth + name,Aurélien Tchouaméni,Aurélien Tchouaméni,2026-11-18
+265921,542586,date of birth + name,Illan Meslier,Illan Meslier,2026-11-18
+265923,532775,date of birth + name,Melvin Bard,Melvin Bard,2026-11-18
+265926,439914,date of birth + name,John Yeboah,John Yeboah,2026-11-18
+265953,405397,date of birth + name,Keito Nakamura,Keito Nakamura,2026-11-18
+265958,432298,date of birth + name,Zion Suzuki,Zion Suzuki,2026-11-18
+265965,405385,date of birth + name,Yukinari Sugawara,Yukinari Sugawara,2026-11-18
+265993,366930,date of birth + name,Sergio Gómez,Sergio Gómez,2026-11-18
+265995,495625,date of birth + name,Víctor Chust,Víctor Chust,2026-11-18
+265996,497663,date of birth + name,Mujaid Sadick,Mujaid Sadick,2026-11-18
+265997,495621,date of birth + name,Antonio Blanco,Antonio Blanco,2026-11-18
+266027,370846,date of birth + name,Timothy Weah,Timothy Weah,2026-11-18
+266280,538964,date of birth + name,Thijs Dallinga,Thijs Dallinga,2026-11-18
+266565,361260,date of birth + name,Ozan Kabak,Ozan Kabak,2026-11-18
+266599,543499,date of birth + name,Mohammed Kudus,Mohammed Kudus,2026-11-18
+266628,543387,date of birth + name,Cheick Doucouré,Cheick Doucouré,2026-11-18
+266657,342039,date of birth + name,Yannik Keitel,Yannik Keitel,2026-11-18
+266659,448177,date of birth + name,Jessic Ngankam,Jessic Ngankam,2026-11-18
+266660,441986,date of birth + name,Yann Bisseck,Yann Bisseck,2026-11-18
+266696,488362,date of birth + name,Conor Gallagher,Conor Gallagher,2026-11-18
+266697,392765,date of birth + name,Emile Smith Rowe,Emile Smith Rowe,2026-11-18
+266839,448258,date of birth + name,Josha Vagnoman,Josha Vagnoman,2026-11-18
+266846,381469,date of birth + name,Steven Benda,Steven Benda,2026-11-18
+267477,573775,date of birth + name,Hugo Duro,Hugo Duro,2026-11-18
+267513,378424,goals: 4/4 goals coincide,Sebastian Klaas,,2026-11-18
+267530,435493,date of birth + name,Bambo Diaby,Bambo Diaby,2026-11-18
+267591,557057,date of birth + name,Roger Brugué,Roger Brugué,2026-11-18
+267711,483348,date of birth + name,Djed Spence,Djed Spence,2026-11-18
+267798,392710,date of birth + name,Lennard Maloney,Lennard Maloney,2026-11-18
+267804,412363,date of birth + name,Rodrygo,Rodrygo,2026-11-18
+268239,381967,date of birth + name,Albert Sambi Lokonga,Albert Sambi Lokonga,2026-11-18
+268452,357992,date of birth + name,Raoul Bellanova,Raoul Bellanova,2026-11-18
+268533,553875,date of birth + name,Pedro Porro,Pedro Porro,2026-11-18
+268591,555076,date of birth + name,Romain Faivre,Romain Faivre,2026-11-18
+268601,378139,date of birth + name,Aitor Ruibal,Aitor Ruibal,2026-11-18
+268641,623570,date of birth + name,Iliman Ndiaye,Iliman Ndiaye,2026-11-18
+268720,461790,date of birth + name,Louis Mafouta,Louis Mafouta,2026-11-18
+268751,341277,date of birth + name,Sergio Lozano,Sergio Lozano,2026-11-18
+268782,503733,date of birth + name,Anthony Gordon,Anthony Gordon,2026-11-18
+268808,371141,date of birth + shared name word,Stanley N'Soki,Stanley Nsoki,2026-11-18
+268870,522681,date of birth + name,Ben Lhassine Kone,Ben Lhassine Kone,2026-11-18
+268951,272278,date of birth + name,Chris Führich,Chris Führich,2026-11-18
+268966,324795,date of birth + name,Mahdi Camara,Mahdi Camara,2026-11-18
+269136,335457,date of birth + name,Ermedin Demirovic,Ermedin Demirovic,2026-11-18
+269339,293388,date of birth + shared name word,Orio Rey,Oriol Rey,2026-11-18
+269343,559794,club + name,Jack Clarke,Jack Clarke,2026-11-18
+269655,374139,date of birth + name,Junior Firpo,Junior Firpo,2026-11-18
+270010,397225,date of birth + name,Alessandro Zanoli,Alessandro Zanoli,2026-11-18
+270190,475411,date of birth + name,Wesley Fofana,Wesley Fofana,2026-11-18
+270389,338668,date of birth + name,Senne Lynen,Senne Lynen,2026-11-18
+270507,541231,date of birth + name,Sepp van den Berg,Sepp van den Berg,2026-11-18
+270610,376589,date of birth + shared name word,Eneko Jauregui,Eneko Jauregi,2026-11-18
+270641,346890,date of birth + name,Noah Okafor,Noah Okafor,2026-11-18
+270670,395516,date of birth + name,Moussa Diaby,Moussa Diaby,2026-11-18
+270752,524315,date of birth + name,Hidemasa Morita,Hidemasa Morita,2026-11-18
+270817,361068,date of birth + name,Jurgen Ekkelenkamp,Jurgen Ekkelenkamp,2026-11-18
+270821,480267,date of birth + name,Ronald Araujo,Ronald Araujo,2026-11-18
+270884,503871,date of birth + name,Morten Frendrup,Morten Frendrup,2026-11-18
+271129,484988,date of birth + name,Logan Costa,Logan Costa,2026-11-18
+271130,338629,date of birth + name,Sebastiaan Bornauw,Sebastiaan Bornauw,2026-11-18
+271132,381950,date of birth + name,Alexis Saelemaekers,Alexis Saelemaekers,2026-11-18
+271137,569140,date of birth + name,Lassine Sinayoko,Lassine Sinayoko,2026-11-18
+271151,568835,date of birth + name,Pablo Martínez,Pablo Martínez,2026-11-18
+271170,413039,date of birth + name,Bryan Mbeumo,Bryan Mbeumo,2026-11-18
+271191,424015,date of birth + name,Nathan Patterson,Nathan Patterson,2026-11-18
+271244,467632,date of birth + name,Cristian Cásseres Jr.,Cristian Cásseres Jr.,2026-11-18
+271352,550580,date of birth + name,Shuto Machino,Shuto Machino,2026-11-18
+271445,492319,date of birth + name,Franco Israel,Franco Israel,2026-11-18
+271555,575998,date of birth + name,Leonardo Balerdi,Leonardo Balerdi,2026-11-18
+271635,357628,date of birth + shared name word,Alfonso González,Alfon González,2026-11-18
+271679,405885,date of birth + name,Giacomo Raspadori,Giacomo Raspadori,2026-11-18
+271769,585982,date of birth + name,Carlos Augusto,Carlos Augusto,2026-11-18
+271873,251075,date of birth + name,Zeki Çelik,Zeki Çelik,2026-11-18
+271904,709372,date of birth + name,Carlos Romero,Carlos Romero,2026-11-18
+272135,504153,date of birth + name,Joe Scally,Joe Scally,2026-11-18
+272512,578391,date of birth + name,Rayan Aït-Nouri,Rayan Aït-Nouri,2026-11-18
+272585,578539,date of birth + name,Chris Richards,Chris Richards,2026-11-18
+272694,392956,date of birth + shared name word,Enrico Del Prato,Enrico Delprato,2026-11-18
+272695,431755,date of birth + name,Dejan Kulusevski,Dejan Kulusevski,2026-11-18
+272719,579930,date of birth + name,Armand Laurienté,Armand Laurienté,2026-11-18
+272745,564305,date of birth + name,Michel Adopo,Michel Adopo,2026-11-18
+272867,464469,date of birth + name,Torbjørn Heggem,Torbjørn Heggem,2026-11-18
+272873,546926,date of birth + name,Jay Idzes,Jay Idzes,2026-11-18
+272892,392959,date of birth + name,Andrea Colpani,Andrea Colpani,2026-11-18
+273021,986300,date of birth + name,Daouda Traoré,Daouda Traoré,2026-11-18
+273292,583255,date of birth + name,Antoine Semenyo,Antoine Semenyo,2026-11-18
+273300,339314,date of birth + name,Deniz Undav,Deniz Undav,2026-11-18
+273424,398163,date of birth + name,Gonzalo Villar,Gonzalo Villar,2026-11-18
+273495,584769,date of birth + name,Dwight McNeil,Dwight McNeil,2026-11-18
+273499,533738,date of birth + name,Jonathan David,Jonathan David,2026-11-18
+274016,524000,date of birth + name,Dani Vivian,Dani Vivian,2026-11-18
+274197,557149,date of birth + name,Lee Kang-In,Kang-in Lee,2026-11-18
+274217,423744,date of birth + name,Billy Gilmour,Billy Gilmour,2026-11-18
+274258,588426,date of birth + name,Saúl Coco,Saúl Coco,2026-11-18
+274272,336077,date of birth + shared name word,Altay Bayindir,Altay Bayındır,2026-11-18
+274277,589128,date of birth + name,Ayase Ueda,Ayase Ueda,2026-11-18
+274278,504849,date of birth + name,Kaoru Mitoma,Kaoru Mitoma,2026-11-18
+274285,539252,date of birth + name,Costinha,Costinha,2026-11-18
+274632,478573,date of birth + name,Ryan Gravenberch,Ryan Gravenberch,2026-11-18
+274633,361093,date of birth + name,Sven Botman,Sven Botman,2026-11-18
+274649,371851,date of birth + name,Jaka Bijol,Jaka Bijol,2026-11-18
+274733,227347,date of birth + name,Valentin Antov,Valentin Antov,2026-11-18
+274742,502676,date of birth + name,Giorgi Mamardashvili,Giorgi Mamardashvili,2026-11-18
+274745,502670,date of birth + name,Khvicha Kvaratskhelia,Khvicha Kvaratskhelia,2026-11-18
+274860,412953,date of birth + name,Wouter Burger,Wouter Burger,2026-11-18
+274887,333647,date of birth + name,Jonathan Burkardt,Jonathan Burkardt,2026-11-18
+274897,324278,date of birth + name,Christoph Baumgartner,Christoph Baumgartner,2026-11-18
+274911,461496,date of birth + name,Morten Hjulmand,Morten Hjulmand,2026-11-18
+274913,496094,date of birth + name,Karim Adeyemi,Karim Adeyemi,2026-11-18
+274971,468066,date of birth + name,Jens Cajuste,Jens Cajuste,2026-11-18
+275015,507486,date of birth + name,Simon Sohm,Simon Sohm,2026-11-18
+275227,488996,date of birth + name,Thorir Johann Helgason,Thórir Jóhann Helgason,2026-11-18
+275444,542819,date of birth + name,Milutin Osmajic,Milutin Osmajic,2026-11-18
+275599,340918,date of birth + name,Caoimhín Kelleher,Caoimhín Kelleher,2026-11-18
+275797,116088,date of birth + name,Marius Bulter,Marius Bülter,2026-11-18
+275805,388409,date of birth + name,Philipp Sander,Philipp Sander,2026-11-18
+275842,365108,date of birth + name,Dan Ndoye,Dan Ndoye,2026-11-18
+275844,334221,date of birth + name,Amos Pieper,Amos Pieper,2026-11-18
+275924,458777,date of birth + name,Giacomo Quagliata,Giacomo Quagliata,2026-11-18
+275983,367466,date of birth + name,Thierry Correia,Thierry Correia,2026-11-18
+275987,430034,date of birth + name,Nicholas Mickelson,Nicholas Mickelson,2026-11-18
+276067,419067,date of birth + name,Giorgi Tsitaishvili,Giorgi Tsitaishvili,2026-11-18
+276082,467250,date of birth + shared name word,Yukhym Konoplia,Yukhym Konoplya,2026-11-18
+276160,599663,date of birth + name,Faris Moumbagna,Faris Moumbagna,2026-11-18
+276220,505219,date of birth + name,James Garner,James Garner,2026-11-18
+276237,459128,date of birth + name,Marco Brescianini,Marco Brescianini,2026-11-18
+276254,432090,date of birth + name,Nicolò Fagioli,Nicolò Fagioli,2026-11-18
+276265,368887,date of birth + name,Loïs Openda,Loïs Openda,2026-11-18
+276267,377243,date of birth + name,Jakub Piotrowski,Jakub Piotrowski,2026-11-18
+276323,297583,date of birth + name,Jeong Woo-Yeong,Woo-yeong Jeong,2026-11-18
+276327,435648,date of birth + name,Joshua Zirkzee,Joshua Zirkzee,2026-11-18
+276329,483046,date of birth + name,Josip Stanisic,Josip Stanisic,2026-11-18
+276330,406614,date of birth + name,Oliver Batista Meier,Oliver Batista Meier,2026-11-18
+276546,331505,date of birth + name,Óscar Mingueza,Óscar Mingueza,2026-11-18
+276636,527698,date of birth + shared name word,Enrique Perez,Kike Pérez,2026-11-18
+276652,505674,date of birth + name,Sergio Camello,Sergio Camello,2026-11-18
+276653,466802,date of birth + name,Adrián Bernabé,Adrián Bernabé,2026-11-18
+276654,392538,date of birth + name,Tommaso Pobega,Tommaso Pobega,2026-11-18
+276692,358008,date of birth + name,Gianluca Gaetano,Gianluca Gaetano,2026-11-18
+276822,467992,date of birth + name,Samuele Ricci,Samuele Ricci,2026-11-18
+276841,341263,date of birth + shared name word,Adrián de la Fuente,Adrián Dela,2026-11-18
+276847,560483,date of birth + name,Randy Nteka,Randy Nteka,2026-11-18
+276995,569389,date of birth + name,Sofiane Diop,Sofiane Diop,2026-11-18
+276996,563137,date of birth + name,Robert Navarro,Robert Navarro,2026-11-18
+277206,576024,date of birth + name,Julián Álvarez,Julián Alvarez,2026-11-18
+277292,501418,date of birth + name,Adrià Pedrosa,Adrià Pedrosa,2026-11-18
+277301,569387,date of birth + name,Valentin Gendrey,Valentin Gendrey,2026-11-18
+277307,569598,date of birth + name,Youssouf Fofana,Youssouf Fofana,2026-11-18
+277314,371856,date of birth + name,Vanja Drkusic,Vanja Drkusic,2026-11-18
+277327,605184,date of birth + name,Jean-Clair Todibo,Jean-Clair Todibo,2026-11-18
+277377,486046,date of birth + name,Maarten Vandevoordt,Maarten Vandevoordt,2026-11-18
+277383,463613,date of birth + name,Yann Gboho,Yann Gboho,2026-11-18
+277385,495666,date of birth + name,William Saliba,William Saliba,2026-11-18
+277441,392516,date of birth + name,Antonino Gallo,Antonino Gallo,2026-11-18
+277525,592979,date of birth + name,Himad Abdelli,Himad Abdelli,2026-11-18
+277531,503980,date of birth + name,Joe Gelhardt,Joe Gelhardt,2026-11-18
+277718,563963,date of birth + name,Mohammed Salisu,Mohammed Salisu,2026-11-18
+277865,393238,date of birth + name,Zakaria Aboukhlal,Zakaria Aboukhlal,2026-11-18
+277876,559979,date of birth + name,Abdel Abqar,Abdel Abqar,2026-11-18
+278061,538977,date of birth + name,Georginio Rutter,Georginio Rutter,2026-11-18
+278210,607854,date of birth + name,Éderson,Éderson,2026-11-18
+278987,421873,date of birth + name,Elia Caprile,Elia Caprile,2026-11-18
+279137,789094,date of birth + name,Brahimi Bilal,Bilal Brahimi,2026-11-18
+279155,611793,date of birth + name,James Hill,James Hill,2026-11-18
+279282,612826,date of birth + name,Silas Katompa-Mvumpa,Silas,2026-11-18
+279660,341713,date of birth + name,Diego Conde,Diego Conde,2026-11-18
+279738,390688,date of birth + name,Juan Iglesias,Juan Iglesias,2026-11-18
+279780,469050,date of birth + name,Nathan Collins,Nathan Collins,2026-11-18
+279786,531957,date of birth + name,Cody Drameh,Cody Drameh,2026-11-18
+279790,552655,date of birth + name,Troy Parrott,Troy Parrott,2026-11-18
+279904,599231,date of birth + name,Ferran Jutglà,Ferran Jutglà,2026-11-18
+279959,232463,date of birth + name,Luca Pfeiffer,Luca Pfeiffer,2026-11-18
+279961,393512,date of birth + name,Felix Agu,Felix Agu,2026-11-18
+280555,433177,date of birth + name,Bukayo Saka,Bukayo Saka,2026-11-18
+280650,620912,date of birth + name,Théo Vermot,Théo Vermot,2026-11-18
+280764,513970,date of birth + name,Julián Araujo,Julián Araujo,2026-11-18
+280806,565822,date of birth + name,Harvey Elliott,Harvey Elliott,2026-11-18
+281119,484547,date of birth + name,Jeremie Frimpong,Jeremie Frimpong,2026-11-18
+281121,503977,date of birth + name,Taylor Harwood-Bellis,Taylor Harwood-Bellis,2026-11-18
+281122,406640,date of birth + name,Felix Nmecha,Felix Nmecha,2026-11-18
+281125,485585,date of birth + name,Ian Maatsen,Ian Maatsen,2026-11-18
+281139,587335,date of birth + name,Milan van Ewijk,Milan van Ewijk,2026-11-18
+281558,602105,date of birth + name,Antony,Antony,2026-11-18
+281590,625202,date of birth + name,Lautaro Valenti,Lautaro Valenti,2026-11-18
+281736,367284,date of birth + name,Leo Østigard,Leo Østigård,2026-11-18
+282086,420196,date of birth + name,Justin de Haas,Justin de Haas,2026-11-18
+282186,415381,date of birth + name,Mats Wieffer,Mats Wieffer,2026-11-18
+282228,470394,date of birth + name,Kenneth Taylor,Kenneth Taylor,2026-11-18
+282229,473169,date of birth + name,Brian Brobbey,Brian Brobbey,2026-11-18
+282230,420213,date of birth + name,Quinten Timber,Quinten Timber,2026-11-18
+282289,569384,date of birth + name,Lucien Agoumé,Lucien Agoumé,2026-11-18
+282381,626913,date of birth + name,Boulaye Dia,Boulaye Dia,2026-11-18
+282388,621802,date of birth + name,Olivier Deman,Olivier Deman,2026-11-18
+282564,572265,date of birth + name,Lorenzo Lucca,Lorenzo Lucca,2026-11-18
+282583,576314,date of birth + name,Jan Paul van Hecke,Jan Paul van Hecke,2026-11-18
+282585,463603,date of birth + name,Benoît Badiashile,Benoît Badiashile,2026-11-18
+282597,535820,date of birth + name,Isak Jansson,Isak Jansson,2026-11-18
+282643,503770,date of birth + name,Folarin Balogun,Folarin Balogun,2026-11-18
+282645,503686,date of birth + shared name word,Danny Ballard,Dan Ballard,2026-11-18
+282646,493513,date of birth + name,Karl Hein,Karl Hein,2026-11-18
+282647,511550,date of birth + name,Ellis Simms,Ellis Simms,2026-11-18
+282672,629511,date of birth + name,Pablo Ramon,Pablo Ramón,2026-11-18
+282675,463605,date of birth + name,Bafodé Diakité,Bafodé Diakité,2026-11-18
+282676,629588,date of birth + shared name word,Nathan N'Goumou,Nathan Ngoumou,2026-11-18
+282716,420243,date of birth + name,Jurriën Timber,Jurriën Timber,2026-11-18
+282885,536508,date of birth + name,Han-Noah Massengo,Han-Noah Massengo,2026-11-18
+283086,596446,date of birth + name,Leif Davis,Leif Davis,2026-11-18
+283139,463618,date of birth + name,Khéphren Thuram,Khéphren Thuram,2026-11-18
+283375,647280,date of birth + name,Kieron Bowie,Kieron Bowie,2026-11-18
+283586,711544,date of birth + name,Jake O'Brien,Jake O'Brien,2026-11-18
+283626,580657,date of birth + name,Osame Sahraoui,Osame Sahraoui,2026-11-18
+283672,486049,date of birth + name,Jérémy Doku,Jérémy Doku,2026-11-18
+283683,405687,date of birth + name,Tom Krauss,Tom Krauß,2026-11-18
+283692,585951,date of birth + shared name word,Alexandre Philiponeau,Alexandre Phliponeau,2026-11-18
+283741,358032,date of birth + name,Cyril Ngonge,Cyril Ngonge,2026-11-18
+283827,261503,date of birth + name,Álvaro Fidalgo,Álvaro Fidalgo,2026-11-18
+283891,517842,date of birth + name,Aihen Muñoz,Aihen Muñoz,2026-11-18
+283892,417913,date of birth + name,Álvaro Valles,Álvaro Valles,2026-11-18
+283940,591949,date of birth + name,Aaron Hickey,Aaron Hickey,2026-11-18
+283941,616369,date of birth + name,Ander Barrenetxea,Ander Barrenetxea,2026-11-18
+284199,554389,date of birth + name,Konstantinos Tzolakis,Konstantinos Tzolakis,2026-11-18
+284212,564785,date of birth + name,Kristian Thorstvedt,Kristian Thorstvedt,2026-11-18
+284333,646733,date of birth + name,Jim Allevinah,Jim Allevinah,2026-11-18
+284490,644401,date of birth + name,Keane Lewis-Potter,Keane Lewis-Potter,2026-11-18
+284699,335216,date of birth + name,Iñigo Vicente,Iñigo Vicente,2026-11-18
+284702,454863,date of birth + name,András Schäfer,András Schäfer,2026-11-18
+284769,638793,date of birth + name,Tajon Buchanan,Tajon Buchanan,2026-11-18
+284804,459763,date of birth + name,Marco Carnesecchi,Marco Carnesecchi,2026-11-18
+284822,644771,date of birth + name,Odilon Kossounou,Odilon Kossounou,2026-11-18
+284835,649672,date of birth + name,Nicolás Capaldo,Nicolás Capaldo,2026-11-18
+284854,640109,date of birth + name,Martín Satriano,Martín Satriano,2026-11-18
+284960,626724,date of birth + name,João Pedro,João Pedro,2026-11-18
+285088,646402,date of birth + name,Abner,Abner,2026-11-18
+285150,640428,date of birth + name,Eduardo Camavinga,Eduardo Camavinga,2026-11-18
+285226,624690,date of birth + name,Manu Koné,Manu Koné,2026-11-18
+285438,432092,date of birth + name,Roberto Piccoli,Roberto Piccoli,2026-11-18
+285450,648195,date of birth + name,Enzo Fernández,Enzo Fernández,2026-11-18
+285756,532389,date of birth + name,Sebastián Cáceres,Sebastián Cáceres,2026-11-18
+285866,507345,date of birth + name,Leonidas Stergiou,Leonidas Stergiou,2026-11-18
+285937,600041,date of birth + name,Mattia Felici,Mattia Felici,2026-11-18
+285969,525704,date of birth + name,Nicolò Rovella,Nicolò Rovella,2026-11-18
+285975,507496,date of birth + name,Félix Mambimbi,Felix Mambimbi,2026-11-18
+286011,631927,date of birth + name,Saud Abdulhamid,Saud Abdulhamid,2026-11-18
+286090,503749,date of birth + name,Jacob Ramsey,Jacob Ramsey,2026-11-18
+286128,467563,date of birth + name,Armel Bella-Kotchap,Armel Bella-Kotchap,2026-11-18
+286176,552425,date of birth + name,Jon Moncayola,Jon Moncayola,2026-11-18
+286317,364206,date of birth + name,Andrea Adorante,Andrea Adorante,2026-11-18
+286347,420931,date of birth + name,Daizen Maeda,Daizen Maeda,2026-11-18
+286369,691316,date of birth + name,Luis Henrique,Luis Henrique,2026-11-18
+286433,380744,date of birth + name,Egil Selvik,Egil Selvik,2026-11-18
+286582,649490,date of birth + name,Konan N’Dri,Konan N’Dri,2026-11-18
+286604,375382,date of birth + name,André Almeida,André Almeida,2026-11-18
+286764,430280,date of birth + name,Hans Nicolussi Caviglia,Hans Nicolussi Caviglia,2026-11-18
+286769,519651,date of birth + name,Zakaria Eddahchouri,Zakaria Eddahchouri,2026-11-18
+286774,656316,date of birth + shared name word,Gaga Slonina,Gabriel Slonina,2026-11-18
+286814,496745,date of birth + name,Emil Holm,Emil Holm,2026-11-18
+286815,579565,date of birth + name,Ísak Jóhannesson,Ísak Jóhannesson,2026-11-18
+286828,388198,date of birth + name,Nico Schlotterbeck,Nico Schlotterbeck,2026-11-18
+286831,566723,date of birth + name,Michael Olise,Michael Olise,2026-11-18
+286929,538918,date of birth + name,Sebastiano Esposito,Sebastiano Esposito,2026-11-18
+286965,661053,date of birth + name,Jarrad Branthwaite,Jarrad Branthwaite,2026-11-18
+286972,693352,date of birth + name,Iron Gomis,Iron Gomis,2026-11-18
+287005,661171,date of birth + name,Willian Pacho,Willian Pacho,2026-11-18
+287078,560593,date of birth + name,Hicham Boudaoui,Hicham Boudaoui,2026-11-18
+287224,527966,date of birth + name,Andrei Ratiu,Andrei Rațiu,2026-11-18
+287225,475413,date of birth + name,Sacha Boey,Sacha Boey,2026-11-18
+287266,423440,date of birth + name,Martín Zubimendi,Martín Zubimendi,2026-11-18
+287276,656681,date of birth + name,Victor Boniface,Victor Boniface,2026-11-18
+287430,649016,date of birth + name,El Bilal Toure,El Bilal Touré,2026-11-18
+287474,649026,date of birth + name,Moustapha Mbow,Moustapha Mbow,2026-11-18
+287514,522788,date of birth + name,Timothé Nkada,Timothé Nkada,2026-11-18
+287572,668167,date of birth + name,Samir Chergui,Samir Chergui,2026-11-18
+287576,487333,date of birth + name,Paolo Gozzi Iweru,Paolo Gozzi,2026-11-18
+287606,666744,date of birth + name,Alexandre Lauray,Alexandre Lauray,2026-11-18
+287645,536482,date of birth + name,Junior Dina Ebimbe,Junior Dina Ebimbe,2026-11-18
+287673,433329,date of birth + name,Corrie Ndaba,Corrie Ndaba,2026-11-18
+287677,520530,date of birth + name,Fali Candé,Fali Candé,2026-11-18
+287790,459151,date of birth + name,Nicolò Cambiaghi,Nicolò Cambiaghi,2026-11-18
+287869,432164,date of birth + name,Igor Jesus,Igor Jesus,2026-11-18
+288340,633992,date of birth + name,Enzo Le Fée,Enzo Le Fée,2026-11-18
+288361,538079,date of birth + name,Alessio Furlanetto,Alessio Furlanetto,2026-11-18
+288429,674806,date of birth + name,Santiago Pierotti,Santiago Pierotti,2026-11-18
+288472,607034,date of birth + name,Akor Adams,Akor Adams,2026-11-18
+288481,393565,date of birth + name,Michal Skoras,Michal Skoras,2026-11-18
+288483,345458,date of birth + name,Sebastian Walukiewicz,Sebastian Walukiewicz,2026-11-18
+288487,407745,date of birth + name,Maik Nawrocki,Maik Nawrocki,2026-11-18
+288488,550108,date of birth + name,Nicola Zalewski,Nicola Zalewski,2026-11-18
+288540,673514,date of birth + name,Abdoulaye Ndiaye,Abdoulaye Ndiaye,2026-11-18
+288760,634131,date of birth + name,Aimar Oroz,Aimar Oroz,2026-11-18
+288788,390163,date of birth + name,Andrea Ghion,Andrea Ghion,2026-11-18
+288896,550550,date of birth + name,Gonçalo Ramos,Gonçalo Ramos,2026-11-18
+288897,487469,date of birth + name,Vitinha,Vitinha,2026-11-18
+288900,479648,date of birth + name,Felix Correia,Félix Correia,2026-11-18
+288901,535955,date of birth + name,Nuno Tavares,Nuno Tavares,2026-11-18
+288924,500689,date of birth + name,Evann Guessand,Evann Guessand,2026-11-18
+288925,463600,date of birth + name,Lucas Chevalier,Lucas Chevalier,2026-11-18
+289072,678406,date of birth + name,Sergi Cardona,Sergi Cardona,2026-11-18
+289114,653610,date of birth + name,Igor Paixão,Igor Paixão,2026-11-18
+289155,627442,date of birth + name,Benjamin Sesko,Benjamin Sesko,2026-11-18
+289322,436064,date of birth + name,Ramon Hendriks,Ramon Hendriks,2026-11-18
+289439,502682,date of birth + name,Giorgi Guliashvili,Giorgi Guliashvili,2026-11-18
+289511,595809,date of birth + name,Beto,Beto,2026-11-18
+289527,469957,date of birth + name,Kastriot Imeri,Kastriot Imeri,2026-11-18
+289560,552223,date of birth + name,Filip Stankovic,Filip Stanković,2026-11-18
+289645,648046,date of birth + name,Evan Ferguson,Evan Ferguson,2026-11-18
+289769,538874,date of birth + name,Terem Moffi,Terem Moffi,2026-11-18
+289824,1300865,date of birth + name,Djordje Petrovic,Djordje Petrovic,2026-11-18
+289837,554251,date of birth + name,Yasser Larouci,Yasser Larouci,2026-11-18
+289840,486604,date of birth + name,Vitezslav Jaros,Vitezslav Jaros,2026-11-18
+289877,687626,date of birth + name,Moisés Caicedo,Moisés Caicedo,2026-11-18
+289942,438961,date of birth + name,Michael Svoboda,Michael Svoboda,2026-11-18
+290030,658533,date of birth + name,Abu Francis,Abu Francis,2026-11-18
+290044,525299,date of birth + name,Miguel Gutiérrez,Miguel Gutiérrez,2026-11-18
+290076,556385,date of birth + name,Destiny Udogie,Destiny Udogie,2026-11-18
+290129,585949,date of birth + name,Pierre Kalulu,Pierre Kalulu,2026-11-18
+290141,485960,date of birth + name,Lilian Brassier,Lilian Brassier,2026-11-18
+290165,538996,date of birth + name,Tanguy Nianzou,Tanguy Nianzou,2026-11-18
+290166,569385,date of birth + name,Adil Aouchiche,Adil Aouchiche,2026-11-18
+290207,515544,date of birth + name,Trai Hume,Trai Hume,2026-11-18
+290230,504215,date of birth + name,Giovanni Reyna,Giovanni Reyna,2026-11-18
+290232,443710,date of birth + name,Angelo Stiller,Angelo Stiller,2026-11-18
+290375,574671,date of birth + name,Strahinja Pavlovic,Strahinja Pavlović,2026-11-18
+290398,597000,date of birth + name,Eric Martel,Eric Martel,2026-11-18
+290401,462832,date of birth + name,Mads Bidstrup,Mads Bidstrup,2026-11-18
+290412,412935,date of birth + name,Immanuel Pherai,Immanuel Pherai,2026-11-18
+290418,567129,date of birth + name,Josh Doig,Josh Doig,2026-11-18
+290545,539134,date of birth + name,Daniel Maldini,Daniel Maldini,2026-11-18
+290591,616341,date of birth + name,Nuno Mendes,Nuno Mendes,2026-11-18
+290592,461943,date of birth + name,Daniel Bragança,Daniel Bragança,2026-11-18
+290639,578392,date of birth + name,Maximilian Beier,Maximilian Beier,2026-11-18
+290792,528181,date of birth + name,Edoardo Corvi,Edoardo Corvi,2026-11-18
+290802,689505,date of birth + name,Johnny Cardoso,Johnny Cardoso,2026-11-18
+290811,518505,date of birth + name,Jamie Leweling,Jamie Leweling,2026-11-18
+291174,693095,date of birth + name,Jacob Greaves,Jacob Greaves,2026-11-18
+291203,443331,date of birth + name,Patrick Osterhage,Patrick Osterhage,2026-11-18
+291281,581678,date of birth + name,Jude Bellingham,Jude Bellingham,2026-11-18
+291285,495667,date of birth + name,Lucas Da Cunha,Lucas Da Cunha,2026-11-18
+291307,470607,date of birth + name,Brennan Johnson,Brennan Johnson,2026-11-18
+291405,370998,date of birth + name,Bartol Franjic,Bartol Franjic,2026-11-18
+291550,462823,date of birth + name,Gustav Isaksen,Gustav Isaksen,2026-11-18
+291560,392966,date of birth + name,Nadir Zortea,Nadir Zortea,2026-11-18
+291609,565093,date of birth + name,Bart Verbruggen,Bart Verbruggen,2026-11-18
+291613,532776,date of birth + name,Amine Adli,Amine Adli,2026-11-18
+291614,690799,date of birth + name,Anthony Rouault,Anthony Rouault,2026-11-18
+291616,571020,date of birth + name,Oihan Sancet,Oihan Sancet,2026-11-18
+291629,505653,date of birth + name,Fábio Silva,Fábio Silva,2026-11-18
+291630,536835,date of birth + name,Amad Diallo,Amad Diallo,2026-11-18
+291638,503680,date of birth + name,Neco Williams,Neco Williams,2026-11-18
+291729,406632,date of birth + name,Cas Odenthal,Cas Odenthal,2026-11-18
+291849,694507,date of birth + name,Rayan Philippe,Rayan Philippe,2026-11-18
+291850,624037,date of birth + name,Joris Chotard,Joris Chotard,2026-11-18
+291982,662242,date of birth + name,Rassoul Ndiaye,Rassoul Ndiaye,2026-11-18
+292062,659813,date of birth + name,Piero Hincapié,Piero Hincapié,2026-11-18
+292169,552057,date of birth + name,Adam Hlozek,Adam Hlozek,2026-11-18
+292199,490423,date of birth + name,Ignace van der Brempt,Ignace Van der Brempt,2026-11-18
+292222,632741,date of birth + name,Iker Losada,Iker Losada,2026-11-18
+292769,688707,date of birth + name,Salis Abdul Samed,Salis Abdul Samed,2026-11-18
+292957,466810,date of birth + name,Ansu Fati,Ansu Fati,2026-11-18
+293236,503987,date of birth + name,Noni Madueke,Noni Madueke,2026-11-18
+293347,533662,date of birth + name,Cameron Archer,Cameron Archer,2026-11-18
+294039,972465,date of birth + name,Tani Oluwaseyi,Tani Oluwaseyi,2026-11-18
+294228,525578,date of birth + name,Pathé Ciss,Pathé Ciss,2026-11-18
+294308,626888,date of birth + name,Kaine Kesler Hayden,Kaine Kesler-Hayden,2026-11-18
+294317,659459,date of birth + name,Carney Chukwuemeka,Carney Chukwuemeka,2026-11-18
+295370,665390,date of birth + name,Jaden Philogene,Jaden Philogene,2026-11-18
+295476,340353,date of birth + name,Maduka Okoye,Maduka Okoye,2026-11-18
+295515,530742,date of birth + name,Fisayo Dele-Bashiru,Fisayo Dele-Bashiru,2026-11-18
+296163,631002,date of birth + name,Raúl García,Raúl García,2026-11-18
+296319,435772,date of birth + name,Charles De Ketelaere,Charles De Ketelaere,2026-11-18
+296321,585959,date of birth + name,Arnaud Kalimuendo,Arnaud Kalimuendo,2026-11-18
+296395,568177,date of birth + name,Cole Palmer,Cole Palmer,2026-11-18
+296410,614258,date of birth + name,Levi Colwill,Levi Colwill,2026-11-18
+296512,557459,date of birth + name,Micky van de Ven,Micky van de Ven,2026-11-18
+296622,583189,date of birth + name,Anthony Elanga,Anthony Elanga,2026-11-18
+297051,661132,date of birth + name,Exequiel Zeballos,Exequiel Zeballos,2026-11-18
+297052,661136,date of birth + name,Kevin Lomónaco,Kevin Lomónaco,2026-11-18
+297084,627228,date of birth + name,Yan Couto,Yan Couto,2026-11-18
+297121,683625,date of birth + name,Jacen Russell-Rowe,Jacen Russell-Rowe,2026-11-18
+297157,540664,date of birth + name,Dilane Bakwa,Dilane Bakwa,2026-11-18
+297161,548347,date of birth + name,Melvin Zinga,Melvin Zinga,2026-11-18
+297165,569383,date of birth + name,Chrislain Matsima,Chrislain Matsima,2026-11-18
+297167,538998,date of birth + name,Timothee Pembélé,Timothée Pembélé,2026-11-18
+297220,487843,date of birth + name,Lorenzo Colombo,Lorenzo Colombo,2026-11-18
+297229,616631,date of birth + name,Matteo Ruggeri,Matteo Ruggeri,2026-11-18
+297233,487836,date of birth + name,Simone Panada,Simone Panada,2026-11-18
+297292,559324,date of birth + name,Youri Regeer,Youri Regeer,2026-11-18
+297300,557407,date of birth + name,Devyne Rensch,Devyne Rensch,2026-11-18
+297337,568693,date of birth + name,Pape Matar Sarr,Pape Matar Sarr,2026-11-18
+297345,666971,date of birth + name,Souleymane Faye,Souleymane Faye,2026-11-18
+297353,568148,date of birth + name,Mario Soriano Carreno,Mario Soriano,2026-11-18
+297358,548188,date of birth + name,Germán Valera,Germán Valera,2026-11-18
+297359,580560,date of birth + name,Jon Pacheco,Jon Pacheco,2026-11-18
+297360,662261,date of birth + name,Rafa Marín,Rafa Marín,2026-11-18
+297362,561613,date of birth + name,Joan García,Joan García,2026-11-18
+297370,568157,date of birth + name,Yéremy Pino,Yéremy Pino,2026-11-18
+297371,634431,date of birth + name,Beñat Turrientes,Beñat Turrientes,2026-11-18
+297373,548111,date of birth + name,Álex Baena,Álex Baena,2026-11-18
+297385,713787,date of birth + name,Jhoanner Chavez,Jhoanner Chávez,2026-11-18
+297565,665618,date of birth + name,Satoshi Tanaka,Satoshi Tanaka,2026-11-18
+297743,568698,date of birth + name,Issa Soumaré,Issa Soumaré,2026-11-18
+297750,503866,date of birth + name,Albert Grønbaek,Albert Grønbaek,2026-11-18
+297775,538971,date of birth + name,Naouirou Ahamada,Naouirou Ahamada,2026-11-18
+297784,627626,date of birth + name,Wilfried Gnonto,Wilfried Gnonto,2026-11-18
+297786,613393,date of birth + name,Gaetano Oristanio,Gaetano Oristanio,2026-11-18
+297829,617074,date of birth + name,Ilaix Moriba,Ilaix Moriba,2026-11-18
+298008,607223,date of birth + name,Rayan Cherki,Rayan Cherki,2026-11-18
+298030,591193,date of birth + name,Niels Nkounkou,Niels Nkounkou,2026-11-18
+298329,502821,date of birth + name,Riccardo Calafiori,Riccardo Calafiori,2026-11-18
+298343,545647,date of birth + name,Sergio Carreira,Sergio Carreira,2026-11-18
+298349,455661,date of birth + name,Nick Woltemade,Nick Woltemade,2026-11-18
+298511,575319,date of birth + name,Kandet Diawara,Kandet Diawara,2026-11-18
+298518,583199,date of birth + name,James McAtee,James McAtee,2026-11-18
+298522,618494,date of birth + name,Tyler Morton,Tyler Morton,2026-11-18
+298524,632349,date of birth + name,Jarell Quansah,Jarell Quansah,2026-11-18
+299457,725963,date of birth + name,Ewan Hatfout,Ewan Hatfout,2026-11-18
+299641,503981,date of birth + name,Tino Livramento,Tino Livramento,2026-11-18
+299910,475959,date of birth + name,Josko Gvardiol,Josko Gvardiol,2026-11-18
+299911,537860,date of birth + shared name word,Mykhailo Mudryk,Mykhaylo Mudryk,2026-11-18
+300001,550116,date of birth + name,Ilario Monterisi,Ilario Monterisi,2026-11-18
+300002,729814,date of birth + name,Georges Mikautadze,Georges Mikautadze,2026-11-18
+300049,731466,date of birth + name,Teddy Sharman-Lowe,Teddy Sharman-Lowe,2026-11-18
+300095,533295,date of birth + name,Patrick Wimmer,Patrick Wimmer,2026-11-18
+300111,741142,date of birth + name,Zaid Romero,Zaid Romero,2026-11-18
+300284,658115,date of birth + name,Abel Bretones,Abel Bretones,2026-11-18
+300331,596122,date of birth + name,Pep Chavarría,Pep Chavarría,2026-11-18
+300333,388542,date of birth + name,Arnau Comas,Arnau Comas,2026-11-18
+300410,730581,date of birth + name,Loïc Badé,Loïc Badé,2026-11-18
+300444,472249,date of birth + name,Jan Thielmann,Jan Thielmann,2026-11-18
+300853,730893,date of birth + name,Tyrick Mitchell,Tyrick Mitchell,2026-11-18
+300876,488626,date of birth + name,Jesús Areso,Jesús Areso,2026-11-18
+300878,1322790,date of birth + name,Adrián Molina,Adrián Molina,2026-11-18
+300912,724520,date of birth + name,Abde Ezzalzouli,Abde Ezzalzouli,2026-11-18
+300926,562742,date of birth + name,Leo Román,Leo Román,2026-11-18
+300927,520840,date of birth + name,Copete,José Copete,2026-11-18
+300961,470038,date of birth + name,Ransford-Yeboah Königsdörffer,Ransford Königsdörffer,2026-11-18
+300985,618809,date of birth + name,Manu Sánchez,Manu Sánchez,2026-11-18
+301166,937941,club + name,Thierno Barry,Thierno Barry,2026-11-18
+301262,735051,date of birth + name,Amine El Ouazzani,Amine El Ouazzani,2026-11-18
+301278,481834,date of birth + name,Andrea Carboni,Andrea Carboni,2026-11-18
+301319,388067,date of birth + name,Stefan Drljaca,Stefan Drljaca,2026-11-18
+301327,429915,date of birth + name,Maxim De Cuyper,Maxim De Cuyper,2026-11-18
+301354,578421,date of birth + name,Ruben Kluivert,Ruben Kluivert,2026-11-18
+301377,730531,date of birth + name,Noel Törnqvist,Noel Törnqvist,2026-11-18
+301406,531404,date of birth + name,Marc Aguado,Marc Aguado,2026-11-18
+301416,467437,date of birth + name,Malik Tillman,Malik Tillman,2026-11-18
+301425,503883,date of birth + name,Senne Lammens,Senne Lammens,2026-11-18
+301449,646991,date of birth + name,Robin Roefs,Robin Roefs,2026-11-18
+301524,735570,date of birth + name,João Gomes,João Gomes,2026-11-18
+301525,735571,date of birth + name,Rodrigo Muniz,Rodrigo Muniz,2026-11-18
+301526,735568,date of birth + name,Natan,Natan,2026-11-18
+301554,715558,date of birth + name,Marcelino Núñez,Marcelino Núñez,2026-11-18
+301648,643259,date of birth + name,Orlando Gill,Orlando Gill,2026-11-18
+301684,627294,date of birth + name,Fer Niño,Fer Niño,2026-11-18
+301770,750878,date of birth + name,Obed Nkambadio,Obed Nkambadio,2026-11-18
+301869,625654,date of birth + name,Julen Lobete,Julen Lobete,2026-11-18
+301894,739443,date of birth + name,Igor Thiago,Igor Thiago,2026-11-18
+301980,668512,date of birth + shared name word,José Romero,David Romero,2026-11-18
+302002,617408,date of birth + name,Tatsuhiro Sakamoto,Tatsuhiro Sakamoto,2026-11-18
+302162,748319,date of birth + shared name word,Charly Alcaraz,Carlos Alcaraz,2026-11-18
+302793,639414,date of birth + name,Seol Young-Woo,Young-woo Seol,2026-11-18
+302862,702441,date of birth + name,Sinaly Diomande,Sinaly Diomandé,2026-11-18
+302981,592387,date of birth + name,Sebastian Sebulonsen,Sebastian Sebulonsen,2026-11-18
+303031,668606,date of birth + name,Yuito Suzuki,Yuito Suzuki,2026-11-18
+303115,746695,date of birth + name,Kamaldeen Sulemana,Kamaldeen Sulemana,2026-11-18
+303296,528833,date of birth + name,Lazar Samardzic,Lazar Samardžić,2026-11-18
+303308,670096,date of birth + name,Tanner Tessmann,Tanner Tessmann,2026-11-18
+303338,620313,date of birth + name,Lucas Gourna-Douath,Lucas Gourna-Douath,2026-11-18
+303444,521964,date of birth + name,Malick Thiaw,Malick Thiaw,2026-11-18
+303745,445939,date of birth + name,Omar Marmoush,Omar Marmoush,2026-11-18
+303748,598577,date of birth + name,Florian Wirtz,Florian Wirtz,2026-11-18
+303765,524285,date of birth + name,Luca Netz,Luca Netz,2026-11-18
+303785,601883,date of birth + name,Matheus Nunes,Matheus Nunes,2026-11-18
+303787,579928,date of birth + name,Sebastian Nanasi,Sebastian Nanasi,2026-11-18
+303792,553285,date of birth + name,Tim Lemperle,Tim Lemperle,2026-11-18
+303793,451677,date of birth + name,Christos Tzolis,Christos Tzolis,2026-11-18
+303804,676042,date of birth + name,Juanlu Sanchez,Juanlu Sánchez,2026-11-18
+303821,580195,date of birth + name,Jamal Musiala,Jamal Musiala,2026-11-18
+303906,624942,date of birth + name,Raúl Moro,Raúl Moro,2026-11-18
+303910,457444,date of birth + name,Giuseppe Aurelio,Giuseppe Aurelio,2026-11-18
+303919,631007,date of birth + name,Filippo Terracciano,Filippo Terracciano,2026-11-18
+303931,788283,date of birth + name,Bobby Thomas,Bobby Thomas,2026-11-18
+303973,608172,date of birth + name,Ardon Jashari,Ardon Jashari,2026-11-18
+303980,655207,date of birth + name,Laurs Skjellerup,Laurs Skjellerup,2026-11-18
+303988,708635,date of birth + name,Lorenzo Bernasconi,Lorenzo Bernasconi,2026-11-18
+304011,610405,date of birth + name,Maurits Kjaergaard,Maurits Kjærgaard,2026-11-18
+304019,616344,date of birth + name,Tiago Tomás,Tiago Tomás,2026-11-18
+304151,718201,date of birth + name,Kevin Carlos,Kevin Carlos,2026-11-18
+304213,768380,date of birth + name,Arouna Sangante,Arouna Sangante,2026-11-18
+304217,646747,date of birth + shared name word,Rafael Obrador,Rafa Obrador,2026-11-18
+304222,368891,date of birth + name,Arthur Theate,Arthur Theate,2026-11-18
+304242,667287,date of birth + name,Yasin Ayari,Yasin Ayari,2026-11-18
+304256,585323,date of birth + name,Filip Jørgensen,Filip Jørgensen,2026-11-18
+304258,549378,date of birth + name,Sander Tangvik,Sander Tangvik,2026-11-18
+304470,743591,goals: 4/4 goals coincide,Sávio,Savinho,2026-11-18
+304503,659089,date of birth + shared name word,Illia Zabarnyi,Ilya Zabarnyi,2026-11-18
+304512,595650,date of birth + name,Nikola Stulic,Nikola Stulic,2026-11-18
+304572,702869,date of birth + name,Ismael Saibari,Ismael Saibari,2026-11-18
+304592,593837,date of birth + name,Couhaib Driouech,Couhaib Driouech,2026-11-18
+304631,455922,date of birth + name,Jan Olschowsky,Jan Olschowsky,2026-11-18
+304793,613192,date of birth + name,Jens Castrop,Jens Castrop,2026-11-18
+304795,432671,date of birth + name,Luca Philipp,Luca Philipp,2026-11-18
+304799,485706,date of birth + name,Amadou Onana,Amadou Onana,2026-11-18
+304802,344069,date of birth + name,Anton Stach,Anton Stach,2026-11-18
+304871,559328,date of birth + name,Emmanuel Emegha,Emmanuel Emegha,2026-11-18
+304898,770895,date of birth + name,Ismael Boura,Ismaël Boura,2026-11-18
+304901,709726,date of birth + name,Hugo Ekitike,Hugo Ekitiké,2026-11-18
+304918,739769,date of birth + name,Ilan Kebbal,Ilan Kebbal,2026-11-18
+305545,500053,date of birth + name,Pavel Sulc,Pavel Sulc,2026-11-18
+305552,371001,date of birth + name,Josip Sutalo,Josip Sutalo,2026-11-18
+305555,429874,date of birth + name,Ansgar Knauff,Ansgar Knauff,2026-11-18
+305556,684315,date of birth + name,Nnamdi Collins,Nnamdi Collins,2026-11-18
+305589,559333,date of birth + name,Kian Fitz-Jim,Kian Fitz-Jim,2026-11-18
+305608,668276,date of birth + name,Hugo Novoa,Hugo Novoa,2026-11-18
+305669,798404,date of birth + name,Alidu Seidu,Alidu Seidu,2026-11-18
+305684,654539,date of birth + name,Adrien Truffert,Adrien Truffert,2026-11-18
+305693,737781,date of birth + name,Jeremy Le Douaron,Jérémy Le Douaron,2026-11-18
+305797,557612,date of birth + name,Sékou Mara,Sékou Mara,2026-11-18
+305821,821350,date of birth + name,Oskar Wójcik,Oskar Wójcik,2026-11-18
+305853,391766,date of birth + name,Marco Grüll,Marco Grüll,2026-11-18
+305935,786436,date of birth + name,Ismael Doukoure,Ismaël Doukouré,2026-11-18
+305956,404950,date of birth + name,Nicolas Seiwald,Nicolas Seiwald,2026-11-18
+305957,452477,date of birth + name,Junior Adamu,Junior Adamu,2026-11-18
+306033,750903,date of birth + name,Jaouen Hadjam,Jaouen Hadjam,2026-11-18
+306055,535834,date of birth + name,Eliot Matazo,Eliot Matazo,2026-11-18
+306161,640556,date of birth + name,Rav van den Berg,Rav van den Berg,2026-11-18
+306210,304144,date of birth + name,Alen Sherri,Alen Sherri,2026-11-18
+306263,502722,date of birth + name,Luka Sucic,Luka Sucic,2026-11-18
+306378,322517,date of birth + name,Joel Schmied,Joël Schmied,2026-11-18
+306390,510103,date of birth + name,Tomas Bobcek,Tomas Bobcek,2026-11-18
+306520,647435,date of birth + name,Tyrhys Dolan,Tyrhys Dolan,2026-11-18
+306535,708678,date of birth + name,Isaak Touré,Isaak Touré,2026-11-18
+306557,670847,date of birth + name,Mohamed-Ali Cho,Mohamed-Ali Cho,2026-11-18
+306579,524010,date of birth + name,Oier Zarraga,Oier Zarraga,2026-11-18
+306653,464154,date of birth + name,Imad Rondic,Imad Rondic,2026-11-18
+306664,464598,date of birth + name,Casper Tengstedt,Casper Tengstedt,2026-11-18
+306928,264960,date of birth + name,Robin Fellhauer,Robin Fellhauer,2026-11-18
+306935,726114,date of birth + name,Mario Mitaj,Mario Mitaj,2026-11-18
+306991,675535,date of birth + name,Noel Futkeu,Noel Futkeu,2026-11-18
+307019,555500,date of birth + name,Jorge Herrando,Jorge Herrando,2026-11-18
+307061,441515,date of birth + name,Daniel Boloca,Daniel Boloca,2026-11-18
+307069,646353,date of birth + name,Carl Rushworth,Carl Rushworth,2026-11-18
+307073,621193,date of birth + name,Kasey McAteer,Kasey McAteer,2026-11-18
+307111,661207,date of birth + name,Oscar Bobb,Oscar Bobb,2026-11-18
+307114,610849,date of birth + name,Liam Delap,Liam Delap,2026-11-18
+307115,581669,date of birth + name,CJ Egan-Riley,CJ Egan-Riley,2026-11-18
+307118,566799,date of birth + name,James Trafford,James Trafford,2026-11-18
+307159,538994,date of birth + name,Pierre Ekwah,Pierre Ekwah,2026-11-18
+307263,590914,date of birth + name,Bandiougou Fadiga,Bandiougou Fadiga,2026-11-18
+307270,628498,date of birth + name,Jofre Carreras,Jofre Carreras,2026-11-18
+307282,503160,date of birth + name,Paul Nebel,Paul Nebel,2026-11-18
+307364,467434,date of birth + name,Rocco Reitz,Rocco Reitz,2026-11-18
+307390,733576,date of birth + name,Alberto Moleiro,Alberto Moleiro,2026-11-18
+307391,604113,date of birth + name,Jamil Siebert,Jamil Siebert,2026-11-18
+307419,628487,date of birth + name,Ángel Fortuño,Ángel Fortuño,2026-11-18
+307487,555143,date of birth + name,Arsen Zakharyan,Arsen Zakharyan,2026-11-18
+307515,453870,date of birth + name,Benedict Hollerbach,Benedict Hollerbach,2026-11-18
+307527,503991,date of birth + name,Yunus Musah,Yunus Musah,2026-11-18
+307567,579459,date of birth + name,Albian Hajdari,Albian Hajdari,2026-11-18
+307648,712107,date of birth + name,Luiz Júnior,Luiz Júnior,2026-11-18
+307657,684210,date of birth + name,Jaidon Anthony,Jaidon Anthony,2026-11-18
+307713,597659,date of birth + name,Charlie Cresswell,Charlie Cresswell,2026-11-18
+307800,605426,date of birth + name,Melker Ellborg,Melker Ellborg,2026-11-18
+307860,628558,date of birth + name,Riccardo Ciervo,Riccardo Ciervo,2026-11-18
+307870,689637,date of birth + name,Chadi Riad,Chadi Riad,2026-11-18
+307893,410787,date of birth + name,Joel Monteiro,Joël Monteiro,2026-11-18
+307905,541555,date of birth + name,Enzo Boyomo,Enzo Boyomo,2026-11-18
+307915,625651,date of birth + name,Urko Gonzalez,Urko González de Zárate,2026-11-18
+308006,466807,date of birth + name,Adrià Altimira,Adrià Altimira,2026-11-18
+308029,459658,date of birth + name,Andrea Cambiaso,Andrea Cambiaso,2026-11-18
+308082,547985,date of birth + name,Fabiano Parisi,Fabiano Parisi,2026-11-18
+308195,818495,date of birth + name,Otavio,Otávio,2026-11-18
+308216,663264,date of birth + name,Darko Gyabi,Darko Gyabi,2026-11-18
+308217,628451,date of birth + name,Romeo Lavia,Roméo Lavia,2026-11-18
+308246,776798,date of birth + name,Abdallah Sima,Abdallah Sima,2026-11-18
+308254,591916,date of birth + name,Aitor Paredes,Aitor Paredes,2026-11-18
+308276,337811,date of birth + name,Francesco Gelli,Francesco Gelli,2026-11-18
+308318,667640,date of birth + name,Alexandru Borbei,Alexandru Borbei,2026-11-18
+308402,703408,goals: 3/3 goals coincide,Femi Azeez,,2026-11-18
+308461,711969,date of birth + name,Lorenz Assignon,Lorenz Assignon,2026-11-18
+308524,776890,date of birth + name,Nicolas Jackson,Nicolas Jackson,2026-11-18
+308552,565821,date of birth + name,Mika Biereth,Mika Biereth,2026-11-18
+308728,826224,date of birth + name,Arnau Martínez,Arnau Martínez,2026-11-18
+308891,530813,date of birth + name,Anis Mehmeti,Anis Mehmeti,2026-11-18
+308908,507341,date of birth + name,Fabian Rieder,Fabian Rieder,2026-11-18
+308932,540941,date of birth + name,Mikkel Damsgaard,Mikkel Damsgaard,2026-11-18
+308939,731491,date of birth + name,Franco Carboni,Franco Carboni,2026-11-18
+308944,550106,date of birth + name,Matteo Cancellieri,Matteo Cancellieri,2026-11-18
+308947,620322,date of birth + name,Malo Gusto,Malo Gusto,2026-11-18
+308979,519184,date of birth + name,Amar Dedic,Amar Dedić,2026-11-18
+309110,652054,date of birth + name,Martin Vitík,Martin Vitík,2026-11-18
+309185,827734,date of birth + name,Ange-Yoan Bonny,Ange-Yoan Bonny,2026-11-18
+309241,668547,date of birth + name,Máximo Perrone,Máximo Perrone,2026-11-18
+309273,610442,date of birth + name,Rasmus Højlund,Rasmus Højlund,2026-11-18
+309518,641537,date of birth + name,Tommaso Baldanzi,Tommaso Baldanzi,2026-11-18
+309570,490384,date of birth + name,Koni De Winter,Koni De Winter,2026-11-18
+309634,569457,date of birth + name,Tim Breithaupt,Tim Breithaupt,2026-11-18
+309638,830890,date of birth + name,Marvin Senaya,Marvin Senaya,2026-11-18
+309651,801886,date of birth + name,Isak Jensen,Isak Jensen,2026-11-18
+309812,571604,date of birth + name,Giorgio Scalvini,Giorgio Scalvini,2026-11-18
+309838,783396,date of birth + name,Ramón Terrats,Ramón Terrats,2026-11-18
+309840,711996,date of birth + name,Warmed Omari,Warmed Omari,2026-11-18
+310024,631222,date of birth + name,Raúl Torrente,Raúl Torrente,2026-11-18
+310131,565424,date of birth + name,Johan Bakayoko,Johan Bakayoko,2026-11-18
+310134,539665,date of birth + name,Fredrik Oppegard,Fredrik Oppegård,2026-11-18
+310140,660746,date of birth + name,Fedde Leysen,Fedde Leysen,2026-11-18
+310216,568559,date of birth + name,Radu Dragusin,Radu Drăgușin,2026-11-18
+310259,633306,date of birth + name,Ivan Azón,Iván Azón,2026-11-18
+310452,861410,date of birth + name,Arda Güler,Arda Güler,2026-11-18
+310599,696589,date of birth + name,Tim Iroegbunam,Tim Iroegbunam,2026-11-18
+310607,645686,date of birth + name,Lamare Bogarde,Lamare Bogarde,2026-11-18
+310637,811778,date of birth + name,Álvaro Carreras,Álvaro Carreras,2026-11-18
+310640,789082,date of birth + name,Vanderson,Vanderson,2026-11-18
+310682,822331,date of birth + name,Omar El Hilali,Omar El Hilali,2026-11-18
+310692,401639,date of birth + name,Lukas Petkov,Lukas Petkov,2026-11-18
+310709,579287,date of birth + name,Daniel Svensson,Daniel Svensson,2026-11-18
+310859,789419,date of birth + name,Teddy Boulhendi,Teddy Boulhendi,2026-11-18
+310860,840149,date of birth + name,Matija Frigan,Matija Frigan,2026-11-18
+310869,398056,date of birth + name,Álex Pastor,Álex Pastor,2026-11-18
+310883,605268,date of birth + name,Igor Matanovic,Igor Matanovic,2026-11-18
+310958,473050,date of birth + name,Kevin Schade,Kevin Schade,2026-11-18
+311054,628886,date of birth + name,Iván Romero,Iván Romero,2026-11-18
+311118,659542,date of birth + name,Elye Wahi,Elye Wahi,2026-11-18
+311163,842420,date of birth + name,Nathan Saliba,Nathan-Dylan Saliba,2026-11-18
+311173,728733,date of birth + name,Brooke Norton-Cuffy,Brooke Norton-Cuffy,2026-11-18
+311428,628331,date of birth + name,Giannis Konstantelias,Giannis Konstantelias,2026-11-18
+311475,580451,date of birth + name,Martin Baturina,Martin Baturina,2026-11-18
+311527,488935,date of birth + name,Hákon Valdimarsson,Hákon Valdimarsson,2026-11-18
+311571,713644,date of birth + name,Bryan Zaragoza,Bryan Zaragoza,2026-11-18
+311963,608832,date of birth + name,Merlin Röhl,Merlin Röhl,2026-11-18
+311969,628621,goals: 3/3 goals coincide,Jonathan Dubasin,,2026-11-18
+312011,625657,date of birth + name,Unai Marrero,Unai Marrero,2026-11-18
+312015,705395,date of birth + name,Gerard Martín,Gerard Martín,2026-11-18
+312112,645774,date of birth + name,Eren Dinkci,Eren Dinkçi,2026-11-18
+312146,709187,date of birth + name,Nico Williams,Nico Williams,2026-11-18
+312182,746740,date of birth + name,Daniel Jebbison,Daniel Jebbison,2026-11-18
+312389,471055,date of birth + name,Marvin Pieringer,Marvin Pieringer,2026-11-18
+312399,766839,date of birth + shared name word,Mamadou Simbakoli,Usman Simbakoli,2026-11-18
+312659,487474,date of birth + name,Francisco Conceição,Francisco Conceição,2026-11-18
+312757,856530,date of birth + name,Mateo Pellegrino,Mateo Pellegrino,2026-11-18
+312862,503075,date of birth + name,Isak Hien,Isak Hien,2026-11-18
+313024,560417,date of birth + name,Alexandre Alemão,Alemão,2026-11-18
+313230,452483,date of birth + name,David Affengruber,David Affengruber,2026-11-18
+313361,661427,date of birth + name,David Møller Wolfe,David Møller Wolfe,2026-11-18
+313890,557613,date of birth + name,Quentin Merlin,Quentin Merlin,2026-11-18
+314184,738774,date of birth + name,Zeno Van Den Bosch,Zeno Van Den Bosch,2026-11-18
+314388,851220,date of birth + name,Amine Sbaï,Amine Sbaï,2026-11-18
+314403,655456,date of birth + name,Saba Sazonov,Saba Sazonov,2026-11-18
+314790,855256,date of birth + name,Alex Scott,Alex Scott,2026-11-18
+314858,743600,date of birth + name,Andrey Santos,Andrey Santos,2026-11-18
+315213,804812,date of birth + name,Anthony Oyono,Anthony Oyono,2026-11-18
+315215,691958,date of birth + name,Noah Cadiou,Noah Cadiou,2026-11-18
+315384,746910,date of birth + name,Mohamed Amoura,Mohamed Amoura,2026-11-18
+315454,743395,date of birth + name,Noah Mbamba,Noah Mbamba,2026-11-18
+315530,823231,date of birth + name,Dango Ouattara,Dango Ouattara,2026-11-18
+315668,881116,date of birth + name,Darío Osorio,Darío Osorio,2026-11-18
+315879,706815,date of birth + name,Harvey Davies,Harvey Davies,2026-11-18
+316040,617059,date of birth + shared name word,Pablo Cuñat,Pablo Campos,2026-11-18
+316128,872171,date of birth + name,Lucas Beraldo,Lucas Beraldo,2026-11-18
+316559,668587,date of birth + name,Názinho,Nazinho,2026-11-18
+316560,670717,date of birth + name,Dário Essugo,Dário Essugo,2026-11-18
+316609,707844,date of birth + name,Mandela Keita,Mandela Keita,2026-11-18
+317233,879217,date of birth + name,Kaiki,Kaiki,2026-11-18
+317784,625660,date of birth + name,Jon Ander Olasagasti,Jon Ander Olasagasti,2026-11-18
+318063,661145,date of birth + name,Jon Aramburu,Jon Aramburu,2026-11-18
+318084,860992,date of birth + name,Nicolás Valentini,Nicolás Valentini,2026-11-18
+318090,903611,date of birth + name,Nilson Angulo,Nilson Angulo,2026-11-18
+318098,953901,date of birth + name,Santiago Mouriño,Santiago Mouriño,2026-11-18
+318181,909758,date of birth + name,Federico Redondo,Federico Redondo,2026-11-18
+318284,983989,date of birth + name,Facundo Buonanotte,Facundo Buonanotte,2026-11-18
+318316,842341,date of birth + name,Maxime Estève,Maxime Estève,2026-11-18
+318389,659543,date of birth + name,Matthis Abline,Matthis Abline,2026-11-18
+318390,679423,date of birth + name,Tarik Muharemovic,Tarik Muharemović,2026-11-18
+318394,818878,date of birth + name,Wisdom Amey,Wisdom Amey,2026-11-18
+318522,888785,date of birth + name,Promise David,Promise David,2026-11-18
+318554,889435,date of birth + name,Obed Vargas,Obed Vargas,2026-11-18
+318577,548254,date of birth + name,Nathan Ngoy,Nathan Ngoy,2026-11-18
+318604,836441,date of birth + name,Kialonda Gaspar,Gaspar,2026-11-18
+318680,864121,date of birth + shared name word,Fatawu Issahaku,Abdul Fatawu,2026-11-18
+318773,720518,date of birth + name,Roberto Fernández,Roberto Fernández,2026-11-18
+318779,652275,date of birth + name,Hákon Haraldsson,Hákon Arnar Haraldsson,2026-11-18
+318785,625047,date of birth + name,Beñat Prados,Beñat Prados,2026-11-18
+319100,618472,date of birth + name,Castello Lukeba,Castello Lukeba,2026-11-18
+319114,892221,date of birth + name,Hugo Sotelo,Hugo Sotelo,2026-11-18
+319161,891998,date of birth + name,Antoine Mendy,Antoine Mendy,2026-11-18
+319167,711976,date of birth + name,Andy Diouf,Andy Diouf,2026-11-18
+319231,765467,date of birth + name,Jozhua Vertrouwd,Jozhua Vertrouwd,2026-11-18
+319265,818888,date of birth + name,Antonio Raimondo,Antonio Raimondo,2026-11-18
+319267,629773,date of birth + name,Lukás Hornícek,Lukas Hornicek,2026-11-18
+319285,893675,date of birth + name,Amir Richardson,Amir Richardson,2026-11-18
+319286,770438,date of birth + name,Mathéo Bodmer,Mathéo Bodmer,2026-11-18
+319368,894914,date of birth + name,Antonio Nusa,Antonio Nusa,2026-11-18
+319404,635645,date of birth + name,Aurèle Amenda,Aurèle Amenda,2026-11-18
+319415,600942,date of birth + name,Nahuel Nicolas Noll,Nahuel Noll,2026-11-18
+319431,609556,date of birth + name,William Osula,William Osula,2026-11-18
+319437,632831,date of birth + name,Nicolò Bertola,Nicolò Bertola,2026-11-18
+319697,830365,date of birth + name,Alisson Santos,Alisson Santos,2026-11-18
+319781,705813,date of birth + name,Rubén Sánchez,Rubén Sánchez,2026-11-18
+320074,447661,date of birth + name,Douglas Luiz,Douglas Luiz,2026-11-18
+320417,857079,date of birth + name,Mohamed Belloumi,Mohamed Belloumi,2026-11-18
+320648,912392,date of birth + name,Lucas Cepeda,Lucas Cepeda,2026-11-18
+320760,849410,date of birth + name,Valentín Barco,Valentín Barco,2026-11-18
+320882,699783,date of birth + name,Raphael Onyedika,Raphael Onyedika,2026-11-18
+320939,434116,date of birth + name,Alexander Prass,Alexander Prass,2026-11-18
+320945,394134,date of birth + name,Felix Bacher,Felix Bacher,2026-11-18
+320947,531065,date of birth + name,Oussama El Azzouzi,Oussama El Azzouzi,2026-11-18
+321061,522245,date of birth + name,Lasse Günther,Lasse Günther,2026-11-18
+321064,526845,date of birth + name,Noah Atubolu,Noah Atubolu,2026-11-18
+321081,683620,date of birth + name,Antoni Milambo,Antoni Milambo,2026-11-18
+321097,539795,date of birth + name,Bryan Okoh,Bryan Okoh,2026-11-18
+321098,671593,date of birth + name,Mamady Diambou,Mamady Diambou,2026-11-18
+321112,743379,date of birth + name,Lucas Noubi,Lucas Noubi,2026-11-18
+321226,592534,date of birth + name,Nicolai Remberg,Nicolai Remberg,2026-11-18
+322098,838236,date of birth + name,Marin Ljubicic,Marin Ljubicic,2026-11-18
+322510,620217,date of birth + name,Robin Hranác,Robin Hranac,2026-11-18
+322652,764859,date of birth + name,Williot Swedberg,Williot Swedberg,2026-11-18
+322654,743599,date of birth + name,Emersonn,Emersonn,2026-11-18
+322693,610190,date of birth + name,Nediljko Labrovic,Nediljko Labrovic,2026-11-18
+322771,741238,date of birth + name,Omari Hutchinson,Omari Hutchinson,2026-11-18
+322908,907559,date of birth + name,Nelson Deossa,Nelson Deossa,2026-11-18
+322913,568333,date of birth + name,Adam Obert,Adam Obert,2026-11-18
+322993,783373,date of birth + name,Robbie Ure,Robbie Ure,2026-11-18
+323033,655012,date of birth + name,Lucas Stassin,Lucas Stassin,2026-11-18
+323058,969447,date of birth + name,Dermane Karim,Dermane Karim,2026-11-18
+323061,724104,date of birth + name,Fabio Chiarodia,Fabio Chiarodia,2026-11-18
+323084,696181,date of birth + name,Romaine Mundle,Romaine Mundle,2026-11-18
+323108,567465,date of birth + name,Sebastiano Desplanches,Sebastiano Desplanches,2026-11-18
+323110,730861,date of birth + name,Milos Kerkez,Milos Kerkez,2026-11-18
+323113,457736,date of birth + name,Tijjani Noslin,Tijjani Noslin,2026-11-18
+323118,633668,date of birth + name,Giovanni Fabbian,Giovanni Fabbian,2026-11-18
+323147,509022,date of birth + name,Federico Gatti,Federico Gatti,2026-11-18
+323273,571271,date of birth + name,Ivan Smolcic,Ivan Smolcic,2026-11-18
+323286,919538,date of birth + name,Roy Revivo,Roy Revivo,2026-11-18
+323702,646740,date of birth + name,Gavi,Gavi,2026-11-18
+323703,636688,date of birth + name,Alejandro Balde,Alejandro Balde,2026-11-18
+323722,743496,date of birth + name,Kévin Danois,Kévin Danois,2026-11-18
+323737,692070,date of birth + name,Clemens Riedel,Clemens Riedel,2026-11-18
+323790,607720,date of birth + name,Jonas Urbig,Jonas Urbig,2026-11-18
+323807,901019,date of birth + name,Neil El Aynaoui,Neil El Aynaoui,2026-11-18
+323838,742201,date of birth + name,Giuliano Simeone,Giuliano Simeone,2026-11-18
+323847,620598,date of birth + name,Ameen Al Dakhil,Ameen Al-Dakhil,2026-11-18
+323850,461607,date of birth + name,Esteban Lepaul,Estéban Lepaul,2026-11-18
+323936,604327,date of birth + name,Gabriel Vidovic,Gabriel Vidovic,2026-11-18
+323970,625014,date of birth + name,Julen Agirrezabala,Julen Agirrezabala,2026-11-18
+323971,668183,date of birth + name,Nico Serrano,Nico Serrano,2026-11-18
+323974,668951,date of birth + name,Matìas Soulè,Matías Soulé,2026-11-18
+323986,466805,date of birth + name,Nico González,Nico González,2026-11-18
+324097,618341,date of birth + name,Mario Gila,Mario Gila,2026-11-18
+324098,623524,date of birth + name,Carlos Dotor,Carlos Dotor,2026-11-18
+324164,747951,date of birth + name,Shea Charles,Shea Charles,2026-11-18
+324166,610461,date of birth + name,Luismi Cruz,Luismi Cruz,2026-11-18
+324256,566615,date of birth + name,Mikael Ellertsson,Mikael Egill Ellertsson,2026-11-18
+324269,798043,date of birth + name,Tom Rothe,Tom Rothe,2026-11-18
+324289,912902,date of birth + name,Guillaume Restes,Guillaume Restes,2026-11-18
+324325,914539,date of birth + name,Yoan Koré,Yoan Koré,2026-11-18
+324393,725912,date of birth + name,Antonín Kinsky,Antonín Kinský,2026-11-18
+324433,593774,date of birth + name,Anouar El Azzouzi,Anouar El Azzouzi,2026-11-18
+324504,617081,date of birth + name,Diego López,Diego López,2026-11-18
+324505,622988,date of birth + name,Fran Pérez,Fran Pérez,2026-11-18
+324541,607226,date of birth + name,Loum Tchaouna,Loum Tchaouna,2026-11-18
+324565,804884,date of birth + name,Ibrahima Baldé,Ibrahima Baldé,2026-11-18
+324567,659520,date of birth + name,Bilal Nadir,Bilal Nadir,2026-11-18
+324572,805908,date of birth + name,Bradley Locko,Bradley Locko,2026-11-18
+324582,790669,date of birth + name,Kayne Van Oevelen,Kayne van Oevelen,2026-11-18
+324660,822959,date of birth + name,Tom Bischof,Tom Bischof,2026-11-18
+324661,644613,date of birth + name,Sadik Fofana,Sadik Fofana,2026-11-18
+324705,749552,date of birth + name,Alieu Fadera,Alieu Fadera,2026-11-18
+324766,957874,date of birth + name,Rômulo,Rômulo,2026-11-18
+324811,707279,date of birth + name,Hugo González,Hugo González,2026-11-18
+324820,796297,date of birth + name,Jobe Bellingham,Jobe Bellingham,2026-11-18
+324960,807165,date of birth + name,Bamo Meïté,Bamo Meïté,2026-11-18
+324991,876631,date of birth + name,Habib Diarra,Habib Diarra,2026-11-18
+325001,921655,date of birth + name,Ismaël Koné,Ismaël Koné,2026-11-18
+325024,820474,date of birth + name,Zakaria El Ouahdi,Zakaria El Ouahdi,2026-11-18
+325042,801734,date of birth + name,Mathys Tel,Mathys Tel,2026-11-18
+325043,677794,date of birth + name,Kaito Mizuta,Kaito Mizuta,2026-11-18
+325056,705355,date of birth + name,Lorenzo Palmisani,Lorenzo Palmisani,2026-11-18
+325550,620362,date of birth + name,Dermot Mee,Dermot Mee,2026-11-18
+325553,780630,date of birth + name,Willy Kambwala,Willy Kambwala,2026-11-18
+325554,670845,date of birth + name,Omari Forson,Omari Forson,2026-11-18
+325555,811779,date of birth + name,Alejandro Garnacho,Alejandro Garnacho,2026-11-18
+325564,701057,date of birth + name,Rico Lewis,Rico Lewis,2026-11-18
+325992,766412,date of birth + name,Théo Le Bris,Théo Le Bris,2026-11-18
+326230,845289,date of birth + name,James McConnell,James McConnell,2026-11-18
+326234,706947,date of birth + shared name word,Yago Alonso,Yago Santiago,2026-11-18
+326499,532169,date of birth + name,Lukasz Poreba,Lukasz Poreba,2026-11-18
+326642,780548,date of birth + name,Omri Gandelman,Omri Gandelman,2026-11-18
+326900,907813,date of birth + name,Pablo Marín,Pablo Marín,2026-11-18
+328011,867688,date of birth + name,Jack Hinshelwood,Jack Hinshelwood,2026-11-18
+328050,922693,date of birth + name,Archie Gray,Archie Gray,2026-11-18
+328238,708265,date of birth + name,Bradley Barcola,Bradley Barcola,2026-11-18
+328289,802046,date of birth + name,Arnau Ortiz,Arnau Ortiz,2026-11-18
+328300,913660,date of birth + name,Redouane Halhal,Redouane Halhal,2026-11-18
+328464,743413,date of birth + name,Nico O'Reilly,Nico O'Reilly,2026-11-18
+328466,820374,date of birth + name,Kobbie Mainoo,Kobbie Mainoo,2026-11-18
+328497,646750,date of birth + name,Cristhian Mosquera,Cristhian Mosquera,2026-11-18
+329484,655217,date of birth + name,Samson Baidoo,Samson Baidoo,2026-11-18
+329489,566626,date of birth + name,Elias Havel,Elias Havel,2026-11-18
+329690,745200,date of birth + name,Maghnes Akliouche,Maghnes Akliouche,2026-11-18
+329755,646478,date of birth + name,Elias Jelert,Elias Jelert,2026-11-18
+330041,708086,date of birth + name,Romano Floriani,Romano Floriani Mussolini,2026-11-18
+330045,923504,date of birth + name,Sindre Walle Egeli,Sindre Walle Egeli,2026-11-18
+330233,865682,date of birth + name,Ezechiel Banzuzi,Ezechiel Banzuzi,2026-11-18
+330239,667251,date of birth + name,Hugo Bolin,Hugo Bolin,2026-11-18
+330259,746891,date of birth + name,Cristian Volpato,Cristian Volpato,2026-11-18
+330271,727086,date of birth + name,Jelle Van Neck,Jelle Van Neck,2026-11-18
+330352,1176520,date of birth + name,Mario Rivas,Mario Rivas,2026-11-18
+330412,671594,date of birth + name,Kamory Doumbia,Kamory Doumbia,2026-11-18
+330433,618801,date of birth + name,Alejandro Iturbe,Alejandro Iturbe,2026-11-18
+330455,597432,date of birth + name,Leopold Querfeld,Leopold Querfeld,2026-11-18
+330545,341278,date of birth + name,Iván Martín,Iván Martín,2026-11-18
+330550,931841,date of birth + shared name word,Amar Ahmed,Amar Fatah,2026-11-18
+330552,707274,date of birth + name,César Tárrega,César Tárrega,2026-11-18
+330707,743091,date of birth + name,Emirhan Ilkhan,Emirhan İlkhan,2026-11-18
+330722,941561,date of birth + name,Lucas Bretelle,Lucas Bretelle,2026-11-18
+330764,900195,date of birth + name,Kevin,Kevin,2026-11-18
+330964,855134,date of birth + name,Skelly Alvero,Skelly Alvero,2026-11-18
+331047,709969,date of birth + name,Ilias Akhomach,Ilias Akhomach,2026-11-18
+331057,524290,date of birth + name,Fisnik Asllani,Fisnik Asllani,2026-11-18
+331082,926135,date of birth + name,Omari Kellyman,Omari Kellyman,2026-11-18
+331152,792331,date of birth + name,Roony Bardghji,Roony Bardghji,2026-11-18
+331231,961022,date of birth + shared name word,Benjamín Domínguez,Benja Domínguez,2026-11-18
+331297,684116,date of birth + name,Silas Ostrzinski,Silas Ostrzinski,2026-11-18
+331586,652331,date of birth + name,Javi Rueda,Javi Rueda,2026-11-18
+331636,857653,date of birth + name,Lucas Calodat,Lucas Calodat,2026-11-18
+331770,929899,date of birth + name,Rahim Alhassane,Rahim Alhassane,2026-11-18
+332246,719999,date of birth + name,Andrés Castrín,Andrés Castrín,2026-11-18
+332325,701757,date of birth + name,Keke Topp,Keke Topp,2026-11-18
+332343,834397,date of birth + name,Mike Penders,Mike Penders,2026-11-18
+332354,964580,date of birth + name,Wesley,Wesley,2026-11-18
+332411,703245,date of birth + name,Antonio Vergara,Antonio Vergara,2026-11-18
+332429,802560,date of birth + name,Emil Höjlund,Emil Højlund,2026-11-18
+332549,660860,date of birth + name,Diego Coppola,Diego Coppola,2026-11-18
+332574,539798,date of birth + name,Luca Jaquez,Luca Jaquez,2026-11-18
+332613,844637,date of birth + name,Marc Pubill,Marc Pubill,2026-11-18
+332648,945021,date of birth + name,Anan Khalaili,Anan Khalaili,2026-11-18
+332684,406151,date of birth + name,Zé Pedro,Zé Pedro,2026-11-18
+332689,726701,date of birth + name,Rodrigo Ribeiro,Rodrigo Ribeiro,2026-11-18
+332862,967346,date of birth + name,Eliezer Mayenda,Eliezer Mayenda,2026-11-18
+332878,814976,date of birth + name,Martin Adeline,Martin Adeline,2026-11-18
+332948,719673,date of birth + name,Ben Gannon-Doak,Ben Gannon-Doak,2026-11-18
+332962,566931,date of birth + name,Xavi Simons,Xavi Simons,2026-11-18
+333214,926766,date of birth + name,Johaneko Louis Jean,Johaneko Louis-Jean,2026-11-18
+333228,585958,date of birth + name,Junior Kadile,Junior Kadile,2026-11-18
+333310,955070,date of birth + name,Ernest Nuamah,Ernest Nuamah,2026-11-18
+333311,644408,date of birth + name,Oliver Provstgaard,Oliver Provstgaard,2026-11-18
+333400,744728,date of birth + name,Arijon Ibrahimovic,Arijon Ibrahimovic,2026-11-18
+333419,744149,date of birth + name,Adam Wharton,Adam Wharton,2026-11-18
+333598,616628,date of birth + name,Giorgio Cittadini,Giorgio Cittadini,2026-11-18
+333646,733371,date of birth + name,Sota Kawasaki,Sota Kawasaki,2026-11-18
+333837,654234,date of birth + name,Anton Kade,Anton Kade,2026-11-18
+333845,904662,date of birth + name,Louis Mouton,Louis Mouton,2026-11-18
+333924,655525,date of birth + name,Yeferson Paz,Yeferson Paz,2026-11-18
+333925,691825,date of birth + name,Edoardo Pieragnolo,Edoardo Pieragnolo,2026-11-18
+333927,919515,date of birth + name,Jeanuël Belocian,Jeanuël Belocian,2026-11-18
+333938,691482,date of birth + name,Jacopo Fazzini,Jacopo Fazzini,2026-11-18
+334111,960571,date of birth + name,Jones El-Abdellaoui,Jones El-Abdellaoui,2026-11-18
+334163,766583,date of birth + shared name word,Enrique Salas,Kike Salas,2026-11-18
+334268,461631,date of birth + name,Juan Carlos Arana,Juan Carlos Arana,2026-11-18
+334283,622031,date of birth + name,Tommaso De Nipoti,Tommaso De Nipoti,2026-11-18
+334359,810411,date of birth + name,Pablo Pagis,Pablo Pagis,2026-11-18
+334374,977464,date of birth + name,Arthur,Arthur,2026-11-18
+334793,980575,date of birth + name,Oumar Ngom,Oumar Ngom,2026-11-18
+334986,842338,date of birth + name,Enzo Tchato,Enzo Tchato,2026-11-18
+335061,468192,date of birth + name,Daniel Birligea,Daniel Bîrligea,2026-11-18
+335207,738476,date of birth + name,Silvano Vos,Silvano Vos,2026-11-18
+335240,983578,date of birth + name,Patrick Beach,Patrick Beach,2026-11-18
+335320,796865,date of birth + name,Lamine Sy,Lamine Sy,2026-11-18
+335877,984529,date of birth + name,Mateo Del Blanco,Mateo Del Blanco,2026-11-18
+336104,669380,date of birth + name,Konstantinos Koulierakis,Konstantinos Koulierakis,2026-11-18
+336355,574193,date of birth + name,Bambasé Conté,Bambasé Conté,2026-11-18
+336388,914562,date of birth + name,Désiré Doué,Désiré Doué,2026-11-18
+336394,622380,date of birth + name,Cesare Casadei,Cesare Casadei,2026-11-18
+336460,931838,date of birth + name,Hugo Larsson,Hugo Larsson,2026-11-18
+336480,985383,date of birth + name,Valentín Gómez,Valentín Gómez,2026-11-18
+336595,654982,date of birth + name,Bilal El Khannouss,Bilal El Khannouss,2026-11-18
+336634,775605,date of birth + name,Pablo Barrios,Pablo Barrios,2026-11-18
+336794,991487,date of birth + name,Abdoul Ouattara,Abdoul Ouattara,2026-11-18
+336809,459463,date of birth + name,Cucho Hernández,Cucho Hernández,2026-11-18
+336840,991773,date of birth + name,Abiel Osorio,Abiel Osorio,2026-11-18
+337011,805714,date of birth + name,Renato Veiga,Renato Veiga,2026-11-18
+337058,678035,date of birth + name,Jay Enem,Jay Enem,2026-11-18
+337079,405670,date of birth + shared name word,Yannick Engelhardt,Yannik Engelhardt,2026-11-18
+337306,855015,date of birth + name,Farès Chaïbi,Farès Chaïbi,2026-11-18
+337855,864112,date of birth + name,Basar Önal,Başar Önal,2026-11-18
+337858,747720,date of birth + name,Jayden Addai,Jayden Addai,2026-11-18
+337970,948294,date of birth + name,Nico Paz,Nico Paz,2026-11-18
+338006,807688,date of birth + name,Yassin Belkhdim,Yassin Belkhdim,2026-11-18
+338266,798929,date of birth + name,Gvidas Gineitis,Gvidas Gineitis,2026-11-18
+338814,973085,date of birth + name,Carlos Baleba,Carlos Baleba,2026-11-18
+338852,620295,date of birth + name,Mio Backhaus,Mio Backhaus,2026-11-18
+338854,881297,date of birth + name,Adam Daghim,Adam Daghim,2026-11-18
+338873,989574,date of birth + name,Santiago Hidalgo,Santiago Hidalgo,2026-11-18
+338876,984096,date of birth + name,Jair Cunha,Jair Cunha,2026-11-18
+338894,1005649,date of birth + name,Murillo,Murillo,2026-11-18
+338950,997861,date of birth + name,Kauã Santos,Kauã Santos,2026-11-18
+339195,1127730,date of birth + name,Thiago Fernández,Thiago Fernández,2026-11-18
+339198,1043646,date of birth + name,Christian Ordoñez,Christian Ordóñez,2026-11-18
+339797,1009658,date of birth + name,Julio Soler,Julio Soler,2026-11-18
+339879,670882,date of birth + name,Jamie Gittens,Jamie Gittens,2026-11-18
+339953,1005165,date of birth + name,Giovane,Giovane,2026-11-18
+340206,923831,date of birth + name,Leny Yoro,Leny Yoro,2026-11-18
+340240,727089,date of birth + name,Noah Sadiki,Noah Sadiki,2026-11-18
+340583,1011200,date of birth + name,Junior Mwanga,Junior Mwanga,2026-11-18
+340639,596153,date of birth + name,Justin Njinmah,Justin Njinmah,2026-11-18
+340640,866655,date of birth + name,Tyler Dibling,Tyler Dibling,2026-11-18
+340645,743386,date of birth + name,Malick Fofana,Malick Fofana,2026-11-18
+340677,549027,date of birth + name,Martim Neto,Martim Neto,2026-11-18
+340678,655006,date of birth + name,Diego Moreira,Diego Moreira,2026-11-18
+340705,701819,date of birth + name,Daniele Ghilardi,Daniele Ghilardi,2026-11-18
+340744,939445,date of birth + shared name word,Alejandro Primo,Álex Primo,2026-11-18
+340900,648020,date of birth + name,Alexsandro,Alexsandro,2026-11-18
+341333,745461,date of birth + name,Luca Koleosho,Luca Koleosho,2026-11-18
+341367,660438,date of birth + name,Orri Óskarsson,Orri Óskarsson,2026-11-18
+341375,819215,date of birth + name,Julien Duranville,Julien Duranville,2026-11-18
+341441,583699,date of birth + name,Andrej Ilić,Andrej Ilic,2026-11-18
+341494,668207,date of birth + name,Petar Sucic,Petar Sučić,2026-11-18
+341707,957526,date of birth + name,Zento Uno,Zento Uno,2026-11-18
+341720,748445,date of birth + name,Yassine Titraoui,Yassine Titraoui,2026-11-18
+341756,583046,date of birth + name,Medon Berisha,Medon Berisha,2026-11-18
+341773,462699,date of birth + name,Franz Stolz,Franz Stolz,2026-11-18
+342136,846254,date of birth + name,Petar Ratkov,Petar Ratkov,2026-11-18
+342763,903706,date of birth + name,Albion Rrahmani,Albion Rrahmani,2026-11-18
+342837,648032,date of birth + name,James Abankwah,James Abankwah,2026-11-18
+343114,920470,date of birth + name,Tochukwu Nnadi,Tochukwu Nnadi,2026-11-18
+343640,709336,date of birth + name,Rubén Gómez,Rubén Gómez,2026-11-18
+343964,974982,date of birth + name,Ousmane Diomande,Ousmane Diomande,2026-11-18
+344245,339079,date of birth + name,Jirí Letácek,Jiri Letacek,2026-11-18
+344517,743515,date of birth + name,Robin Risser,Robin Risser,2026-11-18
+344520,806793,date of birth + name,Clément Akpa,Clément Akpa,2026-11-18
+344634,722375,date of birth + name,Srdjan Kuzmic,Srdjan Kuzmic,2026-11-18
+344844,728485,date of birth + name,Danilo Veiga,Danilo Veiga,2026-11-18
+344917,944570,date of birth + name,Vasilije Adzic,Vasilije Adžić,2026-11-18
+345110,636697,date of birth + name,Arnau Solà,Arnau Solà,2026-11-18
+345152,707809,date of birth + name,Joel Schingtienne,Joël Schingtienne,2026-11-18
+345323,982855,date of birth + name,Reda Belahyane,Reda Belahyane,2026-11-18
+345390,915849,date of birth + name,Yanis Massolin,Yanis Massolin,2026-11-18
+345394,717465,date of birth + name,Laurin Ulrich,Laurin Ulrich,2026-11-18
+345489,636695,date of birth + name,Marc Casadó,Marc Casadó,2026-11-18
+345529,619461,date of birth + name,Mohamed Bamba,Mohamed Bamba,2026-11-18
+345563,646829,date of birth + name,Nathaniel Adjei,Nathaniel Adjei,2026-11-18
+345581,810092,date of birth + name,Warren Zaïre-Emery,Warren Zaïre-Emery,2026-11-18
+345637,887638,date of birth + name,Davide Bartesaghi,Davide Bartesaghi,2026-11-18
+345645,745178,date of birth + name,Edan Diop,Edan Diop,2026-11-18
+345687,743498,date of birth + name,Wilson Odobert,Wilson Odobert,2026-11-18
+345713,655009,date of birth + name,Richie Sagrado,Richie Sagrado,2026-11-18
+345905,819636,date of birth + name,Dzenan Pejcinovic,Dzenan Pejcinovic,2026-11-18
+345988,1016015,date of birth + name,Ngal'ayel Mukau,Ngal'ayel Mukau,2026-11-18
+345991,718034,date of birth + name,Abde Rebbach,Abde Rebbach,2026-11-18
+346208,916623,date of birth + name,Keisuke Goto,Keisuke Goto,2026-11-18
+346210,514285,date of birth + name,Quilindschy Hartman,Quilindschy Hartman,2026-11-18
+346283,805886,date of birth + name,Gaby Jean,Gaby Jean,2026-11-18
+346376,696164,date of birth + name,Tim Oermann,Tim Oermann,2026-11-18
+346519,770436,date of birth + name,Simon Ebonog,Simon Ebonog,2026-11-18
+346534,1063990,date of birth + name,Grégoire Swiderski,Grégoire Swiderski,2026-11-18
+346588,650568,date of birth + name,António Silva,António Silva,2026-11-18
+346612,971570,date of birth + name,Endrick,Endrick,2026-11-18
+346617,787151,date of birth + name,Lukas Ullrich,Lukas Ullrich,2026-11-18
+346619,820957,date of birth + name,Derry Scherhant,Derry Scherhant,2026-11-18
+346622,820635,date of birth + name,Costantino Favasuli,Costantino Favasuli,2026-11-18
+346636,711980,date of birth + name,Guela Doué,Guéla Doué,2026-11-18
+346662,939964,date of birth + name,Jean-Mattéo Bahoya,Jean-Mattéo Bahoya,2026-11-18
+346676,1038950,date of birth + name,Etta Eyong,Karl Etta Eyong,2026-11-18
+346776,908890,date of birth + name,Miodrag Pivas,Miodrag Pivaš,2026-11-18
+346820,880245,date of birth + name,Mateus Fernandes,Mateus Fernandes,2026-11-18
+346840,459665,date of birth + name,Patrizio Masini,Patrizio Masini,2026-11-18
+346844,816580,date of birth + name,Tiago Santos,Tiago Santos,2026-11-18
+346916,917375,date of birth + name,Antoine Hainaut,Antoine Hainaut,2026-11-18
+346947,810895,date of birth + name,Eliesse Ben Seghir,Eliesse Ben Seghir,2026-11-18
+347009,924857,date of birth + name,Lennon Miller,Lennon Miller,2026-11-18
+347018,982267,date of birth + name,Sulemana,Ibrahim Sulemana,2026-11-18
+347033,671649,date of birth + name,Álvaro Djaló,Álvaro Djaló,2026-11-18
+347359,639733,date of birth + name,Peque,Peque Fernández,2026-11-18
+347408,724106,date of birth + name,Luca Lipani,Luca Lipani,2026-11-18
+347409,866250,date of birth + name,Seydou Fini,Seydou Fini,2026-11-18
+347411,834483,date of birth + name,Álex Padilla,Álex Padilla,2026-11-18
+347568,952943,date of birth + name,Yakiv Kinareykin,Yakiv Kinareykin,2026-11-18
+347919,863204,date of birth + shared name word,Maximillian Oyedele,Maxi Oyedele,2026-11-18
+347940,1049151,date of birth + name,Dembo Sylla,Dembo Sylla,2026-11-18
+347980,432403,date of birth + name,Rihito Yamamoto,Rihito Yamamoto,2026-11-18
+348301,992686,date of birth + name,Martial Godo,Martial Godo,2026-11-18
+348787,1012534,date of birth + name,Yankuba Minteh,Yankuba Minteh,2026-11-18
+349078,922769,date of birth + name,Lewis Miley,Lewis Miley,2026-11-18
+349185,917778,date of birth + name,Remy Labeau Lascary,Rémy Labeau Lascary,2026-11-18
+349733,890719,date of birth + name,Ethan Nwaneri,Ethan Nwaneri,2026-11-18
+349838,649022,date of birth + shared name word,N'Diaye Moussa,Moussa Ndiaye,2026-11-18
+349922,692737,date of birth + name,Aljoscha Kemlein,Aljoscha Kemlein,2026-11-18
+350205,890385,date of birth + name,Sebastian Otoa,Sebastian Otoa,2026-11-18
+350351,973314,date of birth + name,Sergio Mestre,Sergio Mestre,2026-11-18
+350501,933900,date of birth + name,Samuel Amo-Ameyaw,Samuel Amo-Ameyaw,2026-11-18
+350525,1005240,date of birth + name,Christian Mawissa,Christian Mawissa,2026-11-18
+350577,1020191,date of birth + shared name word,Pierre Ganiou,Ismaëlo Ganiou,2026-11-18
+350661,922462,date of birth + name,Lewis Koumas,Lewis Koumas,2026-11-18
+350961,1064871,date of birth + name,Joaquín Panichelli,Joaquín Panichelli,2026-11-18
+351379,944181,date of birth + name,Hugo Picard,Hugo Picard,2026-11-18
+352179,904974,date of birth + name,Noël Aséko,Noel Aseko,2026-11-18
+352758,890721,date of birth + name,Myles Lewis-Skelly,Myles Lewis-Skelly,2026-11-18
+353013,891869,date of birth + name,Leonardo Colombo,Leonardo Colombo,2026-11-18
+353151,948275,date of birth + name,Álvaro Rodríguez,Álvaro Rodríguez,2026-11-18
+353363,748804,date of birth + name,Mika Godts,Mika Godts,2026-11-18
+353378,949113,date of birth + name,Pape Diop,Pape Demba Diop,2026-11-18
+353736,892932,date of birth + name,Miguel Román,Miguel Román,2026-11-18
+353951,904802,date of birth + name,Jorrel Hato,Jorrel Hato,2026-11-18
+354149,923535,date of birth + name,Jens Hjerto Dahl,Jens Hjertø-Dahl,2026-11-18
+354334,636703,date of birth + name,Fermín López,Fermín López,2026-11-18
+354621,961948,date of birth + name,Marcos Fernández,Marcos Fernández,2026-11-18
+354737,939290,date of birth + name,Jayden Danns,Jayden Danns,2026-11-18
+355061,670681,date of birth + name,João Neves,João Neves,2026-11-18
+355359,1045124,date of birth + name,Jay Robinson,Jay Robinson,2026-11-18
+355369,816585,date of birth + name,Can Uzun,Can Uzun,2026-11-18
+355433,910905,date of birth + name,Mamadou Sarr,Mamadou Sarr,2026-11-18
+355487,710886,date of birth + name,Leo Sauer,Leo Sauer,2026-11-18
+355870,1074628,date of birth + name,Arthur Avom,Arthur Avom,2026-11-18
+355971,903666,date of birth + name,Ethan Mbappé,Ethan Mbappé,2026-11-18
+355980,1004301,date of birth + name,Jérémy Jacquet,Jérémy Jacquet,2026-11-18
+355982,931160,date of birth + name,Djaoui Cissé,Djaoui Cissé,2026-11-18
+355997,654991,date of birth + name,Samuel Mbangula,Samuel Mbangula,2026-11-18
+355998,748807,date of birth + name,Joseph Nonge,Joseph Nonge,2026-11-18
+356000,890290,date of birth + name,Dean Huijsen,Dean Huijsen,2026-11-18
+356044,1078163,date of birth + name,Ayden Heaven,Ayden Heaven,2026-11-18
+356075,1045123,date of birth + name,Trey Nyoni,Trey Nyoni,2026-11-18
+356080,1063329,date of birth + name,Andrés García,Andrés García,2026-11-18
+356211,1071956,date of birth + name,Emmanuel Biumla,Emmanuel Biumla,2026-11-18
+356212,1034853,date of birth + name,Nobel Mendy,Nobel Mendy,2026-11-18
+356213,855308,date of birth + name,Arthur Atta,Arthur Atta,2026-11-18
+356228,766723,date of birth + name,Manu Bueno,Manu Bueno,2026-11-18
+356295,947411,date of birth + name,Chris Rigg,Chris Rigg,2026-11-18
+356358,999127,date of birth + shared name word,Benjamin Cremaschi,Benja Cremaschi,2026-11-18
+356379,866246,date of birth + name,Lucas Bergvall,Lucas Bergvall,2026-11-18
+356536,888738,date of birth + name,Farès Ghedjemis,Farès Ghedjemis,2026-11-18
+356576,1004344,date of birth + name,Ali Dembélé,Ali Dembélé,2026-11-18
+356639,707450,date of birth + name,Lorenzo Amatucci,Lorenzo Amatucci,2026-11-18
+356640,823486,date of birth + name,Michael Kayode,Michael Kayode,2026-11-18
+356925,743387,date of birth + name,Stanis Idumbo,Stanis Idumbo,2026-11-18
+356940,1011738,date of birth + name,Harry Amass,Harry Amass,2026-11-18
+357006,804386,date of birth + name,Erwan Colas,Erwan Colas,2026-11-18
+357030,643574,date of birth + name,Kaishu Sano,Kaishu Sano,2026-11-18
+357145,687622,date of birth + name,Elliot Stroud,Elliot Stroud,2026-11-18
+357147,948273,date of birth + name,Mario Martín,Mario Martín,2026-11-18
+357154,829874,date of birth + name,Lilian Raolisoa,Lilian Raolisoa,2026-11-18
+357165,950091,date of birth + name,Stefanos Tzimas,Stefanos Tzimas,2026-11-18
+357337,942497,date of birth + name,Jahmai Simpson-Pusey,Jahmai Simpson-Pusey,2026-11-18
+357425,1208968,date of birth + name,Djibril Coulibaly,Djibril Coulibaly,2026-11-18
+357683,700106,date of birth + name,Brajan Gruda,Brajan Gruda,2026-11-18
+357684,720162,date of birth + name,Justin Diehl,Justin Diehl,2026-11-18
+357719,1012564,date of birth + name,Rayan,Rayan,2026-11-18
+357801,990148,date of birth + name,Konstantinos Karetsas,Konstantinos Karetsas,2026-11-18
+358084,1047261,date of birth + name,Caleb Kporha,Caleb Kporha,2026-11-18
+358180,926309,date of birth + name,Shea Lacey,Shea Lacey,2026-11-18
+358445,1082774,date of birth + name,Alexsandro Amorim,Amorim,2026-11-18
+358496,829316,date of birth + name,Maurice Krattenmacher,Maurice Krattenmacher,2026-11-18
+358975,1089202,date of birth + name,Moïse Bombito,Moïse Bombito,2026-11-18
+358999,885445,date of birth + shared name word,Hamza Igmane,Hamza Igamane,2026-11-18
+359097,1178758,date of birth + name,Malick Yalcouyé,Malick Yalcouyé,2026-11-18
+359108,1067904,date of birth + name,Bazoumana Touré,Bazoumana Touré,2026-11-18
+359154,710677,date of birth + name,Iker Muñoz,Iker Muñoz,2026-11-18
+359158,888637,date of birth + name,Luca Gunter,Luca Gunter,2026-11-18
+359207,777005,date of birth + name,Mert Kömür,Mert Kömür,2026-11-18
+359360,775981,date of birth + name,Arthur Piedfort,Arthur Piedfort,2026-11-18
+359370,792380,date of birth + name,Aleksandar Pavlović,Aleksandar Pavlovic,2026-11-18
+359380,1110645,date of birth + name,Filipe Bordon,Filipe Bordon,2026-11-18
+359400,1110406,date of birth + name,Ibrahim Osman,Ibrahim Osman,2026-11-18
+359402,922685,date of birth + name,Giovani Versini,Giovani Versini,2026-11-18
+359647,918957,date of birth + name,Davide Renzetti,Davide Renzetti,2026-11-18
+359651,724129,date of birth + name,Matias Fernandez-Pardo,Matias Fernandez-Pardo,2026-11-18
+359744,983677,date of birth + name,Mats Rots,Mats Rots,2026-11-18
+359754,964087,date of birth + name,Alphadjo Cissè,Alphadjo Cissè,2026-11-18
+359793,692368,date of birth + name,Younes Ebnoutalib,Younes Ebnoutalib,2026-11-18
+359826,898352,date of birth + name,Sebastián Boselli,Sebastián Boselli,2026-11-18
+359912,898350,date of birth + name,Facundo Bernal,Facundo Bernal,2026-11-18
+359934,926978,date of birth + name,Lucas Høgsberg,Lucas Høgsberg,2026-11-18
+360061,651005,date of birth + name,Cher Ndour,Cher Ndour,2026-11-18
+360062,743384,date of birth + name,Chemsdine Talbi,Chemsdine Talbi,2026-11-18
+360096,948169,date of birth + name,Ryunosuke Sato,Ryunosuke Sato,2026-11-18
+360149,998101,date of birth + name,Alex Tóth,Alex Tóth,2026-11-18
+360207,1118347,date of birth + name,Juan David Arizala,Juan Arizala,2026-11-18
+360235,813137,date of birth + name,Niccolò Pisilli,Niccolò Pisilli,2026-11-18
+360714,412758,date of birth + name,Giorgi Kvernadze,Giorgi Kvernadze,2026-11-18
+361212,905011,date of birth + name,Ibrahim Maza,Ibrahim Maza,2026-11-18
+361258,952282,date of birth + name,Afonso Moreira,Afonso Moreira,2026-11-18
+361434,1005575,date of birth + name,Vitor Reis,Vitor Reis,2026-11-18
+361455,1082581,date of birth + name,Pedro Felipe,Pedro Felipe,2026-11-18
+361468,1086636,date of birth + name,Gabriel Moscardo,Gabriel Moscardo,2026-11-18
+361499,1082850,date of birth + name,Deivid Washington,Deivid Washington,2026-11-18
+361506,1228231,date of birth + name,Juan Rodríguez,Juan Rodríguez,2026-11-18
+361749,862606,date of birth + name,Nesta Elphege,Nesta Elphege,2026-11-18
+361809,955357,date of birth + name,Junior Kroupi,Junior Kroupi,2026-11-18
+361818,1129198,date of birth + name,Eivind Helland,Eivind Helland,2026-11-18
+361838,1126888,date of birth + shared name word,Lamine Dabo,Lamine Fanne,2026-11-18
+362150,937958,date of birth + name,Lamine Yamal,Lamine Yamal,2026-11-18
+362203,709767,date of birth + name,Kim Ji-Soo,Ji-soo Kim,2026-11-18
+362211,763079,date of birth + name,Abdukodir Khusanov,Abdukodir Khusanov,2026-11-18
+362266,1071138,date of birth + name,Benjamin Fredrick,Benjamin Fredrick,2026-11-18
+362288,1111777,date of birth + name,Sadibou Sané,Sadibou Sané,2026-11-18
+362376,834752,date of birth + name,Unai Gómez,Unai Gómez,2026-11-18
+362393,1063331,date of birth + name,Marcos Navarro,Marcos Navarro,2026-11-18
+362411,897423,date of birth + name,David Odogu,David Odogu,2026-11-18
+362476,1113528,date of birth + name,Christ Makosso,Christ Makosso,2026-11-18
+362486,895937,date of birth + name,Marco Palestra,Marco Palestra,2026-11-18
+362572,834487,date of birth + name,Hugo Rincón,Hugo Rincón,2026-11-18
+362585,800946,date of birth + name,Dennis Seimen,Dennis Seimen,2026-11-18
+362590,667457,date of birth + name,Leon Avdullahu,Leon Avdullahu,2026-11-18
+362674,930781,date of birth + name,Pio Esposito,Pio Esposito,2026-11-18
+362752,945709,date of birth + name,Dani Requena,Dani Requena,2026-11-18
+362776,969192,date of birth + name,Ebenezer Akinsanmiro,Ebenezer Akinsanmiro,2026-11-18
+362777,953004,date of birth + name,Thomas Jørgensen,Thomas Jørgensen,2026-11-18
+362794,807386,date of birth + name,Conrad Harder,Conrad Harder,2026-11-18
+362829,938734,date of birth + name,Junior Bita,Junior Bita,2026-11-18
+362874,1055220,date of birth + name,Fran González,Fran González,2026-11-18
+362926,856068,date of birth + name,Jeyland Mitchell,Jeyland Mitchell,2026-11-18
+362971,802986,date of birth + name,Justin Bengui Joao,Justin Bengui,2026-11-18
+363038,938158,date of birth + name,Marc Guiu,Marc Guiu,2026-11-18
+363039,937955,date of birth + name,Héctor Fort,Héctor Fort,2026-11-18
+363150,1144999,date of birth + shared name word,Luc Zogbe,Luck Zogbé,2026-11-18
+363218,1145504,date of birth + name,Aaron Anselmino,Aarón Anselmino,2026-11-18
+363538,1045375,date of birth + name,Niko Sigur,Niko Sigur,2026-11-18
+363886,906160,date of birth + name,Saba Goglichidze,Saba Goglichidze,2026-11-18
+364080,664708,date of birth + shared name word,Ezequiel Fernández,Equi Fernández,2026-11-18
+364156,950393,date of birth + name,Viery,Viery,2026-11-18
+364180,548028,date of birth + name,Franjo Ivanovic,Franjo Ivanović,2026-11-18
+364223,1046867,date of birth + name,Jan Ziólkowski,Jan Ziolkowski,2026-11-18
+364224,1018395,date of birth + name,Adrian Przyborek,Adrian Przyborek,2026-11-18
+364589,1107570,date of birth + name,Mohamed Ouédraogo,Mohamed Ouédraogo,2026-11-18
+364590,864306,date of birth + name,Rafik Belghali,Rafik Belghali,2026-11-18
+364596,335993,date of birth + name,Philipp Treu,Philipp Treu,2026-11-18
+364646,718460,date of birth + name,Lúkas Petersson,Lúkas Petersson,2026-11-18
+364685,724178,date of birth + name,Luis Hasa,Luis Hasa,2026-11-18
+364742,1061282,date of birth + name,Assane Diao,Assane Diao,2026-11-18
+364746,973949,date of birth + name,Adama Camara,Adama Camara,2026-11-18
+364754,816308,date of birth + name,Panos Katseris,Panos Katseris,2026-11-18
+364761,818448,date of birth + name,Alessandro Marcandalli,Alessandro Marcandalli,2026-11-18
+364764,1010854,date of birth + name,Mathis Amougou,Mathis Amougou,2026-11-18
+364812,646824,date of birth + name,Manuel Ángel,Manuel Ángel,2026-11-18
+364897,897424,date of birth + name,Assan Ouédraogo,Assan Ouédraogo,2026-11-18
+364962,892160,date of birth + name,Luka Vuskovic,Luka Vuskovic,2026-11-18
+365160,1283311,date of birth + name,Mikel Amondarain,Mikel Amondarain,2026-11-18
+365332,1011147,date of birth + name,Mikey Moore,Mikey Moore,2026-11-18
+365562,802515,date of birth + name,Noah Nartey,Noah Nartey,2026-11-18
+365781,744934,date of birth + name,Mathieu Patouillet,Mathieu Patouillet,2026-11-18
+365783,979551,date of birth + name,Pathé Mboup,Pathé Mboup,2026-11-18
+365789,918414,date of birth + name,Paris Brunner,Paris Brunner,2026-11-18
+365821,687609,date of birth + name,Isaac Romero,Isaac Romero,2026-11-18
+365997,846310,date of birth + name,Oscar Højlund,Oscar Højlund,2026-11-18
+366004,1086375,date of birth + name,Gustavo Nunes,Gustavo Nunes,2026-11-18
+366248,1023191,club + name,George Hemmings,George Hemmings,2026-11-18
+366363,1035765,date of birth + name,Ilyas Ansah,Ilyas Ansah,2026-11-18
+366509,845654,date of birth + shared name word,Kenan Yildiz,Kenan Yıldız,2026-11-18
+366510,814473,date of birth + name,Giovanni Daffara,Giovanni Daffara,2026-11-18
+366526,1159864,date of birth + name,Mariano Troilo,Mariano Troilo,2026-11-18
+366598,1149188,date of birth + name,Rockson Yeboah,Rockson Yeboah,2026-11-18
+366781,926952,date of birth + name,Patrick Dorgu,Patrick Dorgu,2026-11-18
+366814,977877,date of birth + name,Ayanda Sishuba,Ayanda Sishuba,2026-11-18
+366817,986288,date of birth + name,Sidiki Cherif,Sidiki Chérif,2026-11-18
+366823,519872,date of birth + name,Livan Burcu,Livan Burcu,2026-11-18
+366885,1018938,date of birth + name,Jon Martín,Jon Martín,2026-11-18
+366886,979325,date of birth + name,Alex Lebarbier,Alex Lebarbier,2026-11-18
+366911,955448,date of birth + name,Tidiam Gomis,Tidiam Gomis,2026-11-18
+367168,746712,date of birth + name,Pietro Comuzzo,Pietro Comuzzo,2026-11-18
+367320,916430,date of birth + name,Edoardo Motta,Edoardo Motta,2026-11-18
+367321,942103,date of birth + name,Lapo Siviero,Lapo Siviero,2026-11-18
+367360,1078326,date of birth + name,Noah Edjouma,Noah Edjouma,2026-11-18
+367430,626953,date of birth + name,Álvaro Núñez,Álvaro Núñez,2026-11-18
+367499,825199,date of birth + name,Facundo González,Facundo González,2026-11-18
+367557,599419,date of birth + name,Max Rosenfelder,Max Rosenfelder,2026-11-18
+367558,815078,date of birth + name,Jordy Makengo,Jordy Makengo,2026-11-18
+367559,1122712,date of birth + name,Braiden Graham,Braiden Graham,2026-11-18
+367635,567454,date of birth + name,Lorenzo Lucchesi,Lorenzo Lucchesi,2026-11-18
+367682,1064506,date of birth + name,Adam Boayar,Adam Boayar,2026-11-18
+367690,814446,date of birth + name,Luca Marianucci,Luca Marianucci,2026-11-18
+367743,934527,date of birth + name,Alieu Njie,Alieu Njie,2026-11-18
+367861,741257,date of birth + name,Álex Jiménez,Álex Jiménez,2026-11-18
+367946,946279,date of birth + name,Javi Hernandez,Javi Hernández,2026-11-18
+367996,1054931,date of birth + name,Selu Diallo,Selu Diallo,2026-11-18
+368003,810649,date of birth + name,Max Finkgrafe,Max Finkgräfe,2026-11-18
+368011,1036405,date of birth + name,Omar Fayed,Omar Fayed,2026-11-18
+368317,1004708,date of birth + name,Josh Acheampong,Josh Acheampong,2026-11-18
+368325,937729,date of birth + name,Diogo Sousa,Diogo Sousa,2026-11-18
+368327,668313,club + name,Aitor Fraga,Aitor Fraga,2026-11-18
+368331,834485,date of birth + name,Unai Egiluz,Unai Egiluz,2026-11-18
+368593,945763,date of birth + shared name word,Daniel Martinez,Dani Martinez,2026-11-18
+368864,936874,date of birth + name,Tyrique George,Tyrique George,2026-11-18
+368878,1061336,date of birth + name,Pau Navarro,Pau Navarro,2026-11-18
+368992,962110,date of birth + name,Pau Cubarsí,Pau Cubarsí,2026-11-18
+369363,1069512,date of birth + name,Jonah Kusi-Asare,Jonah Kusi-Asare,2026-11-18
+370703,1121298,date of birth + name,Juma Bah,Juma Bah,2026-11-18
+370758,990637,date of birth + name,Zachary Athekame,Zachary Athekame,2026-11-18
+371471,955281,date of birth + name,Nhoa Sangui,Nhoa Sangui,2026-11-18
+371500,1075577,date of birth + shared name word,Kouakou Gadou,Joane Gadou,2026-11-18
+371539,1087009,date of birth + name,Abdou-Salam Konate,Abdou-Salam Konate,2026-11-18
+371543,934420,date of birth + name,Ibrahima Sow,Ibrahima Sow,2026-11-18
+371556,1133733,date of birth + name,Yaya Diémé,Yaya Diémé,2026-11-18
+371557,986286,date of birth + name,Ismail Bouneb,Ismaïl Bouneb,2026-11-18
+371558,975348,date of birth + name,Joan Tincres,Joan Tincres,2026-11-18
+371559,1075580,date of birth + name,Mathys Niflore,Mathys Niflore,2026-11-18
+371596,1146988,date of birth + name,Keita Kosugi,Keita Kosugi,2026-11-18
+371605,1111831,date of birth + name,Iván Corralejo,Iván Corralejo,2026-11-18
+371608,962125,date of birth + name,Buba Sangaré,Buba Sangaré,2026-11-18
+371619,1176512,date of birth + name,Joselillo,Joselillo Gaitán,2026-11-18
+371689,926763,date of birth + name,Chuki,Chuki,2026-11-18
+371973,965043,date of birth + name,Milosz Piekutowski,Miłosz Piekutowski,2026-11-18
+372016,985546,date of birth + name,Callum Olusesi,Callum Olusesi,2026-11-18
+372026,924117,date of birth + name,Finn Jeltsch,Finn Jeltsch,2026-11-18
+372027,1031774,date of birth + name,Jarzinho Malanga,Jarzinho Malanga,2026-11-18
+372032,897480,date of birth + name,Noah Darvich,Noah Darvich,2026-11-18
+372035,923595,date of birth + name,Max Moerstedt,Max Moerstedt,2026-11-18
+372232,952779,date of birth + name,Andrija Maksimovic,Andrija Maksimovic,2026-11-18
+372260,1176345,date of birth + name,Mahamadou Nagida,Mahamadou Nagida,2026-11-18
+372788,744857,date of birth + name,Elias Baum,Elias Baum,2026-11-18
+373542,926849,date of birth + name,Adrián Niño,Adrián Niño,2026-11-18
+373796,948253,date of birth + name,Rúben Montero,Rubén Montero,2026-11-18
+373927,1097139,date of birth + name,Ayyoub Bouaddi,Ayyoub Bouaddi,2026-11-18
+374220,1049020,date of birth + name,Stephen Mfuni,Stephen Mfuni,2026-11-18
+374221,1045121,date of birth + name,Genesis Antwi,Genesis Antwi,2026-11-18
+374519,1007383,date of birth + name,Zavier Gozo,Zavier Gozo,2026-11-18
+374621,1124136,club + name,Ángel Pérez,Ángel Pérez,2026-11-18
+374812,748679,date of birth + name,Olaf Gorter,Olaf Gorter,2026-11-18
+375371,1073748,date of birth + name,Kacper Potulski,Kacper Potulski,2026-11-18
+375514,1064105,date of birth + name,Miguel Sierra,Miguel Sierra,2026-11-18
+376056,1058520,date of birth + name,Otto Stange,Otto Stange,2026-11-18
+376147,1076815,club + name,Javi Rodríguez,Javi Rodríguez,2026-11-18
+376156,1064538,date of birth + name,Ali Houary,Ali Houary,2026-11-18
+376208,1000135,date of birth + name,Joselu Pérez,Joselu Pérez,2026-11-18
+376261,1143375,date of birth + name,Manga Foe Ondoa,Foe Ondoa,2026-11-18
+376274,1138758,date of birth + name,Geovany Quenda,Geovany Quenda,2026-11-18
+376339,1134251,date of birth + name,Abdelhamid Aït Boudlal,Abdelhamid Ait Boudlal,2026-11-18
+376344,1134250,date of birth + name,Hamza Koutoune,Hamza Koutoune,2026-11-18
+376422,962124,date of birth + name,Daniel Yañez,Daniel Yáñez,2026-11-18
+376423,1018920,date of birth + name,Marc Bernal,Marc Bernal,2026-11-18
+376424,1131898,date of birth + name,Marcos González,Marcos González,2026-11-18
+376473,1057316,date of birth + name,Franco Mastantuono,Franco Mastantuono,2026-11-18
+376481,1056993,date of birth + name,Estêvão,Estêvão,2026-11-18
+376514,923945,date of birth + name,Noahkai Banks,Noahkai Banks,2026-11-18
+376559,989613,date of birth + name,Maximilian Herwerth,Maximilian Herwerth,2026-11-18
+376683,915418,date of birth + name,Jannik Schuster,Jannik Schuster,2026-11-18
+377170,1178488,date of birth + name,Idrissa Gueye,Idrissa Gueye,2026-11-18
+377563,1058368,date of birth + name,Francesco Camarda,Francesco Camarda,2026-11-18
+377704,814950,date of birth + name,Kofi Amoako,Kofi Amoako,2026-11-18
+377736,989112,date of birth + name,Veljko Milosavljevic,Veljko Milosavljevic,2026-11-18
+377768,1009766,date of birth + name,David Otorbi,David Otorbi,2026-11-18
+377782,1032280,date of birth + name,Oso,Oso,2026-11-18
+377792,938729,date of birth + name,Mikel Jauregizar,Mikel Jauregizar,2026-11-18
+377831,936755,date of birth + name,Alberto Manzoni,Alberto Manzoni,2026-11-18
+377843,945500,date of birth + name,Rayane Belaid,Rayane Belaid,2026-11-18
+377894,1131161,date of birth + name,Robinio Vaz,Robinio Vaz,2026-11-18
+378193,929871,date of birth + name,Matteo Plaia,Matteo Plaia,2026-11-18
+378197,1048145,date of birth + name,Andrea Bonanomi,Andrea Bonanomi,2026-11-18
+378458,1107733,date of birth + name,Harrison Armstrong,Harrison Armstrong,2026-11-18
+378491,1130514,date of birth + name,Samir El Mourabet,Samir El Mourabet,2026-11-18
+378976,1073176,date of birth + name,Oumar Pona,Oumar Pona,2026-11-18
+379012,1151929,date of birth + name,Gessime Yassine,Gessime Yassine,2026-11-18
+379024,866579,date of birth + name,Cole Campbell,Cole Campbell,2026-11-18
+379032,938146,date of birth + name,Adam Aznou,Adam Aznou,2026-11-18
+379066,1097113,date of birth + name,Kail Boudache,Kaïl Boudache,2026-11-18
+379088,903693,date of birth + name,Senny Mayulu,Senny Mayulu,2026-11-18
+379180,929943,date of birth + name,Francis-Ikechukwu Onyeka,Francis Onyeka,2026-11-18
+379227,1088110,date of birth + name,Anthony Bermont,Anthony Bermont,2026-11-18
+379231,935232,date of birth + name,Aitor Mañas,Aitor Mañas,2026-11-18
+379457,1055860,date of birth + name,Iñaki Rupérez,Iñaki Rupérez,2026-11-18
+379588,1108466,date of birth + name,Rio Ngumoha,Rio Ngumoha,2026-11-18
+379855,922461,date of birth + name,Wellity Lucky,Wellity Lucky,2026-11-18
+379865,1112449,date of birth + name,Tiago Gabriel,Tiago Gabriel,2026-11-18
+380082,1086619,date of birth + name,Giovanni Leoni,Giovanni Leoni,2026-11-18
+380238,1172441,date of birth + name,Benjamin Brantlind,Benjamin Brantlind,2026-11-18
+380286,1063338,date of birth + name,Carlos Espí,Carlos Espí,2026-11-18
+380318,948278,date of birth + name,Jacobo Ramón,Jacobo Ramón,2026-11-18
+380400,1234988,date of birth + name,Julián Vignolo,Julián Vignolo,2026-11-18
+380624,947407,date of birth + name,Michael Laffey,Michael Laffey,2026-11-18
+380795,1168219,date of birth + name,Said El Mala,Said El Mala,2026-11-18
+380918,1065442,date of birth + name,Iñigo Arguibide,Iñigo Arguibide,2026-11-18
+380970,1231993,date of birth + name,Adrian Lahdo,Adrian Lahdo,2026-11-18
+381071,1063333,date of birth + name,Jorge Cabello,Jorge Cabello,2026-11-18
+381341,1180733,date of birth + name,Ceadach O’Neill,Ceadach O'Neill,2026-11-18
+381626,1088199,club + name,Arsène Kouassi,Arsène Kouassi,2026-11-18
+381628,1038512,date of birth + name,Asier Osambela,Asier Osambela,2026-11-18
+381681,1141128,date of birth + name,Llorenç Serred,Llorenç Serred,2026-11-18
+382532,741289,date of birth + shared name word,Youssef Lekhedim,Youssef Enríquez,2026-11-18
+382839,1005583,date of birth + name,Alysson,Alysson,2026-11-18
+382872,979760,date of birth + name,Rayan Bamba,Rayan Bamba,2026-11-18
+382966,1082631,date of birth + name,Allan Elias,Allan,2026-11-18
+383188,1116191,date of birth + name,Luis Engelns,Luis Engelns,2026-11-18
+383897,1321938,date of birth + name,Rufai Mohammed,Rufai Mohammed,2026-11-18
+383900,1178721,date of birth + shared name word,Rafael Bauza,Rafel Bauzà,2026-11-18
+383912,1255616,date of birth + name,Alberto Risco,Alberto Risco,2026-11-18
+383999,955358,date of birth + name,Gaël Lafont,Gaël Lafont,2026-11-18
+384005,1183719,date of birth + name,Keyliane Abdallah,Keyliane Abdallah,2026-11-18
+384155,1168222,date of birth + name,Malek El Mala,Malek El Mala,2026-11-18
+384162,883865,date of birth + name,Rafik Messali,Rafik Messali,2026-11-18
+384170,1170286,date of birth + name,Darryl Bakola,Darryl Bakola,2026-11-18
+384300,984964,date of birth + name,Niccolò Fortini,Niccolò Fortini,2026-11-18
+384305,939745,date of birth + name,Lorenzo Torriani,Lorenzo Torriani,2026-11-18
+384372,1111063,date of birth + name,Sean Steur,Sean Steur,2026-11-18
+384380,1130445,date of birth + name,Abdoul Koné,Abdoul Koné,2026-11-18
+384410,1118874,date of birth + name,Jan Leszczynski,Jan Leszczyński,2026-11-18
+384414,856274,date of birth + name,Jonathan Asp Jensen,Jonathan Asp Jensen,2026-11-18
+384471,1213681,date of birth + name,Alexander Røssing-Lelesiit,Alexander Røssing-Lelesiit,2026-11-18
+384482,931900,date of birth + name,Gustavo Varela,Gustavo Varela,2026-11-18
+384519,1058354,date of birth + name,Matteo Palma,Matteo Palma,2026-11-18
+384534,1137274,date of birth + name,Leon Jakirovic,Leon Jakirović,2026-11-18
+384643,939374,date of birth + name,Yoel Lago,Yoel Lago,2026-11-18
+384831,1053222,date of birth + name,Jacopo Mirra,Jacopo Mirra,2026-11-18
+384985,1232057,date of birth + name,Paco Cortés,Paco Cortés,2026-11-18
+384990,1103037,date of birth + name,Yvann Konan,Yvann Konan,2026-11-18
+385354,1025989,date of birth + name,Stefan Smarkalev,Stefan Smarkalev,2026-11-18
+386199,1052892,date of birth + name,Jaydan Kamason,Jaydan Kamason,2026-11-18
+386252,1006411,date of birth + name,Jaydee Canvot,Jaydee Canvot,2026-11-18
+386256,1124005,date of birth + name,Christantus Uche,Christantus Uche,2026-11-18
+386466,1108022,date of birth + name,Deniz Zeitler,Deniz Zeitler,2026-11-18
+386579,692208,date of birth + name,Pelayo Fernández,Pelayo Fernández,2026-11-18
+386884,1105541,date of birth + name,Nathan De Cat,Nathan De Cat,2026-11-18
+386989,1279526,date of birth + name,Christ Inao Oulaï,Christ Inao Oulaï,2026-11-18
+386992,927353,date of birth + name,Johan Manzambi,Johan Manzambi,2026-11-18
+387036,885226,date of birth + name,Riyad Idrissi,Riyad Idrissi,2026-11-18
+387044,819566,date of birth + name,Nidal Celik,Nidal Celik,2026-11-18
+387061,986291,date of birth + name,Andrija Bulatovic,Andrija Bulatovic,2026-11-18
+387204,957653,date of birth + name,Rodrigo Mora,Rodrigo Mora,2026-11-18
+387346,999886,date of birth + name,Loun Srdanovic,Loun Srdanovic,2026-11-18
+387434,978442,date of birth + name,Filippo Pagnucco,Filippo Pagnucco,2026-11-18
+387437,883007,date of birth + name,Filippo Mané,Filippo Mane,2026-11-18
+387474,863759,date of birth + shared name word,Ifechukwu Ogbus,Bruno Ogbus,2026-11-18
+387489,948279,date of birth + name,Chema Andrés,Chema Andrés,2026-11-18
+387491,1190411,date of birth + name,Jesús Rodriguez,Jesús Rodríguez,2026-11-18
+387493,945753,date of birth + name,Julio Díaz,Julio Díaz,2026-11-18
+387655,1060087,date of birth + shared name word,Charalambos Kostoulas,Charalampos Kostoulas,2026-11-18
+387657,964426,date of birth + name,Christos Mouzakitis,Christos Mouzakitis,2026-11-18
+387659,1240763,date of birth + name,Caleb Yirenkyi,Caleb Yirenkyi,2026-11-18
+387723,988964,date of birth + name,Mattia Liberali,Mattia Liberali,2026-11-18
+387841,892165,date of birth + name,Sergej Levak,Sergej Levak,2026-11-18
+388024,708072,date of birth + name,Nicolò Savona,Nicolò Savona,2026-11-18
+388070,1191444,date of birth + name,Dayann Methalie,Dayann Methalie,2026-11-18
+388076,834463,date of birth + name,Iker Córdoba,Iker Córdoba,2026-11-18
+388285,1066206,date of birth + name,Toni Fernández,Toni Fernández,2026-11-18
+388328,981700,date of birth + name,Samuel Nibombé,Samuel Nibombe,2026-11-18
+388329,1075582,date of birth + name,Jules Stawiecki,Jules Stawiecki,2026-11-18
+388338,935245,date of birth + name,Raúl Asencio,Raúl Asencio,2026-11-18
+388339,964563,date of birth + name,Joan Martínez,Joan Martínez,2026-11-18
+388392,910541,date of birth + name,Fabio Baldé,Fábio Baldé,2026-11-18
+388421,1131159,date of birth + name,Ibrahim Kanté,Ibrahim Yayiya Kanté,2026-11-18
+388522,1185888,date of birth + name,Ibrahim Mbaye,Ibrahim Mbaye,2026-11-18
+388601,711374,club + name,Jon Gorrotxategi,Jon Gorrotxategi,2026-11-18
+388605,1077175,date of birth + name,Honest Ahanor,Honest Ahanor,2026-11-18
+388606,934878,date of birth + name,Jeff Ekhator,Jeff Ekhator,2026-11-18
+388681,1048715,date of birth + name,Fernando Dickes,Fernando Dickes,2026-11-18
+388683,1074526,date of birth + name,Viggo Gebel,Viggo Gebel,2026-11-18
+388805,1056966,date of birth + name,Peio Canales,Peio Canales,2026-11-18
+388878,1119880,date of birth + name,Daren Mosengo,Daren Mosengo,2026-11-18
+388879,1119877,date of birth + name,Guy Zohouri,Guy-Noël Zohouri,2026-11-18
+388880,992569,date of birth + name,Massimo Pessina,Massimo Pessina,2026-11-18
+388898,1298885,date of birth + name,Diego Ferrer,Diego Ferrer,2026-11-18
+389351,955449,date of birth + name,Alexi Koum,Alexi Koum,2026-11-18
+389431,1061820,date of birth + name,Lorenzo Venturino,Lorenzo Venturino,2026-11-18
+389447,948254,date of birth + name,Marco de las Sias,Marco de las Sías,2026-11-18
+390031,1145064,date of birth + name,Cyriaque Irié,Cyriaque Irié,2026-11-18
+390091,1225038,date of birth + name,Manu González,Manu González,2026-11-18
+390094,1078156,date of birth + name,Kaden Braithwaite,Kaden Braithwaite,2026-11-18
+390389,1153105,date of birth + name,Yassir Zabiri,Yassir Zabiri,2026-11-18
+390673,957822,date of birth + name,Eddy Kouadio,Eddy Kouadio,2026-11-18
+390975,1237740,date of birth + name,Andre Annous,Andre Harriman-Annous,2026-11-18
+391033,866607,date of birth + name,Niko Kovac,Niko Kovač,2026-11-18
+391034,929994,date of birth + name,Kerim Alajbegovic,Kerim Alajbegovic,2026-11-18
+392126,1310513,date of birth + name,Aristide Zossou,Aristide Zossou,2026-11-18
+392320,1279984,date of birth + name,Lucas Herrington,Lucas Herrington,2026-11-18
+392682,1282860,date of birth + name,Modou Cissé,Modou Kéba Cissé,2026-11-18
+393138,1049911,date of birth + name,Tyler Fletcher,Tyler Fletcher,2026-11-18
+393321,1160753,date of birth + name,Isaac Cossier,Isaac Cossier,2026-11-18
+393432,1186789,date of birth + name,Kyllian Antonio,Kyllian Antonio,2026-11-18
+393762,1054934,date of birth + name,Maroan Sannadi,Maroan Sannadi,2026-11-18
+394418,1011936,date of birth + name,Kaye Furo,Kaye Furo,2026-11-18
+394476,1103652,date of birth + shared name word,Marius Louãr,Marius Louër,2026-11-18
+394493,1178213,date of birth + name,Federico Steffanoni,Federico Steffanoni,2026-11-18
+395463,1187640,date of birth + name,Ryan McAidoo,Ryan McAidoo,2026-11-18
+395479,1305564,date of birth + name,Jean Ives Valou,Jean Ives Valou,2026-11-18
+395579,1160260,date of birth + name,Javier Gil,Javier Gil,2026-11-18
+395939,1108475,date of birth + name,Luca Williams-Barnett,Luca Williams-Barnett,2026-11-18
+395941,933908,date of birth + name,Ángel Ortiz,Ángel Ortiz,2026-11-18
+396009,932187,date of birth + name,Sascha Britschgi,Sascha Britschgi,2026-11-18
+396387,1343439,date of birth + name,Óscar López,Óscar López,2026-11-18
+396607,964190,date of birth + name,Luken Beitia,Luken Beitia,2026-11-18
+396612,721660,date of birth + name,Mikel Rodriguez,Mikel Rodriguez,2026-11-18
+396613,1201530,date of birth + name,Alex Marchal,Alex Marchal,2026-11-18
+396620,966575,date of birth + name,Naime Said Mchindra,Naime Said Mchindra,2026-11-18
+396630,975347,date of birth + name,Aladji Bamba,Aladji Bamba,2026-11-18
+396655,1077670,date of birth + name,Axel Tape,Axel Tape,2026-11-18
+396751,1249340,date of birth + name,Alassane Diatta,Alassane Diatta,2026-11-18
+397120,1131921,date of birth + name,Ben Hawighorst,Ben Hawighorst,2026-11-18
+397160,1079622,date of birth + name,Amil Siljevic,Amil Siljevic,2026-11-18
+397212,1132292,date of birth + name,Faik Sakar,Faik Sakar,2026-11-18
+397258,925845,date of birth + name,Augusto Owusu,Augusto Owusu,2026-11-18
+397263,1187629,date of birth + name,Max Dowman,Max Dowman,2026-11-18
+397289,1235196,date of birth + shared name word,José Ángel López,Eder López,2026-11-18
+397392,1254786,date of birth + name,Gabin Bernardeau,Gabin Bernardeau,2026-11-18
+397463,1035426,date of birth + name,Niccolò Rizzo,Niccolò Rizzo,2026-11-18
+397545,935231,date of birth + name,Víctor Muñoz,Víctor Muñoz,2026-11-18
+397594,1166473,date of birth + name,Raphaël Le Guen,Raphaël Le Guen,2026-11-18
+397881,1255575,date of birth + name,Tynan Thompson,Tynan Thompson,2026-11-18
+398004,974894,date of birth + name,David Mokwa,David Mokwa,2026-11-18
+398120,942004,date of birth + name,Giorgio De Marzi,Giorgio De Marzi,2026-11-18
+398380,1200419,date of birth + name,Djylian N'Guessan,Djylian N'Guessan,2026-11-18
+398709,1364454,date of birth + name,Christian Kofane,Christian Kofane,2026-11-18
+398780,1363293,date of birth + shared name word,Zabi Gueu,Patrick Zabi,2026-11-18
+398977,1170001,date of birth + name,Henrick Do Marcolino,Henrick Do Marcolino,2026-11-18
+399200,1259085,date of birth + name,Hamza Abdelkarim,Hamza Abdelkarim,2026-11-18
+399214,829838,date of birth + name,Hennes Behrens,Hennes Behrens,2026-11-18
+399219,685484,date of birth + shared name word,Luka Djuric,Luka Duric,2026-11-18
+399248,1030153,date of birth + name,Justin Bourgault,Justin Bourgault,2026-11-18
+399278,961087,date of birth + name,Pablo García,Pablo García,2026-11-18
+399423,1184986,date of birth + name,Love Arrhov,Love Arrhov,2026-11-18
+399428,1368526,date of birth + name,Sion Oppong,Sion Oppong,2026-11-18
+399434,1268075,date of birth + name,Sota Nakamura,Sota Nakamura,2026-11-18
+399454,976207,date of birth + name,Federico Serra,Federico Serra,2026-11-18
+399455,1275068,date of birth + name,Kauã Prates,Kauã Prates,2026-11-18
+399540,940553,date of birth + name,Relja Obric,Relja Obric,2026-11-18
+399632,1105124,date of birth + name,Elijah Scott,Elijah Scott,2026-11-18
+399697,914269,date of birth + name,Nehemiah Oriola,Nehemiah Oriola,2026-11-18
+399717,1004479,date of birth + name,Zoumana Diallo,Zoumana Diallo,2026-11-18
+399746,594731,date of birth + name,Fabio Gruber,Fabio Gruber,2026-11-18
+399865,1045986,date of birth + name,Mick Schmetgens,Mick Schmetgens,2026-11-18
+399894,1078159,date of birth + name,Ife Ibrahim,Ife Ibrahim,2026-11-18
+400110,1045118,date of birth + name,George King,George King,2026-11-18
+400222,1088712,date of birth + name,Simon Eriksson,Simon Eriksson,2026-11-18
+400284,1294399,date of birth + name,Marli Salmon,Marli Salmon,2026-11-18
+400352,1184007,date of birth + name,Soriba Diaoune,Soriba Diaoune,2026-11-18
+400734,1070076,date of birth + name,Alain Taho,Alain Taho,2026-11-18
+401045,1160814,date of birth + name,Rayan Fofana,Rayan Fofana,2026-11-18
+401306,1160378,date of birth + name,Souleymane Sagnan,Souleymane Sagnan,2026-11-18
+401377,1204959,date of birth + name,Roger Hinojo,Roger Hinojo,2026-11-18
+401410,1078918,date of birth + name,Gonçalo Oliveira,Gonçalo Oliveira,2026-11-18
+401450,1311594,date of birth + name,Enzo De Pina Duarte Dos Santos,Enzo dos Santos,2026-11-18
+401451,1226357,date of birth + name,Brian Madjo,Brian Madjo,2026-11-18
+401482,1089770,date of birth + name,Joi Nuredini,Joi Nuredini,2026-11-18
+401558,1186245,date of birth + name,Víctor Valdepeñas,Víctor Valdepeñas,2026-11-18
+401714,1228317,date of birth + name,Stephan Zagadou,Stephan Zagadou,2026-11-18
+401738,1227099,date of birth + name,Ghianny Kodia,Ghianny Kodia,2026-11-18
+402479,1390649,date of birth + name,Yan Diomande,Yan Diomande,2026-11-18
+402608,1231230,date of birth + name,Thomás De Martis,Thomás De Martis,2026-11-18
+402778,972475,date of birth + name,Matteo Lavelli,Matteo Lavelli,2026-11-18
+402816,1092429,date of birth + name,João Almeida,João Almeida,2026-11-18
+402841,1075147,date of birth + name,Lennart Karl,Lennart Karl,2026-11-18
+402888,1241211,date of birth + name,Rudy Matondo,Rudy Matondo,2026-11-18
+402890,1094885,date of birth + name,Otávio,Otávio,2026-11-18
+402949,1108478,date of birth + name,Alejandro Rodríguez,Alejandro Gomes Rodríguez,2026-11-18
+403110,1275040,date of birth + name,Noham Kamara,Noham Kamara,2026-11-18
+403125,1091353,date of birth + name,Telli Siwe,Telli Siwe,2026-11-18
+403148,1188619,date of birth + name,Alessio Cacciamani,Alessio Cacciamani,2026-11-18
+403232,1103958,date of birth + name,Prosper Peter,Prosper Peter,2026-11-18
+403234,586853,date of birth + name,Vitinha,Vitinha,2026-11-18
+403310,1200417,date of birth + name,Ilyas Azizi,Ilyas Azizi,2026-11-18
+403371,834491,date of birth + name,Alejandro Rego,Alejandro Rego,2026-11-18
+403417,1200424,date of birth + name,Ilan Jourdren,Ilan Jourdren,2026-11-18
+403419,1053208,date of birth + name,Quentin Ndjantou,Quentin Ndjantou,2026-11-18
+403421,1216906,date of birth + name,Matthias Da Silva,Matthias da Silva,2026-11-18
+403445,1170813,date of birth + name,Javison Idele,Javison Idele,2026-11-18
+403528,1064377,date of birth + name,Paul Okon-Engstler,Paul Okon-Engstler,2026-11-18
+403578,1071596,date of birth + name,Dro Fernández,Dro Fernández,2026-11-18
+403582,1018912,date of birth + name,Xavi Espart,Xavi Espart,2026-11-18
+403587,1066202,date of birth + name,Eder Aller,Eder Aller,2026-11-18
+403704,929864,date of birth + name,Rafa Fernández,Rafa Fernández,2026-11-18
+403741,960462,date of birth + name,Yanik Spalt,Yanik Spalt,2026-11-18
+403781,1193849,date of birth + name,Mathis Albert,Mathis Albert,2026-11-18
+403833,1058359,date of birth + name,Samuele Inácio,Samuele Inácio,2026-11-18
+403842,1200423,date of birth + name,Rémi Himbert,Rémi Himbert,2026-11-18
+403867,1285021,date of birth + name,Dean Benamar,Dean Benamar,2026-11-18
+403933,1141179,date of birth + name,Mussa Kaba,Mussa Kaba,2026-11-18
+403981,1193405,date of birth + name,David Boly,David Boly,2026-11-18
+404030,1078795,date of birth + name,Cristiano De Paoli,Cristiano De Paoli,2026-11-18
+404532,1291928,date of birth + name,Elikya Legros,Elikya Legros,2026-11-18
+404546,1251220,date of birth + name,Antonio Arena,Antonio Arena,2026-11-18
+405502,895330,date of birth + name,Salvi Esquivel,Salvi Esquivel,2026-11-18
+405544,937950,date of birth + name,Jesús Fortea,Jesús Fortea,2026-11-18
+405585,1118495,date of birth + name,David Daiber,David Santos Daiber,2026-11-18
+405586,1259870,date of birth + name,Cassiano Kiala,Cassiano Kiala,2026-11-18
+405754,1148082,date of birth + name,Kornel Lisman,Kornel Lisman,2026-11-18
+406191,1172166,date of birth + name,Ethan Meichtry,Franz-Ethan Meichtry,2026-11-18
+406371,1027870,date of birth + name,Andrik Markgraf,Andrik Markgraf,2026-11-18
+406379,1105810,date of birth + name,Job Ochieng,Job Ochieng,2026-11-18
+406383,1063598,date of birth + name,Gorka Carrera,Gorka Carrera,2026-11-18
+406832,1268764,date of birth + name,Davinchi,Davinchi,2026-11-18
+406851,1309324,date of birth + name,Uchenna Ogundu,Uchenna Ogundu,2026-11-18
+407059,1421433,date of birth + name,Zadok Yohanna,Zadok Yohanna,2026-11-18
+407196,1042472,date of birth + name,Salim Musah,Salim Musah,2026-11-18
+407397,1167696,date of birth + name,Ifeanyi Ndukwe,Ifeanyi Ndukwe,2026-11-18
+407480,1355385,date of birth + name,Robinho Junior,Robinho Junior,2026-11-18
+407584,1011659,date of birth + name,Rhys Chadwick,Rhys Chadwick,2026-11-18
+407906,1185980,date of birth + name,Matteo Pittarella,Matteo Pittarella,2026-11-18
+407930,1134304,date of birth + name,Joseph Liteta,Joseph Liteta,2026-11-18
+407931,1099924,date of birth + name,Yael Trepy,Yael Trepy,2026-11-18
+407932,926839,date of birth + name,Ivan Sulev,Ivan Sulev,2026-11-18
+408136,1215722,date of birth + name,Gabriel Kerckaert,Gabriel Kerckaert,2026-11-18
+408146,1078784,date of birth + name,Giulio Vinciati,Giulio Vinciati,2026-11-18
+408251,1200427,date of birth + name,Alexis Vossah,Alexis Vossah,2026-11-18
+408252,1075583,date of birth + name,Seny Koumbassa,Seny Koumbassa,2026-11-18
+408255,1085625,date of birth + name,Gaetan Bakhouche,Gaëtan Bakhouche Piernas,2026-11-18
+408345,1187942,date of birth + name,Khalis Merah,Khalis Merah,2026-11-18
+408358,1190577,date of birth + name,Thomas Sajous,Thomas Sajous,2026-11-18
+408359,1306455,date of birth + name,Maxima Goffi,Maxima Goffi,2026-11-18
+408362,1256286,club + name,Tiago Manuel Gonçalves Silva,Tiago Gonçalves,2026-11-18
+408489,1065181,date of birth + name,Alfie Cresswell,Alfie Cresswell,2026-11-18
+408539,1070979,date of birth + name,Wael Mohya,Wael Mohya,2026-11-18
+408703,1058514,date of birth + name,Montrell Culbreath,Montrell Culbreath,2026-11-18
+408959,1122308,date of birth + name,Jayden Lienou,Jayden Lienou,2026-11-18
+409016,1497653,date of birth + name,Bara Sapoko Ndiaye,Bara Sapoko Ndiaye,2026-11-18
+409019,1375227,date of birth + name,Thiago Pitarch,Thiago Pitarch,2026-11-18
+409051,1008570,date of birth + name,Mattia Mosconi,Mattia Mosconi,2026-11-18
+409073,1084756,date of birth + name,Plamen Penev,Plamen Penev,2026-11-18
+409261,1167216,date of birth + name,Louis Mezerette,Louis Mezerette,2026-11-18
+409262,1174032,date of birth + name,Tidiane Devernois,Tidiane Devernois,2026-11-18
+409263,1010856,date of birth + name,Ryan Rodin,Ryan Rodin,2026-11-18
+409289,1384911,date of birth + name,Samu Becerra,Samu Becerra,2026-11-18
+409371,1175298,date of birth + name,Emanuele Lulli,Emanuele Lulli,2026-11-18
+409380,1254646,date of birth + name,Aimar Blázquez,Aimar Blázquez,2026-11-18
+409383,1371830,club + name,Nacho Pérez,Nacho Pérez,2026-11-18
+409475,1065440,date of birth + name,Mauro Echegoyen,Mauro Echegoyen,2026-11-18
+409486,1056935,date of birth + name,Edu Altozano,Edu Altozano,2026-11-18
+409491,1136279,date of birth + name,Valeri Vladimirov,Valeri Vladimirov,2026-11-18
+409541,1011131,date of birth + name,Josh King,Josh King,2026-11-18
+409827,937226,date of birth + name,Jannis Bärtl,Jannis Bärtl,2026-11-18
+410320,1263739,date of birth + name,Floyd Samba,Floyd Samba,2026-11-18
+410322,1172138,date of birth + name,Malik Olayiwola,Malik Olayiwola,2026-11-18
+410486,1354775,date of birth + name,Ibai Aguirre,Ibai Aguirre,2026-11-18
+410645,1294853,date of birth + name,Louis Lemke,Louis Lemke,2026-11-18
+410797,1144938,date of birth + name,Alvin Petit Dol,Alvin Petit Dol,2026-11-18
+410822,1018026,date of birth + name,Ukko Happonen,Ukko Happonen,2026-11-18
+411164,866255,date of birth + name,Valerio Farcomeni,Valerio Farcomeni,2026-11-18
+411169,1119881,date of birth + name,Enzo Koffi,Enzo Koffi,2026-11-18
+411232,1048013,date of birth + name,Nicola Grandu,Nicola Grandu,2026-11-18
+411235,1124051,date of birth + name,Iker Monreal,Iker Monreal,2026-11-18
+411276,1211326,date of birth + name,Matteo Papaccioli,Matteo Papaccioli,2026-11-18
+411284,1335870,date of birth + name,José Morante,José Antonio Morante,2026-11-18
+411418,1206824,date of birth + name,Tadjidine Mmadi,Tadjidine Mmadi,2026-11-18
+412217,1297674,date of birth + shared name word,Mezian Soares,Mezian Mesloub,2026-11-18
+412232,804711,date of birth + name,Ousmane Camara,Ousmane Camara,2026-11-18
+412248,919669,date of birth + name,Simone Cinquegrano,Simone Cinquegrano,2026-11-18
+412249,1041129,date of birth + name,Yvan Maye,Yvan Maye,2026-11-18
+412871,1133929,date of birth + name,Harouna Djibirin,Harouna Djibirin,2026-11-18
+413630,1314016,date of birth + name,David Spinelli,David Spinelli,2026-11-18
+413671,1141157,date of birth + shared name word,Alex Panach,Alejandro Panach,2026-11-18
+413817,1074990,date of birth + name,Luca Reggiani,Luca Reggiani,2026-11-18
+413837,1279157,date of birth + name,Benno Kaltefleiter,Benno Kaltefleiter,2026-11-18
+413839,1380977,date of birth + name,Samba Konate,Samba Konaté,2026-11-18
+413868,1168024,date of birth + name,Lorenzo Nyarko,Lorenzo Nyarko,2026-11-18
+414157,942058,date of birth + name,Stefano Mangiapoco,Stefano Mangiapoco,2026-11-18
+414184,1291929,date of birth + name,Yvan Zaddy,Yvan Zaddy,2026-11-18
+414191,1169721,date of birth + name,Kilian Belazzoug,Kilian Belazzoug,2026-11-18
+414292,1293040,date of birth + name,Andrés Antañón,Andrés Antañón,2026-11-18
+414293,1262787,date of birth + name,Hugo Burcio,Hugo Burcio,2026-11-18
+414295,1476968,date of birth + name,Huseini Nakoha,Huseini Nakoha,2026-11-18
+414350,1312698,date of birth + name,Selton Sánchez,Selton Sánchez,2026-11-18
+414465,1047102,date of birth + name,Mathis Clement,Mathis Clément,2026-11-18
+414467,1208712,date of birth + name,Rayan Bang Na,Rayan Ouro Bang Na,2026-11-18
+415036,1064465,date of birth + name,Ángel Arcos,Ángel Arcos,2026-11-18
+415054,1301102,date of birth + name,Adil Hamdani,Adil Hamdani,2026-11-18
+415149,1077676,date of birth + name,Martin James,Martin James,2026-11-18
+415168,1272211,date of birth + name,Matteo Franceschelli,Matteo Franceschelli,2026-11-18
+415193,1227106,date of birth + name,Elias Legendre,Elías Legendre Quiñónez,2026-11-18
+415206,1427912,date of birth + name,Izei Hernandez,Izei Hernández,2026-11-18
+415376,1125079,date of birth + name,Shafiq Nandja,Shafiq Nandja,2026-11-18
+415410,1429733,date of birth + name,Marco Román,Marco Román,2026-11-18
+415421,1450112,date of birth + name,Zadig Lanssade,Zadig Lanssade,2026-11-18
+415438,1453066,date of birth + name,Carlos Macià,Carlos Macià,2026-11-18
+415461,1367596,date of birth + name,Mamoudou Cissokho,Mamoudou Cissokho,2026-11-18
+415478,1186235,date of birth + name,Jorge Cestero,Jorge Cestero,2026-11-18
+415726,1067439,date of birth + name,Fritz Fleck,Fritz Fleck,2026-11-18
+415742,803003,date of birth + shared name word,Iker Ortín,Iker Muñoz,2026-11-18
+415744,1178695,date of birth + name,Kenny Quetant,Kenny Quetant,2026-11-18
+415867,1065454,club + name,Unai Santos,Unai Santos,2026-11-18
+416154,1231248,club + name,Francisco Baridó,Francisco Baridó,2026-11-18
+416401,1297628,date of birth + name,Maël Gernigon,Maël Gernigon,2026-11-18
+416403,1188254,date of birth + name,Mathis Lainé,Mathis Lainé,2026-11-18
+416416,1162968,date of birth + name,Tim Schnitzer,Tim Schnitzer,2026-11-18
+416429,1459673,date of birth + name,Mamadou Koné,Mamadou Koné,2026-11-18
+416458,1291922,date of birth + name,Lamfia Dioubaté,Lamfia Dioubaté,2026-11-18
+416460,1191473,date of birth + name,Everton Pereira,Everton,2026-11-18
+416531,1289670,date of birth + name,Rendijs Mihelsons,Rendijs Mihelsons,2026-11-18
+416636,799993,date of birth + name,Ayoube Amaimouni,Ayoube Amaimouni-Echghouyab,2026-11-18
+417256,1133928,date of birth + shared name word,Matah Yondjio,Angel Yondjo Matah,2026-11-18
+417258,1179482,date of birth + name,Iker Luque,Iker Luque,2026-11-18
+417261,1314544,date of birth + name,Thomas Rousseau,Thomas Rousseau,2026-11-18
+417372,1144121,date of birth + name,Daniel Semedo,Daniel Semedo,2026-11-18
+417373,1352339,date of birth + name,Maycon Cardozo,Maycon Cardozo,2026-11-18
+417783,1009616,date of birth + name,Dominik Drobnic,Dominik Drobnic,2026-11-18
+417784,1188642,date of birth + name,Gabriele Casentini,Gabriele Casentini,2026-11-18
+417822,1027788,date of birth + name,Enzo Vágner,Enzo Vagner,2026-11-18
+417825,1322090,date of birth + name,Jocelin Ta Bi,Jocelin Ta Bi,2026-11-18
+417945,1136766,date of birth + name,Zalán Kugyela,Zalán Kugyela,2026-11-18
+418014,1061285,date of birth + name,Rodrigo Marina,Rodrigo Marina,2026-11-18
+418016,1183716,date of birth + name,Anis Doubal,Anis Doubal,2026-11-18
+418030,1259986,date of birth + name,Malik Pimpong,Malik Pimpong,2026-11-18
+418506,1170718,date of birth + name,Tyrese Noubissie,Tyrese Noubissie,2026-11-18
+418786,1338830,date of birth + name,Yoann Becker,Yoann Becker,2026-11-18
+418789,553539,date of birth + name,Valentin Lässig,Valentin Lässig,2026-11-18
+418819,1371793,club + name,Paul Mendy,Paul Mendy,2026-11-18
+419048,1515724,club + name,Aaron Mayol,Aaron Mayol,2026-11-18
+419210,1449278,date of birth + name,Zebedee Kennedy,Zebedee Kennedy,2026-11-18
+419268,1105948,date of birth + name,Mamedi Doucouré,Mamedi Doucouré,2026-11-18
+419274,1159439,date of birth + name,Rouven Tarnutzer,Rouven Tarnutzer,2026-11-18
+419943,1119391,date of birth + name,Steeve Kango,Steeve Kango,2026-11-18
+419946,1032924,date of birth + name,Mats Heitmann,Mats Heitmann,2026-11-18
+420443,1154003,date of birth + name,Adama Timera,Adama Timera,2026-11-18
+421310,1250522,date of birth + shared name word,Javier Morcillo,Javi Morcillo,2026-11-18
+421472,962154,date of birth + name,Albert Navarro,Albert Navarro,2026-11-18
+421735,1378338,date of birth + name,Linus Güther,Linus Güther,2026-11-18
+421739,1124104,date of birth + name,Riccardo Radu,Riccardo Radu,2026-11-18
+421740,1382453,date of birth + name,Bané Diatta,Bané Diatta,2026-11-18
+421761,874974,date of birth + name,Lukas Klisys,Lukas Klišys,2026-11-18
+421785,1304522,date of birth + name,Salvatore Cianciulli,Salvatore Cianciulli,2026-11-18
+421851,1164662,date of birth + name,Nouhoum Kamissoko,Nouhoum Kamissoko,2026-11-18
+421852,1070591,date of birth + name,Hilan Slimani,Hilan Hamzaoui Slimani,2026-11-18
+421853,1318474,club + name,Ugo El Kadmiri,Ugo Kadmiri,2026-11-18
+421996,1453065,date of birth + name,Miguel Cubo,Miguel Cubo,2026-11-18
+422095,1183715,date of birth + name,Kelyann Bezahaf,Kelyann Bezahaf,2026-11-18
+422096,954082,date of birth + name,Tom Wisbereit,Tom Wisbereit,2026-11-18
+422137,1236856,date of birth + name,Nico Guillén,Nico Guillén,2026-11-18
+422138,1078812,date of birth + name,Antonio Pirrò,Antonio Pirrò,2026-11-18
+423015,1019116,date of birth + name,Giorgio Vezzosi,Giorgio Vezzosi,2026-11-18
+423017,1371019,date of birth + name,Alessandro Mazzocchi,Alessandro Mazzocchi,2026-11-18

@@ -1,0 +1,176 @@
+/* Pixel Arcade — https://palletism.art/collections/pixel-arcade
+   All derived colors are mixes of its four palette colors. */
+:root {
+  --background: #1a1c2c;
+  --foreground: #fff1e8;
+  /* "midnight cabinet" scheme: panels, lines and quiet text from the palette page */
+  --card: #242740;
+  --muted-foreground: #a3a7c2;
+  --border: #383c5c;
+  --border-strong: #585c7b;
+  --accent: #29adff;
+  --accent-fg: #1a1c2c;
+  --danger: #ff6a8e;
+  --warning: #ff9aaf;
+  --heat-1: #2373ab;
+  --heat-2: #268ed5;
+  --heat-3: #29adff;
+  --heat-4: #69c1f8;
+  --heat-1-text: #fff1e8;
+  --heat-text: #1a1c2c;
+  --gap: #ff9aaf;
+  --surface-raised: #2e314e;
+  --surface-hover: #383c5c;
+  --surface-accent: #1c344b;
+  --panel: var(--card);
+  --line: var(--border);
+  --quiet: var(--muted-foreground);
+  /* Buttons are Arcade red with near-black text; blue stays for scored minutes and links. */
+  --button: #ff004d;
+  --button-fg: #0d0e16;
+  /* Hard pixel shadow under cards */
+  --pixel-shadow: #0d0e16;
+  --font-display: var(--font-jersey15);
+  --font-body: var(--font-rubik);
+  --og-display-file: "jersey15.ttf";
+  --og-body-file: "rubik.ttf";
+  --og-display-name: "Jersey 15";
+  --og-body-name: "Rubik";
+  --neon: var(--accent);
+  --violet: var(--accent);
+  --success: var(--accent);
+  --glass-bg: var(--card);
+  --glass-border: var(--border);
+  --glass-strong-bg: var(--card);
+  --glass-thin-bg: var(--background);
+  --card-foreground: var(--foreground);
+  --popover: var(--card);
+  --popover-foreground: var(--foreground);
+  --primary: var(--accent);
+  --primary-foreground: var(--accent-fg);
+  --secondary: var(--card);
+  --secondary-foreground: var(--foreground);
+  --muted: var(--card);
+  --accent-foreground: var(--accent-fg);
+  --destructive: var(--danger);
+  --input: var(--border);
+  --ring: var(--accent);
+}
+
+@theme inline {
+  --font-sans: var(--font-body);
+  --font-mono: var(--font-body);
+  --color-tone-950: var(--background);
+  --color-tone-900: var(--card);
+  --color-tone-800: var(--surface-raised);
+  --color-tone-700: var(--surface-hover);
+  --color-tone-600: var(--muted-foreground);
+  --color-tone-500: var(--muted-foreground);
+  --color-tone-400: var(--muted-foreground);
+  --color-tone-300: var(--foreground);
+  --color-tone-200: var(--foreground);
+  --color-tone-100: var(--foreground);
+  --color-white: var(--foreground);
+  --color-black: var(--background);
+  --color-scored-950: var(--surface-accent);
+  --color-scored-600: var(--heat-1);
+  --color-scored-500: var(--accent);
+  --color-scored-400: var(--accent);
+  --color-scored-300: var(--foreground);
+  --color-gap-950: var(--surface-accent);
+  --color-gap-500: var(--gap);
+  --color-gap-400: var(--gap);
+  --color-gap-300: var(--foreground);
+  --color-gap-200: var(--foreground);
+  --color-extra-600: var(--heat-1);
+  --color-extra-400: var(--accent);
+  --color-border: var(--border);
+  --color-border-strong: var(--border-strong);
+  --color-neon: var(--neon);
+  --color-violet: var(--violet);
+  --color-success: var(--success);
+  --color-warning: var(--warning);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+}
+
+/* To switch packs, uncomment exactly one :root block below.
+   The share cards read the last active declaration from this same file. */
+/* Halftone Press: https://palletism.art/collections/halftone-press */
+/*
+:root {
+  --background: #1d3557;
+  --foreground: #f5f0e6;
+  --card: #334865;
+  --muted-foreground: #cacbc9;
+  --border: #7e8997;
+  --border-strong: #a9afb4;
+  --accent: #9db6c2;
+  --accent-fg: #1d3557;
+  --danger: #f0b0ae;
+  --warning: #f0b0ae;
+  --gap: #f0b0ae;
+  --heat-1: #969ea7;
+  --heat-2: #b4b8bb;
+  --heat-3: #d5d4d1;
+  --heat-4: #f5f0e6;
+  --heat-1-text: #1d3557;
+  --heat-text: #1d3557;
+  --surface-raised: #485a74;
+  --surface-hover: #5e6d83;
+  --surface-accent: #334865;
+  --font-display: var(--font-bricolage);
+  --font-body: var(--font-newsreader);
+  --og-display-file: "bricolage.ttf";
+  --og-body-file: "newsreader.ttf";
+  --og-display-name: "Bricolage Grotesque";
+  --og-body-name: "Newsreader";
+}
+*/
+
+/* Graphite Sketch: https://palletism.art/collections/graphite-sketch */
+/*
+:root {
+  --background: #2b2b2b;
+  --foreground: #ffffff;
+  --card: #404040;
+  --muted-foreground: #d5d5d5;
+  --border: #8a8a8a;
+  --border-strong: #b5b5b5;
+  --accent: #e4e4e4;
+  --accent-fg: #2b2b2b;
+  --danger: #d0d0d0;
+  --warning: #d0d0d0;
+  --gap: #d0d0d0;
+  --heat-1: #a0a0a0;
+  --heat-2: #bfbfbf;
+  --heat-3: #dfdfdf;
+  --heat-4: #ffffff;
+  --heat-1-text: #2b2b2b;
+  --heat-text: #2b2b2b;
+  --surface-raised: #555555;
+  --surface-hover: #696969;
+  --surface-accent: #404040;
+  --font-display: var(--font-cormorant);
+  --font-body: var(--font-literata);
+  --og-display-file: "cormorant.ttf";
+  --og-body-file: "literata.ttf";
+  --og-display-name: "Cormorant Garamond";
+  --og-body-name: "Literata";
+}
+*/

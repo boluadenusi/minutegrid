@@ -1,0 +1,51 @@
+athlete_id,name,dob,team,competition_id,reason
+143533,Jake Bidwell,1993-03-21,Coventry City,GB1,runner-up too close
+188031,Jan Gyamerah,1995-06-18,SV Elversberg,L1,"single goal, names share no token"
+194718,Ousmane Diallo,1993-05-25,Parma,IT1,"a Transfermarkt player has this name, but neither club, date of birth nor goals confirm it"
+205916,Janik Bachmann,1996-05-06,Schalke 04,L1,runner-up too close
+250460,Demba Thiam,1989-12-02,Monza,IT1,"a Transfermarkt player has this name, but neither club, date of birth nor goals confirm it"
+250508,Pepe Carmona,1995-02-17,Sevilla,ES1,best covers 2/3 goals (< 80%)
+253816,Ron Schallenberg,1998-10-06,Schalke 04,L1,single goal with several candidates
+264484,Gideon Mensah,2000-10-09,FC Cologne,L1,"a Transfermarkt player has this name, but neither club, date of birth nor goals confirm it"
+279609,Riki Rodríguez,1997-09-25,Deportivo,ES1,single goal with several candidates
+282978,Hayden Hackney,2002-06-26,Everton,GB1,single goal with several candidates
+291207,Marcel Hoffmeier,1999-07-15,SC Paderborn 07,L1,single goal with several candidates
+297828,David Larrubia,2002-04-20,Málaga,ES1,"single goal, names share no token"
+307186,Francho Serrano,2001-10-17,Getafe,ES1,single goal with several candidates
+3102992,Bright Ede,,Deportivo,ES1,"a Transfermarkt player has this name, but neither club, date of birth nor goals confirm it"
+3111009,Felix Scott,,Sunderland,GB1,"a Transfermarkt player has this name, but neither club, date of birth nor goals confirm it"
+3123406,Francisco Esteban Sánchez,,Lecce,IT1,"a Transfermarkt player has this name, but neither club, date of birth nor goals confirm it"
+312392,Yeremay Hernández,2002-12-10,Deportivo,ES1,single goal with several candidates
+3129331,Luis Miguel Pérez García,,Levante,ES1,"a Transfermarkt player has this name, but neither club, date of birth nor goals confirm it"
+3130644,Álvaro Fernández Fernández,,Racing Santander,ES1,"a Transfermarkt player has this name, but neither club, date of birth nor goals confirm it"
+3130907,Mamadou Diallo,,Angers,FR1,"a Transfermarkt player has this name, but neither club, date of birth nor goals confirm it"
+319783,Ángel Recio,2003-01-05,Málaga,ES1,"a Transfermarkt player has this name, but neither club, date of birth nor goals confirm it"
+331530,Kevin Sanchez,2007-01-05,Deportivo,ES1,runner-up too close
+332543,Stefano Marino,2004-03-12,SC Paderborn 07,L1,"single goal, names share no token"
+338837,Santiago Castaneda,2004-11-13,SC Paderborn 07,L1,single goal with several candidates
+340739,Felix Keidel,2003-06-14,SV Elversberg,L1,"single goal, names share no token"
+342029,Yehor Yarmoliuk,2004-03-01,Brentford,GB1,"single goal, names share no token"
+345873,David Herold,2003-02-20,Borussia Mönchengladbach,L1,single goal with several candidates
+345926,Mamadou Diop,2000-01-03,AJ Auxerre,FR1,"a Transfermarkt player has this name, but neither club, date of birth nor goals confirm it"
+350947,Diego Murillo,2001-03-14,Málaga,ES1,"a Transfermarkt player has this name, but neither club, date of birth nor goals confirm it"
+354646,Dani Barcia,2003-01-19,Deportivo,ES1,single goal with several candidates
+355503,Carlos López,2004-11-13,Málaga,ES1,"a Transfermarkt player has this name, but neither club, date of birth nor goals confirm it"
+355902,Cala,2000-06-22,Espanyol,ES1,"a Transfermarkt player has this name, but neither club, date of birth nor goals confirm it"
+357858,Rafa Rodríguez,2003-07-10,Málaga,ES1,"a Transfermarkt player has this name, but neither club, date of birth nor goals confirm it"
+359796,El Hadji Malick Diouf,2004-12-29,Brentford,GB1,"a Transfermarkt player has this name, but neither club, date of birth nor goals confirm it"
+364892,Mattes Hansen,2004-05-15,SC Paderborn 07,L1,"single goal, names share no token"
+371562,Yvann Titi,2006-05-05,Troyes,FR1,"a Transfermarkt player has this name, but neither club, date of birth nor goals confirm it"
+373992,Klaus Suso,2005-05-28,FC Augsburg,L1,"a Transfermarkt player has this name, but neither club, date of birth nor goals confirm it"
+375390,David Mella,2005-05-23,Deportivo,ES1,runner-up too close
+375566,Rubén,2004-08-26,Deportivo,ES1,single goal with several candidates
+377777,Aarón Moloney,2007-04-18,Málaga,ES1,"single goal, names share no token"
+378369,Reigan Heskey,2008-01-18,FC Cologne,L1,"a Transfermarkt player has this name, but neither club, date of birth nor goals confirm it"
+386454,Frederik Schmahl,2002-12-21,SV Elversberg,L1,"single goal, names share no token"
+387472,Berkay Yilmaz,2005-02-25,SC Freiburg,L1,single goal with several candidates
+392107,Trey Ogunsuyi,2006-11-26,Sunderland,GB1,"a Transfermarkt player has this name, but neither club, date of birth nor goals confirm it"
+408246,Kennet Eichhorn,2009-07-27,Bayer Leverkusen,L1,"single goal, names share no token"
+410687,Jules Ahoka,2005-12-17,Sunderland,GB1,"a Transfermarkt player has this name, but neither club, date of birth nor goals confirm it"
+411449,Pape Cabral,2007-01-20,AS Monaco,FR1,"a Transfermarkt player has this name, but neither club, date of birth nor goals confirm it"
+415735,Noé Carrillo,2006-12-28,Deportivo,ES1,single goal with several candidates
+48106,Juan Angulo,2008-01-12,Sunderland,GB1,"a Transfermarkt player has this name, but neither club, date of birth nor goals confirm it"
+94947,Álex Campos,2008-02-02,Barcelona,ES1,"a Transfermarkt player has this name, but neither club, date of birth nor goals confirm it"

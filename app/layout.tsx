@@ -1,18 +1,11 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { fontVariables } from "./fonts";
 import "./globals.css";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
-});
-
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-});
-
 export const metadata: Metadata = {
+  metadataBase: new URL(
+    process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000"
+  ),
   title: "Minute Grid",
   description: "See which minutes a footballer has scored in.",
   openGraph: {
@@ -28,11 +21,16 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="en" className={fontVariables}>
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased bg-zinc-950 text-zinc-100 min-h-screen`}
+        className="antialiased bg-tone-950 text-tone-100 min-h-screen"
       >
         {children}
+        <footer className="site-footer">
+          <a href="https://buymeamalt.com/@boluadenusi" target="_blank" rel="noopener noreferrer">Buy me a malt</a>
+          <span aria-hidden>·</span>
+          <a href="https://x.com/@boluadenusi" target="_blank" rel="noopener noreferrer">Boluwatife on X</a>
+        </footer>
       </body>
     </html>
   );

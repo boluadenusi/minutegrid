@@ -1,0 +1,1364 @@
+pitch_league_id,league,pitch_team_id,team,pitch_player_id,player_name,pitch_goals,best_tm_player_id,best_tm_name,best_hits,runner_up_tm_player_id,runner_up_hits,reason
+l_2ApGa4,J. League,t_2731yf,Machida Zelvia,p_00Cm2e,Hotaka Nakamura,2,683270,Hotaka Nakamura,1,,0,fewer than 2 coinciding goals
+l_2L6d1F,First Division A,t_1mTmMO,Club Brugge,p_00ETJd,Hugo Vetlesen,5,499758,Hugo Vetlesen,2,,0,best covers 2/5 goals (< 80%)
+l_3xwVF2,Super League 1,t_2DRkpy,Asteras Tripolis,p_00H59O,Christos Almyras,1,,,0,,0,no coinciding Transfermarkt goal
+l_49Zmno,Superligaen,t_4eVDVk,Viborg,p_00YXmd,Thomas Jørgensen,4,953004,Thomas Jørgensen,3,,0,best covers 3/4 goals (< 80%)
+l_3zsMpo,Bundesliga,t_34FD4Z,Ried,p_00uGW1,Joris Boguo,1,,,0,,0,no coinciding Transfermarkt goal
+l_3FJFUl,Ligue 1,t_0tnX1I,Lille,p_01Ltei,Nabil Bentaleb,2,245537,Nabil Bentaleb,2,903666,1,runner-up too close
+l_2Mh0jT,Premier League,t_3qYRtS,Lokomotiv Moscow,p_01yf9u,Artem Karpukas,1,691920,Artem Karpukas,1,,0,"single goal, minute not identical"
+l_45VZuL,Liga Profesional,t_0otcXZ,Boca Juniors,p_02UzGW,Leandro Paredes,3,166237,Leandro Paredes,2,,0,best covers 2/3 goals (< 80%)
+l_45VZuL,Liga Profesional,t_2rXlDo,Instituto,p_02x0dj,Damián Puebla,1,,,0,,0,no coinciding Transfermarkt goal
+l_0eg6C9,MLS,t_1rgPN4,Inter Miami CF,p_02zbAC,Mateo Silvetti,5,1213080,Mateo Silvetti,3,,0,best covers 3/5 goals (< 80%)
+l_45VZuL,Liga Profesional,t_3qkV0m,Sarmiento,p_03caFD,Manuel García,1,,,0,,0,no coinciding Transfermarkt goal
+l_2EKrnc,K League 1,t_04Kt4F,Ulsan HD FC,p_03sEx8,Erick Farias,2,535037,Erick Farias,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_0rGDE4,Gimnasia LP,p_042eAN,Marcelo Torres,14,480778,Marcelo Torres,6,,0,best covers 6/14 goals (< 80%)
+l_0eg6C9,MLS,t_0uw6NW,Philadelphia Union,p_04HRMK,Kai Wagner,1,357842,,1,,0,"single goal, minute not identical"
+l_2L6d1F,First Division A,t_3pK6v1,Union St.Gilloise,p_04Ix2E,Adem Zorgane,4,592403,Adem Zorgane,2,,0,best covers 2/4 goals (< 80%)
+l_214sqK,Ekstraklasa,t_3qW64u,Termalica Nieciecza,p_04K2w6,Gabriel Isik,2,573968,Krzysztof Kubica,1,494670,1,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_1QqhS7,San Lorenzo,p_04WuOt,Facundo Gulli,2,,,0,,0,no coinciding Transfermarkt goal
+l_2xBPKk,Super Liga,t_47DAlu,Novi Pazar,p_04galw,Ahmed Hadžimujović,1,,,0,,0,no coinciding Transfermarkt goal
+l_0F4I4F,1. Liga,t_41GCDg,Slavia Prague,p_057n6L,Mubarak Emmanuel Suleiman,2,1457962,Mubarak Suleiman,1,,0,fewer than 2 coinciding goals
+l_38d9HA,Europa League,t_2saIo8,Maccabi Tel Aviv,p_05It0k,Sayed Abu Farkhi,1,1002520,,1,,0,"single goal, names share no token"
+l_2EKrnc,K League 1,t_04Kt4F,Ulsan HD FC,p_05Jsag,Seung-Beom Ko,3,426201,Seung-beom Ko,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_3XuEvf,Argentinos Juniors,p_05b1pn,Matías Giménez,1,,,0,,0,no coinciding Transfermarkt goal
+l_2L6d1F,First Division A,t_0wF6Y2,Westerlo,p_062rXB,Shunsuke Saito,1,,,0,,0,no coinciding Transfermarkt goal
+l_49Zmno,Superligaen,t_4L4qT5,Nordsjælland,p_06HOMS,Levy Nene,5,1267429,Levy Nene,2,,0,best covers 2/5 goals (< 80%)
+l_2ApGa4,J. League,t_37dBko,Kawasaki Frontale,p_06Mq3U,Erison,14,787238,Erison,4,,0,best covers 4/14 goals (< 80%)
+l_3zsMpo,Bundesliga,t_1AVPg7,Austria Wien,p_06NB5w,Dominik Fitz,1,354022,Dominik Fitz,1,,0,"single goal, minute not identical"
+l_3v84VE,Liga MX,t_1xzdYt,Tigres,p_06xtfS,Joaquim,2,860857,Joaquim,2,211072,1,runner-up too close
+l_45VZuL,Liga Profesional,t_0bW0AU,Banfield,p_06z1T4,Rodrigo Auzmendi,8,690727,Rodrigo Auzmendi,3,575999,1,best covers 3/8 goals (< 80%)
+l_45VZuL,Liga Profesional,t_1QqhS7,San Lorenzo,p_06z1T4,Rodrigo Auzmendi,8,690727,Rodrigo Auzmendi,3,575999,1,best covers 3/8 goals (< 80%)
+l_3v84VE,Liga MX,t_16UjNo,Puebla,p_079dRk,Esteban Lozano,3,797702,Esteban Lozano,2,,0,best covers 2/3 goals (< 80%)
+l_3v84VE,Liga MX,t_0cPdCL,Cruz Azul,p_07GSsk,Jesús Orozco,1,,,0,,0,no coinciding Transfermarkt goal
+l_0uqFK8,Eliteserien,t_2YsR0z,Strømsgodset,p_07ICrF,Marcus Mehnert,1,312594,,1,,0,"single goal, names share no token"
+l_3v84VE,Liga MX,t_37z0el,Pachuca,p_07K4zy,Enner Valencia,7,139503,Enner Valencia,2,,0,best covers 2/7 goals (< 80%)
+l_0F4I4F,1. Liga,t_39E1lf,Dukla Praha,p_07x2yY,Kevin-Prince Milla,2,,,0,,0,no coinciding Transfermarkt goal
+l_0kSJLz,Liga I,t_2EfdWl,Unirea Slobozia,p_08EG7Y,Cristian Alexandru Albu,3,372908,Alexandru Albu,2,,0,best covers 2/3 goals (< 80%)
+l_0kSJLz,Liga I,t_1zLfCo,Rapid Bucureşti,p_08nUft,Olimpiu Moruțan,1,,,0,,0,no coinciding Transfermarkt goal
+l_2WZ2tt,Conference League,t_2H7cEh,KF Shkendija,p_08y1aG,Sebastjan Spahiu,1,176423,Jesús Imaz,1,435587,1,single goal with several candidates
+l_2ApGa4,J. League,t_1mrdfo,Nagoya Grampus,p_094KQ4,Yuya Asano,2,,,0,,0,no coinciding Transfermarkt goal
+l_2ApGa4,J. League,t_1E6Pbm,Shimizu S-Pulse,p_09SFPK,Matheus Bueno,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_2Ba0sx,Belgrano,p_09kVaG,Nicolás Fernández,6,333921,Nicolás Fernández,1,,0,fewer than 2 coinciding goals
+l_2xBPKk,Super Liga,t_2rCgAm,Radnički Niš,p_09yQyE,Issah Abass,3,482145,Issah Abass,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_3mLGSt,Newell's Old Boys,p_0A6bdg,Luciano Herrera,2,,,0,,0,no coinciding Transfermarkt goal
+l_2ApGa4,J. League,t_1E6Pbm,Shimizu S-Pulse,p_0AMb3B,Yutaka Yoshida,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_2rXlDo,Instituto,p_0BJh0v,Luca Rafaelli,1,1402952,Luca Rafaelli,1,,0,"single goal, minute not identical"
+l_2ApGa4,J. League,t_25A1QK,JEF United Chiba,p_0BMvei,Zain Issaka,1,,,0,,0,no coinciding Transfermarkt goal
+l_3xwVF2,Super League 1,t_3rpdJh,Olympiacos,p_0BaplM,Yusuf Yazici,2,386726,Yusuf Yazıcı,2,521127,1,runner-up too close
+l_45VZuL,Liga Profesional,t_3TbOfu,Deportivo Riestra,p_0CIjyP,Antony Alonso,4,844800,Antony Alonso,2,,0,best covers 2/4 goals (< 80%)
+l_2ApGa4,J. League,t_1mTqNS,Yokohama F.Marinos,p_0CKivl,Ryotaro Tsunoda,2,662493,Ryotaro Tsunoda,1,375821,1,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_2fx2NT,Fagiano Okayama FC,p_0CQs2b,Werik Popó,3,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_1Fzy5s,River Plate,p_0CUSKe,Santiago Lencina,3,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_3qkV0m,Sarmiento,p_0E6fVC,Juan Manuel Insaurralde,1,,,0,,0,no coinciding Transfermarkt goal
+l_4H43wr,Eredivisie,t_3t08JG,Ajax,p_0EjBjr,Jorthy Mokio,3,1105532,Jorthy Mokio,2,,0,best covers 2/3 goals (< 80%)
+l_49Zmno,Superligaen,t_0rrO78,AGF,p_0F6Kyw,Sebastian Jørgensen,1,,,0,,0,no coinciding Transfermarkt goal
+l_3xwVF2,Super League 1,t_3uzoWx,AE Larissa,p_0FHFJP,Yvann Maçon,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_2Ba0sx,Belgrano,p_0FN6nM,Ramiro Hernandes,2,1273494,Ramiro Hernandes,1,,0,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_2SxYow,Urawa Red Diamonds,p_0FpTN5,Thiago Santana,8,376175,Thiago Santana,1,,0,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_1W837G,V-Varen Nagasaki,p_0FpTN5,Thiago Santana,8,376175,Thiago Santana,1,,0,fewer than 2 coinciding goals
+l_2WZ2tt,Conference League,t_0dvYbV,KuPS,p_0GFEOP,Jaakko Oksanen,1,433893,,1,,0,"single goal, names share no token"
+l_2EKrnc,K League 1,t_40E4Th,Gimcheon Sangmu,p_0GLgC5,Ki-Jong Won,4,556377,Ki-jong Won,2,,0,best covers 2/4 goals (< 80%)
+l_45VZuL,Liga Profesional,t_2RmaMX,Racing Club,p_0GThAu,Matías Zaracho,4,480774,Matías Zaracho,2,,0,best covers 2/4 goals (< 80%)
+l_0ALvwF,Serie A,t_4bV9e3,Pisa,p_0GUnv3,Felipe Loyola,5,843286,Felipe Loyola,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_1XZg6T,Independiente,p_0GUnv3,Felipe Loyola,5,843286,Felipe Loyola,1,,0,fewer than 2 coinciding goals
+l_0kSJLz,Liga I,t_1zLfCo,Rapid Bucureşti,p_0GarT8,Claudiu Petrila,4,623424,Claudiu Petrila,3,,0,best covers 3/4 goals (< 80%)
+l_2ApGa4,J. League,t_2731yf,Machida Zelvia,p_0GhE4r,Tete Yengi,5,849429,Tete Yengi,2,,0,best covers 2/5 goals (< 80%)
+l_1LMdEO,Premiership,t_4EkjWH,Livingston,p_0GhE4r,Tete Yengi,5,849429,Tete Yengi,2,,0,best covers 2/5 goals (< 80%)
+l_0kSJLz,Liga I,t_1Kvoa4,Farul Constanţa,p_0Gy2LO,Victor Robert Dican,2,568540,Victor Dican,1,,0,fewer than 2 coinciding goals
+l_2xBPKk,Super Liga,t_4Kwcr6,Napredak,p_0HTT3J,Miloš Vulić,4,270901,Milos Vulic,2,,0,best covers 2/4 goals (< 80%)
+l_45VZuL,Liga Profesional,t_0SmVI4,Independiente Rivadavia,p_0IAs6W,Leonard Costa,1,800720,Leonard Costa,1,,0,"single goal, minute not identical"
+l_49Zmno,Superligaen,t_3W62M7,Sønderjyske,p_0IFPma,Magnus Jensen,4,448471,Magnus Jensen,2,,0,best covers 2/4 goals (< 80%)
+l_2EKrnc,K League 1,t_40E4Th,Gimcheon Sangmu,p_0IFvBK,Sang-Hyeok Park,7,853118,Sang-hyeok Park,5,,0,best covers 5/7 goals (< 80%)
+l_2EKrnc,K League 1,t_1E0lMj,Gangwon FC,p_0IFvBK,Sang-Hyeok Park,7,853118,Sang-hyeok Park,5,,0,best covers 5/7 goals (< 80%)
+l_0F4I4F,1. Liga,t_39E1lf,Dukla Praha,p_0J7w6S,Dantaye Michael Lee Gilbert,2,1019468,Dantaye Gilbert,1,,0,fewer than 2 coinciding goals
+l_3xwVF2,Super League 1,t_2brRQM,Panserraikos FC,p_0JLKBm,Nikos Karelis,1,,,0,,0,no coinciding Transfermarkt goal
+l_2L6d1F,First Division A,t_3UiOcj,Sporting Charleroi,p_0K6cNy,Jakob Napoleon Romsaas,2,902401,Jakob Napoleon Romsaas,1,,0,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_0LfLJ4,Vissel Kobe,p_0KANs2,Jean Patrick,1,,,0,,0,no coinciding Transfermarkt goal
+l_2L6d1F,First Division A,t_3UiOcj,Sporting Charleroi,p_0KAZs4,Aurélien Scheidler,9,497175,Aurélien Scheidler,7,,0,best covers 7/9 goals (< 80%)
+l_45VZuL,Liga Profesional,t_2RmaMX,Racing Club,p_0KHX0U,Santiago Sosa,1,,,0,,0,no coinciding Transfermarkt goal
+l_3v84VE,Liga MX,t_1xzdYt,Tigres,p_0KP1Pr,Diego Sánchez,4,1094408,Diego Sánchez,2,,0,best covers 2/4 goals (< 80%)
+l_3v84VE,Liga MX,t_09cXNN,Necaxa,p_0KXxjM,Javier Ruiz,7,1160106,Javier Ruiz,5,,0,best covers 5/7 goals (< 80%)
+l_45VZuL,Liga Profesional,t_3FROV0,Barracas Central,p_0KXxjM,Javier Ruiz,7,1160106,Javier Ruiz,5,,0,best covers 5/7 goals (< 80%)
+l_2ApGa4,J. League,t_2731yf,Machida Zelvia,p_0LEFNF,Ryuho Kikuchi,2,639533,Ryuho Kikuchi,2,140311,1,runner-up too close
+l_45VZuL,Liga Profesional,t_2M7cot,Central Córdoba de Santiago,p_0LPXZq,Iván Gómez,1,,,0,,0,no coinciding Transfermarkt goal
+l_3v84VE,Liga MX,t_3aG59l,Chivas,p_0LXUHx,Hugo Camberos,2,955223,Hugo Camberos,2,160700,1,runner-up too close
+l_2ApGa4,J. League,t_1mTqNS,Yokohama F.Marinos,p_0Ld14c,Jun Amano,10,308214,Jun Amano,2,532055,1,best covers 2/10 goals (< 80%)
+l_1D8Xrl,Serie A,t_3npCjp,Cruzeiro,p_0MB8dV,Lucas Daniel Romero,1,242201,Lucas Romero,1,,0,"single goal, minute not identical"
+l_0ALvwF,Serie A,t_0RhqmW,Roma,p_0MNvVq,Devyne Rensch,1,326029,Donyell Malen,1,557407,1,single goal with several candidates
+l_0uqFK8,Eliteserien,t_1XFW8M,Brann,p_0MdBJz,Vetle Dragsnes,2,320046,Vetle Dragsnes,2,340343,1,runner-up too close
+l_2L6d1F,First Division A,t_3UiOcj,Sporting Charleroi,p_0MdBJz,Vetle Dragsnes,2,320046,Vetle Dragsnes,2,340343,1,runner-up too close
+l_2ApGa4,J. League,t_1mTqNS,Yokohama F.Marinos,p_0MeTWh,Tevis,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_2M7cot,Central Córdoba de Santiago,p_0MwF8F,Lucas Besozzi,2,,,0,,0,no coinciding Transfermarkt goal
+l_2WZ2tt,Conference League,t_03vYx2,Shamrock Rovers,p_0NEeC5,Daniel Mandroiu,1,293783,,1,,0,"single goal, names share no token"
+l_3xwVF2,Super League 1,t_48GNlO,Aris Thessaloniki,p_0OScKD,Carles Pérez,1,,,0,,0,no coinciding Transfermarkt goal
+l_2tFk9k,HNL,t_1XmH0P,Hajduk Split,p_0ObQhB,Fran Karačić,1,367795,Fran Karacic,1,,0,"single goal, minute not identical"
+l_0eg6C9,MLS,t_3B5RBi,St. Louis City,p_0PMUCB,Conrad Wallem,1,504189,Conrad Wallem,1,,0,"single goal, minute not identical"
+l_0kSJLz,Liga I,t_0T7psQ,FCSB,p_0Phlmv,Darius Olaru,11,395800,Darius Olaru,8,,0,best covers 8/11 goals (< 80%)
+l_38d9HA,Europa League,t_0T7psQ,FCSB,p_0Phlmv,Darius Olaru,11,395800,Darius Olaru,8,,0,best covers 8/11 goals (< 80%)
+l_0F4I4F,1. Liga,t_39E1lf,Dukla Praha,p_0PpPSI,Dominik Hašek,1,,,0,,0,no coinciding Transfermarkt goal
+l_2EKrnc,K League 1,t_4cae3z,FC Seoul,p_0PxvEg,Marko Dugandzic,1,225961,Marko Dugandzic,1,,0,"single goal, minute not identical"
+l_2ApGa4,J. League,t_1W837G,V-Varen Nagasaki,p_0Q2Loo,Matheus Jesus,6,,,0,,0,no coinciding Transfermarkt goal
+l_0F4I4F,1. Liga,t_39E1lf,Dukla Praha,p_0Q5joi,Michal Černák,1,652059,Michal Cernak,1,,0,"single goal, minute not identical"
+l_2xBPKk,Super Liga,t_2rCgAm,Radnički Niš,p_0Q5l4j,Aleksandr Shestyuk,8,662070,Aleksandr Shestyuk,5,,0,best covers 5/8 goals (< 80%)
+l_3v84VE,Liga MX,t_08l6Cu,Pumas,p_0QKrTJ,Nathan Silva,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_3FROV0,Barracas Central,p_0QeOVx,Rodrigo Insúa,6,721235,Rodrigo Insúa,3,281405,1,best covers 3/6 goals (< 80%)
+l_2ApGa4,J. League,t_3lBlnh,Kyoto Sanga FC,p_0Qp0us,Kyo Sato,1,,,0,,0,no coinciding Transfermarkt goal
+l_214sqK,Ekstraklasa,t_406F4a,Widzew Łódź,p_0R5s3M,Steve Kapuadi,1,679709,Steve Kapuadi,1,,0,"single goal, minute not identical"
+l_1D8Xrl,Serie A,t_20rgU2,Ceará,p_0RFbQO,Fernando Sobral,1,350342,Fernando Sobral,1,,0,"single goal, minute not identical"
+l_3v84VE,Liga MX,t_3aG59l,Chivas,p_0RHwAc,Omar Govea,2,,,0,,0,no coinciding Transfermarkt goal
+l_3v84VE,Liga MX,t_1xzdYt,Tigres,p_0RPtCH,Nicolás Ibánez,6,267753,Nicolás Ibáñez,2,,0,best covers 2/6 goals (< 80%)
+l_3v84VE,Liga MX,t_0cPdCL,Cruz Azul,p_0RPtCH,Nicolás Ibánez,6,267753,Nicolás Ibáñez,2,,0,best covers 2/6 goals (< 80%)
+l_2ApGa4,J. League,t_49j3Z1,Kashiwa Reysol,p_0RQfZT,Nobuteru Nakagawa,5,1277230,Nobuteru Nakagawa,3,101253,1,best covers 3/5 goals (< 80%)
+l_45VZuL,Liga Profesional,t_0otcXZ,Boca Juniors,p_0RThr5,Ángel Romero,1,,,0,,0,no coinciding Transfermarkt goal
+l_49Zmno,Superligaen,t_2y8zLm,Fredericia,p_0RnOx5,Sofus Johannesen,6,1017247,Sofus Johannesen,3,,0,best covers 3/6 goals (< 80%)
+l_2xBPKk,Super Liga,t_42j5I4,IMT,p_0SJsCW,Farid Boulaya,2,202318,Farid Boulaya,1,,0,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_1W837G,V-Varen Nagasaki,p_0SKoCI,Hotaru Yamaguchi,1,,,0,,0,no coinciding Transfermarkt goal
+l_49Zmno,Superligaen,t_0rrO78,AGF,p_0SLE3l,Patrick Mortensen,9,69511,Patrick Mortensen,7,,0,best covers 7/9 goals (< 80%)
+l_45VZuL,Liga Profesional,t_2rXlDo,Instituto,p_0SXASP,Stéfano Moreyra,1,,,0,,0,no coinciding Transfermarkt goal
+l_0F4I4F,1. Liga,t_41GCDg,Slavia Prague,p_0SZVwB,Samuel Isife,1,,,0,,0,no coinciding Transfermarkt goal
+l_3v84VE,Liga MX,t_06pffY,Atlas,p_0SlL3K,Adrián Mora,2,,,0,,0,no coinciding Transfermarkt goal
+l_0eg6C9,MLS,t_2fvzmL,Austin FC,p_0SpUAb,Diego Rubio,1,179308,Diego Rubio,1,,0,"single goal, minute not identical"
+l_2EKrnc,K League 1,t_46FQj1,Daejeon Hana Citizen,p_0SsafM,Kang-Hyun Yoo,3,420641,Kang-hyun Yu,2,,0,best covers 2/3 goals (< 80%)
+l_0kSJLz,Liga I,t_1UKod6,Metaloglobus,p_0T9NWk,Yassine Zakir,8,341987,Yassine Zakir,5,,0,best covers 5/8 goals (< 80%)
+l_0F4I4F,1. Liga,t_41GCDg,Slavia Prague,p_0THabP,Dan Kohout,1,,,0,,0,no coinciding Transfermarkt goal
+l_0F4I4F,1. Liga,t_1OB46o,Teplice,p_0TPH8c,Matěj Náprstek,1,,,0,,0,no coinciding Transfermarkt goal
+l_2WZ2tt,Conference League,t_28up0p,Zrinjski Mostar,p_0Tkll9,Vitalie Damaşcan,1,354136,Vitalie Damascan,1,148215,1,single goal with several candidates
+l_0uqFK8,Eliteserien,t_2YsR0z,Strømsgodset,p_0TpEzq,James Ampofo,1,136185,,1,,0,"single goal, names share no token"
+l_49Zmno,Superligaen,t_0rrO78,AGF,p_0UHuGQ,Frederik Tingager,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_1HsET8,Estudiantes,p_0UPCHl,Fabricio Pérez,4,1298374,Fabricio Pérez,3,,0,best covers 3/4 goals (< 80%)
+l_3v84VE,Liga MX,t_4co6t5,CF América,p_0V9THz,Rodrigo Aguirre,5,599732,Kevin Castañeda,1,189410,1,fewer than 2 coinciding goals
+l_3v84VE,Liga MX,t_1xzdYt,Tigres,p_0V9THz,Rodrigo Aguirre,5,599732,Kevin Castañeda,1,189410,1,fewer than 2 coinciding goals
+l_0eg6C9,MLS,t_09gmAn,Chicago Fire FC,p_0Ve3FQ,Rominigue Kouamé,1,277635,Rominigue Kouamé,1,,0,"single goal, minute not identical"
+l_2EKrnc,K League 1,t_0fQ6zG,Daegu FC,p_0Vsj9i,Seong-Won Jang,1,606411,Sung-won Jang,1,,0,"single goal, minute not identical"
+l_4d6Bwl,Super League,t_2tidjE,Lausanne,p_0VuhYj,Nicky Beloko,1,,,0,,0,no coinciding Transfermarkt goal
+l_1XLtP0,World Cup,t_11chjf,Egypt,p_0VxzGp,Emam Ashour,2,604008,Emam Ashour,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_3TbOfu,Deportivo Riestra,p_0W32WZ,Milton Céliz,2,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_1QqhS7,San Lorenzo,p_0Wi4L8,Alexis Cuello,9,636783,Alexis Cuello,4,697056,1,best covers 4/9 goals (< 80%)
+l_0bfbkO,Champions League,t_1Bgyrl,Qarabag FK,p_0WwlNs,Emmanuel Addai,1,944367,,1,,0,"single goal, minute not identical"
+l_3xwVF2,Super League 1,t_3uzoWx,AE Larissa,p_0WxaPN,Leandro Garate,4,300308,Leandro Garate,3,,0,best covers 3/4 goals (< 80%)
+l_0eg6C9,MLS,t_0uw6NW,Philadelphia Union,p_0XACMp,Olwethu Makhanya,1,1069801,Olwethu Makhanya,1,,0,"single goal, minute not identical"
+l_2L6d1F,First Division A,t_3rAYPk,OH Leuven,p_0XAOE2,Christ Souanga,1,,,0,,0,no coinciding Transfermarkt goal
+l_3v84VE,Liga MX,t_33VE4n,Toluca,p_0XE7RC,Franco Rossi,1,803608,Carlos Sánchez,1,1118587,1,single goal with several candidates
+l_4QexZg,Liga Portugal,t_0t0HHy,Moreirense,p_0XQ2sG,Bernardo Martins,2,450790,Benny,1,,0,fewer than 2 coinciding goals
+l_3xwVF2,Super League 1,t_1uUsje,Kifisia FC,p_0XQ2sG,Bernardo Martins,2,450790,Benny,1,,0,fewer than 2 coinciding goals
+l_3zsMpo,Bundesliga,t_3A58ap,Rapid Wien,p_0XQmb3,Romeo Amané,1,,,0,,0,no coinciding Transfermarkt goal
+l_2L6d1F,First Division A,t_3rAYPk,OH Leuven,p_0XRf1K,Siebe Schrijvers,3,208552,Siebe Schrijvers,2,,0,best covers 2/3 goals (< 80%)
+l_2xBPKk,Super Liga,t_25ex0s,Partizan Beograd,p_0XXfOz,Vukašin Đurđević,3,698537,Vukasin Djurdjevic,2,,0,best covers 2/3 goals (< 80%)
+l_3xwVF2,Super League 1,t_3ImeRW,Panathinaikos,p_0XaxPo,Adam Gnezda Čerin,2,401394,Adam Gnezda Cerin,1,,0,fewer than 2 coinciding goals
+l_2WZ2tt,Conference League,t_2yHOns,Slovan Bratislava,p_0XorwA,Nino Marcelli,1,726661,,1,,0,"single goal, names share no token"
+l_45VZuL,Liga Profesional,t_1QqhS7,San Lorenzo,p_0Y0fFm,Elías Báez,1,,,0,,0,no coinciding Transfermarkt goal
+l_0kSJLz,Liga I,t_2EfdWl,Unirea Slobozia,p_0YJrmz,Renato Espinosa Torres,9,483715,Renato Espinosa,6,,0,best covers 6/9 goals (< 80%)
+l_45VZuL,Liga Profesional,t_0rsFNq,Lanús,p_0YK7Rt,Sasha Marcich,2,867621,Sasha Marcich,1,,0,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_25A1QK,JEF United Chiba,p_0YRKnv,Takumi Tsukui,2,,,0,,0,no coinciding Transfermarkt goal
+l_2ApGa4,J. League,t_0LfLJ4,Vissel Kobe,p_0YWscz,Katsuya Nagato,3,,,0,,0,no coinciding Transfermarkt goal
+l_2xBPKk,Super Liga,t_4W9DaV,FK Crvena Zvezda,p_0Ygnx7,Mahmudu Bajo,1,,,0,,0,no coinciding Transfermarkt goal
+l_2xBPKk,Super Liga,t_25ex0s,Partizan Beograd,p_0YlUbw,Vanja Dragojević,4,944289,Vanja Dragojevic,3,,0,best covers 3/4 goals (< 80%)
+l_49Zmno,Superligaen,t_3rFzZU,Silkeborg,p_0YxnMm,Tonni Adamsen,14,599215,Tonni Adamsen,8,,0,best covers 8/14 goals (< 80%)
+l_45VZuL,Liga Profesional,t_2RmaMX,Racing Club,p_0YyuFZ,Nazareno Colombo,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_1DVMAZ,Defensa y Justicia,p_0ZM9a1,Abiel Osorio,4,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_0oa5Fc,Unión,p_0ZgxsX,Lucas Menossi,1,225481,Lucas Menossi,1,,0,"single goal, minute not identical"
+l_45VZuL,Liga Profesional,t_0bW0AU,Banfield,p_0Zmsp3,Mauro Méndez,9,675468,Mauro Méndez,6,,0,best covers 6/9 goals (< 80%)
+l_2EKrnc,K League 1,t_04Kt4F,Ulsan HD FC,p_0ZxYF5,Chung-Yong Lee,3,81801,Chung-yong Lee,2,,0,best covers 2/3 goals (< 80%)
+l_2EKrnc,K League 1,t_3taLki,Incheon United,p_0ZxYF5,Chung-Yong Lee,3,81801,Chung-yong Lee,2,,0,best covers 2/3 goals (< 80%)
+l_2L6d1F,First Division A,t_0wF6Y2,Westerlo,p_0a8TlD,Afonso Patrão,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_1dhmUh,Estudiantes de Río Cuarto,p_0aF5io,Facundo Cobos,1,440146,Facundo Cobos,1,732442,1,single goal with several candidates
+l_2L6d1F,First Division A,t_3pK6v1,Union St.Gilloise,p_0aQ4Xt,Guilherme Smith,4,949337,Guilherme Smith,2,,0,best covers 2/4 goals (< 80%)
+l_49Zmno,Superligaen,t_4eCFHQ,FC København,p_0aR2mU,Mads Madsen,3,422950,Mads Emil Madsen,1,,0,fewer than 2 coinciding goals
+l_3FJFUl,Ligue 1,t_3t6spd,Toulouse,p_0aRUSA,Jacen Russell-Rowe,3,683625,Jacen Russell-Rowe,1,,0,fewer than 2 coinciding goals
+l_0eg6C9,MLS,t_1avIKi,Columbus Crew,p_0aRUSA,Jacen Russell-Rowe,3,683625,Jacen Russell-Rowe,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_1HsET8,Estudiantes,p_0aRZS2,Santiago Arzamendia,1,,,0,,0,no coinciding Transfermarkt goal
+l_2ApGa4,J. League,t_2hE7e4,Albirex Niigata,p_0aYtOe,Motoki Hasegawa,2,685036,Motoki Hasegawa,1,,0,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_1W837G,V-Varen Nagasaki,p_0aYtOe,Motoki Hasegawa,2,685036,Motoki Hasegawa,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_2rXlDo,Instituto,p_0afatN,Gastón Lodico,2,,,0,,0,no coinciding Transfermarkt goal
+l_2ApGa4,J. League,t_2fx2NT,Fagiano Okayama FC,p_0as32u,Kosuke Shirai,2,,,0,,0,no coinciding Transfermarkt goal
+l_0eg6C9,MLS,t_3N3Xe0,Orlando City,p_0as9NG,Ignacio Gómez,1,1291036,,1,,0,"single goal, minute not identical"
+l_1D8Xrl,Serie A,t_2YvfeX,Sport Recife,p_0bHRaz,Igor Cariús,1,520480,Igor Cariús,1,,0,"single goal, minute not identical"
+l_0F4I4F,1. Liga,t_33z5hz,Jablonec,p_0bYY34,Nemanja Tekijaški,4,562284,Nemanja Tekijaski,3,,0,best covers 3/4 goals (< 80%)
+l_0eg6C9,MLS,t_3BC5BT,DC United,p_0bdxj0,Jacob Murrell,1,1214848,Jacob Murrell,1,,0,"single goal, minute not identical"
+l_3v84VE,Liga MX,t_06pffY,Atlas,p_0bdzov,Uroš Djurdjevic,12,190804,Uros Djurdjevic,5,,0,best covers 5/12 goals (< 80%)
+l_3v84VE,Liga MX,t_1wrUAV,Monterrey,p_0bdzov,Uroš Djurdjevic,12,190804,Uros Djurdjevic,5,,0,best covers 5/12 goals (< 80%)
+l_45VZuL,Liga Profesional,t_3qkV0m,Sarmiento,p_0cTrXS,Gastón González,1,,,0,,0,no coinciding Transfermarkt goal
+l_38d9HA,Europa League,t_4RqKpo,Aston Villa,p_0cU8bR,Leon Bailey,1,387626,Leon Bailey,1,,0,"single goal, minute not identical"
+l_0F4I4F,1. Liga,t_3bqJOI,Bohemians 1905,p_0caxBf,Jan Matoušek,3,400653,Jan Matousek,2,,0,best covers 2/3 goals (< 80%)
+l_45VZuL,Liga Profesional,t_2M7cot,Central Córdoba de Santiago,p_0ciPTe,Diego Barrera,5,1103406,Diego Barrera,3,,0,best covers 3/5 goals (< 80%)
+l_2xBPKk,Super Liga,t_47DAlu,Novi Pazar,p_0d2vLd,Dauda Johnson Agwom,1,,,0,,0,no coinciding Transfermarkt goal
+l_2WZ2tt,Conference League,t_28up0p,Zrinjski Mostar,p_0dHtk1,Nemanja Bilbija,2,109212,,2,539043,1,runner-up too close
+l_1D8Xrl,Serie A,t_4NUcOH,Juventude,p_0dukW6,Ewerton,1,676034,Ewerthon,1,,0,"single goal, names share no token"
+l_3xwVF2,Super League 1,t_3rpdJh,Olympiacos,p_0dvzWo,Dani García,1,178425,Dani García,1,,0,"single goal, minute not identical"
+l_45VZuL,Liga Profesional,t_02LuKO,Talleres,p_0euqp6,Federico Girotti,1,,,0,,0,no coinciding Transfermarkt goal
+l_2xBPKk,Super Liga,t_3x2u7P,Radnik Surdulica,p_0eySNX,Martin Novaković,7,574659,Martin Novakovic,5,,0,best covers 5/7 goals (< 80%)
+l_2ApGa4,J. League,t_1mTqNS,Yokohama F.Marinos,p_0f1l2c,Taisei Inoue,2,,,0,,0,no coinciding Transfermarkt goal
+l_2xBPKk,Super Liga,t_39pqEa,Radnički 1923,p_0f3qYR,Alfa Baldé,1,,,0,,0,no coinciding Transfermarkt goal
+l_0F4I4F,1. Liga,t_3syz3e,Hradec Králové,p_0f4Mkf,Martin Suchomel,3,707327,Martin Suchomel,2,,0,best covers 2/3 goals (< 80%)
+l_2WZ2tt,Conference League,t_19pSyq,Sparta Prague,p_0f4Mkf,Martin Suchomel,3,707327,Martin Suchomel,2,,0,best covers 2/3 goals (< 80%)
+l_2ApGa4,J. League,t_01uUy2,Mito Hollyhock,p_0fArGh,Danilo,1,,,0,,0,no coinciding Transfermarkt goal
+l_0Lpz1f,Saudi Pro League,t_2OHCH1,Al Akhdoud,p_0fxD4N,Koray Günter,1,115763,Koray Günter,1,,0,"single goal, minute not identical"
+l_3v84VE,Liga MX,t_08l6Cu,Pumas,p_0gQhGP,Rodrigo López,1,,,0,,0,no coinciding Transfermarkt goal
+l_0F4I4F,1. Liga,t_10bdCj,Karviná,p_0gViWP,Jan Fiala,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_3XuEvf,Argentinos Juniors,p_0gjjEz,Lautaro Giaccone,1,,,0,,0,no coinciding Transfermarkt goal
+l_3v84VE,Liga MX,t_08l6Cu,Pumas,p_0gqBiU,Uriel Antuna,3,355998,Uriel Antuna,2,,0,best covers 2/3 goals (< 80%)
+l_3v84VE,Liga MX,t_3aG59l,Chivas,p_0gxERQ,José Castillo Pérez,1,833115,Franco Romero,1,811373,1,single goal with several candidates
+l_45VZuL,Liga Profesional,t_3mLGSt,Newell's Old Boys,p_0hLVOV,Franco Garcia,1,997424,Franco García,1,,0,"single goal, minute not identical"
+l_2ApGa4,J. League,t_2fx2NT,Fagiano Okayama FC,p_0hgiQw,Takaya Kimura,5,843876,Takaya Kimura,1,,0,fewer than 2 coinciding goals
+l_49Zmno,Superligaen,t_3rFzZU,Silkeborg,p_0hpIps,Julius Nielsen,1,,,0,,0,no coinciding Transfermarkt goal
+l_3xwVF2,Super League 1,t_0rCy1r,Panetolikos,p_0hrXms,Jorge Aguirre,4,629385,Jorge Aguirre,3,,0,best covers 3/4 goals (< 80%)
+l_3v84VE,Liga MX,t_0NY6cC,Atlético de San Luis,p_0hsWjg,Juan Sanabria,2,446106,Juan Manuel Sanabria,1,,0,fewer than 2 coinciding goals
+l_0F4I4F,1. Liga,t_1OB46o,Teplice,p_0huM8n,Jan Fortelný,1,,,0,,0,no coinciding Transfermarkt goal
+l_49Zmno,Superligaen,t_0rrO78,AGF,p_0i7ZvB,Frederik Emmery,3,1004062,Frederik Emmery,2,,0,best covers 2/3 goals (< 80%)
+l_3v84VE,Liga MX,t_3aG59l,Chivas,p_0iUtZ4,Javier Hernández,1,,,0,,0,no coinciding Transfermarkt goal
+l_3v84VE,Liga MX,t_3Aj84E,León,p_0ie0sT,José Alvarado,2,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_2qXAzu,Huracán,p_0iuC7I,Leonardo Gil,2,,,0,,0,no coinciding Transfermarkt goal
+l_1Isor4,Bundesliga,t_3pp390,Mainz 05,p_0iwykL,Kaishu Sano,3,643574,Kaishu Sano,2,,0,best covers 2/3 goals (< 80%)
+l_2WZ2tt,Conference League,t_3pp390,Mainz 05,p_0iwykL,Kaishu Sano,3,643574,Kaishu Sano,2,,0,best covers 2/3 goals (< 80%)
+l_1XLtP0,World Cup,t_1I9yHx,Japan,p_0iwykL,Kaishu Sano,3,643574,Kaishu Sano,2,,0,best covers 2/3 goals (< 80%)
+l_3v84VE,Liga MX,t_33VE4n,Toluca,p_0jAwF7,Franco Romero,1,833115,Franco Romero,1,811373,1,single goal with several candidates
+l_45VZuL,Liga Profesional,t_0rsFNq,Lanús,p_0jBQTV,Walter Bou,5,334233,Walter Bou,2,,0,best covers 2/5 goals (< 80%)
+l_1D8Xrl,Serie A,t_3npCjp,Cruzeiro,p_0jK9Kz,Lucas Villalba,1,240913,Lucas Villalba,1,,0,"single goal, minute not identical"
+l_4QexZg,Liga Portugal,t_0Mzm1V,Benfica,p_0jORIR,Alexander Bah,2,452607,Alexander Bah,2,238055,1,runner-up too close
+l_4QexZg,Liga Portugal,t_1gBcAQ,Tondela,p_0jY8YX,Sphephelo Sithole,1,401736,Yaya Sithole,1,,0,"single goal, minute not identical"
+l_1LMdEO,Premiership,t_2UPrdj,Heart of Midlothian,p_0kXzjI,Cameron Devlin,2,399162,Cammy Devlin,1,,0,fewer than 2 coinciding goals
+l_38d9HA,Europa League,t_35Zfsh,Ludogorets Razgrad,p_0kl5MR,Eric Bille,1,1096637,,1,,0,"single goal, names share no token"
+l_45VZuL,Liga Profesional,t_3qkV0m,Sarmiento,p_0kthqn,Carlos Villalba,3,652968,Carlos Villalba,1,,0,fewer than 2 coinciding goals
+l_3v84VE,Liga MX,t_3Wm9EG,Mazatlan FC,p_0l1qH0,Roberto Meráz,1,,,0,,0,no coinciding Transfermarkt goal
+l_0eg6C9,MLS,t_0DiXbX,Seattle Sounders FC,p_0l5gI5,Georgi Minoungou,1,996140,Georgi Minoungou,1,,0,"single goal, minute not identical"
+l_4WFCIZ,Premier League,t_2xPV6y,Sunderland,p_0lgYNJ,Granit Xhaka,2,111455,Granit Xhaka,2,927353,1,runner-up too close
+l_1XLtP0,World Cup,t_1sdYCl,Switzerland,p_0lgYNJ,Granit Xhaka,2,111455,Granit Xhaka,2,927353,1,runner-up too close
+l_45VZuL,Liga Profesional,t_0oa5Fc,Unión,p_0m4kQE,Mauricio Martínez,3,,,0,,0,no coinciding Transfermarkt goal
+l_2ApGa4,J. League,t_2u1BXQ,Avispa Fukuoka,p_0mCzpG,Daiki Matsuoka,1,576449,,1,,0,"single goal, names share no token"
+l_1D8Xrl,Serie A,t_3K8ET0,Atlético-MG,p_0mEncp,Júnior Alonso,1,273000,Júnior Alonso,1,,0,"single goal, minute not identical"
+l_2xBPKk,Super Liga,t_1YGq6m,Javor,p_0mJzIf,Aleksa Radonjić,6,1105904,Aleksa Radonjic,3,,0,best covers 3/6 goals (< 80%)
+l_45VZuL,Liga Profesional,t_1HsET8,Estudiantes,p_0mUgM6,Joaquín Tobio Burgos,1,,,0,,0,no coinciding Transfermarkt goal
+l_2xBPKk,Super Liga,t_49UIKT,Mladost Lučani,p_0nAw7k,Janko Tumbasević,1,,,0,,0,no coinciding Transfermarkt goal
+l_2WZ2tt,Conference League,t_30PMPP,Drita,p_0nPzmH,Liridon Balaj,1,542470,,1,,0,"single goal, names share no token"
+l_4WFCIZ,Premier League,t_4A7FfD,Tottenham Hotspur,p_0nWmNM,Pedro Porro,3,553875,Pedro Porro,2,,0,best covers 2/3 goals (< 80%)
+l_0bfbkO,Champions League,t_4A7FfD,Tottenham Hotspur,p_0nWmNM,Pedro Porro,3,553875,Pedro Porro,2,,0,best covers 2/3 goals (< 80%)
+l_1XLtP0,World Cup,t_486gYN,Spain,p_0nWmNM,Pedro Porro,3,553875,Pedro Porro,2,,0,best covers 2/3 goals (< 80%)
+l_45VZuL,Liga Profesional,t_1rEb7t,Rosario Central,p_0oAo40,Giovanni Cantizano,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_3XuEvf,Argentinos Juniors,p_0oDcvI,Alan Lescano,7,991134,Alan Lescano,2,,0,best covers 2/7 goals (< 80%)
+l_45VZuL,Liga Profesional,t_1DVMAZ,Defensa y Justicia,p_0pUbCv,César Pérez,2,,,0,,0,no coinciding Transfermarkt goal
+l_2WZ2tt,Conference League,t_0dvYbV,KuPS,p_0pjrSU,Clinton Antwi,1,432758,Toni Fruk,1,587302,1,single goal with several candidates
+l_1D8Xrl,Serie A,t_1QWIMY,Vasco da Gama,p_0pk0v1,Paulo Henrique,1,412594,Paulo Henrique,1,,0,"single goal, minute not identical"
+l_45VZuL,Liga Profesional,t_3XuEvf,Argentinos Juniors,p_0pvncd,Francisco Álvarez,2,565766,Francisco Álvarez,1,,0,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_1mrdfo,Nagoya Grampus,p_0qUOoP,Sho Inagaki,6,290660,Sho Inagaki,3,,0,best covers 3/6 goals (< 80%)
+l_0eg6C9,MLS,t_1rgPN4,Inter Miami CF,p_0qhMY4,Tadeo Allende,14,872184,Tadeo Allende,5,,0,best covers 5/14 goals (< 80%)
+l_1D8Xrl,Serie A,t_0BNCm8,Corinthians,p_0r5prv,Tchoca,1,1005650,Tchoca,1,,0,"single goal, minute not identical"
+l_1D8Xrl,Serie A,t_3fooXn,Internacional,p_0rHI14,Thiago Maia,1,294873,Thiago Maia,1,,0,"single goal, minute not identical"
+l_45VZuL,Liga Profesional,t_1XZg6T,Independiente,p_0sEghq,Nicolas Freire,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_0rGDE4,Gimnasia LP,p_0sOPFt,Gaston Suso,1,,,0,,0,no coinciding Transfermarkt goal
+l_3xwVF2,Super League 1,t_3uzoWx,AE Larissa,p_0sPL9x,Ángelo Sagal,6,190941,Ángelo Sagal,4,,0,best covers 4/6 goals (< 80%)
+l_0kSJLz,Liga I,t_2xzRUe,Petrolul 52,p_0sUztk,Adi Marian Chică-Roșă,4,736722,Adi Chică-Roșă,3,,0,best covers 3/4 goals (< 80%)
+l_45VZuL,Liga Profesional,t_1dhmUh,Estudiantes de Río Cuarto,p_0sVAfb,Martín Garnerone,1,1123309,Nicolás Barros Schelotto,1,724219,1,single goal with several candidates
+l_2L6d1F,First Division A,t_1mTmMO,Club Brugge,p_0sopAH,Aleksandar Stanković,8,780136,Aleksandar Stanković,6,,0,best covers 6/8 goals (< 80%)
+l_0bfbkO,Champions League,t_1mTmMO,Club Brugge,p_0sopAH,Aleksandar Stanković,8,780136,Aleksandar Stanković,6,,0,best covers 6/8 goals (< 80%)
+l_2xBPKk,Super Liga,t_3cFDTA,TSC Bačka Topola,p_0syrQm,Bogdan Petrović,5,988419,Bogdan Petrovic,2,,0,best covers 2/5 goals (< 80%)
+l_45VZuL,Liga Profesional,t_2rXlDo,Instituto,p_0t17ZI,Alex Luna,8,843126,Alex Luna,5,,0,best covers 5/8 goals (< 80%)
+l_3xwVF2,Super League 1,t_2LBMDR,PAOK Thessaloniki,p_0t3zIQ,Magomed Ozdoev,8,137206,Magomed Ozdoev,6,,0,best covers 6/8 goals (< 80%)
+l_2ApGa4,J. League,t_2fx2NT,Fagiano Okayama FC,p_0tBXjv,Yoshitake Suzuki,1,,,0,,0,no coinciding Transfermarkt goal
+l_3zsMpo,Bundesliga,t_1AVPg7,Austria Wien,p_0tFfFK,Manfred Fischer,4,269093,Manfred Fischer,3,,0,best covers 3/4 goals (< 80%)
+l_2ApGa4,J. League,t_2fx2NT,Fagiano Okayama FC,p_0tZvSm,Ataru Esaka,7,356145,Ataru Esaka,3,,0,best covers 3/7 goals (< 80%)
+l_3xwVF2,Super League 1,t_48GNlO,Aris Thessaloniki,p_0uKWOl,Tino Kadewere,3,,,0,,0,no coinciding Transfermarkt goal
+l_0F4I4F,1. Liga,t_11JbPq,Slovácko,p_0uqJLv,Paul Chiemela Ndubuisi,1,1240471,Paul Ndubuisi,1,,0,"single goal, minute not identical"
+l_2WZ2tt,Conference League,t_03vYx2,Shamrock Rovers,p_0v81ep,John McGovern,1,713240,,1,,0,"single goal, names share no token"
+l_1D8Xrl,Serie A,t_22aCVC,RB Bragantino,p_0vFtGL,Pedro Henrique,1,,,0,,0,no coinciding Transfermarkt goal
+l_3zsMpo,Bundesliga,t_1ta56l,LASK,p_0va92y,Alemão,1,1005651,João Tornich,1,,0,"single goal, names share no token"
+l_45VZuL,Liga Profesional,t_1DVMAZ,Defensa y Justicia,p_0veUmD,Lucas González,1,,,0,,0,no coinciding Transfermarkt goal
+l_2ApGa4,J. League,t_2731yf,Machida Zelvia,p_0vtE0Y,Kotaro Hayashi,2,1035012,Kotaro Hayashi,1,,0,fewer than 2 coinciding goals
+l_3xwVF2,Super League 1,t_27hFVh,Atromitos,p_0wIJr3,Mansur,3,211345,Mansur,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_2RmaMX,Racing Club,p_0wOnZY,Luciano Dario Vietto,3,214316,Luciano Vietto,2,,0,best covers 2/3 goals (< 80%)
+l_45VZuL,Liga Profesional,t_1QqhS7,San Lorenzo,p_0wOnZY,Luciano Dario Vietto,3,214316,Luciano Vietto,2,,0,best covers 2/3 goals (< 80%)
+l_3xwVF2,Super League 1,t_0rCy1r,Panetolikos,p_0wQkUi,Farley Rosa,3,197622,Farley Rosa,2,,0,best covers 2/3 goals (< 80%)
+l_4d6Bwl,Super League,t_2tidjE,Lausanne,p_0x5JYO,Sékou Fofana,3,668941,Sékou Fofana,2,,0,best covers 2/3 goals (< 80%)
+l_2EKrnc,K League 1,t_04Kt4F,Ulsan HD FC,p_0xaclM,Yool Heo,3,677470,Yool Heo,2,558086,1,best covers 2/3 goals (< 80%)
+l_45VZuL,Liga Profesional,t_0rGDE4,Gimnasia LP,p_0xdX07,Bautista Barros Schelotto,1,480778,Marcelo Torres,1,,0,"single goal, names share no token"
+l_0kSJLz,Liga I,t_1gO4GP,Argeș,p_0xfmAn,Adel Bettaieb,11,610484,Adel Bettaieb,7,603327,1,best covers 7/11 goals (< 80%)
+l_2ApGa4,J. League,t_2731yf,Machida Zelvia,p_0xhoy4,Sang-Ho Na,5,508381,Sang-ho Na,1,,0,fewer than 2 coinciding goals
+l_3v84VE,Liga MX,t_33VE4n,Toluca,p_0xpuI6,Jesús Angulo,7,411709,Jesús Angulo,2,388266,1,best covers 2/7 goals (< 80%)
+l_2ApGa4,J. League,t_1mTqNS,Yokohama F.Marinos,p_0xtEwu,Dean David,3,314129,Dean David,1,,0,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_25A1QK,JEF United Chiba,p_0ySSOG,Ryota Kuboniwa,1,,,0,,0,no coinciding Transfermarkt goal
+l_49Zmno,Superligaen,t_4eCFHQ,FC København,p_0yZHEb,Andreas Cornelius,3,203412,Andreas Cornelius,1,930571,1,fewer than 2 coinciding goals
+l_0bfbkO,Champions League,t_4eCFHQ,FC København,p_0yZHEb,Andreas Cornelius,3,203412,Andreas Cornelius,1,930571,1,fewer than 2 coinciding goals
+l_2xBPKk,Super Liga,t_2gwv05,Železničar Pančevo,p_0ydsOm,Stefan Pirgić,4,845857,Stefan Pirgic,2,,0,best covers 2/4 goals (< 80%)
+l_2L6d1F,First Division A,t_3UiOcj,Sporting Charleroi,p_0yeWwP,Kévin Van Den Kerkhof,3,400680,Kevin Van Den Kerkhof,2,,0,best covers 2/3 goals (< 80%)
+l_3xwVF2,Super League 1,t_2DRkpy,Asteras Tripolis,p_0yiR4V,Julián Bartolo,12,610570,Julián Bartolo,8,,0,best covers 8/12 goals (< 80%)
+l_0eg6C9,MLS,t_3BC5BT,DC United,p_0z2VUD,Jared Stroud,1,573442,Jared Stroud,1,,0,"single goal, minute not identical"
+l_45VZuL,Liga Profesional,t_3UNtKx,San Martin San Juan,p_0z4GZ9,Tomas Lecanda,1,,,0,,0,no coinciding Transfermarkt goal
+l_2EKrnc,K League 1,t_4cae3z,FC Seoul,p_0z7skS,Hrvoje Babec,3,403723,Hrvoje Babec,2,,0,best covers 2/3 goals (< 80%)
+l_2tFk9k,HNL,t_0tQnN0,Osijek,p_0z7skS,Hrvoje Babec,3,403723,Hrvoje Babec,2,,0,best covers 2/3 goals (< 80%)
+l_3v84VE,Liga MX,t_33VE4n,Toluca,p_0zO2Da,Alexis Vega,4,,,0,,0,no coinciding Transfermarkt goal
+l_49Zmno,Superligaen,t_4eVDVk,Viborg,p_10VVHs,Dorian Hanza,3,869952,Dorian Hanza,1,,0,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_1mTqNS,Yokohama F.Marinos,p_10cCqF,Asahi Uenaka,5,702798,Asahi Uenaka,3,240578,1,best covers 3/5 goals (< 80%)
+l_45VZuL,Liga Profesional,t_1HsET8,Estudiantes,p_10iCWI,Leandro González Pírez,3,113130,Leandro González Pírez,1,,0,fewer than 2 coinciding goals
+l_0F4I4F,1. Liga,t_46tRLy,Pardubice,p_119w06,Simon Bammens,1,,,0,,0,no coinciding Transfermarkt goal
+l_2xBPKk,Super Liga,t_2gwv05,Železničar Pančevo,p_11kRHa,Nikola Jovanovic,5,729880,Nikola Jovanovic,3,,0,best covers 3/5 goals (< 80%)
+l_2ApGa4,J. League,t_2fx2NT,Fagiano Okayama FC,p_11zhGO,Masaya Matsumoto,3,188908,Masaya Matsumoto,1,,0,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_2fx2NT,Fagiano Okayama FC,p_12C5cD,Lucão,4,490840,Lucão,2,,0,best covers 2/4 goals (< 80%)
+l_2L6d1F,First Division A,t_1mTmMO,Club Brugge,p_12c9ff,Kyriani Sabbe,3,743122,Kyriani Sabbe,2,,0,best covers 2/3 goals (< 80%)
+l_45VZuL,Liga Profesional,t_1DVMAZ,Defensa y Justicia,p_12iPLJ,Rafael Delgado,2,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_0otcXZ,Boca Juniors,p_12lRQi,Ayrton Costa,3,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_2RmaMX,Racing Club,p_12npfJ,Gabriel Rojas,1,732442,Agustín Auzmendi,1,471639,1,single goal with several candidates
+l_45VZuL,Liga Profesional,t_2qXAzu,Huracán,p_12oUPV,Hugo Nervo,2,107503,Hugo Nervo,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_3TbOfu,Deportivo Riestra,p_12pouK,Nicolás Benegas,3,438926,Nicolás Benegas,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_1rEb7t,Rosario Central,p_13PyWD,Enzo Giménez,2,569088,Enzo Giménez,1,,0,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_25A1QK,JEF United Chiba,p_13ldvZ,Rikuto Ishio,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_2qXAzu,Huracán,p_13nKVT,Matko Miljevic,2,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_2eRs85,Vélez Sarsfield,p_14Npfn,Maher Carrizo,2,,,0,,0,no coinciding Transfermarkt goal
+l_3v84VE,Liga MX,t_3aG59l,Chivas,p_14gRnq,Bryan González,6,704556,Bryan González,3,1160106,1,best covers 3/6 goals (< 80%)
+l_3v84VE,Liga MX,t_33VE4n,Toluca,p_14hFNP,Robert Morales,12,832340,Robert Morales,8,,0,best covers 8/12 goals (< 80%)
+l_3v84VE,Liga MX,t_08l6Cu,Pumas,p_14hFNP,Robert Morales,12,832340,Robert Morales,8,,0,best covers 8/12 goals (< 80%)
+l_49Zmno,Superligaen,t_0CWBdu,OB,p_14lGQr,Ismahila Ouédraogo,1,,,0,,0,no coinciding Transfermarkt goal
+l_49Zmno,Superligaen,t_0CWBdu,OB,p_14pTuu,Marcus McCoy,2,,,0,,0,no coinciding Transfermarkt goal
+l_3xwVF2,Super League 1,t_2brRQM,Panserraikos FC,p_14vEio,Volnei,2,813229,Volnei,1,,0,fewer than 2 coinciding goals
+l_0eg6C9,MLS,t_3qzA8c,San Diego FC,p_1561UM,Hirving Lozano,5,316889,Hirving Lozano,3,,0,best covers 3/5 goals (< 80%)
+l_0F4I4F,1. Liga,t_4T4c7t,Mladá Boleslav,p_15AMXK,Josef Kolářík,5,1122556,Josef Kolarik,2,,0,best covers 2/5 goals (< 80%)
+l_2xBPKk,Super Liga,t_42j5I4,IMT,p_15LVyl,Juninho,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_1QqhS7,San Lorenzo,p_15T8Aa,Manuel Insaurralde,1,627237,Manuel Insaurralde,1,135853,1,single goal with several candidates
+l_2EKrnc,K League 1,t_0BmWKf,Suwon FC,p_15oMEo,Pablo Sabbag,12,426325,Pablo Sabbag,7,,0,best covers 7/12 goals (< 80%)
+l_45VZuL,Liga Profesional,t_1Fzy5s,River Plate,p_15wJtA,Ignacio Fernández,3,50669,Nacho Fernández,2,,0,best covers 2/3 goals (< 80%)
+l_45VZuL,Liga Profesional,t_0rGDE4,Gimnasia LP,p_15wJtA,Ignacio Fernández,3,50669,Nacho Fernández,2,,0,best covers 2/3 goals (< 80%)
+l_49Zmno,Superligaen,t_4eVDVk,Viborg,p_164Fms,Stipe Radic,1,371002,Stipe Radic,1,,0,"single goal, minute not identical"
+l_2tFk9k,HNL,t_2PWt2N,Slaven Koprivnica,p_1771vH,Ivan Božić,1,392306,Ivan Bozic,1,,0,"single goal, minute not identical"
+l_2EKrnc,K League 1,t_0fQ6zG,Daegu FC,p_17I8le,Ju-Gong Kim,2,655770,Ju-gong Kim,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_3TbOfu,Deportivo Riestra,p_18n3tl,Cristian Paz,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_3mLGSt,Newell's Old Boys,p_18siex,Francisco Scarpeccio,1,1329650,Francisco Scarpeccio,1,,0,"single goal, minute not identical"
+l_0kSJLz,Liga I,t_1zLfCo,Rapid Bucureşti,p_193iwO,Daniel Paraschiv,4,605543,Daniel Paraschiv,2,,0,best covers 2/4 goals (< 80%)
+l_45VZuL,Liga Profesional,t_1QqhS7,San Lorenzo,p_198uFp,Gregorio Rodríguez,2,908300,Gregorio Rodríguez,2,166237,1,runner-up too close
+l_2xBPKk,Super Liga,t_49UIKT,Mladost Lučani,p_199BZr,Irfan Hadžić,4,197881,Irfan Hadzic,2,,0,best covers 2/4 goals (< 80%)
+l_0eg6C9,MLS,t_32YjfW,Atlanta United,p_19FNRQ,Fabrice Picault,1,216683,Fafà Picault,1,,0,"single goal, minute not identical"
+l_2L6d1F,First Division A,t_0wF6Y2,Westerlo,p_19GzQv,Isa Sakamoto,6,814491,Isa Sakamoto,4,,0,best covers 4/6 goals (< 80%)
+l_3v84VE,Liga MX,t_0cPdCL,Cruz Azul,p_19Hg4a,Christian Ebere,4,401932,Christian Ebere,1,,0,fewer than 2 coinciding goals
+l_3xwVF2,Super League 1,t_48GNlO,Aris Thessaloniki,p_19d7XO,Dudu,3,1083607,Dudu,2,,0,best covers 2/3 goals (< 80%)
+l_45VZuL,Liga Profesional,t_2Swqmw,Club Atlético Platense,p_19j4dM,Franco Baldassarra,1,,,0,,0,no coinciding Transfermarkt goal
+l_1XLtP0,World Cup,t_2IxhHW,DR Congo,p_1A3wj1,Brian Cipenga,1,,,0,,0,no coinciding Transfermarkt goal
+l_49Zmno,Superligaen,t_0rrO78,AGF,p_1A6HpN,Henrik Dalsgaard,2,,,0,,0,no coinciding Transfermarkt goal
+l_2Mh0jT,Premier League,t_0gA6Aq,Baltika,p_1AGJFo,Sergey Pryakhin,1,646894,Sergey Pryakhin,1,,0,"single goal, minute not identical"
+l_45VZuL,Liga Profesional,t_1QqhS7,San Lorenzo,p_1AI1PK,Nicolás Tripichio,2,,,0,,0,no coinciding Transfermarkt goal
+l_2ApGa4,J. League,t_1pt1Bj,Gamba Osaka,p_1AMyIf,Harumi Minamino,8,729051,Harumi Minamino,1,,0,fewer than 2 coinciding goals
+l_0kSJLz,Liga I,t_36ZG9o,Csikszereda,p_1ASIgj,Márton Eppel,12,109197,Márton Eppel,8,,0,best covers 8/12 goals (< 80%)
+l_3zsMpo,Bundesliga,t_3A58ap,Rapid Wien,p_1AbXoI,Jakob Schöller,3,715893,Jakob Schöller,1,,0,fewer than 2 coinciding goals
+l_2xBPKk,Super Liga,t_4W9DaV,FK Crvena Zvezda,p_1B0HQk,Strahinja Eraković,1,,,0,,0,no coinciding Transfermarkt goal
+l_3v84VE,Liga MX,t_06pffY,Atlas,p_1B5kgr,Eduardo Aguirre,2,400171,Eduardo Aguirre,1,,0,fewer than 2 coinciding goals
+l_0eg6C9,MLS,t_1avIKi,Columbus Crew,p_1BP8w3,Lassi Lappalainen,1,322993,,1,,0,"single goal, minute not identical"
+l_2ApGa4,J. League,t_3RSWKx,Kashima Antlers,p_1BYk33,Kei Chinen,3,354106,Kei Chinen,2,,0,best covers 2/3 goals (< 80%)
+l_45VZuL,Liga Profesional,t_2M7cot,Central Córdoba de Santiago,p_1BvJC3,Lucas Abascia,1,,,0,,0,no coinciding Transfermarkt goal
+l_0kSJLz,Liga I,t_1d3str,Dinamo Bucureşti,p_1C2rPs,Alexandru Marian Musi,7,881064,Alexandru Musi,4,,0,best covers 4/7 goals (< 80%)
+l_49Zmno,Superligaen,t_3rFzZU,Silkeborg,p_1CPhDD,Alexander Simmelhack,1,,,0,,0,no coinciding Transfermarkt goal
+l_0kSJLz,Liga I,t_1gO4GP,Argeș,p_1CkxsK,Florin Gheorghe Borţa,1,603327,Florin Borța,1,610484,1,single goal with several candidates
+l_2WZ2tt,Conference League,t_0SYp29,Breidablik,p_1Crdp5,Oli Omarsson,1,305947,Albert Gudmundsson,1,915890,1,single goal with several candidates
+l_45VZuL,Liga Profesional,t_3mLGSt,Newell's Old Boys,p_1DqJZI,Jherson Mosquera,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_0rsFNq,Lanús,p_1Dr7TL,Eduardo Salvio,3,84535,Eduardo Salvio,1,1150206,1,fewer than 2 coinciding goals
+l_3xwVF2,Super League 1,t_0rCy1r,Panetolikos,p_1E18DJ,Juan Manuel García,3,,,0,,0,no coinciding Transfermarkt goal
+l_2xBPKk,Super Liga,t_4JIp6m,Vojvodina,p_1E5Ub9,Mihai Ionuţ Butean,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_3UNtKx,San Martin San Juan,p_1EQeWa,Santiago Salle,1,,,0,,0,no coinciding Transfermarkt goal
+l_3v84VE,Liga MX,t_0cPdCL,Cruz Azul,p_1EvVza,Luka Romero,3,1029149,Gabriel López,1,565899,1,fewer than 2 coinciding goals
+l_3v84VE,Liga MX,t_42FKLM,Tijuana,p_1FYl74,Mourad El Ghezouani,4,527972,Mourad El Ghezouani,1,,0,fewer than 2 coinciding goals
+l_4d6Bwl,Super League,t_3yN3O4,Thun,p_1FhpUn,Brighton Labeau,4,342227,Brighton Labeau,3,303410,1,best covers 3/4 goals (< 80%)
+l_2WZ2tt,Conference League,t_2ULmuf,NK Celje,p_1FkNBP,Ivica Vidovic,1,587507,,1,,0,"single goal, names share no token"
+l_49Zmno,Superligaen,t_4eVDVk,Viborg,p_1FogGZ,Daniel Anyembe,1,,,0,,0,no coinciding Transfermarkt goal
+l_3xwVF2,Super League 1,t_0rCy1r,Panetolikos,p_1FvzRt,Alexandru Mățan,5,368942,Alexandru Mățan,3,,0,best covers 3/5 goals (< 80%)
+l_2ApGa4,J. League,t_0LfLJ4,Vissel Kobe,p_1FzTHU,Ren Komatsu,5,,,0,,0,no coinciding Transfermarkt goal
+l_2L6d1F,First Division A,t_1XQ7N5,FCV Dender EH,p_1GVseZ,Noah Mbamba,2,743395,Noah Mbamba,1,,0,fewer than 2 coinciding goals
+l_3v84VE,Liga MX,t_06pffY,Atlas,p_1GXkY9,Mateo García,3,441287,Mateo García,1,,0,fewer than 2 coinciding goals
+l_2L6d1F,First Division A,t_11R95l,St.Truiden,p_1Gax8r,Taiga Hata,1,,,0,,0,no coinciding Transfermarkt goal
+l_0uqFK8,Eliteserien,t_0jcQ4I,Sarpsborg 08,p_1GkSab,Michael Opoku,1,332527,Sveinn Aron Gudjohnsen,1,695226,1,single goal with several candidates
+l_3xwVF2,Super League 1,t_1uUsje,Kifisia FC,p_1H4sLz,Dimitrios Theodoridis,2,604864,Dimitrios Theodoridis,1,,0,fewer than 2 coinciding goals
+l_3v84VE,Liga MX,t_33VE4n,Toluca,p_1H8CPt,Oswaldo Virgen,1,,,0,,0,no coinciding Transfermarkt goal
+l_3v84VE,Liga MX,t_33VE4n,Toluca,p_1HQE1d,Everardo López,1,371185,Jairo Torres,1,549294,1,single goal with several candidates
+l_2L6d1F,First Division A,t_4GqgXb,Cercle Brugge,p_1HQMqZ,Edan Diop,7,745178,Edan Diop,5,,0,best covers 5/7 goals (< 80%)
+l_2xBPKk,Super Liga,t_4JIp6m,Vojvodina,p_1II1L7,Lazar Peranović,1,,,0,,0,no coinciding Transfermarkt goal
+l_49Zmno,Superligaen,t_3rFzZU,Silkeborg,p_1INl8A,Pedro Ganchas,2,487466,Pedro Ganchas,1,,0,fewer than 2 coinciding goals
+l_2L6d1F,First Division A,t_0wF6Y2,Westerlo,p_1IP3NL,Dylan Ourega,1,,,0,,0,no coinciding Transfermarkt goal
+l_2xBPKk,Super Liga,t_39pqEa,Radnički 1923,p_1IefTl,Ester Sokler,15,481244,Ester Sokler,11,,0,best covers 11/15 goals (< 80%)
+l_0ErfuF,LaLiga,t_1pKstK,Girona,p_1IgjwT,Azzedine Ounahi,7,593482,Azzedine Ounahi,5,,0,best covers 5/7 goals (< 80%)
+l_1XLtP0,World Cup,t_3Rr7NK,Morocco,p_1IgjwT,Azzedine Ounahi,7,593482,Azzedine Ounahi,5,,0,best covers 5/7 goals (< 80%)
+l_45VZuL,Liga Profesional,t_1L8FaD,Tigre,p_1IquRb,Alan Barrionuevo,2,865491,Alan Barrionuevo,2,135853,1,runner-up too close
+l_3xwVF2,Super League 1,t_3uzoWx,AE Larissa,p_1J3oCe,Konstantinos Apostolakis,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_2M7cot,Central Córdoba de Santiago,p_1JcSyH,Lucas Varaldo,1,,,0,,0,no coinciding Transfermarkt goal
+l_3zsMpo,Bundesliga,t_34FD4Z,Ried,p_1JjqVw,Nikki Havenaar,3,129684,Nikki Havenaar,2,,0,best covers 2/3 goals (< 80%)
+l_3xwVF2,Super League 1,t_27hFVh,Atromitos,p_1K48BR,Georgios Tzovaras,2,369111,Georgios Tzovaras,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_2M7cot,Central Córdoba de Santiago,p_1K6Fr9,Fernando Martínez,2,880025,Fernando Martínez,1,,0,fewer than 2 coinciding goals
+l_3xwVF2,Super League 1,t_2brRQM,Panserraikos FC,p_1KYtQ4,Adrián Riera,2,381206,Adrián Riera,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_2eRs85,Vélez Sarsfield,p_1KeqP5,Imanol Machuca,1,,,0,,0,no coinciding Transfermarkt goal
+l_0F4I4F,1. Liga,t_46tRLy,Pardubice,p_1LEfDO,Victor Elem Samuel,2,1381202,Victor Samuel,1,,0,fewer than 2 coinciding goals
+l_3xwVF2,Super League 1,t_0G7jPq,OFI Crete,p_1LPfsc,Levan Shengelia,2,329630,Levan Shengelia,1,,0,fewer than 2 coinciding goals
+l_3FJFUl,Ligue 1,t_1p1AQf,Strasbourg,p_1LQFWe,Kendry Páez,2,1052439,Kendry Páez,2,571908,1,runner-up too close
+l_45VZuL,Liga Profesional,t_1Fzy5s,River Plate,p_1LQFWe,Kendry Páez,2,1052439,Kendry Páez,2,571908,1,runner-up too close
+l_45VZuL,Liga Profesional,t_0SmVI4,Independiente Rivadavia,p_1LtoAE,Álex Arce,5,970518,Álex Arce,2,,0,best covers 2/5 goals (< 80%)
+l_2ApGa4,J. League,t_01uUy2,Mito Hollyhock,p_1Mmvka,Taishi Semba,1,,,0,,0,no coinciding Transfermarkt goal
+l_2ApGa4,J. League,t_01uUy2,Mito Hollyhock,p_1N7PAH,Matheus Leiria,1,,,0,,0,no coinciding Transfermarkt goal
+l_2L6d1F,First Division A,t_0wF6Y2,Westerlo,p_1NrlRR,Kyan Vaesen,2,687630,Kyan Vaesen,1,,0,fewer than 2 coinciding goals
+l_2L6d1F,First Division A,t_3rAYPk,OH Leuven,p_1NrlRR,Kyan Vaesen,2,687630,Kyan Vaesen,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_2eRs85,Vélez Sarsfield,p_1O1XFB,Lisandro Magallán,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_0rGDE4,Gimnasia LP,p_1OBnRG,Franco Torres,4,909789,Franco Torres,2,,0,best covers 2/4 goals (< 80%)
+l_2ApGa4,J. League,t_0LfLJ4,Vissel Kobe,p_1OPP2V,Yuya Osako,7,108650,Yuya Osako,3,,0,best covers 3/7 goals (< 80%)
+l_45VZuL,Liga Profesional,t_3qkV0m,Sarmiento,p_1OPWAY,Iván Morales,4,461608,Iván Morales,2,,0,best covers 2/4 goals (< 80%)
+l_45VZuL,Liga Profesional,t_3XuEvf,Argentinos Juniors,p_1OPWAY,Iván Morales,4,461608,Iván Morales,2,,0,best covers 2/4 goals (< 80%)
+l_3v84VE,Liga MX,t_1xzdYt,Tigres,p_1OW3Ky,Jesus Angulo,2,439108,Lucas Di Yorio,1,312568,1,fewer than 2 coinciding goals
+l_2xBPKk,Super Liga,t_2rCgAm,Radnički Niš,p_1P38Fk,Dušan Pavlović,2,870285,Dusan Pavlovic,1,,0,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_2731yf,Machida Zelvia,p_1PXMZh,Yuki Soma,7,594069,Yuki Soma,3,599023,1,best covers 3/7 goals (< 80%)
+l_49Zmno,Superligaen,t_4eVDVk,Viborg,p_1PhVyI,Srdjan Kuzmić,4,722375,Srdjan Kuzmic,3,,0,best covers 3/4 goals (< 80%)
+l_2L6d1F,First Division A,t_2J5yFC,Anderlecht,p_1PnM8v,Nathan Saliba,4,842420,Nathan-Dylan Saliba,3,,0,best covers 3/4 goals (< 80%)
+l_1XLtP0,World Cup,t_46TAEZ,Canada,p_1PnM8v,Nathan Saliba,4,842420,Nathan-Dylan Saliba,3,,0,best covers 3/4 goals (< 80%)
+l_2L6d1F,First Division A,t_11R95l,St.Truiden,p_1PnbcG,Adriano Bertaccini,7,364896,Adriano Bertaccini,4,,0,best covers 4/7 goals (< 80%)
+l_2L6d1F,First Division A,t_2J5yFC,Anderlecht,p_1PnbcG,Adriano Bertaccini,7,364896,Adriano Bertaccini,4,,0,best covers 4/7 goals (< 80%)
+l_45VZuL,Liga Profesional,t_0otcXZ,Boca Juniors,p_1PvYK3,Lautaro Blanco,2,831161,Lautaro Blanco,1,,0,fewer than 2 coinciding goals
+l_0bfbkO,Champions League,t_0Gz1mu,Kairat Almaty,p_1PxQ8S,Jorginho,1,590291,,1,,0,"single goal, names share no token"
+l_2ApGa4,J. League,t_1mTqNS,Yokohama F.Marinos,p_1Q04yy,Yan,1,323945,Yan Matheus,1,79415,1,single goal with several candidates
+l_3xwVF2,Super League 1,t_3AH224,NFC Volos,p_1Q3Ytt,Matías González,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_1L8FaD,Tigre,p_1QJBGG,Gonzalo Martínez,2,281405,Gonzalo Martínez,2,721235,1,runner-up too close
+l_3v84VE,Liga MX,t_0cPdCL,Cruz Azul,p_1QVmQj,Ángel Sepúlveda,11,160700,Ángel Sepúlveda,3,955223,1,best covers 3/11 goals (< 80%)
+l_3v84VE,Liga MX,t_3aG59l,Chivas,p_1QVmQj,Ángel Sepúlveda,11,160700,Ángel Sepúlveda,3,955223,1,best covers 3/11 goals (< 80%)
+l_2ApGa4,J. League,t_1mTqNS,Yokohama F.Marinos,p_1QiaPY,Kota Watanabe,1,,,0,,0,no coinciding Transfermarkt goal
+l_2xBPKk,Super Liga,t_49UIKT,Mladost Lučani,p_1QtQFu,Veljko Kijevčanin,1,,,0,,0,no coinciding Transfermarkt goal
+l_1XLtP0,World Cup,t_3Rr7NK,Morocco,p_1R8QrK,Soufiane Rahimi,2,598506,Soufiane Rahimi,1,,0,fewer than 2 coinciding goals
+l_2xBPKk,Super Liga,t_2gwv05,Železničar Pančevo,p_1R9Nfd,Janko Jevremović,3,848661,Janko Jevremovic,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_2RmaMX,Racing Club,p_1RHzae,Adrián Fernández,1,877208,Adrián Fernández,1,970518,1,single goal with several candidates
+l_2ApGa4,J. League,t_3RSWKx,Kashima Antlers,p_1RLnDR,Shu Morooka,3,,,0,,0,no coinciding Transfermarkt goal
+l_0kSJLz,Liga I,t_0VlZPz,Oţelul Galați,p_1RW7in,Dan-Cristian Neicu,1,,,0,,0,no coinciding Transfermarkt goal
+l_3xwVF2,Super League 1,t_27hFVh,Atromitos,p_1Rb9yo,Peter Michorl,2,158106,Peter Michorl,1,,0,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_4Oonn6,Sanfrecce Hiroshima,p_1RjHHx,Kosuke Kinoshita,7,221968,Kosuke Kinoshita,2,,0,best covers 2/7 goals (< 80%)
+l_45VZuL,Liga Profesional,t_2RmaMX,Racing Club,p_1S7dIi,Adrián Balboa,5,252209,Adrián Balboa,3,,0,best covers 3/5 goals (< 80%)
+l_2Mh0jT,Premier League,t_2Z4NtQ,Nizhny Novgorod,p_1S7dIi,Adrián Balboa,5,252209,Adrián Balboa,3,,0,best covers 3/5 goals (< 80%)
+l_45VZuL,Liga Profesional,t_1HsET8,Estudiantes,p_1SE1Bg,Edwuin Cetré,4,,,0,,0,no coinciding Transfermarkt goal
+l_1D8Xrl,Serie A,t_1iVO3o,Botafogo,p_1SSVHn,Vitinho,1,811219,Newton,1,,0,"single goal, names share no token"
+l_49Zmno,Superligaen,t_3W62M7,Sønderjyske,p_1STWx5,Matthew Hoppe,6,678194,Matthew Hoppe,4,,0,best covers 4/6 goals (< 80%)
+l_2WZ2tt,Conference League,t_23f2zm,Hamrun Spartans,p_1Sg4EF,Mouad El Fanis,1,727091,,1,,0,"single goal, names share no token"
+l_2WZ2tt,Conference League,t_2yHOns,Slovan Bratislava,p_1Td8HS,Rahim Ibrahim,1,711597,,1,,0,"single goal, names share no token"
+l_3xwVF2,Super League 1,t_48GNlO,Aris Thessaloniki,p_1U0PsC,Giannis Gianniotas,1,,,0,,0,no coinciding Transfermarkt goal
+l_1D8Xrl,Serie A,t_3aT5MF,Bahia,p_1U3ukT,Éverton Ribeiro,1,52896,Everton Ribeiro,1,,0,"single goal, minute not identical"
+l_2WZ2tt,Conference League,t_0SYp29,Breidablik,p_1UByuV,Viktor Margeirsson,1,992686,Martial Godo,1,313342,1,single goal with several candidates
+l_2ApGa4,J. League,t_1E6Pbm,Shimizu S-Pulse,p_1UGww1,Masaki Yumiba,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_2eRs85,Vélez Sarsfield,p_1UNG97,Manuel Lanzini,6,135853,Manuel Lanzini,3,,0,best covers 3/6 goals (< 80%)
+l_0F4I4F,1. Liga,t_33z5hz,Jablonec,p_1Uelw8,Antonín Růsek,7,318112,Antonin Rusek,4,,0,best covers 4/7 goals (< 80%)
+l_0F4I4F,1. Liga,t_1f8Jae,Sigma Olomouc,p_1Uelw8,Antonín Růsek,7,318112,Antonin Rusek,4,,0,best covers 4/7 goals (< 80%)
+l_2WZ2tt,Conference League,t_1f8Jae,Sigma Olomouc,p_1Uelw8,Antonín Růsek,7,318112,Antonin Rusek,4,,0,best covers 4/7 goals (< 80%)
+l_3v84VE,Liga MX,t_0cPdCL,Cruz Azul,p_1UzAqU,Carlos Rodríguez,8,534620,Carlos Rodríguez,3,129129,1,best covers 3/8 goals (< 80%)
+l_45VZuL,Liga Profesional,t_3mLGSt,Newell's Old Boys,p_1Uzxie,Gonzalo Maroni,2,441385,Gonzalo Maroni,1,843126,1,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_3FROV0,Barracas Central,p_1Uzxie,Gonzalo Maroni,2,441385,Gonzalo Maroni,1,843126,1,fewer than 2 coinciding goals
+l_0kSJLz,Liga I,t_2xzRUe,Petrolul 52,p_1WF3MW,Marco Dulca,2,391445,Marco Dulca,1,,0,fewer than 2 coinciding goals
+l_3v84VE,Liga MX,t_08l6Cu,Pumas,p_1WRXZg,Álvaro Angulo,6,366324,Álvaro Angulo,3,,0,best covers 3/6 goals (< 80%)
+l_2ApGa4,J. League,t_25A1QK,JEF United Chiba,p_1WlPWt,Carlinhos Junior,2,,,0,,0,no coinciding Transfermarkt goal
+l_49Zmno,Superligaen,t_4eCFHQ,FC København,p_1X2jv7,Jordan Larsson,16,308552,Jordan Larsson,9,396908,1,best covers 9/16 goals (< 80%)
+l_0bfbkO,Champions League,t_4eCFHQ,FC København,p_1X2jv7,Jordan Larsson,16,308552,Jordan Larsson,9,396908,1,best covers 9/16 goals (< 80%)
+l_3v84VE,Liga MX,t_08l6Cu,Pumas,p_1YQAHn,Jordán Carrillo,6,740574,Jordán Carrillo,3,,0,best covers 3/6 goals (< 80%)
+l_2ApGa4,J. League,t_01uUy2,Mito Hollyhock,p_1YXUHw,Arata Watanabe,4,,,0,,0,no coinciding Transfermarkt goal
+l_1D8Xrl,Serie A,t_3npCjp,Cruzeiro,p_1YqdXy,Lucas Silva,1,218118,Lucas Silva,1,,0,"single goal, minute not identical"
+l_2ApGa4,J. League,t_1mrdfo,Nagoya Grampus,p_1Z6XfI,Tsukasa Morishima,2,,,0,,0,no coinciding Transfermarkt goal
+l_3v84VE,Liga MX,t_06pffY,Atlas,p_1ZJ8n8,Rivaldo Lozano,1,,,0,,0,no coinciding Transfermarkt goal
+l_3v84VE,Liga MX,t_1xzdYt,Tigres,p_1Zf0yU,Jonathan Herrera,7,629006,Ozziel Herrera,2,627068,1,best covers 2/7 goals (< 80%)
+l_2L6d1F,First Division A,t_3rAYPk,OH Leuven,p_1ZpLcc,Wouter George,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_3TbOfu,Deportivo Riestra,p_1ZsIeq,Yonatan Goitía,2,,,0,,0,no coinciding Transfermarkt goal
+l_2xBPKk,Super Liga,t_3in1S9,Čukarički,p_1aLx5W,Luka Đorđević,1,,,0,,0,no coinciding Transfermarkt goal
+l_1LMdEO,Premiership,t_0TPUj3,Rangers,p_1azAy9,Findlay Curtis,6,1082993,Findlay Curtis,2,,0,best covers 2/6 goals (< 80%)
+l_1LMdEO,Premiership,t_2lf4Qe,Kilmarnock,p_1azAy9,Findlay Curtis,6,1082993,Findlay Curtis,2,,0,best covers 2/6 goals (< 80%)
+l_3xwVF2,Super League 1,t_3uzoWx,AE Larissa,p_1bZZuu,Gaël Kakuta,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_02LuKO,Talleres,p_1baCzH,Valentín Depietri,3,697056,Valentín Depietri,1,,0,fewer than 2 coinciding goals
+l_3v84VE,Liga MX,t_3FfqhA,Santos Laguna,p_1bbvOc,Bruno Barticciotto,2,,,0,,0,no coinciding Transfermarkt goal
+l_2L6d1F,First Division A,t_3o2Gex,Genk,p_1bcSmB,Ayumu Yokoyama,1,,,0,,0,no coinciding Transfermarkt goal
+l_3v84VE,Liga MX,t_09cXNN,Necaxa,p_1bcuSr,Díber Cambindo,14,650861,Díber Cambindo,8,,0,best covers 8/14 goals (< 80%)
+l_3v84VE,Liga MX,t_3Aj84E,León,p_1bcuSr,Díber Cambindo,14,650861,Díber Cambindo,8,,0,best covers 8/14 goals (< 80%)
+l_0kSJLz,Liga I,t_36ZG9o,Csikszereda,p_1bd3sN,Szabolcs Szalay,4,543776,Szabolcs Szalay,2,,0,best covers 2/4 goals (< 80%)
+l_3v84VE,Liga MX,t_0cPdCL,Cruz Azul,p_1bivQu,Amaury Morales,1,,,0,,0,no coinciding Transfermarkt goal
+l_49Zmno,Superligaen,t_4eVDVk,Viborg,p_1bpRQI,Lukas Kirkegaard,2,,,0,,0,no coinciding Transfermarkt goal
+l_2xBPKk,Super Liga,t_1YGq6m,Javor,p_1c9qXu,Mass Modou Sise,1,,,0,,0,no coinciding Transfermarkt goal
+l_2ApGa4,J. League,t_49j3Z1,Kashiwa Reysol,p_1cEMR5,Diego,4,376155,Diego,3,250984,1,best covers 3/4 goals (< 80%)
+l_2ApGa4,J. League,t_0LfLJ4,Vissel Kobe,p_1cEMR5,Diego,4,376155,Diego,3,250984,1,best covers 3/4 goals (< 80%)
+l_2xBPKk,Super Liga,t_47DAlu,Novi Pazar,p_1cQfkG,Zoran Alilović,1,,,0,,0,no coinciding Transfermarkt goal
+l_2EKrnc,K League 1,t_4cae3z,FC Seoul,p_1cttLG,Seung-Won Jung,1,497440,Seung-won Jeong,1,,0,"single goal, minute not identical"
+l_2WZ2tt,Conference League,t_2yHOns,Slovan Bratislava,p_1d0ii6,Alasana Yirajang,1,1231655,,1,,0,"single goal, names share no token"
+l_45VZuL,Liga Profesional,t_1L8FaD,Tigre,p_1dEFgX,Jabes Saralegui,1,,,0,,0,no coinciding Transfermarkt goal
+l_2ApGa4,J. League,t_1mTqNS,Yokohama F.Marinos,p_1dSBNl,Tomoki Kondo,1,,,0,,0,no coinciding Transfermarkt goal
+l_2Mh0jT,Premier League,t_39i1br,FK Akhmat,p_1daTUm,Manuel Keliano,1,1059814,Kelliano,1,,0,"single goal, names share no token"
+l_3xwVF2,Super League 1,t_0G7jPq,OFI Crete,p_1dohpP,Konstantinos Kostoulas,1,,,0,,0,no coinciding Transfermarkt goal
+l_49Zmno,Superligaen,t_0IweBQ,Vejle Boldklub,p_1e4aJd,Tobias Bach,3,923776,Tobias Bach,1,,0,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_25A1QK,JEF United Chiba,p_1eFQKW,Masaru Hidaka,2,,,0,,0,no coinciding Transfermarkt goal
+l_2WZ2tt,Conference League,t_28up0p,Zrinjski Mostar,p_1eeK4h,Duje Dujmović,1,153637,Mikael Ishak,1,895531,1,single goal with several candidates
+l_2WZ2tt,Conference League,t_23f2zm,Hamrun Spartans,p_1eiujz,Semir Smajlagic,1,396661,,1,,0,"single goal, names share no token"
+l_2ApGa4,J. League,t_49j3Z1,Kashiwa Reysol,p_1emGci,Daiki Sugioka,1,,,0,,0,no coinciding Transfermarkt goal
+l_2WZ2tt,Conference League,t_0SYp29,Breidablik,p_1es5nc,David Ingvarsson,1,429892,,1,,0,"single goal, names share no token"
+l_0kSJLz,Liga I,t_2xzRUe,Petrolul 52,p_1f0VvL,Yohan Roche,2,524988,Yohan Roche,1,,0,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_1mrdfo,Nagoya Grampus,p_1f5WlX,Hidemasa Koda,2,,,0,,0,no coinciding Transfermarkt goal
+l_0kSJLz,Liga I,t_36ZG9o,Csikszereda,p_1f7dEO,Lászlo Kleinheisler,1,,,0,,0,no coinciding Transfermarkt goal
+l_0F4I4F,1. Liga,t_1OB46o,Teplice,p_1fNNO1,Idris Hopi,2,,,0,,0,no coinciding Transfermarkt goal
+l_1D8Xrl,Serie A,t_2S65sJ,Santos,p_1fZRxB,Gabriel Bontempo,2,1089958,Gabriel Bontempo,2,720294,1,runner-up too close
+l_2EKrnc,K League 1,t_3EXLOF,Jeonbuk Hyundai Motors FC,p_1faJ8X,Jeong-Ho Hong,1,,,0,,0,no coinciding Transfermarkt goal
+l_2ApGa4,J. League,t_1E6Pbm,Shimizu S-Pulse,p_1fjztZ,Capixaba,2,435253,Capixaba,1,,0,fewer than 2 coinciding goals
+l_0eg6C9,MLS,t_0vjCk0,CF Montréal,p_1fzHQb,Olger Escobar,1,1039953,Olger Escobar,1,,0,"single goal, minute not identical"
+l_49Zmno,Superligaen,t_0CWBdu,OB,p_1gEsUX,Julius Askou,1,,,0,,0,no coinciding Transfermarkt goal
+l_1D8Xrl,Serie A,t_0BNCm8,Corinthians,p_1gJl1K,José Martínez,1,415666,José Martínez,1,,0,"single goal, minute not identical"
+l_2ApGa4,J. League,t_2731yf,Machida Zelvia,p_1gTYrT,Hokuto Shimoda,3,230541,Yoshinori Muto,1,780297,1,fewer than 2 coinciding goals
+l_2xBPKk,Super Liga,t_1YGq6m,Javor,p_1gcZWJ,Benjamin Acquah,2,,,0,,0,no coinciding Transfermarkt goal
+l_2L6d1F,First Division A,t_1mTmMO,Club Brugge,p_1gsNBm,Joaquin Seys,2,981196,Joaquin Seys,1,,0,fewer than 2 coinciding goals
+l_0eg6C9,MLS,t_09gmAn,Chicago Fire FC,p_1h4gyH,Justin Reynolds,1,887792,Justin Reynolds,1,,0,"single goal, minute not identical"
+l_2WZ2tt,Conference League,t_30PMPP,Drita,p_1hDMpm,Almir Ajzeraj,1,497192,,1,,0,"single goal, names share no token"
+l_3v84VE,Liga MX,t_33VE4n,Toluca,p_1hYHRP,Fernando Arce,1,266807,Ángel Correa,1,349150,1,single goal with several candidates
+l_0kSJLz,Liga I,t_36ZG9o,Csikszereda,p_1hc2ZQ,Soufiane Jebari Jebari,2,460361,Soufiane Jebari,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_2fePa3,Godoy Cruz,p_1hgBc4,Nicolas Fernandez,2,,,0,,0,no coinciding Transfermarkt goal
+l_2ApGa4,J. League,t_1mrdfo,Nagoya Grampus,p_1iQpXG,Kasper Junker,1,264576,Kasper Junker,1,,0,"single goal, minute not identical"
+l_4WFCIZ,Premier League,t_0UCNPX,Manchester City,p_1iYGx2,Sávio,1,743591,Savinho,1,,0,"single goal, names share no token"
+l_0kSJLz,Liga I,t_2xzRUe,Petrolul 52,p_1icJqR,Gheorghe Teodor Grozav,7,96844,Gheorghe Grozav,5,,0,best covers 5/7 goals (< 80%)
+l_2ApGa4,J. League,t_25A1QK,JEF United Chiba,p_1imMFH,Makoto Himeno,1,,,0,,0,no coinciding Transfermarkt goal
+l_2L6d1F,First Division A,t_2J5yFC,Anderlecht,p_1izQHh,Yari Verschaeren,1,,,0,,0,no coinciding Transfermarkt goal
+l_49Zmno,Superligaen,t_0rrO78,AGF,p_1jZU17,Gift Links,4,445616,Gift Links,3,,0,best covers 3/4 goals (< 80%)
+l_1D8Xrl,Serie A,t_27JMSm,Fortaleza,p_1jj0E6,Benjamín Kuščević,1,340840,Benjamín Kuscevic,1,,0,"single goal, minute not identical"
+l_2ApGa4,J. League,t_1mrdfo,Nagoya Grampus,p_1k40Um,Soichiro Mori,2,1131911,Soichiro Mori,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_2eRs85,Vélez Sarsfield,p_1k9Cqy,Braian Romero,5,357937,Braian Romero,1,,0,fewer than 2 coinciding goals
+l_2tFk9k,HNL,t_2PWt2N,Slaven Koprivnica,p_1khbeQ,Ivan Ćubelić,2,580443,Ivan Cubelic,1,,0,fewer than 2 coinciding goals
+l_2EKrnc,K League 1,t_40E4Th,Gimcheon Sangmu,p_1l9v2W,Chan Kim,1,269601,Dong-jun Lee,1,639065,1,single goal with several candidates
+l_3v84VE,Liga MX,t_0cPdCL,Cruz Azul,p_1lsYGz,Jeremy Márquez,6,737125,Jeremy Márquez,2,955338,1,best covers 2/6 goals (< 80%)
+l_2EKrnc,K League 1,t_46FQj1,Daejeon Hana Citizen,p_1m4YMC,Anton Krivotsyuk,2,358648,Anton Kryvotsiuk,1,,0,fewer than 2 coinciding goals
+l_0eg6C9,MLS,t_2HLI7U,New York City FC,p_1mKZlx,Mitja Ilenič,1,822074,Mitja Ilenic,1,,0,"single goal, minute not identical"
+l_2L6d1F,First Division A,t_3pK6v1,Union St.Gilloise,p_1mOnsY,Ross Sykes,6,450958,Ross Sykes,4,,0,best covers 4/6 goals (< 80%)
+l_0bfbkO,Champions League,t_3pK6v1,Union St.Gilloise,p_1mOnsY,Ross Sykes,6,450958,Ross Sykes,4,,0,best covers 4/6 goals (< 80%)
+l_2ApGa4,J. League,t_49j3Z1,Kashiwa Reysol,p_1mlbFr,Yota Komi,3,,,0,,0,no coinciding Transfermarkt goal
+l_2xBPKk,Super Liga,t_25ex0s,Partizan Beograd,p_1mqz2L,Nemanja Trifunović,5,848660,Nemanja Trifunovic,3,,0,best covers 3/5 goals (< 80%)
+l_2L6d1F,First Division A,t_11R95l,St.Truiden,p_1n3r2p,Rein Van Helden,2,706063,Rein Van Helden,1,,0,fewer than 2 coinciding goals
+l_2L6d1F,First Division A,t_0E5vxj,Royal Antwerp,p_1n3r2p,Rein Van Helden,2,706063,Rein Van Helden,1,,0,fewer than 2 coinciding goals
+l_3v84VE,Liga MX,t_1xzdYt,Tigres,p_1nMG9j,Diego Lainez,6,371174,Diego Lainez,2,532240,1,best covers 2/6 goals (< 80%)
+l_2EKrnc,K League 1,t_46FQj1,Daejeon Hana Citizen,p_1nRwSU,Hyeon-Ug Kim,1,497132,Hyeon-ug Kim,1,,0,"single goal, minute not identical"
+l_3xwVF2,Super League 1,t_0G7jPq,OFI Crete,p_1nRxlE,Vassilios Lambropoulos,1,63489,Vasilios Lampropoulos,1,,0,"single goal, names share no token"
+l_2ApGa4,J. League,t_1mTqNS,Yokohama F.Marinos,p_1nTvTL,Kaina Tanimura,16,732576,Kaina Tanimura,5,402167,1,best covers 5/16 goals (< 80%)
+l_0ALvwF,Serie A,t_24sV8w,Genoa,p_1na1PB,Johan Vásquez,1,532937,Johan Vásquez,1,,0,"single goal, minute not identical"
+l_0eg6C9,MLS,t_0DiXbX,Seattle Sounders FC,p_1nhXY0,Obed Vargas,4,889435,Obed Vargas,2,,0,best covers 2/4 goals (< 80%)
+l_0eg6C9,MLS,t_3B5RBi,St. Louis City,p_1nobYt,Joshua Yaro,1,,,0,,0,no coinciding Transfermarkt goal
+l_1XLtP0,World Cup,t_2IxhHW,DR Congo,p_1nwgQ8,Fiston Mayele,1,727157,Fiston Mayele,1,,0,"single goal, minute not identical"
+l_45VZuL,Liga Profesional,t_1QqhS7,San Lorenzo,p_1nyNwE,Diego Herazo,2,384580,Diego Herazo,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_0rGDE4,Gimnasia LP,p_1o2WFf,Jeremías Merlo,1,,,0,,0,no coinciding Transfermarkt goal
+l_49Zmno,Superligaen,t_3rFzZU,Silkeborg,p_1oHdXv,William Kirk,1,,,0,,0,no coinciding Transfermarkt goal
+l_49Zmno,Superligaen,t_0rrO78,AGF,p_1opvYd,Tómas Kristjánsson,2,,,0,,0,no coinciding Transfermarkt goal
+l_49Zmno,Superligaen,t_0CWBdu,OB,p_1orcSt,Leeroy Owusu,4,257988,Leeroy Owusu,1,,0,fewer than 2 coinciding goals
+l_2WZ2tt,Conference League,t_0SYp29,Breidablik,p_1pSaRM,Höskuldur Gunnlaugsson,1,183365,,1,,0,"single goal, names share no token"
+l_45VZuL,Liga Profesional,t_3FROV0,Barracas Central,p_1pqCz0,Ignacio Tapia,1,,,0,,0,no coinciding Transfermarkt goal
+l_2xBPKk,Super Liga,t_4W9DaV,FK Crvena Zvezda,p_1qWHJa,Bruno Duarte,12,598629,Bruno Duarte,9,510782,1,best covers 9/12 goals (< 80%)
+l_38d9HA,Europa League,t_4W9DaV,FK Crvena Zvezda,p_1qWHJa,Bruno Duarte,12,598629,Bruno Duarte,9,510782,1,best covers 9/12 goals (< 80%)
+l_2xBPKk,Super Liga,t_49UIKT,Mladost Lučani,p_1qWwIl,Petar Bojić,6,162985,Petar Bojic,4,,0,best covers 4/6 goals (< 80%)
+l_3xwVF2,Super League 1,t_1uUsje,Kifisia FC,p_1qYA8s,Sebastian Musiolik,1,,,0,,0,no coinciding Transfermarkt goal
+l_2xBPKk,Super Liga,t_39pqEa,Radnički 1923,p_1qybkZ,Slobodan Simović,5,60490,Slobodan Simovic,2,,0,best covers 2/5 goals (< 80%)
+l_2ApGa4,J. League,t_1mTqNS,Yokohama F.Marinos,p_1rVT3G,Takuya Kida,1,188907,Takuya Kida,1,512699,1,single goal with several candidates
+l_1D8Xrl,Serie A,t_39HXUo,Mirassol,p_1s9XY4,Chico,2,559602,Chico da Costa,1,349166,1,fewer than 2 coinciding goals
+l_0kSJLz,Liga I,t_1gO4GP,Argeș,p_1tLV3u,Yanis Nikolas Christian Pîrvu,3,992822,Yanis Pîrvu,2,,0,best covers 2/3 goals (< 80%)
+l_3xwVF2,Super League 1,t_0G7jPq,OFI Crete,p_1tW2WR,Juan Neira,4,56831,Juan Neira,2,,0,best covers 2/4 goals (< 80%)
+l_2ApGa4,J. League,t_49j3Z1,Kashiwa Reysol,p_1u0S43,Hiromu Mitsumaru,1,164277,Gen Shoji,1,909998,1,single goal with several candidates
+l_2xBPKk,Super Liga,t_2rCgAm,Radnički Niš,p_1u0VfB,Radivoj Bosić,10,470800,Radivoj Bosic,7,,0,best covers 7/10 goals (< 80%)
+l_2xBPKk,Super Liga,t_3cFDTA,TSC Bačka Topola,p_1u0VfB,Radivoj Bosić,10,470800,Radivoj Bosic,7,,0,best covers 7/10 goals (< 80%)
+l_2ApGa4,J. League,t_01uUy2,Mito Hollyhock,p_1uKCK1,Koki Ando,2,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_3mLGSt,Newell's Old Boys,p_1uMmmB,Luciano Lollo,1,,,0,,0,no coinciding Transfermarkt goal
+l_2L6d1F,First Division A,t_1mTmMO,Club Brugge,p_1uTUbZ,Hans Vanaken,9,137576,Hans Vanaken,6,,0,best covers 6/9 goals (< 80%)
+l_0bfbkO,Champions League,t_1mTmMO,Club Brugge,p_1uTUbZ,Hans Vanaken,9,137576,Hans Vanaken,6,,0,best covers 6/9 goals (< 80%)
+l_45VZuL,Liga Profesional,t_2Ba0sx,Belgrano,p_1urJ9k,Franco Jara,4,75035,Franco Jara,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_2rXlDo,Instituto,p_1urJ9k,Franco Jara,4,75035,Franco Jara,1,,0,fewer than 2 coinciding goals
+l_4MPd7x,A-League,t_1AoC5C,Sydney FC,p_1v8XUe,Patrick Wood,4,833603,Patrick Wood,3,,0,best covers 3/4 goals (< 80%)
+l_49Zmno,Superligaen,t_0IweBQ,Vejle Boldklub,p_1vCNBw,Christian Gammelgaard,8,610430,Christian Gammelgaard,6,,0,best covers 6/8 goals (< 80%)
+l_45VZuL,Liga Profesional,t_1rEb7t,Rosario Central,p_1vKOON,Ángel Di Maria,12,45320,Ángel Di María,4,,0,best covers 4/12 goals (< 80%)
+l_45VZuL,Liga Profesional,t_2rD0OF,Aldosivi,p_1vLyyJ,Natanael Guzmán,1,,,0,,0,no coinciding Transfermarkt goal
+l_3v84VE,Liga MX,t_3Wm9EG,Mazatlan FC,p_1vPD6h,Anderson Duarte,2,,,0,,0,no coinciding Transfermarkt goal
+l_4d6Bwl,Super League,t_46kWss,FC Zürich,p_1vg7wg,Steven Zuber,11,68033,Steven Zuber,5,,0,best covers 5/11 goals (< 80%)
+l_3xwVF2,Super League 1,t_27hFVh,Atromitos,p_1vg7wg,Steven Zuber,11,68033,Steven Zuber,5,,0,best covers 5/11 goals (< 80%)
+l_45VZuL,Liga Profesional,t_1Fzy5s,River Plate,p_1vhEfu,Miguel Borja,2,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_2RmaMX,Racing Club,p_1vpOnq,Gastón Martirena,1,,,0,,0,no coinciding Transfermarkt goal
+l_0eg6C9,MLS,t_1avIKi,Columbus Crew,p_1w3eAX,Andrés Herrera,4,621369,Andrés Herrera,3,,0,best covers 3/4 goals (< 80%)
+l_3v84VE,Liga MX,t_3aG59l,Chivas,p_1w62YW,Efraín Álvarez,3,504113,Efraín Álvarez,1,,0,fewer than 2 coinciding goals
+l_2xBPKk,Super Liga,t_47DAlu,Novi Pazar,p_1wGuEe,Bob Murphy Omoregbe,3,894324,Bob Murphy Omoregbe,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_2RmaMX,Racing Club,p_1wbURI,Adrián Martínez,7,598769,Adrián Martínez,4,282283,1,best covers 4/7 goals (< 80%)
+l_0kSJLz,Liga I,t_2EfdWl,Unirea Slobozia,p_1wcxDK,Cristian Ponde,3,,,0,,0,no coinciding Transfermarkt goal
+l_3zsMpo,Bundesliga,t_3A58ap,Rapid Wien,p_1wolSJ,Louis Schaub,3,147485,Louis Schaub,2,579928,1,best covers 2/3 goals (< 80%)
+l_2WZ2tt,Conference League,t_3A58ap,Rapid Wien,p_1wolSJ,Louis Schaub,3,147485,Louis Schaub,2,579928,1,best covers 2/3 goals (< 80%)
+l_45VZuL,Liga Profesional,t_2M7cot,Central Córdoba de Santiago,p_1xKto7,Jonathan Galván,1,,,0,,0,no coinciding Transfermarkt goal
+l_2L6d1F,First Division A,t_1mTmMO,Club Brugge,p_1xiK9q,Carlos Forbs,10,742451,Carlos Forbs,5,,0,best covers 5/10 goals (< 80%)
+l_0bfbkO,Champions League,t_1mTmMO,Club Brugge,p_1xiK9q,Carlos Forbs,10,742451,Carlos Forbs,5,,0,best covers 5/10 goals (< 80%)
+l_49Zmno,Superligaen,t_3rFzZU,Silkeborg,p_1xkdFi,Oliver Ross,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_0bW0AU,Banfield,p_1xn0Ep,Lautaro Ríos,1,,,0,,0,no coinciding Transfermarkt goal
+l_49Zmno,Superligaen,t_3rFzZU,Silkeborg,p_1xrSgf,Andreas Poulsen,1,,,0,,0,no coinciding Transfermarkt goal
+l_3v84VE,Liga MX,t_1xzdYt,Tigres,p_1xwoSO,Juan Vigón,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_45vTPl,Atlético Tucumán,p_1yovx2,Mateo Bajamich,2,610228,Mateo Bajamich,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_1dhmUh,Estudiantes de Río Cuarto,p_1yovx2,Mateo Bajamich,2,610228,Mateo Bajamich,1,,0,fewer than 2 coinciding goals
+l_1D8Xrl,Serie A,t_1QWIMY,Vasco da Gama,p_1yxG88,Thiago Mendes,4,135617,Thiago Mendes,3,891353,1,best covers 3/4 goals (< 80%)
+l_45VZuL,Liga Profesional,t_3qkV0m,Sarmiento,p_1zCh3h,Jonatan Gomez,1,84377,Jonatan Gómez,1,,0,"single goal, minute not identical"
+l_2ApGa4,J. League,t_2731yf,Machida Zelvia,p_1zNiFV,Gen Shōji,4,164277,Gen Shoji,2,909998,1,best covers 2/4 goals (< 80%)
+l_45VZuL,Liga Profesional,t_1QqhS7,San Lorenzo,p_1zRg0F,Fabricio López,1,,,0,,0,no coinciding Transfermarkt goal
+l_0kSJLz,Liga I,t_36ZG9o,Csikszereda,p_1zoDVI,Attila Csürös,2,724573,Attila Csürös,1,,0,fewer than 2 coinciding goals
+l_3xwVF2,Super League 1,t_3uzoWx,AE Larissa,p_1zq0So,Lubomir Tupta,8,344806,Lubomir Tupta,3,,0,best covers 3/8 goals (< 80%)
+l_4WFCIZ,Premier League,t_0msSwp,Nottingham Forest,p_1ztoJZ,Dan Ndoye,3,365108,Dan Ndoye,2,,0,best covers 2/3 goals (< 80%)
+l_38d9HA,Europa League,t_0msSwp,Nottingham Forest,p_1ztoJZ,Dan Ndoye,3,365108,Dan Ndoye,2,,0,best covers 2/3 goals (< 80%)
+l_1XLtP0,World Cup,t_1sdYCl,Switzerland,p_1ztoJZ,Dan Ndoye,3,365108,Dan Ndoye,2,,0,best covers 2/3 goals (< 80%)
+l_2ApGa4,J. League,t_3lBlnh,Kyoto Sanga FC,p_20MvpI,Henrique,2,,,0,,0,no coinciding Transfermarkt goal
+l_2EKrnc,K League 1,t_23cF97,Pohang Steelers,p_20oWE7,Yun-Sang Hong,4,639040,Yun-sang Hong,3,,0,best covers 3/4 goals (< 80%)
+l_2EKrnc,K League 1,t_40E4Th,Gimcheon Sangmu,p_20oWE7,Yun-Sang Hong,4,639040,Yun-sang Hong,3,,0,best covers 3/4 goals (< 80%)
+l_2EKrnc,K League 1,t_46FQj1,Daejeon Hana Citizen,p_213QzB,Jun-Beom Kim,3,530750,Jae-hee Jeong,1,558542,1,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_1mrdfo,Nagoya Grampus,p_214HZ4,Yudai Kimura,10,895578,Yudai Kimura,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_3UNtKx,San Martin San Juan,p_219N05,Diego González,2,,,0,,0,no coinciding Transfermarkt goal
+l_49Zmno,Superligaen,t_4eCFHQ,FC København,p_21PkNY,Thomas Delaney,1,,,0,,0,no coinciding Transfermarkt goal
+l_2Mh0jT,Premier League,t_2gyKuh,FC Krasnodar,p_21YcL5,Diego Costa,4,546212,Diego Costa,3,381724,1,best covers 3/4 goals (< 80%)
+l_49Zmno,Superligaen,t_4eCFHQ,FC København,p_21ZlRO,Geovanni Vianney,2,,,0,,0,no coinciding Transfermarkt goal
+l_0kSJLz,Liga I,t_1Kvoa4,Farul Constanţa,p_21dER2,Iustin Doicaru,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_1Fzy5s,River Plate,p_21gmQu,Marcos Acuña,1,,,0,,0,no coinciding Transfermarkt goal
+l_0eg6C9,MLS,t_0ptYTE,Portland Timbers,p_21v2Go,Felipe Mora,3,176927,Felipe Mora,1,,0,fewer than 2 coinciding goals
+l_4WFCIZ,Premier League,t_2I313i,Manchester United,p_220Dot,Amad Diallo,4,536835,Amad Diallo,3,,0,best covers 3/4 goals (< 80%)
+l_1XLtP0,World Cup,t_4NoJRj,Ivory Coast,p_220Dot,Amad Diallo,4,536835,Amad Diallo,3,,0,best covers 3/4 goals (< 80%)
+l_4WFCIZ,Premier League,t_1c1ZPD,Fulham,p_22Ahvs,Issa Diop,2,272622,Issa Diop,1,,0,fewer than 2 coinciding goals
+l_1XLtP0,World Cup,t_3Rr7NK,Morocco,p_22Ahvs,Issa Diop,2,272622,Issa Diop,1,,0,fewer than 2 coinciding goals
+l_3v84VE,Liga MX,t_06pffY,Atlas,p_22Ttj2,Matheus Dória,2,213841,Matheus Dória,1,,0,fewer than 2 coinciding goals
+l_1D8Xrl,Serie A,t_25lns2,São Paulo,p_22Ttj2,Matheus Dória,2,213841,Matheus Dória,1,,0,fewer than 2 coinciding goals
+l_0eg6C9,MLS,t_3BC5BT,DC United,p_23QRAr,Lucas Bartlett,2,972456,Lucas Bartlett,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_02LuKO,Talleres,p_23S3AO,Augusto Schott,5,670566,Augusto Schott,3,,0,best covers 3/5 goals (< 80%)
+l_2ApGa4,J. League,t_25A1QK,JEF United Chiba,p_23ZXF0,Daichi Ishikawa,3,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_0otcXZ,Boca Juniors,p_24WvT5,Rodrigo Andrés Battaglia,3,,,0,,0,no coinciding Transfermarkt goal
+l_2ApGa4,J. League,t_2fx2NT,Fagiano Okayama FC,p_250CiU,Hiroshi Omori,1,,,0,,0,no coinciding Transfermarkt goal
+l_2WZ2tt,Conference League,t_2jeqmO,AEK Athens,p_25bmwB,Domagoj Vida,1,46083,Domagoj Vida,1,,0,"single goal, minute not identical"
+l_4d6Bwl,Super League,t_0mQK0a,St. Gallen,p_25yNpV,Christian Witzig,4,507490,Christian Witzig,3,392133,1,best covers 3/4 goals (< 80%)
+l_0F4I4F,1. Liga,t_1OB46o,Teplice,p_262mRJ,Lukás Marecek,1,,,0,,0,no coinciding Transfermarkt goal
+l_0kSJLz,Liga I,t_0T7psQ,FCSB,p_26b7YV,Ofri Arad,2,200495,Ofri Arad,1,,0,fewer than 2 coinciding goals
+l_0bfbkO,Champions League,t_0Gz1mu,Kairat Almaty,p_26b7YV,Ofri Arad,2,200495,Ofri Arad,1,,0,fewer than 2 coinciding goals
+l_3v84VE,Liga MX,t_3aG59l,Chivas,p_26c3nZ,Cade Cowell,3,647235,Cade Cowell,1,,0,fewer than 2 coinciding goals
+l_0eg6C9,MLS,t_49deIt,Red Bull New York,p_26c3nZ,Cade Cowell,3,647235,Cade Cowell,1,,0,fewer than 2 coinciding goals
+l_3xwVF2,Super League 1,t_0rCy1r,Panetolikos,p_26fiia,Kosta Aleksić,5,586925,Kosta Aleksic,3,,0,best covers 3/5 goals (< 80%)
+l_2ApGa4,J. League,t_25A1QK,JEF United Chiba,p_2703mf,Takuya Yasui,2,,,0,,0,no coinciding Transfermarkt goal
+l_0kSJLz,Liga I,t_1UKod6,Metaloglobus,p_27HwDI,Moses Abbey,2,,,0,,0,no coinciding Transfermarkt goal
+l_3v84VE,Liga MX,t_3aG59l,Chivas,p_27VJyN,Jonathan Padilla,1,955756,Yael Padilla,1,704557,1,single goal with several candidates
+l_0kSJLz,Liga I,t_1Kvoa4,Farul Constanţa,p_27YGph,Denis Alibec,6,81396,Denis Alibec,3,,0,best covers 3/6 goals (< 80%)
+l_2ApGa4,J. League,t_4Oonn6,Sanfrecce Hiroshima,p_27lDPQ,Valère Germain,2,60540,Valère Germain,1,,0,fewer than 2 coinciding goals
+l_3v84VE,Liga MX,t_0cPdCL,Cruz Azul,p_27uQJ5,Carlos Rodolfo Rotondi,6,448414,Alan Medina,1,553422,1,fewer than 2 coinciding goals
+l_2L6d1F,First Division A,t_4GqgXb,Cercle Brugge,p_27xr5Q,Oumar Diakité,7,847279,Oumar Diakité,3,,0,best covers 3/7 goals (< 80%)
+l_2ApGa4,J. League,t_1W837G,V-Varen Nagasaki,p_284605,Eduardo,1,,,0,,0,no coinciding Transfermarkt goal
+l_2xBPKk,Super Liga,t_1YGq6m,Javor,p_28SSa6,Lazar Mićić,2,592867,Lazar Micic,1,,0,fewer than 2 coinciding goals
+l_1LMdEO,Premiership,t_2uXQev,Motherwell,p_28T7cU,Johnny Koutroumbis,1,456583,John Koutroumbis,1,547924,1,single goal with several candidates
+l_2ApGa4,J. League,t_1E6Pbm,Shimizu S-Pulse,p_28Z2s1,Kazuki Kozuka,3,250984,Kazuki Kozuka,2,353900,1,best covers 2/3 goals (< 80%)
+l_45VZuL,Liga Profesional,t_1dhmUh,Estudiantes de Río Cuarto,p_28qGUE,Matías Valenti,1,621403,Mauro Valiente,1,,0,"single goal, names share no token"
+l_2EKrnc,K League 1,t_431dP7,FC Anyang,p_28tIH1,Thomas Kotte,3,347038,Thomas Oude Kotte,2,,0,best covers 2/3 goals (< 80%)
+l_1D8Xrl,Serie A,t_1iVO3o,Botafogo,p_29T4NU,David Ricardo,1,985172,David Ricardo,1,,0,"single goal, minute not identical"
+l_3zsMpo,Bundesliga,t_3qXYYf,Hartberg,p_29U45r,Dominic Vincze,1,679865,Dominic Vincze,1,,0,"single goal, minute not identical"
+l_3v84VE,Liga MX,t_3aG59l,Chivas,p_29hLy2,Armando González,24,837619,Armando González,12,857491,1,best covers 12/24 goals (< 80%)
+l_0kSJLz,Liga I,t_2xzRUe,Petrolul 52,p_29lQ5g,Abat Aimbetov,1,,,0,,0,no coinciding Transfermarkt goal
+l_2ApGa4,J. League,t_3lBlnh,Kyoto Sanga FC,p_29uBW5,João Pedro,3,,,0,,0,no coinciding Transfermarkt goal
+l_3zsMpo,Bundesliga,t_0BUzDV,Grazer AK,p_2A0tHO,Jacob Italiano,4,545810,Jacob Italiano,3,,0,best covers 3/4 goals (< 80%)
+l_3xwVF2,Super League 1,t_48GNlO,Aris Thessaloniki,p_2A3q3e,Martin Hongla,2,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_2rXlDo,Instituto,p_2AQDyY,Jhon Córdoba,3,628879,Jhon Córdoba,1,,0,fewer than 2 coinciding goals
+l_3v84VE,Liga MX,t_3aG59l,Chivas,p_2AUrp7,Richard Ledezma,1,740574,Jordán Carrillo,1,575367,1,single goal with several candidates
+l_0eg6C9,MLS,t_09gmAn,Chicago Fire FC,p_2Adpkh,Carlos Terán,1,649184,Carlos Terán,1,,0,"single goal, minute not identical"
+l_2ApGa4,J. League,t_1mTqNS,Yokohama F.Marinos,p_2Agwb3,Daiya Tono,3,,,0,,0,no coinciding Transfermarkt goal
+l_3xwVF2,Super League 1,t_3ezqyM,Levadiakos,p_2AvYgM,Marios Vichos,2,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_2qXAzu,Huracán,p_2BQd7q,Leandro Lescano,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_1Fzy5s,River Plate,p_2BSeTF,Maximiliano Meza,1,,,0,,0,no coinciding Transfermarkt goal
+l_3xwVF2,Super League 1,t_2DRkpy,Asteras Tripolis,p_2CKCLm,Ketu Jih Kalvin,3,490763,Kalvin Ketu,2,,0,best covers 2/3 goals (< 80%)
+l_2EKrnc,K League 1,t_46FQj1,Daejeon Hana Citizen,p_2CVPfW,Geon-Joo Choi,4,750200,Geon-joo Choi,3,,0,best covers 3/4 goals (< 80%)
+l_2EKrnc,K League 1,t_431dP7,FC Anyang,p_2CVPfW,Geon-Joo Choi,4,750200,Geon-joo Choi,3,,0,best covers 3/4 goals (< 80%)
+l_2ApGa4,J. League,t_49j3Z1,Kashiwa Reysol,p_2CbUoL,Yuki Kakita,4,733097,Taiki Arai,1,415033,1,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_2qXAzu,Huracán,p_2CcRpn,Fabio Pereyra,1,,,0,,0,no coinciding Transfermarkt goal
+l_3v84VE,Liga MX,t_0cPdCL,Cruz Azul,p_2D5WK3,Mateusz Bogusz,3,431475,Mateusz Bogusz,2,,0,best covers 2/3 goals (< 80%)
+l_0eg6C9,MLS,t_2L8yh8,Houston Dynamo FC,p_2D5WK3,Mateusz Bogusz,3,431475,Mateusz Bogusz,2,,0,best covers 2/3 goals (< 80%)
+l_45VZuL,Liga Profesional,t_1HsET8,Estudiantes,p_2DQVsu,Eric Meza,1,,,0,,0,no coinciding Transfermarkt goal
+l_49Zmno,Superligaen,t_0CWBdu,OB,p_2DREwM,Jona Niemiec,5,809682,Jona Niemiec,3,518583,1,best covers 3/5 goals (< 80%)
+l_214sqK,Ekstraklasa,t_153En9,Lechia Gdańsk,p_2DbCDC,Dawid Kurminowski,4,346549,Dawid Kurminowski,3,,0,best covers 3/4 goals (< 80%)
+l_45VZuL,Liga Profesional,t_3TbOfu,Deportivo Riestra,p_2DxNya,Alexander Díaz,2,,,0,,0,no coinciding Transfermarkt goal
+l_3xwVF2,Super League 1,t_2DRkpy,Asteras Tripolis,p_2EAE39,Nikolai Alho,1,,,0,,0,no coinciding Transfermarkt goal
+l_2xBPKk,Super Liga,t_1YGq6m,Javor,p_2Efh0Z,Hervé Touré,2,,,0,,0,no coinciding Transfermarkt goal
+l_2EKrnc,K League 1,t_431dP7,FC Anyang,p_2FCyKY,Bruno Mota,7,643242,Bruno Mota,3,,0,best covers 3/7 goals (< 80%)
+l_2EKrnc,K League 1,t_3EXLOF,Jeonbuk Hyundai Motors FC,p_2FCyKY,Bruno Mota,7,643242,Bruno Mota,3,,0,best covers 3/7 goals (< 80%)
+l_45VZuL,Liga Profesional,t_3FROV0,Barracas Central,p_2FOJTC,Lucas Emanuel Gamba,1,1074969,Ian Subiabre,1,125906,1,single goal with several candidates
+l_49Zmno,Superligaen,t_2y8zLm,Fredericia,p_2FrzTa,Friday Etim,5,929600,Friday Etim,1,,0,fewer than 2 coinciding goals
+l_3v84VE,Liga MX,t_1xzdYt,Tigres,p_2FxbXP,Marcelo Flores,4,668495,Marcelo Flores,3,384368,1,best covers 3/4 goals (< 80%)
+l_3v84VE,Liga MX,t_08l6Cu,Pumas,p_2GY7lh,José Macias,4,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_1XZg6T,Independiente,p_2GcFwZ,Lautaro Millán,2,1240381,Lautaro Millán,1,,0,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_2731yf,Machida Zelvia,p_2GcaND,Ibrahim Drešević,1,,,0,,0,no coinciding Transfermarkt goal
+l_0uqFK8,Eliteserien,t_2Qs9XR,FK Haugesund,p_2HCfWA,Mikkel Hope,1,1015705,,1,,0,"single goal, names share no token"
+l_0F4I4F,1. Liga,t_41GCDg,Slavia Prague,p_2HJVPA,Michal Sadílek,2,321204,Michal Sadílek,2,670681,1,runner-up too close
+l_1XLtP0,World Cup,t_4335Nu,Czechia,p_2HJVPA,Michal Sadílek,2,321204,Michal Sadílek,2,670681,1,runner-up too close
+l_45VZuL,Liga Profesional,t_3XuEvf,Argentinos Juniors,p_2HueRI,Gabriel Florentín,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_3qkV0m,Sarmiento,p_2IanNl,Gabriel Díaz,1,,,0,,0,no coinciding Transfermarkt goal
+l_3v84VE,Liga MX,t_33VE4n,Toluca,p_2IeFeE,Paulinho,21,211072,Paulinho,6,860857,1,best covers 6/21 goals (< 80%)
+l_3zsMpo,Bundesliga,t_3A58ap,Rapid Wien,p_2IgR5n,Andreas Weimann,1,49693,Andreas Weimann,1,,0,"single goal, minute not identical"
+l_2xBPKk,Super Liga,t_2gwv05,Železničar Pančevo,p_2ImlwE,Branislav Knežević,3,726525,Branislav Knezevic,2,,0,best covers 2/3 goals (< 80%)
+l_2ApGa4,J. League,t_3lBlnh,Kyoto Sanga FC,p_2J6mfv,Marco Túlio,9,551275,Marco Túlio,4,,0,best covers 4/9 goals (< 80%)
+l_3v84VE,Liga MX,t_0cPdCL,Cruz Azul,p_2JvCUE,Gabriel Fernández,14,259930,Gabriel Fernández,5,190804,1,best covers 5/14 goals (< 80%)
+l_2ApGa4,J. League,t_1kSmQT,Yokohama FC,p_2JydZQ,Boniface Nduka,2,554495,Boniface Nduka,1,,0,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_0LfLJ4,Vissel Kobe,p_2JydZQ,Boniface Nduka,2,554495,Boniface Nduka,1,,0,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_01uUy2,Mito Hollyhock,p_2K1oKh,Hayata Yamamoto,1,,,0,,0,no coinciding Transfermarkt goal
+l_0eg6C9,MLS,t_3QNs7g,Sporting Kansas City,p_2KVU63,Lasse Berg Johnsen,2,663424,Lasse Berg Johnsen,2,284883,1,runner-up too close
+l_38d9HA,Europa League,t_0BJtVe,Malmö FF,p_2KVU63,Lasse Berg Johnsen,2,663424,Lasse Berg Johnsen,2,284883,1,runner-up too close
+l_1D8Xrl,Serie A,t_0BNCm8,Corinthians,p_2KaQPm,Dieguinho,1,1257132,Dieguinho,1,,0,"single goal, minute not identical"
+l_3xwVF2,Super League 1,t_3uzoWx,AE Larissa,p_2KniOU,Facundo Pérez,4,700182,Facundo Pérez,3,,0,best covers 3/4 goals (< 80%)
+l_3v84VE,Liga MX,t_3aG59l,Chivas,p_2Kv0nf,Luis Romo,2,532938,Luis Romo,1,,0,fewer than 2 coinciding goals
+l_1XLtP0,World Cup,t_0IuuRb,Mexico,p_2Kv0nf,Luis Romo,2,532938,Luis Romo,1,,0,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_49j3Z1,Kashiwa Reysol,p_2L4S29,Hayato Nakama,3,177131,Hayato Nakama,2,914004,1,best covers 2/3 goals (< 80%)
+l_2ApGa4,J. League,t_49j3Z1,Kashiwa Reysol,p_2M7h24,Tojiro Kubo,5,589813,Tojiro Kubo,3,594069,1,best covers 3/5 goals (< 80%)
+l_2ApGa4,J. League,t_3lBlnh,Kyoto Sanga FC,p_2ML3Cu,Masaya Okugawa,2,307052,Masaya Okugawa,1,,0,fewer than 2 coinciding goals
+l_0kSJLz,Liga I,t_1zLfCo,Rapid Bucureşti,p_2Mj8qP,Constantin Grameni,4,568578,Constantin Grameni,3,,0,best covers 3/4 goals (< 80%)
+l_0eg6C9,MLS,t_3BC5BT,DC United,p_2MnCfd,Kye Rowles,1,399990,Kye Rowles,1,,0,"single goal, minute not identical"
+l_2L6d1F,First Division A,t_3UiOcj,Sporting Charleroi,p_2N3WiK,Patrick Pflücke,4,159522,Patrick Pflücke,3,,0,best covers 3/4 goals (< 80%)
+l_45VZuL,Liga Profesional,t_3FROV0,Barracas Central,p_2N9XHp,Iván Tapia,2,697405,Iván Tapia,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_2rD0OF,Aldosivi,p_2N9wLu,Federico Gino,3,273130,Federico Gino,2,831161,1,best covers 2/3 goals (< 80%)
+l_45VZuL,Liga Profesional,t_1Fzy5s,River Plate,p_2NHgvd,Facundo Colidio,7,491705,Facundo Colidio,3,830841,1,best covers 3/7 goals (< 80%)
+l_2xBPKk,Super Liga,t_3x2u7P,Radnik Surdulica,p_2Na8J6,Borko Duronjić,3,146396,Borko Duronjic,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_0rsFNq,Lanús,p_2Nni2m,Lautaro Acosta,1,,,0,,0,no coinciding Transfermarkt goal
+l_2L6d1F,First Division A,t_3o2Gex,Genk,p_2NqI1E,Junya Ito,7,348791,Junya Ito,5,,0,best covers 5/7 goals (< 80%)
+l_1XLtP0,World Cup,t_1I9yHx,Japan,p_2NqI1E,Junya Ito,7,348791,Junya Ito,5,,0,best covers 5/7 goals (< 80%)
+l_45VZuL,Liga Profesional,t_3mLGSt,Newell's Old Boys,p_2Nqqrm,Facundo Samuel Guch,3,1377866,Facundo Guch,1,,0,fewer than 2 coinciding goals
+l_3v84VE,Liga MX,t_33VE4n,Toluca,p_2NwqcF,Antonio Briseño,3,107444,Antonio Briseño,2,844725,1,best covers 2/3 goals (< 80%)
+l_2ApGa4,J. League,t_0LfLJ4,Vissel Kobe,p_2OEARR,Yuta Goke,1,,,0,,0,no coinciding Transfermarkt goal
+l_3zsMpo,Bundesliga,t_3I73GL,BW Linz,p_2OfWWP,Alexander Briedl,1,531634,Alexander Briedl,1,,0,"single goal, minute not identical"
+l_3v84VE,Liga MX,t_1xzdYt,Tigres,p_2P6SR5,Juan Brunetta,19,466268,Juan Brunetta,7,344854,1,best covers 7/19 goals (< 80%)
+l_0eg6C9,MLS,t_0vjCk0,CF Montréal,p_2PGhVB,Fabian Herbers,1,196077,Fabian Herbers,1,,0,"single goal, minute not identical"
+l_0F4I4F,1. Liga,t_1OB46o,Teplice,p_2PIM8v,Matyáš Kozák,4,486748,Matyas Kozak,3,,0,best covers 3/4 goals (< 80%)
+l_3v84VE,Liga MX,t_16UjNo,Puebla,p_2PgJKQ,Ricardo Marín,7,400194,Ricardo Marín,2,388266,1,best covers 2/7 goals (< 80%)
+l_3v84VE,Liga MX,t_3aG59l,Chivas,p_2PgJKQ,Ricardo Marín,7,400194,Ricardo Marín,2,388266,1,best covers 2/7 goals (< 80%)
+l_1D8Xrl,Serie A,t_1xkjGG,Coritiba,p_2Pm4h5,Bruno Melo,1,538230,Bruno Melo,1,,0,"single goal, minute not identical"
+l_1D8Xrl,Serie A,t_4NUcOH,Juventude,p_2Q0c6F,Wilker Angel,1,178400,Wilker Ángel,1,,0,"single goal, minute not identical"
+l_45VZuL,Liga Profesional,t_0bW0AU,Banfield,p_2QUHoA,Martín Río,4,816843,Martín Río,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_02LuKO,Talleres,p_2QUHoA,Martín Río,4,816843,Martín Río,1,,0,fewer than 2 coinciding goals
+l_3v84VE,Liga MX,t_08l6Cu,Pumas,p_2Qj5KB,Alan Medina,4,448414,Alan Medina,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_0SmVI4,Independiente Rivadavia,p_2R7VhN,Sheyko Studer,4,1190390,Sheyko Studer,2,,0,best covers 2/4 goals (< 80%)
+l_49Zmno,Superligaen,t_4eCFHQ,FC København,p_2RDEZS,William Clem,2,,,0,,0,no coinciding Transfermarkt goal
+l_0kSJLz,Liga I,t_365rsF,Hermannstadt,p_2RHTDL,Marko Gjorgjievski,2,584105,Marko Gjorgjievski,1,,0,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_3lBlnh,Kyoto Sanga FC,p_2RaUr7,Rafael Elias,16,587328,Rafael Elias,9,,0,best covers 9/16 goals (< 80%)
+l_45VZuL,Liga Profesional,t_0otcXZ,Boca Juniors,p_2SClaP,Édinson Cavani,2,,,0,,0,no coinciding Transfermarkt goal
+l_49Zmno,Superligaen,t_3rFzZU,Silkeborg,p_2T4Mn4,Callum McCowatt,11,400797,Callum McCowatt,8,,0,best covers 8/11 goals (< 80%)
+l_0kSJLz,Liga I,t_36ZG9o,Csikszereda,p_2TCrh1,Gustavinho,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_1Fzy5s,River Plate,p_2TH5aa,Giuliano Galoppo,6,567249,Giuliano Galoppo,1,,0,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_1E6Pbm,Shimizu S-Pulse,p_2USKMz,Yudai Shimamoto,3,,,0,,0,no coinciding Transfermarkt goal
+l_2WZ2tt,Conference League,t_0SYp29,Breidablik,p_2VDmfk,Kristinn Jónsson,1,543501,Ibrahim Sadiq,1,90035,1,single goal with several candidates
+l_45VZuL,Liga Profesional,t_1Fzy5s,River Plate,p_2VOvJj,Gonzalo Montiel,6,402733,Gonzalo Montiel,4,567736,1,best covers 4/6 goals (< 80%)
+l_45VZuL,Liga Profesional,t_3mLGSt,Newell's Old Boys,p_2VZI2F,Carlos González,3,,,0,,0,no coinciding Transfermarkt goal
+l_0F4I4F,1. Liga,t_33z5hz,Jablonec,p_2W854f,Eduard Sobol,1,,,0,,0,no coinciding Transfermarkt goal
+l_49Zmno,Superligaen,t_3W62M7,Sønderjyske,p_2WC79H,Mohamed Cherif,4,1179260,Mohamed Cherif Haidara,3,,0,best covers 3/4 goals (< 80%)
+l_2xBPKk,Super Liga,t_4JIp6m,Vojvodina,p_2Wy3Wa,Njegoš Petrović,4,376588,Njegos Petrovic,3,,0,best covers 3/4 goals (< 80%)
+l_2WZ2tt,Conference League,t_28up0p,Zrinjski Mostar,p_2X5DCD,Slobodan Jakovljevic,1,991487,Abdoul Ouattara,1,145994,1,single goal with several candidates
+l_2ApGa4,J. League,t_1mTqNS,Yokohama F.Marinos,p_2X5rbU,Yuri,3,,,0,,0,no coinciding Transfermarkt goal
+l_0kSJLz,Liga I,t_1d3str,Dinamo Bucureşti,p_2XahvL,George Puscas,1,,,0,,0,no coinciding Transfermarkt goal
+l_3v84VE,Liga MX,t_3aG59l,Chivas,p_2XvgMc,Santiago Sandoval,6,1260851,Santiago Sandoval,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_1L8FaD,Tigre,p_2XxKRC,Braian Martínez,2,,,0,,0,no coinciding Transfermarkt goal
+l_2ApGa4,J. League,t_4Oonn6,Sanfrecce Hiroshima,p_2Y38cO,Ryo Germain,3,,,0,,0,no coinciding Transfermarkt goal
+l_3v84VE,Liga MX,t_33VE4n,Toluca,p_2Y8DYw,Bruno Méndez,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_3FROV0,Barracas Central,p_2YBNQo,Kevin Jappert,2,68747,Diego Churín,1,1020837,1,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_0rsFNq,Lanús,p_2YLj3q,José Canale,4,,,0,,0,no coinciding Transfermarkt goal
+l_4WFCIZ,Premier League,t_1gkhxH,Arsenal,p_2Yd5On,Kai Havertz,9,309400,Kai Havertz,7,,0,best covers 7/9 goals (< 80%)
+l_0bfbkO,Champions League,t_1gkhxH,Arsenal,p_2Yd5On,Kai Havertz,9,309400,Kai Havertz,7,,0,best covers 7/9 goals (< 80%)
+l_1XLtP0,World Cup,t_4Jybsf,Germany,p_2Yd5On,Kai Havertz,9,309400,Kai Havertz,7,,0,best covers 7/9 goals (< 80%)
+l_45VZuL,Liga Profesional,t_0otcXZ,Boca Juniors,p_2YmbG0,Milton Giménez,9,730779,Milton Giménez,3,,0,best covers 3/9 goals (< 80%)
+l_1D8Xrl,Serie A,t_3npCjp,Cruzeiro,p_2Z5hbO,Kaiki,1,879217,Kaiki,1,,0,"single goal, minute not identical"
+l_45VZuL,Liga Profesional,t_3FROV0,Barracas Central,p_2Z965r,Nicolas Blandi,1,,,0,,0,no coinciding Transfermarkt goal
+l_49Zmno,Superligaen,t_0IweBQ,Vejle Boldklub,p_2ZBZs7,Lasse Flø,1,,,0,,0,no coinciding Transfermarkt goal
+l_2WZ2tt,Conference League,t_0dvYbV,KuPS,p_2ZO95J,Petteri Pennanen,1,155202,Piotr Parzyszek,1,226190,1,single goal with several candidates
+l_3FJFUl,Ligue 1,t_0tnX1I,Lille,p_2ZpAw9,Osame Sahraoui,1,580657,Osame Sahraoui,1,885445,1,single goal with several candidates
+l_45VZuL,Liga Profesional,t_1Fzy5s,River Plate,p_2aHbDR,Sebastián Driussi,7,294853,Sebastián Driussi,4,675468,1,best covers 4/7 goals (< 80%)
+l_3v84VE,Liga MX,t_1Qxyck,Querétaro FC,p_2aQGkb,Jhojan Julio,4,390926,Jhojan Julio,3,,0,best covers 3/4 goals (< 80%)
+l_2EKrnc,K League 1,t_04Kt4F,Ulsan HD FC,p_2c1Fg2,Hyun-Taek Cho,1,,,0,,0,no coinciding Transfermarkt goal
+l_0kSJLz,Liga I,t_2EfdWl,Unirea Slobozia,p_2c7bxw,Florin Flavius Purece,7,203059,Florin Purece,4,,0,best covers 4/7 goals (< 80%)
+l_0kSJLz,Liga I,t_1UKod6,Metaloglobus,p_2c7bxw,Florin Flavius Purece,7,203059,Florin Purece,4,,0,best covers 4/7 goals (< 80%)
+l_45VZuL,Liga Profesional,t_1XZg6T,Independiente,p_2c9Jkj,Santiago Gabriel Montiel,3,974336,Santiago Montiel,1,,0,fewer than 2 coinciding goals
+l_2L6d1F,First Division A,t_3rAYPk,OH Leuven,p_2cBUqG,Abdoul Traoré,2,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_1Fzy5s,River Plate,p_2cIE4k,Maximiliano Salas,3,442231,Maximiliano Salas,1,991134,1,fewer than 2 coinciding goals
+l_3xwVF2,Super League 1,t_27hFVh,Atromitos,p_2cayYn,Makana Baku,10,336974,Makana Baku,3,,0,best covers 3/10 goals (< 80%)
+l_2ApGa4,J. League,t_49j3Z1,Kashiwa Reysol,p_2ciogU,Yudai Konishi,1,433922,Yudai Konishi,1,589813,1,single goal with several candidates
+l_1D8Xrl,Serie A,t_39HXUo,Mirassol,p_2cm4Hy,Neto,1,329843,Neto Moura,1,,0,"single goal, minute not identical"
+l_2EKrnc,K League 1,t_3LZ4n2,Gwangju FC,p_2cpJek,Chang-Moo Sin,4,319282,Chang-moo Shin,3,,0,best covers 3/4 goals (< 80%)
+l_2ApGa4,J. League,t_1mTqNS,Yokohama F.Marinos,p_2dqm1L,Jordy Croux,3,250984,Kazuki Kozuka,1,353900,1,fewer than 2 coinciding goals
+l_2Mh0jT,Premier League,t_1LtiUA,CSKA Moscow,p_2dzVh1,Danila Kozlov,2,720287,Danila Kozlov,2,1242657,1,runner-up too close
+l_45VZuL,Liga Profesional,t_0otcXZ,Boca Juniors,p_2ecIB1,Alan Velasco,3,661154,Alan Velasco,2,,0,best covers 2/3 goals (< 80%)
+l_49Zmno,Superligaen,t_4eCFHQ,FC København,p_2etDxb,Viktor Claesson,6,116598,Viktor Claesson,3,,0,best covers 3/6 goals (< 80%)
+l_4WFCIZ,Premier League,t_2xPV6y,Sunderland,p_2f9uIs,Habib Diarra,4,876631,Habib Diarra,3,,0,best covers 3/4 goals (< 80%)
+l_1XLtP0,World Cup,t_2enEEp,Senegal,p_2f9uIs,Habib Diarra,4,876631,Habib Diarra,3,,0,best covers 3/4 goals (< 80%)
+l_45VZuL,Liga Profesional,t_1HsET8,Estudiantes,p_2ffBRo,Santiago Núñez,2,959208,Santiago Núñez,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_3XuEvf,Argentinos Juniors,p_2ffcqe,Facundo Jainikoski,1,,,0,,0,no coinciding Transfermarkt goal
+l_49Zmno,Superligaen,t_4eVDVk,Viborg,p_2fqPio,Sami Jalal Karchoud,3,1007138,Sami Jalal,2,,0,best covers 2/3 goals (< 80%)
+l_3v84VE,Liga MX,t_1xzdYt,Tigres,p_2gRc8z,Ivan Lopez,1,370861,Iván López,1,441287,1,single goal with several candidates
+l_0F4I4F,1. Liga,t_33z5hz,Jablonec,p_2gXNxR,Filip Zorvan,2,297680,Filip Zorvan,1,,0,fewer than 2 coinciding goals
+l_2tFk9k,HNL,t_3jcZgw,Lokomotiva Zagreb,p_2h4rGN,Fabijan Krivak,5,946974,Fabijan Krivak,3,,0,best covers 3/5 goals (< 80%)
+l_0F4I4F,1. Liga,t_1f8Jae,Sigma Olomouc,p_2h4rGN,Fabijan Krivak,5,946974,Fabijan Krivak,3,,0,best covers 3/5 goals (< 80%)
+l_45VZuL,Liga Profesional,t_0rGDE4,Gimnasia LP,p_2h5dHt,Manuel Panaro,5,836252,Manuel Panaro,1,,0,fewer than 2 coinciding goals
+l_49Zmno,Superligaen,t_3W62M7,Sønderjyske,p_2hAvHf,Olti Hyseni,5,1034532,Olti Hyseni,2,,0,best covers 2/5 goals (< 80%)
+l_0F4I4F,1. Liga,t_10bdCj,Karviná,p_2hCkYz,Albert Labík,2,671518,Albert Labik,1,,0,fewer than 2 coinciding goals
+l_3v84VE,Liga MX,t_1wrUAV,Monterrey,p_2hU9G6,Sergio Canales,13,66106,Sergio Canales,3,,0,best covers 3/13 goals (< 80%)
+l_45VZuL,Liga Profesional,t_1Fzy5s,River Plate,p_2ho6O3,Lucas Martínez Quarta,2,494219,Brahian Cuello,1,373373,1,fewer than 2 coinciding goals
+l_4WFCIZ,Premier League,t_1gkhxH,Arsenal,p_2hsn66,Gabriel Martinelli,8,655488,Gabriel Martinelli,6,,0,best covers 6/8 goals (< 80%)
+l_0bfbkO,Champions League,t_1gkhxH,Arsenal,p_2hsn66,Gabriel Martinelli,8,655488,Gabriel Martinelli,6,,0,best covers 6/8 goals (< 80%)
+l_1XLtP0,World Cup,t_3PHH2o,Brazil,p_2hsn66,Gabriel Martinelli,8,655488,Gabriel Martinelli,6,,0,best covers 6/8 goals (< 80%)
+l_0uqFK8,Eliteserien,t_18X5R3,Rosenborg,p_2ibjYq,Santeri Väänänen,1,564621,Santeri Väänänen,1,,0,"single goal, minute not identical"
+l_3xwVF2,Super League 1,t_3AH224,NFC Volos,p_2j4zoR,Giannis Kargas,1,,,0,,0,no coinciding Transfermarkt goal
+l_0F4I4F,1. Liga,t_10bdCj,Karviná,p_2jEBkC,Kahuan Vinícius,2,1043547,Kahuan Vinícius,1,,0,fewer than 2 coinciding goals
+l_3v84VE,Liga MX,t_08l6Cu,Pumas,p_2jRIRP,Pedro Vite,2,659806,Pedro Vite,1,,0,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_3RSWKx,Kashima Antlers,p_2jb9c2,Ryotaro Araki,1,,,0,,0,no coinciding Transfermarkt goal
+l_49Zmno,Superligaen,t_3W62M7,Sønderjyske,p_2jdZzI,Sefer Emini,2,,,0,,0,no coinciding Transfermarkt goal
+l_3xwVF2,Super League 1,t_1uUsje,Kifisia FC,p_2jvflp,Jorge Pombo,10,336747,Jorge Pombo,6,,0,best covers 6/10 goals (< 80%)
+l_45VZuL,Liga Profesional,t_0bW0AU,Banfield,p_2kLWqN,Bruno Sepúlveda,2,,,0,,0,no coinciding Transfermarkt goal
+l_3xwVF2,Super League 1,t_48GNlO,Aris Thessaloniki,p_2kTL9r,Uroš Račić,3,417575,Uros Racic,2,,0,best covers 2/3 goals (< 80%)
+l_2ApGa4,J. League,t_01uUy2,Mito Hollyhock,p_2kXFHo,Patryck,1,,,0,,0,no coinciding Transfermarkt goal
+l_2ApGa4,J. League,t_2fx2NT,Fagiano Okayama FC,p_2kxEMn,Towa Yamane,2,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_3UNtKx,San Martin San Juan,p_2kynYz,Santiago Barrera,1,,,0,,0,no coinciding Transfermarkt goal
+l_2L6d1F,First Division A,t_2J5yFC,Anderlecht,p_2l73xQ,Ilay Camara,2,570781,Ilay Camara,1,,0,fewer than 2 coinciding goals
+l_0eg6C9,MLS,t_3N3Xe0,Orlando City,p_2l7dSO,Justin Ellis,1,1008429,Justin Ellis,1,,0,"single goal, minute not identical"
+l_2xBPKk,Super Liga,t_4JIp6m,Vojvodina,p_2lC8jt,Milan Kolarević,6,1045282,Milan Kolarevic,4,,0,best covers 4/6 goals (< 80%)
+l_45VZuL,Liga Profesional,t_2qXAzu,Huracán,p_2lZq6R,Luciano Giménez,2,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_02LuKO,Talleres,p_2lzqTc,Ulises Ortegoza,1,,,0,,0,no coinciding Transfermarkt goal
+l_3v84VE,Liga MX,t_08l6Cu,Pumas,p_2mVsrY,Guillermo Martínez,9,347932,Guillermo Martínez,5,,0,best covers 5/9 goals (< 80%)
+l_0eg6C9,MLS,t_0ptYTE,Portland Timbers,p_2mY7qv,Eric Izoita,1,1279978,,1,,0,"single goal, names share no token"
+l_1XsMdH,Allsvenskan,t_1A5Ku8,Elfsborg,p_2n9xXR,Besfort Zeneli,4,715653,Besfort Zeneli,3,,0,best covers 3/4 goals (< 80%)
+l_2L6d1F,First Division A,t_3pK6v1,Union St.Gilloise,p_2n9xXR,Besfort Zeneli,4,715653,Besfort Zeneli,3,,0,best covers 3/4 goals (< 80%)
+l_0kSJLz,Liga I,t_2xzRUe,Petrolul 52,p_2nBJyL,Cristian Ignat,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_2M7cot,Central Córdoba de Santiago,p_2nGaYr,Leonardo Heredia,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_3UNtKx,San Martin San Juan,p_2nfEM8,Marco Iacobellis,1,,,0,,0,no coinciding Transfermarkt goal
+l_49Zmno,Superligaen,t_4eVDVk,Viborg,p_2nnB7j,Asker Beck,2,,,0,,0,no coinciding Transfermarkt goal
+l_1XsMdH,Allsvenskan,t_1sUBD0,IFK Göteborg,p_2nt6iy,Adam Bergmark Wiberg,1,326505,Adam Bergmark Wiberg,1,329714,1,single goal with several candidates
+l_45VZuL,Liga Profesional,t_02LuKO,Talleres,p_2ntj5x,Nahuel Lautaro Bustos,1,,,0,,0,no coinciding Transfermarkt goal
+l_0uqFK8,Eliteserien,t_1XQxdj,Vålerenga,p_2o5MPA,Aaron Kiil Olsen,2,633546,Aaron Kiil Olsen,2,566410,1,runner-up too close
+l_45VZuL,Liga Profesional,t_1rEb7t,Rosario Central,p_2o6eqz,Alejo Véliz,9,888493,Alejo Veliz,4,,0,best covers 4/9 goals (< 80%)
+l_45VZuL,Liga Profesional,t_2rD0OF,Aldosivi,p_2o7feB,Ayrton Preciado,1,,,0,,0,no coinciding Transfermarkt goal
+l_0kSJLz,Liga I,t_2EfdWl,Unirea Slobozia,p_2oWzrB,Denys Yanakov,1,,,0,,0,no coinciding Transfermarkt goal
+l_0uqFK8,Eliteserien,t_2K3SfK,Tromsø,p_2oYBh0,Isak Vådebu,1,822103,Isak Vådebu,1,,0,"single goal, minute not identical"
+l_3v84VE,Liga MX,t_08l6Cu,Pumas,p_2oexHw,Jorge Ruvalcaba,12,950873,Jorge Ruvalcaba,7,,0,best covers 7/12 goals (< 80%)
+l_0eg6C9,MLS,t_49deIt,Red Bull New York,p_2oexHw,Jorge Ruvalcaba,12,950873,Jorge Ruvalcaba,7,,0,best covers 7/12 goals (< 80%)
+l_45VZuL,Liga Profesional,t_0rsFNq,Lanús,p_2ooqPi,Rodrigo Castillo,11,984416,Rodrigo Castillo,4,,0,best covers 4/11 goals (< 80%)
+l_1D8Xrl,Serie A,t_2r3Nxv,Fluminense,p_2ooqPi,Rodrigo Castillo,11,984416,Rodrigo Castillo,4,,0,best covers 4/11 goals (< 80%)
+l_1D8Xrl,Serie A,t_2S65sJ,Santos,p_2opRt3,Miguelito,1,1063811,Miguelito,1,,0,"single goal, minute not identical"
+l_0F4I4F,1. Liga,t_3syz3e,Hradec Králové,p_2ou82J,Alexandr Sojka,3,826103,Alexandr Sojka,1,,0,fewer than 2 coinciding goals
+l_0F4I4F,1. Liga,t_1G8RuA,Viktoria Plzeň,p_2ou82J,Alexandr Sojka,3,826103,Alexandr Sojka,1,,0,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_17gQhK,FC Tokyo,p_2p4KEb,Keita Endo,7,421726,Keita Endo,4,,0,best covers 4/7 goals (< 80%)
+l_1XsMdH,Allsvenskan,t_0uPsiJ,Degerfors,p_2pH1Zu,Philippe Ossibadjouo,1,250838,Dijan Vukojevic,1,1117720,1,single goal with several candidates
+l_3xwVF2,Super League 1,t_1uUsje,Kifisia FC,p_2pbf1z,Yasser Larouci,3,554251,Yasser Larouci,2,,0,best covers 2/3 goals (< 80%)
+l_3v84VE,Liga MX,t_3Wm9EG,Mazatlan FC,p_2ph0K3,Omar Moreno,1,,,0,,0,no coinciding Transfermarkt goal
+l_0F4I4F,1. Liga,t_41GCDg,Slavia Prague,p_2ptM8N,Tomás Holeš,2,216278,Tomas Holes,1,,0,fewer than 2 coinciding goals
+l_3v84VE,Liga MX,t_09cXNN,Necaxa,p_2ptNdT,Agustín Palavecino,8,610590,Agustín Palavecino,5,491707,1,best covers 5/8 goals (< 80%)
+l_3v84VE,Liga MX,t_0cPdCL,Cruz Azul,p_2ptNdT,Agustín Palavecino,8,610590,Agustín Palavecino,5,491707,1,best covers 5/8 goals (< 80%)
+l_2EKrnc,K League 1,t_0fQ6zG,Daegu FC,p_2qfg2n,Chi-In Jung,1,,,0,,0,no coinciding Transfermarkt goal
+l_0kSJLz,Liga I,t_1d3str,Dinamo Bucureşti,p_2qzA5D,Nikita Stoinov,1,,,0,,0,no coinciding Transfermarkt goal
+l_1LMdEO,Premiership,t_0TPUj3,Rangers,p_2rk19k,Thelo Aasgaard,8,647384,Thelo Aasgaard,6,,0,best covers 6/8 goals (< 80%)
+l_1XLtP0,World Cup,t_4KGRnx,Norway,p_2rk19k,Thelo Aasgaard,8,647384,Thelo Aasgaard,6,,0,best covers 6/8 goals (< 80%)
+l_45VZuL,Liga Profesional,t_0SmVI4,Independiente Rivadavia,p_2rnkiH,Maximiliano Amarfil,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_0SmVI4,Independiente Rivadavia,p_2rodt6,Nicolás Retamar,3,991849,Nicolás Retamar,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_2Swqmw,Club Atlético Platense,p_2rodt6,Nicolás Retamar,3,991849,Nicolás Retamar,1,,0,fewer than 2 coinciding goals
+l_0eg6C9,MLS,t_2CuHdk,Vancouver Whitecaps,p_2rvXZj,Daniel Ríos,4,325603,Daniel Ríos,3,447482,1,best covers 3/4 goals (< 80%)
+l_0eg6C9,MLS,t_0vjCk0,CF Montréal,p_2rvXZj,Daniel Ríos,4,325603,Daniel Ríos,3,447482,1,best covers 3/4 goals (< 80%)
+l_2L6d1F,First Division A,t_11R95l,St.Truiden,p_2sP9jG,Loïc Mbe Soh,2,463610,Loïc Mbe Soh,1,,0,fewer than 2 coinciding goals
+l_3xwVF2,Super League 1,t_3rpdJh,Olympiacos,p_2sQXeQ,Rodinei,4,,,0,,0,no coinciding Transfermarkt goal
+l_0eg6C9,MLS,t_1rgPN4,Inter Miami CF,p_2saQ6j,Gonzalo Luján,1,896536,Gonzalo Luján,1,,0,"single goal, minute not identical"
+l_2xBPKk,Super Liga,t_42j5I4,IMT,p_2sqoVq,Vukašin Jovanović,1,,,0,,0,no coinciding Transfermarkt goal
+l_2ApGa4,J. League,t_1mrdfo,Nagoya Grampus,p_2uJUOm,Kensuke Nagai,4,,,0,,0,no coinciding Transfermarkt goal
+l_2EKrnc,K League 1,t_04Kt4F,Ulsan HD FC,p_2uK7HC,Jin-Hyun Lee,1,132748,Jin-hyun Lee,1,,0,"single goal, minute not identical"
+l_2ApGa4,J. League,t_0LfLJ4,Vissel Kobe,p_2uPyOF,Matheus Thuler,2,,,0,,0,no coinciding Transfermarkt goal
+l_2L6d1F,First Division A,t_0xsWjs,Standard Liège,p_2ufG8o,Timothé Nkada,4,522788,Timothé Nkada,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_02LuKO,Talleres,p_2uz4qA,Luis Sequeira,1,,,0,,0,no coinciding Transfermarkt goal
+l_3v84VE,Liga MX,t_33VE4n,Toluca,p_2vBEW4,Nicolás Castro,5,565899,Nicolás Castro,2,832340,1,best covers 2/5 goals (< 80%)
+l_45VZuL,Liga Profesional,t_2fePa3,Godoy Cruz,p_2vSGRb,Facundo Altamira,1,,,0,,0,no coinciding Transfermarkt goal
+l_2Mh0jT,Premier League,t_0sBFRq,Rubin Kazan,p_2vZF8S,Yegor Teslenko,1,584231,Egor Teslenko,1,,0,"single goal, minute not identical"
+l_3v84VE,Liga MX,t_3aG59l,Chivas,p_2vi21x,Daniel Aguirre,4,636066,Daniel Aguirre,3,997057,1,best covers 3/4 goals (< 80%)
+l_45VZuL,Liga Profesional,t_0oa5Fc,Unión,p_2vkqTj,Mateo Del Blanco,3,984529,Mateo Del Blanco,2,,0,best covers 2/3 goals (< 80%)
+l_45VZuL,Liga Profesional,t_2rD0OF,Aldosivi,p_2w9MwW,Tobias Cervera,1,,,0,,0,no coinciding Transfermarkt goal
+l_3xwVF2,Super League 1,t_0G7jPq,OFI Crete,p_2wB3te,Taxiarchis Fountas,9,192409,Taxiarchis Fountas,7,459661,1,best covers 7/9 goals (< 80%)
+l_2L6d1F,First Division A,t_11R95l,St.Truiden,p_2wZpTB,Joedrick Pupe,1,,,0,,0,no coinciding Transfermarkt goal
+l_3v84VE,Liga MX,t_33VE4n,Toluca,p_2wloeF,Federico Pereira,3,671479,Federico Pereira,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_3TbOfu,Deportivo Riestra,p_2wyMSd,Gabriel Obredor,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_0SmVI4,Independiente Rivadavia,p_2xpDVB,Santiago Munoz,1,,,0,,0,no coinciding Transfermarkt goal
+l_2L6d1F,First Division A,t_3rAYPk,OH Leuven,p_2xrQNP,Henok Teklab,3,492634,Henok Teklab,1,,0,fewer than 2 coinciding goals
+l_49Zmno,Superligaen,t_0CWBdu,OB,p_2xz515,Rasmus Falk,1,,,0,,0,no coinciding Transfermarkt goal
+l_2L6d1F,First Division A,t_11R95l,St.Truiden,p_2y14D2,Oumar Diouf,3,1137664,Oumar Diouf,2,,0,best covers 2/3 goals (< 80%)
+l_1XLtP0,World Cup,t_0WmIZB,Argentina,p_2yEWgp,Lisandro Martínez,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_0bW0AU,Banfield,p_2yaEJG,Neyder Moreno,1,571908,Neyder Moreno,1,,0,"single goal, minute not identical"
+l_2ApGa4,J. League,t_1mTqNS,Yokohama F.Marinos,p_2z9MSi,Riku Yamane,2,,,0,,0,no coinciding Transfermarkt goal
+l_0uqFK8,Eliteserien,t_2Qs9XR,FK Haugesund,p_2zCnIV,Ismael Seone,1,1143066,,1,,0,"single goal, names share no token"
+l_3xwVF2,Super League 1,t_48GNlO,Aris Thessaloniki,p_2zT2X1,Pedro Álvaro,1,375376,Pedro Álvaro,1,,0,"single goal, minute not identical"
+l_3xwVF2,Super League 1,t_3AH224,NFC Volos,p_2zf6TJ,Jan Hurtado,3,459115,Jan Hurtado,2,,0,best covers 2/3 goals (< 80%)
+l_49Zmno,Superligaen,t_0rrO78,AGF,p_308oyC,Janni Serra,3,294534,Janni Serra,1,,0,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_1mTqNS,Yokohama F.Marinos,p_309nNp,Anderson Lopes,1,347291,Anderson Lopes,1,515653,1,single goal with several candidates
+l_0kSJLz,Liga I,t_365rsF,Hermannstadt,p_30C5I8,Sergiu Buș,8,123671,Sergiu Buș,4,,0,best covers 4/8 goals (< 80%)
+l_0eg6C9,MLS,t_1TFG85,Toronto FC,p_30XNzc,Deybi Flores,1,354775,Deybi Flores,1,,0,"single goal, minute not identical"
+l_0eg6C9,MLS,t_4ac71F,Los Angeles FC,p_30p4vN,Stephen Eustaquio,2,512913,Stephen Eustaquio,1,,0,fewer than 2 coinciding goals
+l_1XLtP0,World Cup,t_46TAEZ,Canada,p_30p4vN,Stephen Eustaquio,2,512913,Stephen Eustaquio,1,,0,fewer than 2 coinciding goals
+l_2xBPKk,Super Liga,t_42j5I4,IMT,p_30wT1o,Nikola Glišić,2,,,0,,0,no coinciding Transfermarkt goal
+l_2xBPKk,Super Liga,t_4JIp6m,Vojvodina,p_31CLc4,Petar Sukačev,2,,,0,,0,no coinciding Transfermarkt goal
+l_2L6d1F,First Division A,t_0n3xxl,Zulte Waregem,p_31COcI,Malick Mbaye,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_1L8FaD,Tigre,p_31LbGC,Elías Cabrera,2,,,0,,0,no coinciding Transfermarkt goal
+l_0uqFK8,Eliteserien,t_2YsR0z,Strømsgodset,p_31Mdyf,Fredrik Ardraa,1,1043978,,1,,0,"single goal, names share no token"
+l_2L6d1F,First Division A,t_3CeUfH,Gent,p_31NhOS,Jean-Kévin Duverne,1,,,0,,0,no coinciding Transfermarkt goal
+l_0uqFK8,Eliteserien,t_2YsR0z,Strømsgodset,p_327cFl,Kreshnik Krasniqi,1,375419,,1,,0,"single goal, names share no token"
+l_2EKrnc,K League 1,t_0fQ6zG,Daegu FC,p_32EdFS,Dae-Hoon Park,2,528966,Dae-hun Park,2,609330,1,runner-up too close
+l_1D8Xrl,Serie A,t_22aCVC,RB Bragantino,p_32NXEN,Gustavinho,1,1084081,Gustavo Neves,1,,0,"single goal, names share no token"
+l_45VZuL,Liga Profesional,t_0otcXZ,Boca Juniors,p_32UVER,Exequiel Zeballos,5,661132,Exequiel Zeballos,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_0rsFNq,Lanús,p_32gEeN,Marcelino Moreno,4,456617,Marcelino Moreno,3,,0,best covers 3/4 goals (< 80%)
+l_0ErfuF,LaLiga,t_0HBI4G,Osasuna,p_32lFTN,Enrique Barja,2,298575,Kike Barja,2,46413,1,runner-up too close
+l_2L6d1F,First Division A,t_3pK6v1,Union St.Gilloise,p_32mqiJ,Mohammed Fuseini,1,,,0,,0,no coinciding Transfermarkt goal
+l_2xBPKk,Super Liga,t_1YGq6m,Javor,p_32tHYV,Boubacari Doucouré,4,507630,Boubacari Doucouré,3,,0,best covers 3/4 goals (< 80%)
+l_2tFk9k,HNL,t_2RYv68,Rijeka,p_33Aj2Y,Simun Butic,2,1249161,Simun Butic,2,927331,1,runner-up too close
+l_2tFk9k,HNL,t_0rciKT,Vukovar,p_33Aj2Y,Simun Butic,2,1249161,Simun Butic,2,927331,1,runner-up too close
+l_45VZuL,Liga Profesional,t_2Ba0sx,Belgrano,p_33Honj,Gabriel Compagnucci,1,,,0,,0,no coinciding Transfermarkt goal
+l_2xBPKk,Super Liga,t_4W9DaV,FK Crvena Zvezda,p_33Hwco,Adem Avdić,1,,,0,,0,no coinciding Transfermarkt goal
+l_1XsMdH,Allsvenskan,t_0BJtVe,Malmö FF,p_33SFzL,Oscar Sjöstrand,1,1126111,Oscar Sjöstrand,1,,0,"single goal, minute not identical"
+l_45VZuL,Liga Profesional,t_1rEb7t,Rosario Central,p_33jhYq,Elías Verón,1,,,0,,0,no coinciding Transfermarkt goal
+l_3xwVF2,Super League 1,t_3ezqyM,Levadiakos,p_33wolK,Georgios Nikas,1,,,0,,0,no coinciding Transfermarkt goal
+l_2L6d1F,First Division A,t_3UiOcj,Sporting Charleroi,p_3411zq,Antoine Bernier,7,340343,Antoine Bernier,3,320046,1,best covers 3/7 goals (< 80%)
+l_3xwVF2,Super League 1,t_2DRkpy,Asteras Tripolis,p_34BOEA,Georgios Charalampoglou,1,,,0,,0,no coinciding Transfermarkt goal
+l_2ApGa4,J. League,t_2731yf,Machida Zelvia,p_34eGJu,Takuma Nishimura,1,,,0,,0,no coinciding Transfermarkt goal
+l_0F4I4F,1. Liga,t_1f8Jae,Sigma Olomouc,p_34pNno,Matej Mikulenka,2,751681,Matej Mikulenka,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_1L8FaD,Tigre,p_34yTml,Sebastián Medina,1,,,0,,0,no coinciding Transfermarkt goal
+l_2xBPKk,Super Liga,t_25ex0s,Partizan Beograd,p_357SBy,Ognjen Ugrešić,6,895606,Ognjen Ugresic,4,,0,best covers 4/6 goals (< 80%)
+l_2ApGa4,J. League,t_2SxYow,Urawa Red Diamonds,p_35PQ3K,Isaac Kiese Thelin,4,201311,Isaac Kiese Thelin,2,,0,best covers 2/4 goals (< 80%)
+l_2WZ2tt,Conference League,t_03vYx2,Shamrock Rovers,p_35mXwv,Daniel Grant,1,577557,,1,,0,"single goal, names share no token"
+l_2ApGa4,J. League,t_2SxYow,Urawa Red Diamonds,p_35ux9d,Marius Høibråten,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_1L8FaD,Tigre,p_36ULM2,Ignacio Russo,9,833130,Ignacio Russo,4,480778,1,best covers 4/9 goals (< 80%)
+l_0Lpz1f,Saudi Pro League,t_398m23,Al Qadsiah,p_36dzxw,Turki Al Ammar,2,31671,Turki Al-Ammar,2,593334,1,runner-up too close
+l_45VZuL,Liga Profesional,t_2RmaMX,Racing Club,p_36mBna,Bruno Zuculini,2,,,0,,0,no coinciding Transfermarkt goal
+l_3v84VE,Liga MX,t_06pffY,Atlas,p_37JMBC,Diego González,6,873981,Diego González,1,,0,fewer than 2 coinciding goals
+l_0uqFK8,Eliteserien,t_2K3SfK,Tromsø,p_37ZDN0,Runar Robinsønn Norheim,7,814992,Runar Norheim,5,,0,best covers 5/7 goals (< 80%)
+l_49Zmno,Superligaen,t_4L4qT5,Nordsjælland,p_37ZDN0,Runar Robinsønn Norheim,7,814992,Runar Norheim,5,,0,best covers 5/7 goals (< 80%)
+l_3xwVF2,Super League 1,t_3AH224,NFC Volos,p_37c8Ri,Lazaros Lamprou,7,292356,Lazaros Lamprou,5,,0,best covers 5/7 goals (< 80%)
+l_2Mh0jT,Premier League,t_1LtiUA,CSKA Moscow,p_37vTsF,Matvey Lukin,1,624340,Matvey Lukin,1,,0,"single goal, minute not identical"
+l_45VZuL,Liga Profesional,t_3XuEvf,Argentinos Juniors,p_38jdJ6,Sebastián Prieto,3,613708,Sebastián Prieto,1,,0,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_1kSmQT,Yokohama FC,p_390yvn,Solomon Sakuragawa,9,590654,Solomon Sakuragawa,1,,0,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_4gLxod,Cerezo Osaka,p_390yvn,Solomon Sakuragawa,9,590654,Solomon Sakuragawa,1,,0,fewer than 2 coinciding goals
+l_2Mh0jT,Premier League,t_0y6Z8F,Zenit St. Petersburg,p_39QvG9,Yuri Gorshkov,1,448983,Yuriy Gorshkov,1,,0,"single goal, minute not identical"
+l_3xwVF2,Super League 1,t_2LBMDR,PAOK Thessaloniki,p_39VrHX,Anestis Mythou,4,1076214,Anestis Mythou,2,,0,best covers 2/4 goals (< 80%)
+l_38d9HA,Europa League,t_2LBMDR,PAOK Thessaloniki,p_39VrHX,Anestis Mythou,4,1076214,Anestis Mythou,2,,0,best covers 2/4 goals (< 80%)
+l_45VZuL,Liga Profesional,t_1L8FaD,Tigre,p_39c8jY,Diego Sosa,2,464365,Diego Sosa,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_2rXlDo,Instituto,p_39c8jY,Diego Sosa,2,464365,Diego Sosa,1,,0,fewer than 2 coinciding goals
+l_2L6d1F,First Division A,t_3pK6v1,Union St.Gilloise,p_39d3Tu,Mateo Biondic,4,810285,Mateo Biondic,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_2rD0OF,Aldosivi,p_39xMmf,Franco Rami,1,,,0,,0,no coinciding Transfermarkt goal
+l_2xBPKk,Super Liga,t_4JIp6m,Vojvodina,p_3APv1h,Uros Nikolic,1,215038,Uros Nikolic,1,354214,1,single goal with several candidates
+l_0F4I4F,1. Liga,t_11JbPq,Slovácko,p_3AUTgX,Pavel Juroška,1,,,0,,0,no coinciding Transfermarkt goal
+l_3v84VE,Liga MX,t_3aG59l,Chivas,p_3B2QXf,Diego Campillo,1,,,0,,0,no coinciding Transfermarkt goal
+l_2L6d1F,First Division A,t_0wF6Y2,Westerlo,p_3B5NJc,Dogucan Haspolat,1,,,0,,0,no coinciding Transfermarkt goal
+l_2WZ2tt,Conference League,t_03vYx2,Shamrock Rovers,p_3BH4RO,Connor Malley,1,485998,,1,,0,"single goal, names share no token"
+l_45VZuL,Liga Profesional,t_1HsET8,Estudiantes,p_3BQAaS,Guido Carrillo,5,184672,Guido Carrillo,1,,0,fewer than 2 coinciding goals
+l_1D8Xrl,Serie A,t_4NUcOH,Juventude,p_3BZNK9,Matheus Babi,1,788861,Matheus Babi,1,,0,"single goal, minute not identical"
+l_45VZuL,Liga Profesional,t_2RmaMX,Racing Club,p_3BbL1n,Tomás Conechny,5,401571,Tomás Conechny,3,567737,1,best covers 3/5 goals (< 80%)
+l_2L6d1F,First Division A,t_1XQ7N5,FCV Dender EH,p_3BbSOX,Mohamed Berte,2,895402,Mohamed Berte,1,,0,fewer than 2 coinciding goals
+l_0bfbkO,Champions League,t_41GCDg,Slavia Prague,p_3Bnine,Youssoupha Mbodji,2,1422277,Youssoupha Mbodji,2,370846,1,runner-up too close
+l_45VZuL,Liga Profesional,t_2Ba0sx,Belgrano,p_3Boqdn,Francisco González Metilli,4,442679,Francisco González Metilli,2,,0,best covers 2/4 goals (< 80%)
+l_2xBPKk,Super Liga,t_3in1S9,Čukarički,p_3C5mjz,Marko Docić,3,283905,Marko Docic,2,1089156,1,best covers 2/3 goals (< 80%)
+l_2ApGa4,J. League,t_4gLxod,Cerezo Osaka,p_3C61bp,Shion Homma,2,,,0,,0,no coinciding Transfermarkt goal
+l_3xwVF2,Super League 1,t_3ImeRW,Panathinaikos,p_3CJcJD,Giorgos Kyriakopoulos,1,311178,Georgios Kyriakopoulos,1,,0,"single goal, minute not identical"
+l_45VZuL,Liga Profesional,t_2rD0OF,Aldosivi,p_3CbNXk,Santiago Moya,2,885621,Santiago Moya,1,,0,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_49j3Z1,Kashiwa Reysol,p_3CfPVQ,Yoshio Koizumi,5,640044,Yoshio Koizumi,2,683324,1,best covers 2/5 goals (< 80%)
+l_3xwVF2,Super League 1,t_2jeqmO,AEK Athens,p_3Cfmz7,Marko Grujić,1,222813,Marko Grujić,1,295183,1,single goal with several candidates
+l_2L6d1F,First Division A,t_0wF6Y2,Westerlo,p_3DAP9B,Arthur Piedfort,3,775981,Arthur Piedfort,2,,0,best covers 2/3 goals (< 80%)
+l_2ApGa4,J. League,t_0LfLJ4,Vissel Kobe,p_3EE4um,Yoshinori Muto,5,230541,Yoshinori Muto,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_2RmaMX,Racing Club,p_3EIBrG,Duván Vergara,5,413658,Duván Vergara,2,1232512,1,best covers 2/5 goals (< 80%)
+l_2EKrnc,K League 1,t_04Kt4F,Ulsan HD FC,p_3EST1i,Gustav Ludwigson,5,558269,Gustav Ludwigson,3,,0,best covers 3/5 goals (< 80%)
+l_2EKrnc,K League 1,t_46FQj1,Daejeon Hana Citizen,p_3EST1i,Gustav Ludwigson,5,558269,Gustav Ludwigson,3,,0,best covers 3/5 goals (< 80%)
+l_2EKrnc,K League 1,t_04Kt4F,Ulsan HD FC,p_3F2UOa,Marcao,8,476102,Marcão,6,,0,best covers 6/8 goals (< 80%)
+l_2L6d1F,First Division A,t_2J5yFC,Anderlecht,p_3FAqXc,Ibrahim Kanaté,2,1132628,Ibrahim Kanaté,1,,0,fewer than 2 coinciding goals
+l_1D8Xrl,Serie A,t_1Mjs7r,Grêmio,p_3FRiNW,Alysson Edward,1,1005583,Alysson,1,,0,"single goal, minute not identical"
+l_2tFk9k,HNL,t_0tQnN0,Osijek,p_3FmxeB,Šimun Mikolčić,3,895515,Simun Mikolcic,2,367795,1,best covers 2/3 goals (< 80%)
+l_2xBPKk,Super Liga,t_4Kwcr6,Napredak,p_3Fscds,Nikola Bogdanovski,4,497359,Nikola Bogdanovski,3,,0,best covers 3/4 goals (< 80%)
+l_45VZuL,Liga Profesional,t_1rEb7t,Rosario Central,p_3FvFpo,Ignacio Ovando,2,1297993,Ignacio Ovando,1,,0,fewer than 2 coinciding goals
+l_2xBPKk,Super Liga,t_47DAlu,Novi Pazar,p_3GFRSi,Semir Alić,1,864682,Semir Alic,1,1184662,1,single goal with several candidates
+l_3v84VE,Liga MX,t_33VE4n,Toluca,p_3GKwAq,Jesús Gallardo,5,344854,Jesús Gallardo,1,466268,1,fewer than 2 coinciding goals
+l_2L6d1F,First Division A,t_11R95l,St.Truiden,p_3GkLog,Simen Kristiansen Juklerød,1,230985,Simen Juklerød,1,916623,1,single goal with several candidates
+l_2ApGa4,J. League,t_0LfLJ4,Vissel Kobe,p_3H1oPl,Gotoku Sakai,3,103310,Gotoku Sakai,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_2eRs85,Vélez Sarsfield,p_3H23k2,Diego Valdés,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_2M7cot,Central Córdoba de Santiago,p_3HiN9q,Matías Perelló,3,,,0,,0,no coinciding Transfermarkt goal
+l_2EKrnc,K League 1,t_4cae3z,FC Seoul,p_3HmePR,Lucas Silva,1,,,0,,0,no coinciding Transfermarkt goal
+l_2xBPKk,Super Liga,t_1IJnn4,OFK Beograd,p_3Hnl6z,Aleksa Cvetković,3,944536,Aleksa Cvetkovic,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_2rD0OF,Aldosivi,p_3I0XnJ,Giuliano Cerato,4,971423,Giuliano Cerato,2,,0,best covers 2/4 goals (< 80%)
+l_45VZuL,Liga Profesional,t_2rXlDo,Instituto,p_3I0XnJ,Giuliano Cerato,4,971423,Giuliano Cerato,2,,0,best covers 2/4 goals (< 80%)
+l_3v84VE,Liga MX,t_3Wm9EG,Mazatlan FC,p_3I2ou3,Jesus Hernandez,1,950872,Daniel Hernández,1,,0,"single goal, minute not identical"
+l_2xBPKk,Super Liga,t_3in1S9,Čukarički,p_3I7J1A,Sambou Sissoko,2,649019,Sambou Sissoko,1,,0,fewer than 2 coinciding goals
+l_3v84VE,Liga MX,t_0cPdCL,Cruz Azul,p_3IHOb1,Ignacio Rivero,2,,,0,,0,no coinciding Transfermarkt goal
+l_0Lpz1f,Saudi Pro League,t_398m23,Al Qadsiah,p_3IN2UF,Ibrahim Mahnashi,1,31671,Turki Al-Ammar,1,593334,1,single goal with several candidates
+l_45VZuL,Liga Profesional,t_2rD0OF,Aldosivi,p_3J8Smm,Agustín Palavecino,1,,,0,,0,no coinciding Transfermarkt goal
+l_0F4I4F,1. Liga,t_11JbPq,Slovácko,p_3JHzsi,Adonija Bryan Ouanda,4,1157676,Adonija Ouanda,3,,0,best covers 3/4 goals (< 80%)
+l_0uqFK8,Eliteserien,t_2Qs9XR,FK Haugesund,p_3Jjr5Y,Håvard Vatland Karlsen,1,917830,,1,,0,"single goal, names share no token"
+l_4H43wr,Eredivisie,t_3t08JG,Ajax,p_3JzGjv,Davy Klaassen,8,182932,Davy Klaassen,6,,0,best covers 6/8 goals (< 80%)
+l_4QexZg,Liga Portugal,t_2TePe3,Santa Clara,p_3JzJzR,Matheus Nunes,1,808475,MT,1,,0,"single goal, names share no token"
+l_0S1uaf,Super Lig,t_3DwdkH,Trabzonspor,p_3L37F5,Danylo Sikan,3,417228,Danylo Sikan,1,,0,fewer than 2 coinciding goals
+l_2L6d1F,First Division A,t_2J5yFC,Anderlecht,p_3L37F5,Danylo Sikan,3,417228,Danylo Sikan,1,,0,fewer than 2 coinciding goals
+l_3FJFUl,Ligue 1,t_38NVJO,Lens,p_3L48LF,Allan Saint-Maximin,6,272642,Allan Saint-Maximin,3,,0,best covers 3/6 goals (< 80%)
+l_3v84VE,Liga MX,t_4co6t5,CF América,p_3L48LF,Allan Saint-Maximin,6,272642,Allan Saint-Maximin,3,,0,best covers 3/6 goals (< 80%)
+l_0eg6C9,MLS,t_2HLI7U,New York City FC,p_3LpoMl,Justin Haak,2,610628,Justin Haak,1,,0,fewer than 2 coinciding goals
+l_2EKrnc,K League 1,t_46FQj1,Daejeon Hana Citizen,p_3M8Tis,Yoon-Sung Kang,1,528965,Yun-sung Kang,1,,0,"single goal, minute not identical"
+l_0F4I4F,1. Liga,t_11JbPq,Slovácko,p_3MQZSh,Martin Koscelník,1,,,0,,0,no coinciding Transfermarkt goal
+l_2ApGa4,J. League,t_01uUy2,Mito Hollyhock,p_3MZLqC,Chihiro Kato,2,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_2Ba0sx,Belgrano,p_3MmYTU,Lucas Passerini,2,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_0otcXZ,Boca Juniors,p_3NKnXO,Brian Aguirre,2,668549,Brian Aguirre,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_1HsET8,Estudiantes,p_3NKnXO,Brian Aguirre,2,668549,Brian Aguirre,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_2qXAzu,Huracán,p_3NPNrM,Emmanuel Ojeda,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_2rD0OF,Aldosivi,p_3NXY1t,Felipe Anso,1,1377477,,1,888493,1,single goal with several candidates
+l_3v84VE,Liga MX,t_1xzdYt,Tigres,p_3NkM2e,Fernando Gorriarán,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_3TbOfu,Deportivo Riestra,p_3ODAc5,Pedro Ramírez,2,832088,Pedro Ramírez,1,514120,1,fewer than 2 coinciding goals
+l_0kSJLz,Liga I,t_1Kvoa4,Farul Constanţa,p_3OG1PJ,Eduard Radaslavescu,3,731522,Eduard Radaslavescu,2,,0,best covers 2/3 goals (< 80%)
+l_2L6d1F,First Division A,t_3rAYPk,OH Leuven,p_3OLYdc,Roggerio Nyakossi,4,805484,Roggerio Nyakossi,3,,0,best covers 3/4 goals (< 80%)
+l_1D8Xrl,Serie A,t_1xkjGG,Coritiba,p_3OLrhV,Tiago,1,834443,Tiago Cóser,1,,0,"single goal, minute not identical"
+l_49Zmno,Superligaen,t_0CWBdu,OB,p_3OOElS,William Martin,2,,,0,,0,no coinciding Transfermarkt goal
+l_0kSJLz,Liga I,t_2EfdWl,Unirea Slobozia,p_3ObMRA,Patrick Adrian Dulcea,3,1038445,Patrick Dulcea,1,,0,fewer than 2 coinciding goals
+l_49Zmno,Superligaen,t_3rFzZU,Silkeborg,p_3PaU5o,Jens Martin Gammelby,5,265040,Jens Martin Gammelby,3,,0,best covers 3/5 goals (< 80%)
+l_0uqFK8,Eliteserien,t_0jcQ4I,Sarpsborg 08,p_3Pqt09,Sveinn Aron Gudjohnsen,1,332527,Sveinn Aron Gudjohnsen,1,695226,1,single goal with several candidates
+l_45VZuL,Liga Profesional,t_1Fzy5s,River Plate,p_3PsjP7,Lautaro Rivero,1,1261395,Lautaro Rivero,1,698323,1,single goal with several candidates
+l_2L6d1F,First Division A,t_3o2Gex,Genk,p_3QE3um,Robin Mirisola,5,952439,Robin Mirisola,3,,0,best covers 3/5 goals (< 80%)
+l_2xBPKk,Super Liga,t_3x2u7P,Radnik Surdulica,p_3QEWgm,Luka Zorić,3,465557,Luka Zoric,1,,0,fewer than 2 coinciding goals
+l_49Zmno,Superligaen,t_4EBz7e,Randers FC,p_3QdLI6,Norman Campbell,4,809880,Norman Campbell,2,,0,best covers 2/4 goals (< 80%)
+l_2ApGa4,J. League,t_1W837G,V-Varen Nagasaki,p_3QdLI6,Norman Campbell,4,809880,Norman Campbell,2,,0,best covers 2/4 goals (< 80%)
+l_45VZuL,Liga Profesional,t_0otcXZ,Boca Juniors,p_3QlNQ2,Miguel Merentiel,12,481367,Miguel Merentiel,5,,0,best covers 5/12 goals (< 80%)
+l_2ApGa4,J. League,t_1mrdfo,Nagoya Grampus,p_3S3a5b,Yuya Yamagishi,11,,,0,,0,no coinciding Transfermarkt goal
+l_3xwVF2,Super League 1,t_3ImeRW,Panathinaikos,p_3S6R0d,Santino Andino Valencia,3,1305935,Santino Andino,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_2fePa3,Godoy Cruz,p_3S6R0d,Santino Andino Valencia,3,1305935,Santino Andino,1,,0,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_1mrdfo,Nagoya Grampus,p_3SS9CV,Shungo Sugiura,1,,,0,,0,no coinciding Transfermarkt goal
+l_0F4I4F,1. Liga,t_1OB46o,Teplice,p_3SYNLG,Daniel Mareček,4,293359,Daniel Marecek,2,,0,best covers 2/4 goals (< 80%)
+l_45VZuL,Liga Profesional,t_2M7cot,Central Córdoba de Santiago,p_3SmwDm,José Florentín,5,741965,José Florentín,3,,0,best covers 3/5 goals (< 80%)
+l_45VZuL,Liga Profesional,t_0SmVI4,Independiente Rivadavia,p_3SmwDm,José Florentín,5,741965,José Florentín,3,,0,best covers 3/5 goals (< 80%)
+l_2L6d1F,First Division A,t_3pK6v1,Union St.Gilloise,p_3Ts2jR,Anouar Ait El Hadj,3,486039,Anouar Ait El Hadj,1,,0,fewer than 2 coinciding goals
+l_0bfbkO,Champions League,t_3pK6v1,Union St.Gilloise,p_3Ts2jR,Anouar Ait El Hadj,3,486039,Anouar Ait El Hadj,1,,0,fewer than 2 coinciding goals
+l_3v84VE,Liga MX,t_1xzdYt,Tigres,p_3TyKvJ,Ángel Correa,16,266807,Ángel Correa,6,465818,1,best covers 6/16 goals (< 80%)
+l_2tFk9k,HNL,t_2W2Fsd,Istra 1961,p_3U0iOp,Marcel Heister,1,109830,Marcel Heister,1,,0,"single goal, minute not identical"
+l_2ApGa4,J. League,t_0mCfSI,Shonan Bellmare,p_3UdrXO,Akito Suzuki,10,914004,Akito Suzuki,5,,0,best covers 5/10 goals (< 80%)
+l_2ApGa4,J. League,t_4Oonn6,Sanfrecce Hiroshima,p_3UdrXO,Akito Suzuki,10,914004,Akito Suzuki,5,,0,best covers 5/10 goals (< 80%)
+l_45VZuL,Liga Profesional,t_1HsET8,Estudiantes,p_3UfnVk,Tiago Palacios,5,755457,Tiago Palacios,3,,0,best covers 3/5 goals (< 80%)
+l_1D8Xrl,Serie A,t_20rgU2,Ceará,p_3Uknly,Lucas Mugni,1,148231,Lucas Mugni,1,,0,"single goal, minute not identical"
+l_0bfbkO,Champions League,t_0Gz1mu,Kairat Almaty,p_3WFB0J,Edmilson Filho,1,902747,,1,,0,"single goal, names share no token"
+l_0kSJLz,Liga I,t_0VlZPz,Oţelul Galați,p_3WY56o,João Paulo,3,623965,João Paulo,1,,0,fewer than 2 coinciding goals
+l_0kSJLz,Liga I,t_0T7psQ,FCSB,p_3WY56o,João Paulo,3,623965,João Paulo,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_3UNtKx,San Martin San Juan,p_3WuKLA,Ignacio Maestro Puch,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_3FROV0,Barracas Central,p_3WxKBx,Jhonatan Candia,4,259917,Jhonatan Candia,1,360412,1,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_3FROV0,Barracas Central,p_3X6bRT,Fernando Tobio,2,69802,Fernando Tobio,2,755457,1,runner-up too close
+l_2xBPKk,Super Liga,t_4StiA5,Spartak Subotica,p_3XGswI,Aleksa Trajković,3,1116049,Aleksa Trajkovic,2,,0,best covers 2/3 goals (< 80%)
+l_2xBPKk,Super Liga,t_3cFDTA,TSC Bačka Topola,p_3XhRbw,Dragoljub Savič,6,574656,Dragoljub Savic,2,,0,best covers 2/6 goals (< 80%)
+l_45VZuL,Liga Profesional,t_1DVMAZ,Defensa y Justicia,p_3Xo6We,Juan Miritello,6,728200,Juan Miritello,2,,0,best covers 2/6 goals (< 80%)
+l_2xBPKk,Super Liga,t_47DAlu,Novi Pazar,p_3Y06t0,Ejike Opara,2,1184662,Ejike Opara,2,864682,1,runner-up too close
+l_2L6d1F,First Division A,t_3CeUfH,Gent,p_3YGj63,Tibe De Vlieger,1,,,0,,0,no coinciding Transfermarkt goal
+l_0kSJLz,Liga I,t_1d3str,Dinamo Bucureşti,p_3YfrzE,Georgi Ventsislavov Milanov,2,134158,Georgi Milanov,1,,0,fewer than 2 coinciding goals
+l_2WZ2tt,Conference League,t_0dvYbV,KuPS,p_3Z4fnB,Piotr Parzyszek,2,155202,Piotr Parzyszek,2,232454,1,runner-up too close
+l_0kSJLz,Liga I,t_1UKod6,Metaloglobus,p_3Z70fk,Damià Sabater Tous,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_3FROV0,Barracas Central,p_3ZKy4R,Nicolás Demartini,1,928647,Matías Abaldo,1,537257,1,single goal with several candidates
+l_3xwVF2,Super League 1,t_2DRkpy,Asteras Tripolis,p_3ZLKYA,Federico Macheda,8,61887,Federico Macheda,3,,0,best covers 3/8 goals (< 80%)
+l_2ApGa4,J. League,t_0LfLJ4,Vissel Kobe,p_3ZPZ6f,Mitsuki Hidaka,1,,,0,,0,no coinciding Transfermarkt goal
+l_1D8Xrl,Serie A,t_2YvfeX,Sport Recife,p_3ZgaP9,Ramon,1,371025,Ramon Menezes,1,,0,"single goal, minute not identical"
+l_3FJFUl,Ligue 1,t_0JtwBe,Nantes,p_3ZnFQf,Mayckel Lahdo,2,795274,Mayckel Lahdo,1,,0,fewer than 2 coinciding goals
+l_49Zmno,Superligaen,t_4Mrl3A,Brøndby IF,p_3ZnFQf,Mayckel Lahdo,2,795274,Mayckel Lahdo,1,,0,fewer than 2 coinciding goals
+l_49Zmno,Superligaen,t_4eCFHQ,FC København,p_3Zv7xF,Viktor Daðason,6,1072751,Viktor Dadason,3,487469,1,best covers 3/6 goals (< 80%)
+l_0bfbkO,Champions League,t_4eCFHQ,FC København,p_3Zv7xF,Viktor Daðason,6,1072751,Viktor Dadason,3,487469,1,best covers 3/6 goals (< 80%)
+l_214sqK,Ekstraklasa,t_3A21S1,Motor Lublin,p_3abe45,Jakub Łabojko,1,387529,Jakub Łabojko,1,742506,1,single goal with several candidates
+l_2xBPKk,Super Liga,t_3cFDTA,TSC Bačka Topola,p_3aivTS,Andrej Todoroski,9,353927,Andrej Todoroski,3,,0,best covers 3/9 goals (< 80%)
+l_0Lpz1f,Saudi Pro League,t_398m23,Al Qadsiah,p_3aoDK6,Julian Weigl,1,196792,Julian Weigl,1,416090,1,single goal with several candidates
+l_0eg6C9,MLS,t_3N3Xe0,Orlando City,p_3b2S8a,Luis Otávio,1,1253921,Luis Otávio,1,,0,"single goal, minute not identical"
+l_0F4I4F,1. Liga,t_41GCDg,Slavia Prague,p_3bTK49,David Jurásek,1,,,0,,0,no coinciding Transfermarkt goal
+l_2xBPKk,Super Liga,t_4W9DaV,FK Crvena Zvezda,p_3bZjQT,Young-Woo Seol,2,639414,Young-woo Seol,1,,0,fewer than 2 coinciding goals
+l_3v84VE,Liga MX,t_0NY6cC,Atlético de San Luis,p_3beLEh,Luis Nájera,1,,,0,,0,no coinciding Transfermarkt goal
+l_0F4I4F,1. Liga,t_46tRLy,Pardubice,p_3cMwkx,Louis Lurvink,4,499324,Louis Lurvink,2,,0,best covers 2/4 goals (< 80%)
+l_0F4I4F,1. Liga,t_1f8Jae,Sigma Olomouc,p_3cMwkx,Louis Lurvink,4,499324,Louis Lurvink,2,,0,best covers 2/4 goals (< 80%)
+l_2xBPKk,Super Liga,t_49UIKT,Mladost Lučani,p_3cX67z,Žarko Udovičić,1,,,0,,0,no coinciding Transfermarkt goal
+l_0eg6C9,MLS,t_0vjCk0,CF Montréal,p_3cXd2g,Gennadiy Synchuk,2,1082915,Gennadiy Synchuk,2,207593,1,runner-up too close
+l_2ApGa4,J. League,t_01uUy2,Mito Hollyhock,p_3cpWzi,Keisuke Tada,2,,,0,,0,no coinciding Transfermarkt goal
+l_2xBPKk,Super Liga,t_3in1S9,Čukarički,p_3cwiNK,Nemanja Miletić,2,153657,Nemanja Miletic,2,1073631,1,runner-up too close
+l_3v84VE,Liga MX,t_06pffY,Atlas,p_3d1AkK,Gustavo Del Prete,2,,,0,,0,no coinciding Transfermarkt goal
+l_2L6d1F,First Division A,t_2J5yFC,Anderlecht,p_3d92aT,Mihajlo Cvetković,9,897510,Mihajlo Cvetkovic,5,,0,best covers 5/9 goals (< 80%)
+l_0eg6C9,MLS,t_2CuHdk,Vancouver Whitecaps,p_3dbDXr,Ali Ahmed,1,,,0,,0,no coinciding Transfermarkt goal
+l_49Zmno,Superligaen,t_0b9L5I,FC Midtjylland,p_3dpeP3,Valdemar Byskov,8,747487,Valdemar Byskov,6,,0,best covers 6/8 goals (< 80%)
+l_38d9HA,Europa League,t_0b9L5I,FC Midtjylland,p_3dpeP3,Valdemar Byskov,8,747487,Valdemar Byskov,6,,0,best covers 6/8 goals (< 80%)
+l_3xwVF2,Super League 1,t_0G7jPq,OFI Crete,p_3dq721,Thanasis Androutsos,3,341680,Athanasios Androutsos,2,,0,best covers 2/3 goals (< 80%)
+l_2EKrnc,K League 1,t_0fQ6zG,Daegu FC,p_3drtsO,Jae-Sang Jeong,1,1073573,Jae-sang Jeong,1,,0,"single goal, minute not identical"
+l_45VZuL,Liga Profesional,t_0rGDE4,Gimnasia LP,p_3dtvN3,Bautista Merlini,2,431737,Bautista Merlini,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_2Swqmw,Club Atlético Platense,p_3dtvN3,Bautista Merlini,2,431737,Bautista Merlini,1,,0,fewer than 2 coinciding goals
+l_0bfbkO,Champions League,t_0Gz1mu,Kairat Almaty,p_3dxmNd,Adilet Sadybekov,1,881434,,1,,0,"single goal, names share no token"
+l_45VZuL,Liga Profesional,t_1QqhS7,San Lorenzo,p_3eL1Qe,Branco Salinardi,1,,,0,,0,no coinciding Transfermarkt goal
+l_0uqFK8,Eliteserien,t_2YsR0z,Strømsgodset,p_3ePzdr,Gustav Valsvik,1,136185,,1,,0,"single goal, minute not identical"
+l_3v84VE,Liga MX,t_09cXNN,Necaxa,p_3eSuW0,Tomás Jacob,2,950131,Tomás Jacob,1,,0,fewer than 2 coinciding goals
+l_0eg6C9,MLS,t_32YjfW,Atlanta United,p_3eSuW0,Tomás Jacob,2,950131,Tomás Jacob,1,,0,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_2731yf,Machida Zelvia,p_3f2myk,Henry Mochizuki,1,,,0,,0,no coinciding Transfermarkt goal
+l_0F4I4F,1. Liga,t_41GCDg,Slavia Prague,p_3fJlG2,Stepán Chaloupek,8,944827,Stepan Chaloupek,5,610442,1,best covers 5/8 goals (< 80%)
+l_0bfbkO,Champions League,t_41GCDg,Slavia Prague,p_3fJlG2,Stepán Chaloupek,8,944827,Stepan Chaloupek,5,610442,1,best covers 5/8 goals (< 80%)
+l_3v84VE,Liga MX,t_1wrUAV,Monterrey,p_3fYApY,Germán Berterame,20,401572,Germán Berterame,9,,0,best covers 9/20 goals (< 80%)
+l_0eg6C9,MLS,t_1rgPN4,Inter Miami CF,p_3fYApY,Germán Berterame,20,401572,Germán Berterame,9,,0,best covers 9/20 goals (< 80%)
+l_0F4I4F,1. Liga,t_4cz6mV,Baník Ostrava,p_3fqRsx,David Lischka,4,334822,David Lischka,3,,0,best covers 3/4 goals (< 80%)
+l_0F4I4F,1. Liga,t_3bqJOI,Bohemians 1905,p_3fqRsx,David Lischka,4,334822,David Lischka,3,,0,best covers 3/4 goals (< 80%)
+l_2L6d1F,First Division A,t_3o2Gex,Genk,p_3ftyeM,Aaron Bibout,6,1122196,Aaron Bibout,3,,0,best covers 3/6 goals (< 80%)
+l_0uqFK8,Eliteserien,t_1XFW8M,Brann,p_3fwG22,Kristian Eriksen,1,321644,Kristian Eriksen,1,,0,"single goal, minute not identical"
+l_49Zmno,Superligaen,t_4EBz7e,Randers FC,p_3g94SZ,Thibault Klidje,4,575610,Thibault Klidjé,3,,0,best covers 3/4 goals (< 80%)
+l_1LMdEO,Premiership,t_2pkWY0,Hibernian,p_3g94SZ,Thibault Klidje,4,575610,Thibault Klidjé,3,,0,best covers 3/4 goals (< 80%)
+l_45VZuL,Liga Profesional,t_0SmVI4,Independiente Rivadavia,p_3gL8Nt,Sebastián Villa,1,,,0,,0,no coinciding Transfermarkt goal
+l_2ApGa4,J. League,t_1mrdfo,Nagoya Grampus,p_3ggFWL,Tomoki Takamine,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_3mLGSt,Newell's Old Boys,p_3gzo7L,Éver Banega,2,,,0,,0,no coinciding Transfermarkt goal
+l_2xBPKk,Super Liga,t_2rCgAm,Radnički Niš,p_3hLjxP,Miloš Spasić,5,455769,Milos Spasic,2,,0,best covers 2/5 goals (< 80%)
+l_2EKrnc,K League 1,t_3EXLOF,Jeonbuk Hyundai Motors FC,p_3hSpc1,Jin-Seob Park,1,,,0,,0,no coinciding Transfermarkt goal
+l_0F4I4F,1. Liga,t_3bqJOI,Bohemians 1905,p_3hlWzP,Lukáš Hůlka,4,198607,Lukas Hulka,3,,0,best covers 3/4 goals (< 80%)
+l_3v84VE,Liga MX,t_06pffY,Atlas,p_3hvXBX,Gaddi Aguirre,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_2Swqmw,Club Atlético Platense,p_3i1usl,Maximiliano Rodríguez,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_1rEb7t,Rosario Central,p_3i9lqe,Vicente Pizarro,1,662740,Vicente Pizarro,1,,0,"single goal, minute not identical"
+l_3xwVF2,Super League 1,t_2brRQM,Panserraikos FC,p_3izkYI,Marios Tsaousis,2,,,0,,0,no coinciding Transfermarkt goal
+l_2EKrnc,K League 1,t_46FQj1,Daejeon Hana Citizen,p_3jFss9,Myung-Jae Lee,2,,,0,,0,no coinciding Transfermarkt goal
+l_3xwVF2,Super League 1,t_0rCy1r,Panetolikos,p_3jNszI,Lenny Lobato,1,,,0,,0,no coinciding Transfermarkt goal
+l_2xBPKk,Super Liga,t_2rCgAm,Radnički Niš,p_3jSGm1,Nikola Srećković,2,391926,Nikola Sreckovic,1,,0,fewer than 2 coinciding goals
+l_2xBPKk,Super Liga,t_4StiA5,Spartak Subotica,p_3jsDuR,Nikola Kuveljić,3,612140,Nikola Kuveljic,2,,0,best covers 2/3 goals (< 80%)
+l_2L6d1F,First Division A,t_3UiOcj,Sporting Charleroi,p_3k7aqP,Étienne Camara,2,854325,Étienne Camara,1,,0,fewer than 2 coinciding goals
+l_2L6d1F,First Division A,t_0wF6Y2,Westerlo,p_3kB6VQ,Nacho Ferri,11,867357,Nacho Ferri,7,,0,best covers 7/11 goals (< 80%)
+l_2EKrnc,K League 1,t_1E0lMj,Gangwon FC,p_3kP7tT,Sang-Heon Lee,2,402151,Sang-heon Lee,1,,0,fewer than 2 coinciding goals
+l_2EKrnc,K League 1,t_3LZ4n2,Gwangju FC,p_3keG9i,Sung-Kwon Jo,1,903121,Sung-gwon Cho,1,,0,"single goal, minute not identical"
+l_2ApGa4,J. League,t_0LfLJ4,Vissel Kobe,p_3kfqfl,Erik,12,262016,Erik,4,,0,best covers 4/12 goals (< 80%)
+l_2ApGa4,J. League,t_2731yf,Machida Zelvia,p_3kfqfl,Erik,12,262016,Erik,4,,0,best covers 4/12 goals (< 80%)
+l_45VZuL,Liga Profesional,t_1rEb7t,Rosario Central,p_3lGmY0,Gastón Ávila,2,748601,Gastón Ávila,1,,0,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_3lBlnh,Kyoto Sanga FC,p_3lIbEV,Haruki Arai,2,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_1DVMAZ,Defensa y Justicia,p_3lcFKJ,Juan Gutiérrez,4,581321,Juan Gutiérrez,3,,0,best covers 3/4 goals (< 80%)
+l_3xwVF2,Super League 1,t_27hFVh,Atromitos,p_3ldLyM,Dimitrios Stavropoulos,2,402970,Dimitrios Stavropoulos,1,,0,fewer than 2 coinciding goals
+l_2xBPKk,Super Liga,t_2rCgAm,Radnički Niš,p_3lxuF4,Oleg Nikiforenko,1,,,0,,0,no coinciding Transfermarkt goal
+l_3v84VE,Liga MX,t_33VE4n,Toluca,p_3mEfrh,Marcel Ruiz,3,446106,Juan Manuel Sanabria,1,597728,1,fewer than 2 coinciding goals
+l_1XLtP0,World Cup,t_0rmH6L,Cape Verde,p_3mPfwk,Deroy Duarte,1,,,0,,0,no coinciding Transfermarkt goal
+l_2L6d1F,First Division A,t_0wF6Y2,Westerlo,p_3mbjx9,Allahyar Sayyadmanesh,7,480975,Allahyar Sayyadmanesh,5,,0,best covers 5/7 goals (< 80%)
+l_45VZuL,Liga Profesional,t_2rD0OF,Aldosivi,p_3mjx14,Justo Giani,3,,,0,,0,no coinciding Transfermarkt goal
+l_1D8Xrl,Serie A,t_25lns2,São Paulo,p_3mnm9r,Pablo Maia,1,892089,Pablo Maia,1,,0,"single goal, minute not identical"
+l_45VZuL,Liga Profesional,t_2Swqmw,Club Atlético Platense,p_3mpZF5,Oscar Salomón,3,698323,Oscar Salomón,2,,0,best covers 2/3 goals (< 80%)
+l_45VZuL,Liga Profesional,t_3mLGSt,Newell's Old Boys,p_3mpZF5,Oscar Salomón,3,698323,Oscar Salomón,2,,0,best covers 2/3 goals (< 80%)
+l_1D8Xrl,Serie A,t_1QWIMY,Vasco da Gama,p_3mvRPH,Carlos Cuesta,1,474589,Carlos Cuesta,1,,0,"single goal, minute not identical"
+l_45VZuL,Liga Profesional,t_1dhmUh,Estudiantes de Río Cuarto,p_3mvWYr,Gabriel Alanís,1,189418,Martín Benítez,1,342149,1,single goal with several candidates
+l_3v84VE,Liga MX,t_08l6Cu,Pumas,p_3nyxJR,Aaron Ramsey,1,,,0,,0,no coinciding Transfermarkt goal
+l_2ApGa4,J. League,t_49j3Z1,Kashiwa Reysol,p_3o8w5Q,Tomoya Koyamatsu,2,308243,Tomoya Koyamatsu,2,780297,1,runner-up too close
+l_4d6Bwl,Super League,t_4O5rx2,Grasshopper,p_3oTTqA,Samuel Marques,1,867589,Samuel Marques,1,,0,"single goal, minute not identical"
+l_0F4I4F,1. Liga,t_4T4c7t,Mladá Boleslav,p_3ocrj9,Jiří Klíma,3,260038,Jiri Klima,2,,0,best covers 2/3 goals (< 80%)
+l_45VZuL,Liga Profesional,t_2M7cot,Central Córdoba de Santiago,p_3ohM6R,Gastón Verón,3,,,0,,0,no coinciding Transfermarkt goal
+l_2ApGa4,J. League,t_25A1QK,JEF United Chiba,p_3or7M9,Issei Takahashi,1,,,0,,0,no coinciding Transfermarkt goal
+l_0eg6C9,MLS,t_2fvzmL,Austin FC,p_3p3poy,Robert Taylor,1,251836,Robert Taylor,1,,0,"single goal, minute not identical"
+l_2L6d1F,First Division A,t_1vesUg,RAAL La Louvière,p_3p8M01,Nachon Nsingi,1,463133,Wagane Faye,1,707802,1,single goal with several candidates
+l_2ApGa4,J. League,t_3RSWKx,Kashima Antlers,p_3pD0pU,Kimito Nono,3,1145045,Kimito Nono,1,,0,fewer than 2 coinciding goals
+l_2xBPKk,Super Liga,t_3cFDTA,TSC Bačka Topola,p_3pVnwe,Stefan Jovanović,2,455761,Stefan Jovanovic,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_2RmaMX,Racing Club,p_3pbQt4,Santiago Solari,5,866059,Santiago Solari,2,728200,1,best covers 2/5 goals (< 80%)
+l_0kSJLz,Liga I,t_1d3str,Dinamo Bucureşti,p_3pjiEm,Cătălin Cîrjan,7,575219,Cătălin Cîrjan,4,,0,best covers 4/7 goals (< 80%)
+l_2L6d1F,First Division A,t_0E5vxj,Royal Antwerp,p_3qMFKJ,Vincent Janssen,10,207015,Vincent Janssen,7,,0,best covers 7/10 goals (< 80%)
+l_3xwVF2,Super League 1,t_3ezqyM,Levadiakos,p_3qkyMk,Fabricio Pedrozo,13,186239,Fabricio Pedrozo,10,,0,best covers 10/13 goals (< 80%)
+l_2ApGa4,J. League,t_2731yf,Machida Zelvia,p_3qlMLh,Yuta Nakayama,3,346647,Yuta Nakayama,1,,0,fewer than 2 coinciding goals
+l_0eg6C9,MLS,t_09gmAn,Chicago Fire FC,p_3r9DBp,Jonathan Dean,1,635864,Jonathan Dean,1,,0,"single goal, minute not identical"
+l_2xBPKk,Super Liga,t_42j5I4,IMT,p_3rI44n,Dušan Žagar,2,999057,Dusan Zagar,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_0oa5Fc,Unión,p_3rOLlc,Agustín Colazo,4,842808,Agustín Colazo,1,,0,fewer than 2 coinciding goals
+l_0Lpz1f,Saudi Pro League,t_2r8ytM,Al Hilal,p_3riXNJ,Moteb Al-Harbi,2,869509,Moteb Al-Harbi,2,18922,1,runner-up too close
+l_2xBPKk,Super Liga,t_4JIp6m,Vojvodina,p_3rjK9n,Ibrahim Mustapha,3,797867,Ibrahim Mustapha,2,,0,best covers 2/3 goals (< 80%)
+l_2xBPKk,Super Liga,t_2rCgAm,Radnički Niš,p_3rjK9n,Ibrahim Mustapha,3,797867,Ibrahim Mustapha,2,,0,best covers 2/3 goals (< 80%)
+l_0F4I4F,1. Liga,t_33z5hz,Jablonec,p_3rkG3P,David Puškáč,2,194562,David Puskac,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_3qkV0m,Sarmiento,p_3s4BsN,Joel Godoy,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_1L8FaD,Tigre,p_3sHKHi,Julián López,1,,,0,,0,no coinciding Transfermarkt goal
+l_3xwVF2,Super League 1,t_3AH224,NFC Volos,p_3sI8rJ,Iason Kyrkos,2,,,0,,0,no coinciding Transfermarkt goal
+l_38d9HA,Europa League,t_35Zfsh,Ludogorets Razgrad,p_3sq9ZF,Kwadwo Duah,1,254955,,1,,0,"single goal, minute not identical"
+l_2ApGa4,J. League,t_2u1BXQ,Avispa Fukuoka,p_3svjwn,Wellington,2,67207,,1,1122577,1,fewer than 2 coinciding goals
+l_1Isor4,Bundesliga,t_2m5aqN,FC Heidenheim,p_3t1pJv,Marnon-Thomas Busch,1,117478,Marnon Busch,1,,0,"single goal, minute not identical"
+l_0eg6C9,MLS,t_2CuHdk,Vancouver Whitecaps,p_3tCEJd,Nelson Pierre,1,992225,,1,,0,"single goal, minute not identical"
+l_2ApGa4,J. League,t_0LfLJ4,Vissel Kobe,p_3tW3F1,Koya Yuruki,2,296471,Koya Yuruki,1,,0,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_49j3Z1,Kashiwa Reysol,p_3tW3F1,Koya Yuruki,2,296471,Koya Yuruki,1,,0,fewer than 2 coinciding goals
+l_3v84VE,Liga MX,t_1xzdYt,Tigres,p_3tdrks,Marco Farfan,2,,,0,,0,no coinciding Transfermarkt goal
+l_3v84VE,Liga MX,t_0cPdCL,Cruz Azul,p_3toNi4,José Paradela,10,639152,José Paradela,6,288251,1,best covers 6/10 goals (< 80%)
+l_2EKrnc,K League 1,t_4cae3z,FC Seoul,p_3toXmC,Jesse Lingard,5,141660,Jesse Lingard,2,,0,best covers 2/5 goals (< 80%)
+l_3v84VE,Liga MX,t_0p2Sk7,FC Juárez,p_3tsAcU,Diego Valoyes,1,,,0,,0,no coinciding Transfermarkt goal
+l_2ApGa4,J. League,t_1pt1Bj,Gamba Osaka,p_3tyBZ0,Juan,1,520467,,1,,0,"single goal, names share no token"
+l_3xwVF2,Super League 1,t_27hFVh,Atromitos,p_3u5VMl,Sotiris Tsiloulis,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_2Ba0sx,Belgrano,p_3u6zLG,Leonardo Morales,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_0oa5Fc,Unión,p_3uAxFO,Augusto Solari,1,,,0,,0,no coinciding Transfermarkt goal
+l_2ApGa4,J. League,t_49j3Z1,Kashiwa Reysol,p_3ueaNe,Mao Hosoya,9,663514,Mao Hosoya,6,651218,1,best covers 6/9 goals (< 80%)
+l_0F4I4F,1. Liga,t_1OB46o,Teplice,p_3uzXtG,Matěj Radosta,3,486618,Matej Radosta,2,,0,best covers 2/3 goals (< 80%)
+l_45VZuL,Liga Profesional,t_2Ba0sx,Belgrano,p_3v2tAE,Lucas Zelarayán,6,230030,Lucas Zelarayán,3,,0,best covers 3/6 goals (< 80%)
+l_3xwVF2,Super League 1,t_2brRQM,Panserraikos FC,p_3v82bM,Giannis Doiranlis,1,,,0,,0,no coinciding Transfermarkt goal
+l_2ApGa4,J. League,t_1W837G,V-Varen Nagasaki,p_3v8FSn,Harumu Nabeshima,1,,,0,,0,no coinciding Transfermarkt goal
+l_2WZ2tt,Conference League,t_2H7cEh,KF Shkendija,p_3vKSVB,Liridon Latifi,1,155202,Piotr Parzyszek,1,226190,1,single goal with several candidates
+l_3v84VE,Liga MX,t_1xzdYt,Tigres,p_3veWGo,Andre-Pierre Gignac,3,650861,Díber Cambindo,1,43907,1,fewer than 2 coinciding goals
+l_0F4I4F,1. Liga,t_10bdCj,Karviná,p_3vgBxE,Ousmane Condé,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_0otcXZ,Boca Juniors,p_3vrKDa,Lautaro Di Lollo,3,1019744,Lautaro Di Lollo,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_2qXAzu,Huracán,p_3w1HcK,Óscar Romero,2,,,0,,0,no coinciding Transfermarkt goal
+l_0kSJLz,Liga I,t_1zLfCo,Rapid Bucureşti,p_3wcrpz,Alexandru Ștefan Pașcanu,4,421258,Alexandru Pașcanu,3,,0,best covers 3/4 goals (< 80%)
+l_45VZuL,Liga Profesional,t_0oa5Fc,Unión,p_3woyik,Cristian Alberto Tarragona,13,422698,Cristian Tarragona,7,,0,best covers 7/13 goals (< 80%)
+l_3v84VE,Liga MX,t_0cPdCL,Cruz Azul,p_3wrdcv,Andrés Montaño,2,993722,Andrés Montaño,2,726005,1,runner-up too close
+l_45VZuL,Liga Profesional,t_3mLGSt,Newell's Old Boys,p_3wsWiY,Víctor Cuesta,1,,,0,,0,no coinciding Transfermarkt goal
+l_2EKrnc,K League 1,t_3EXLOF,Jeonbuk Hyundai Motors FC,p_3wtCUP,Jin-Woo Jeon,4,560797,Jin-woo Jeon,2,,0,best covers 2/4 goals (< 80%)
+l_2L6d1F,First Division A,t_11R95l,St.Truiden,p_3x8lHG,Ryan Merlen,3,,,0,,0,no coinciding Transfermarkt goal
+l_3v84VE,Liga MX,t_08l6Cu,Pumas,p_3xiePt,Rubén Duarte,3,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_0oa5Fc,Unión,p_3yJs62,Mauro Pittón,2,,,0,,0,no coinciding Transfermarkt goal
+l_0kSJLz,Liga I,t_1d3str,Dinamo Bucureşti,p_3yaSEA,Alexandru Mihai Constantin Pop,4,434892,Alexandru Pop,3,,0,best covers 3/4 goals (< 80%)
+l_45VZuL,Liga Profesional,t_0oa5Fc,Unión,p_3ybBVT,Marcelo Estigarribia,8,610266,Marcelo Estigarribia,4,,0,best covers 4/8 goals (< 80%)
+l_2EKrnc,K League 1,t_0BmWKf,Suwon FC,p_3z4Dr2,Ji-Sol Lee,1,297710,,1,,0,"single goal, names share no token"
+l_0kSJLz,Liga I,t_2xzRUe,Petrolul 52,p_3z4aUm,Ricardo José Veiga Varzim Miranda,1,337537,Ricardinho,1,,0,"single goal, names share no token"
+l_0F4I4F,1. Liga,t_41GCDg,Slavia Prague,p_3zgqet,Igoh Ogbu,1,,,0,,0,no coinciding Transfermarkt goal
+l_3zsMpo,Bundesliga,t_34FD4Z,Ried,p_3zhqF4,Philipp Pomer,4,289396,Philipp Pomer,2,,0,best covers 2/4 goals (< 80%)
+l_49Zmno,Superligaen,t_4eVDVk,Viborg,p_409R22,Osman Addo,2,815316,Osman Addo,1,,0,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_1E6Pbm,Shimizu S-Pulse,p_40AskZ,Koya Kitagawa,4,290705,Koya Kitagawa,2,,0,best covers 2/4 goals (< 80%)
+l_2ApGa4,J. League,t_49j3Z1,Kashiwa Reysol,p_40fJuX,Taiyo Koga,1,,,0,,0,no coinciding Transfermarkt goal
+l_2ApGa4,J. League,t_49j3Z1,Kashiwa Reysol,p_40gul0,Hinata Yamauchi,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_0rGDE4,Gimnasia LP,p_40ubcR,Enzo Martínez,3,578737,Enzo Martínez,2,,0,best covers 2/3 goals (< 80%)
+l_3xwVF2,Super League 1,t_3ImeRW,Panathinaikos,p_41DyF4,Alexander Jeremejeff,9,205760,Alexander Jeremejeff,7,,0,best covers 7/9 goals (< 80%)
+l_3xwVF2,Super League 1,t_2LBMDR,PAOK Thessaloniki,p_41DyF4,Alexander Jeremejeff,9,205760,Alexander Jeremejeff,7,,0,best covers 7/9 goals (< 80%)
+l_38d9HA,Europa League,t_2LBMDR,PAOK Thessaloniki,p_41DyF4,Alexander Jeremejeff,9,205760,Alexander Jeremejeff,7,,0,best covers 7/9 goals (< 80%)
+l_3xwVF2,Super League 1,t_48GNlO,Aris Thessaloniki,p_41EeUS,Benjamín Garré,3,462977,Benjamín Garré,1,,0,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_1W837G,V-Varen Nagasaki,p_41X7va,Yuto Iwasaki,1,,,0,,0,no coinciding Transfermarkt goal
+l_2ApGa4,J. League,t_2fx2NT,Fagiano Okayama FC,p_41k6Y7,Léo Gaúcho,4,,,0,,0,no coinciding Transfermarkt goal
+l_0bfbkO,Champions League,t_0Gz1mu,Kairat Almaty,p_41qKw3,Olzhas Baybek,1,939183,,1,,0,"single goal, names share no token"
+l_45VZuL,Liga Profesional,t_1HsET8,Estudiantes,p_41skmV,Román Gómez,1,,,0,,0,no coinciding Transfermarkt goal
+l_1D8Xrl,Serie A,t_27JMSm,Fortaleza,p_42HrBO,Bruno Pacheco,1,435163,Bruno Pacheco,1,,0,"single goal, minute not identical"
+l_0F4I4F,1. Liga,t_4T4c7t,Mladá Boleslav,p_42oPJ8,Martin Šubert,1,728615,Martin Subert,1,,0,"single goal, minute not identical"
+l_0kSJLz,Liga I,t_1zLfCo,Rapid Bucureşti,p_437jy8,Rareș Mihai Pop,4,837240,Rareș Pop,2,,0,best covers 2/4 goals (< 80%)
+l_0kSJLz,Liga I,t_2xzRUe,Petrolul 52,p_437jy8,Rareș Mihai Pop,4,837240,Rareș Pop,2,,0,best covers 2/4 goals (< 80%)
+l_45VZuL,Liga Profesional,t_45vTPl,Atlético Tucumán,p_43D8up,Adrián Sánchez,2,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_2Ba0sx,Belgrano,p_43D8up,Adrián Sánchez,2,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_0oa5Fc,Unión,p_43YxGe,Brahian Cuello,3,494219,Brahian Cuello,2,,0,best covers 2/3 goals (< 80%)
+l_3v84VE,Liga MX,t_0cPdCL,Cruz Azul,p_43gSV2,Omar Campos,2,685179,Mateo Coronel,1,266807,1,fewer than 2 coinciding goals
+l_49Zmno,Superligaen,t_4eCFHQ,FC København,p_43hcn1,Junnosuke Suzuki,2,848856,Junnosuke Suzuki,1,,0,fewer than 2 coinciding goals
+l_0kSJLz,Liga I,t_1d3str,Dinamo Bucureşti,p_43xvXj,Vhakka Eddy Stelh Gnahoré,2,168933,Eddy Gnahoré,1,,0,fewer than 2 coinciding goals
+l_3xwVF2,Super League 1,t_2brRQM,Panserraikos FC,p_43yRF8,Alex Teixeira,3,66515,Alex Teixeira,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_1L8FaD,Tigre,p_444eWh,Jalil Elías,1,376859,Jalil Elías,1,1190390,1,single goal with several candidates
+l_45VZuL,Liga Profesional,t_3UNtKx,San Martin San Juan,p_444jRY,Horacio Tijanovich,2,,,0,,0,no coinciding Transfermarkt goal
+l_38d9HA,Europa League,t_4RqKpo,Aston Villa,p_448O9n,Youri Tielemans,4,249565,Youri Tielemans,1,,0,fewer than 2 coinciding goals
+l_1XLtP0,World Cup,t_4fEqYQ,Belgium,p_448O9n,Youri Tielemans,4,249565,Youri Tielemans,1,,0,fewer than 2 coinciding goals
+l_2WZ2tt,Conference League,t_2ULmuf,NK Celje,p_44E1ej,Rudi Vancas,1,168152,,1,,0,"single goal, names share no token"
+l_2ApGa4,J. League,t_2731yf,Machida Zelvia,p_44OfS6,Shota Fujio,2,221968,Kosuke Kinoshita,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_0SmVI4,Independiente Rivadavia,p_44aH5B,Fabrizio Sartori,8,978970,Fabrizio Sartori,6,,0,best covers 6/8 goals (< 80%)
+l_45VZuL,Liga Profesional,t_1XZg6T,Independiente,p_44fmOo,Gabriel Ávalos,14,358418,Gabriel Ávalos,9,90451,1,best covers 9/14 goals (< 80%)
+l_3v84VE,Liga MX,t_33VE4n,Toluca,p_44gX8Y,Helinho,9,412365,Helinho,3,627068,1,best covers 3/9 goals (< 80%)
+l_2ApGa4,J. League,t_0LfLJ4,Vissel Kobe,p_45BV7l,Takahiro Ogihara,4,140311,Takahiro Ogihara,1,,0,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_2fx2NT,Fagiano Okayama FC,p_45DsVd,Ryunosuke Sato,7,948169,Ryunosuke Sato,2,,0,best covers 2/7 goals (< 80%)
+l_2ApGa4,J. League,t_17gQhK,FC Tokyo,p_45DsVd,Ryunosuke Sato,7,948169,Ryunosuke Sato,2,,0,best covers 2/7 goals (< 80%)
+l_0eg6C9,MLS,t_3N3Xe0,Orlando City,p_45NJGJ,Tyrese Spicer,4,1214898,Tyrese Spicer,3,,0,best covers 3/4 goals (< 80%)
+l_2ApGa4,J. League,t_1W837G,V-Varen Nagasaki,p_45TumU,Ryogo Yamasaki,2,,,0,,0,no coinciding Transfermarkt goal
+l_2L6d1F,First Division A,t_0wF6Y2,Westerlo,p_45pkUD,Emin Bayram,3,655902,Emin Bayram,2,,0,best covers 2/3 goals (< 80%)
+l_45VZuL,Liga Profesional,t_0rsFNq,Lanús,p_45uQz6,Franco Watson,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_2Swqmw,Club Atlético Platense,p_462D6e,Ignacio Schor,1,,,0,,0,no coinciding Transfermarkt goal
+l_214sqK,Ekstraklasa,t_0vT0AW,Raków Częstochowa,p_46FSUA,Péter Baráth,3,616948,Péter Baráth,2,,0,best covers 2/3 goals (< 80%)
+l_0F4I4F,1. Liga,t_1f8Jae,Sigma Olomouc,p_46FSUA,Péter Baráth,3,616948,Péter Baráth,2,,0,best covers 2/3 goals (< 80%)
+l_0eg6C9,MLS,t_0vjCk0,CF Montréal,p_46OeiU,Luca Petrasso,1,494826,Luca Petrasso,1,,0,"single goal, minute not identical"
+l_2ApGa4,J. League,t_2731yf,Machida Zelvia,p_46TNVs,Takaya Numata,1,933403,Takaya Numata,1,296471,1,single goal with several candidates
+l_2ApGa4,J. League,t_1E6Pbm,Shimizu S-Pulse,p_46YNcm,Zento Uno,1,,,0,,0,no coinciding Transfermarkt goal
+l_2ApGa4,J. League,t_2731yf,Machida Zelvia,p_46vQh2,Se-Hun Oh,8,402167,Se-hun Oh,1,,0,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_1E6Pbm,Shimizu S-Pulse,p_46vQh2,Se-Hun Oh,8,402167,Se-hun Oh,1,,0,fewer than 2 coinciding goals
+l_1LMdEO,Premiership,t_0TPUj3,Rangers,p_46zdad,Youssef Chermiti,15,670688,Youssef Chermiti,11,,0,best covers 11/15 goals (< 80%)
+l_45VZuL,Liga Profesional,t_2fePa3,Godoy Cruz,p_4717K7,Vicente Poggi,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_1XZg6T,Independiente,p_477cm1,Iván Marcone,1,90451,Iván Marcone,1,358418,1,single goal with several candidates
+l_2ApGa4,J. League,t_3lBlnh,Kyoto Sanga FC,p_47S4rr,Alex Negueba,1,,,0,,0,no coinciding Transfermarkt goal
+l_49Zmno,Superligaen,t_0rrO78,AGF,p_47avEK,Kevin Yakob,4,413268,Kevin Yakob,3,,0,best covers 3/4 goals (< 80%)
+l_45VZuL,Liga Profesional,t_1rEb7t,Rosario Central,p_47bCwf,Ignacio Malcorra,4,87518,Ignacio Malcorra,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_1XZg6T,Independiente,p_47bCwf,Ignacio Malcorra,4,87518,Ignacio Malcorra,1,,0,fewer than 2 coinciding goals
+l_3xwVF2,Super League 1,t_48GNlO,Aris Thessaloniki,p_47v2Ht,Christian Kouamé,2,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_2eRs85,Vélez Sarsfield,p_486mOo,Francisco Pizzini,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_3mLGSt,Newell's Old Boys,p_48O6pP,Jerónimo Russo,1,1139402,Jeronimo Russo,1,,0,"single goal, minute not identical"
+l_3v84VE,Liga MX,t_06pffY,Atlas,p_48nE6k,Aldo Rocha,1,,,0,,0,no coinciding Transfermarkt goal
+l_2L6d1F,First Division A,t_1mTmMO,Club Brugge,p_48xYp4,Nicolò Tresoldi,22,717329,Nicolò Tresoldi,16,,0,best covers 16/22 goals (< 80%)
+l_0bfbkO,Champions League,t_1mTmMO,Club Brugge,p_48xYp4,Nicolò Tresoldi,22,717329,Nicolò Tresoldi,16,,0,best covers 16/22 goals (< 80%)
+l_0kSJLz,Liga I,t_1UKod6,Metaloglobus,p_49c2j6,Stefan Višić,3,496631,Stefan Visic,2,,0,best covers 2/3 goals (< 80%)
+l_2xBPKk,Super Liga,t_1YGq6m,Javor,p_49ygKF,Đorđe Skoko,1,,,0,,0,no coinciding Transfermarkt goal
+l_1XsMdH,Allsvenskan,t_4E7vY4,Hammarby,p_4AcMWO,Abdelrahman Boudah,1,492104,Abdelrahman Boudah,1,,0,"single goal, minute not identical"
+l_2tFk9k,HNL,t_3jcZgw,Lokomotiva Zagreb,p_4AoGfF,Domagoj Antolic,1,,,0,,0,no coinciding Transfermarkt goal
+l_2ApGa4,J. League,t_49j3Z1,Kashiwa Reysol,p_4Apkyf,Yusuke Segawa,7,422518,Yusuke Segawa,3,,0,best covers 3/7 goals (< 80%)
+l_3xwVF2,Super League 1,t_0rCy1r,Panetolikos,p_4CE4AN,Andreas Bouchalakis,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_2RmaMX,Racing Club,p_4CT3Nv,Facundo Mura,1,,,0,,0,no coinciding Transfermarkt goal
+l_0ALvwF,Serie A,t_1fXtzU,Torino,p_4CTcP8,Rafael Obrador,1,646747,Rafa Obrador,1,,0,"single goal, minute not identical"
+l_2ApGa4,J. League,t_1E6Pbm,Shimizu S-Pulse,p_4CeTds,Kengo Kitazume,1,,,0,,0,no coinciding Transfermarkt goal
+l_3v84VE,Liga MX,t_33VE4n,Toluca,p_4CoR63,Juan Domínguez,2,915016,Juan Domínguez,1,,0,fewer than 2 coinciding goals
+l_3v84VE,Liga MX,t_3Aj84E,León,p_4CoR63,Juan Domínguez,2,915016,Juan Domínguez,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_2fePa3,Godoy Cruz,p_4Cq2Gg,Daniel Barrea,1,,,0,,0,no coinciding Transfermarkt goal
+l_2ApGa4,J. League,t_1mrdfo,Nagoya Grampus,p_4CxKMH,Ryuji Izumi,2,396749,Ryuji Izumi,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_02LuKO,Talleres,p_4D08FT,Mateo Cáceres,1,,,0,,0,no coinciding Transfermarkt goal
+l_0F4I4F,1. Liga,t_4cz6mV,Baník Ostrava,p_4D8CWy,Michal Frydrych,2,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_0SmVI4,Independiente Rivadavia,p_4DVJGJ,Matías Fernández,4,707153,Matías Fernández,2,,0,best covers 2/4 goals (< 80%)
+l_3v84VE,Liga MX,t_33VE4n,Toluca,p_4DiRmR,Francisco Cordova,1,355998,Uriel Antuna,1,431533,1,single goal with several candidates
+l_2xBPKk,Super Liga,t_3cFDTA,TSC Bačka Topola,p_4EPQDN,Mihajlo Milosavić,4,711166,Mihajlo Milosavic,3,,0,best covers 3/4 goals (< 80%)
+l_45VZuL,Liga Profesional,t_3XuEvf,Argentinos Juniors,p_4EUErB,Diego Porcel,2,,,0,,0,no coinciding Transfermarkt goal
+l_2WZ2tt,Conference League,t_28up0p,Zrinjski Mostar,p_4Eb8wS,Leo Mikic,1,473296,,1,,0,"single goal, names share no token"
+l_0kSJLz,Liga I,t_2xzRUe,Petrolul 52,p_4Eg7kO,Rafael Baldrés Hermann,1,566875,Rafinha,1,,0,"single goal, names share no token"
+l_3xwVF2,Super League 1,t_2jeqmO,AEK Athens,p_4EnNZ8,Aboubakary Koïta,9,422377,Aboubakary Koita,6,,0,best covers 6/9 goals (< 80%)
+l_2WZ2tt,Conference League,t_2jeqmO,AEK Athens,p_4EnNZ8,Aboubakary Koïta,9,422377,Aboubakary Koita,6,,0,best covers 6/9 goals (< 80%)
+l_4d6Bwl,Super League,t_4BMKXx,Young Boys,p_4EvIa0,Edimilson Fernandes,3,247555,Edimilson Fernandes,2,,0,best covers 2/3 goals (< 80%)
+l_214sqK,Ekstraklasa,t_3X76P7,Górnik Zabrze,p_4F0I14,Luka Zahovic,2,169362,Luka Zahovic,1,,0,fewer than 2 coinciding goals
+l_0kSJLz,Liga I,t_11HeMJ,CFR Cluj,p_4F0I14,Luka Zahovic,2,169362,Luka Zahovic,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_1HsET8,Estudiantes,p_4FAIfZ,Alexis Castro,4,364602,Alexis Castro,3,,0,best covers 3/4 goals (< 80%)
+l_2ApGa4,J. League,t_0LfLJ4,Vissel Kobe,p_4FBJnp,Daiju Sasaki,4,515653,Daiju Sasaki,1,,0,fewer than 2 coinciding goals
+l_3v84VE,Liga MX,t_1Qxyck,Querétaro FC,p_4GR4fp,Santiago Homenchenko,6,895679,Santiago Homenchenko,2,,0,best covers 2/6 goals (< 80%)
+l_3xwVF2,Super League 1,t_27hFVh,Atromitos,p_4GV8EO,Dimitrios Tsakmakis,1,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_3FROV0,Barracas Central,p_4GYgI9,Facundo Bruera,6,333921,Nicolás Fernández,1,538880,1,fewer than 2 coinciding goals
+l_0Lpz1f,Saudi Pro League,t_4YFW8w,Al-Taawoun,p_4HToxq,Romain Faivre,1,555076,Romain Faivre,1,901076,1,single goal with several candidates
+l_3v84VE,Liga MX,t_3aG59l,Chivas,p_4HVfAR,Samir Inda,1,,,0,,0,no coinciding Transfermarkt goal
+l_2EKrnc,K League 1,t_40E4Th,Gimcheon Sangmu,p_4Hk8VI,Kang-San Kim,2,,,0,,0,no coinciding Transfermarkt goal
+l_0ALvwF,Serie A,t_2toJRF,Napoli,p_4HsGBV,Romelu Lukaku,3,96341,Romelu Lukaku,2,,0,best covers 2/3 goals (< 80%)
+l_1XLtP0,World Cup,t_4fEqYQ,Belgium,p_4HsGBV,Romelu Lukaku,3,96341,Romelu Lukaku,2,,0,best covers 2/3 goals (< 80%)
+l_49Zmno,Superligaen,t_4eCFHQ,FC København,p_4HtkJI,Aurélio Buta,1,,,0,,0,no coinciding Transfermarkt goal
+l_0kSJLz,Liga I,t_2SZyGH,Universitatea Craiova,p_4HvOTb,Anzor Mekvabishvili,3,502671,Anzor Mekvabishvili,1,,0,fewer than 2 coinciding goals
+l_3FJFUl,Ligue 1,t_0QUJ2Y,Nice,p_4I4PJx,Kojo Peprah Oppong,1,1113451,Kojo Peprah Oppong,1,,0,"single goal, minute not identical"
+l_45VZuL,Liga Profesional,t_3UNtKx,San Martin San Juan,p_4IA6aI,Tomás Fernández,4,613364,Tomás Fernández,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_2rD0OF,Aldosivi,p_4IA6aI,Tomás Fernández,4,613364,Tomás Fernández,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_1L8FaD,Tigre,p_4INIHb,David Romero,9,668512,David Romero,7,140214,1,best covers 7/9 goals (< 80%)
+l_3v84VE,Liga MX,t_06pffY,Atlas,p_4IdD3w,Paulo Ramírez,2,1087210,Paulo Ramírez,1,,0,fewer than 2 coinciding goals
+l_0eg6C9,MLS,t_09gmAn,Chicago Fire FC,p_4Ili1T,Jack Elliott,4,490362,Jack Elliott,3,,0,best covers 3/4 goals (< 80%)
+l_1LMdEO,Premiership,t_2pkWY0,Hibernian,p_4JFkSA,Josh Campbell,3,482802,Josh Campbell,1,,0,fewer than 2 coinciding goals
+l_49Zmno,Superligaen,t_4eCFHQ,FC København,p_4JPHIM,Robert,6,1084714,Robert,4,902747,1,best covers 4/6 goals (< 80%)
+l_0bfbkO,Champions League,t_4eCFHQ,FC København,p_4JPHIM,Robert,6,1084714,Robert,4,902747,1,best covers 4/6 goals (< 80%)
+l_3v84VE,Liga MX,t_06pffY,Atlas,p_4JwCQA,Matías Cóccaro,2,454625,Matías Cóccaro,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_3mLGSt,Newell's Old Boys,p_4JwCQA,Matías Cóccaro,2,454625,Matías Cóccaro,1,,0,fewer than 2 coinciding goals
+l_4QexZg,Liga Portugal,t_3dYtb5,AVS Futebol SAD,p_4JyIKR,Guilherme Neiva,2,1065761,Guilherme Neiva,2,45717,1,runner-up too close
+l_3v84VE,Liga MX,t_42FKLM,Tijuana,p_4K7dlb,Rafael Fernández,1,,,0,,0,no coinciding Transfermarkt goal
+l_2ApGa4,J. League,t_2fx2NT,Fagiano Okayama FC,p_4KTzRY,Kota Kawano,2,,,0,,0,no coinciding Transfermarkt goal
+l_0uqFK8,Eliteserien,t_2YsR0z,Strømsgodset,p_4KfYuY,Ole Kristian Enersen,1,896460,,1,,0,"single goal, names share no token"
+l_0eg6C9,MLS,t_3N3Xe0,Orlando City,p_4KgOC4,Dagur Thórhallsson,2,447482,Dagur Dan Thórhallsson,2,325603,1,runner-up too close
+l_0eg6C9,MLS,t_0vjCk0,CF Montréal,p_4KgOC4,Dagur Thórhallsson,2,447482,Dagur Dan Thórhallsson,2,325603,1,runner-up too close
+l_49Zmno,Superligaen,t_4eCFHQ,FC København,p_4LBWkB,Youssoufa Moukoko,11,467720,Youssoufa Moukoko,3,,0,best covers 3/11 goals (< 80%)
+l_2L6d1F,First Division A,t_11R95l,St.Truiden,p_4MG8uO,Ryotaro Ito,10,415522,Ryotaro Ito,7,,0,best covers 7/10 goals (< 80%)
+l_3xwVF2,Super League 1,t_2jeqmO,AEK Athens,p_4MHs0F,Joao Mário,2,149729,João Mário,1,,0,fewer than 2 coinciding goals
+l_2EKrnc,K League 1,t_0BmWKf,Suwon FC,p_4MVSwx,Willyan,8,198974,Willyan,6,,0,best covers 6/8 goals (< 80%)
+l_3v84VE,Liga MX,t_3FfqhA,Santos Laguna,p_4NARjT,Jonathan Pérez,1,,,0,,0,no coinciding Transfermarkt goal
+l_0kSJLz,Liga I,t_1zLfCo,Rapid Bucureşti,p_4NLdGt,Cătălin Alin Vulturar,2,,,0,,0,no coinciding Transfermarkt goal
+l_3v84VE,Liga MX,t_3Wm9EG,Mazatlan FC,p_4NQnjO,Facundo Almada,6,639390,Facundo Almada,3,,0,best covers 3/6 goals (< 80%)
+l_2L6d1F,First Division A,t_1mTmMO,Club Brugge,p_4NUmpH,Christos Tzolis,19,451677,Christos Tzolis,11,,0,best covers 11/19 goals (< 80%)
+l_0bfbkO,Champions League,t_1mTmMO,Club Brugge,p_4NUmpH,Christos Tzolis,19,451677,Christos Tzolis,11,,0,best covers 11/19 goals (< 80%)
+l_3xwVF2,Super League 1,t_3ezqyM,Levadiakos,p_4Nh9fK,Panagiotis Liagas,2,586744,Panagiotis Liagas,1,,0,fewer than 2 coinciding goals
+l_0F4I4F,1. Liga,t_4T4c7t,Mladá Boleslav,p_4NumTp,Ondřej Karafiát,1,,,0,,0,no coinciding Transfermarkt goal
+l_2ApGa4,J. League,t_2fx2NT,Fagiano Okayama FC,p_4O4HM7,Kazunari Ichimi,2,417610,Kazunari Ichimi,1,,0,fewer than 2 coinciding goals
+l_1D8Xrl,Serie A,t_3aT5MF,Bahia,p_4O4UwI,Iago,1,520468,Iago,1,,0,"single goal, minute not identical"
+l_0eg6C9,MLS,t_1rgPN4,Inter Miami CF,p_4O6Nl4,Tomás Avilés,1,1064191,Tomás Avilés,1,,0,"single goal, minute not identical"
+l_1XsMdH,Allsvenskan,t_0uPsiJ,Degerfors,p_4Oblyw,Armann Taranis,3,599675,Arman Taranis,2,,0,best covers 2/3 goals (< 80%)
+l_45VZuL,Liga Profesional,t_2rD0OF,Aldosivi,p_4OfzNB,Tiago Serrago,2,1231128,Tiago Serrago,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_1L8FaD,Tigre,p_4OfzNB,Tiago Serrago,2,1231128,Tiago Serrago,1,,0,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_2SxYow,Urawa Red Diamonds,p_4P0hPr,Yusuke Matsuo,2,675754,Yusuke Matsuo,1,,0,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_2HK8gL,Tokyo Verdy,p_4PGANl,Hiroto Taniguchi,3,590655,Hiroto Taniguchi,2,,0,best covers 2/3 goals (< 80%)
+l_45VZuL,Liga Profesional,t_1rEb7t,Rosario Central,p_4PWEjP,Franco Ibarra,1,,,0,,0,no coinciding Transfermarkt goal
+l_2ApGa4,J. League,t_49j3Z1,Kashiwa Reysol,p_4PjHAr,Yuto Yamada,1,605017,Yuto Yamada,1,356145,1,single goal with several candidates
+l_2ApGa4,J. League,t_25A1QK,JEF United Chiba,p_4QA3m3,Hiroto Goya,5,,,0,,0,no coinciding Transfermarkt goal
+l_2WZ2tt,Conference League,t_28up0p,Zrinjski Mostar,p_4QEMl6,Mario Cuze,1,430190,Yegor Nazaryna,1,1130514,1,single goal with several candidates
+l_2xBPKk,Super Liga,t_4JIp6m,Vojvodina,p_4QYhdV,Marko Mladenović,2,922413,Marko Mladenovic,1,,0,fewer than 2 coinciding goals
+l_3zsMpo,Bundesliga,t_3A58ap,Rapid Wien,p_4R1vlk,Andrija Radulović,2,614194,Andrija Radulovic,2,711597,1,runner-up too close
+l_2WZ2tt,Conference League,t_3A58ap,Rapid Wien,p_4R1vlk,Andrija Radulović,2,614194,Andrija Radulovic,2,711597,1,runner-up too close
+l_45VZuL,Liga Profesional,t_0bW0AU,Banfield,p_4RJnnl,Gonzalo Ríos,3,907834,Gonzalo Ríos,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_0SmVI4,Independiente Rivadavia,p_4RJnnl,Gonzalo Ríos,3,907834,Gonzalo Ríos,1,,0,fewer than 2 coinciding goals
+l_0eg6C9,MLS,t_0T0wL5,FC Cincinnati,p_4RKb7Y,Brenner,7,412366,Brenner,5,,0,best covers 5/7 goals (< 80%)
+l_1D8Xrl,Serie A,t_1QWIMY,Vasco da Gama,p_4RKb7Y,Brenner,7,412366,Brenner,5,,0,best covers 5/7 goals (< 80%)
+l_45VZuL,Liga Profesional,t_3FROV0,Barracas Central,p_4RLJIA,Gonzalo Morales,3,1123309,Nicolás Barros Schelotto,1,1064936,1,fewer than 2 coinciding goals
+l_3v84VE,Liga MX,t_3Wm9EG,Mazatlan FC,p_4RhThD,Bryan Colula,3,384368,Bryan Colula,1,,0,fewer than 2 coinciding goals
+l_3v84VE,Liga MX,t_3Aj84E,León,p_4RhThD,Bryan Colula,3,384368,Bryan Colula,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_3TbOfu,Deportivo Riestra,p_4RjjYt,Jonathan Herrera,6,,,0,,0,no coinciding Transfermarkt goal
+l_3xwVF2,Super League 1,t_27hFVh,Atromitos,p_4Ro7Mu,Ognjen Ožegović,4,144304,Ognjen Ozegovic,2,,0,best covers 2/4 goals (< 80%)
+l_3xwVF2,Super League 1,t_3ezqyM,Levadiakos,p_4Ro7Mu,Ognjen Ožegović,4,144304,Ognjen Ozegovic,2,,0,best covers 2/4 goals (< 80%)
+l_2xBPKk,Super Liga,t_4Kwcr6,Napredak,p_4Ry0Z8,Nebojša Bastajić,1,,,0,,0,no coinciding Transfermarkt goal
+l_3v84VE,Liga MX,t_33VE4n,Toluca,p_4SRv1O,Héctor Herrera,2,122043,Héctor Herrera,1,,0,fewer than 2 coinciding goals
+l_0eg6C9,MLS,t_2L8yh8,Houston Dynamo FC,p_4SRv1O,Héctor Herrera,2,122043,Héctor Herrera,1,,0,fewer than 2 coinciding goals
+l_3zsMpo,Bundesliga,t_2Mf10x,Salzburg,p_4SSvyx,Jannik Schuster,1,915418,Jannik Schuster,1,,0,"single goal, minute not identical"
+l_2ApGa4,J. League,t_01uUy2,Mito Hollyhock,p_4SY3KJ,Yoshiki Torikai,2,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_3XuEvf,Argentinos Juniors,p_4SnNiA,Tomás Molina,6,429591,Tomás Molina,3,,0,best covers 3/6 goals (< 80%)
+l_1LMdEO,Premiership,t_3k7Fcc,Celtic,p_4TQwM7,Daizen Maeda,15,420931,Daizen Maeda,8,565435,1,best covers 8/15 goals (< 80%)
+l_1XLtP0,World Cup,t_1I9yHx,Japan,p_4TQwM7,Daizen Maeda,15,420931,Daizen Maeda,8,565435,1,best covers 8/15 goals (< 80%)
+l_2xBPKk,Super Liga,t_49UIKT,Mladost Lučani,p_4TTRdc,Jovan Ćirić,6,1184675,Jovan Ciric,3,,0,best covers 3/6 goals (< 80%)
+l_38d9HA,Europa League,t_0BJtVe,Malmö FF,p_4Tzml4,Oscar Lewicki,1,997903,Givairo Read,1,929090,1,single goal with several candidates
+l_3xwVF2,Super League 1,t_27hFVh,Atromitos,p_4U4YXh,Stavros Pnevmonidis,2,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_2eRs85,Vélez Sarsfield,p_4U4fDQ,Dilan Godoy,2,,,0,,0,no coinciding Transfermarkt goal
+l_45VZuL,Liga Profesional,t_3qkV0m,Sarmiento,p_4UF7DU,Joaquin Ardaiz,3,,,0,,0,no coinciding Transfermarkt goal
+l_2xBPKk,Super Liga,t_2rCgAm,Radnički Niš,p_4UKfRP,Radomir Milosavljević,4,145339,Radomir Milosavljevic,3,,0,best covers 3/4 goals (< 80%)
+l_45VZuL,Liga Profesional,t_3qkV0m,Sarmiento,p_4USU0R,Elián Giménez,1,,,0,,0,no coinciding Transfermarkt goal
+l_0ErfuF,LaLiga,t_0HSzvM,Real Betis,p_4V9uDL,Álvaro Fidalgo,3,261503,Álvaro Fidalgo,2,,0,best covers 2/3 goals (< 80%)
+l_3v84VE,Liga MX,t_4co6t5,CF América,p_4V9uDL,Álvaro Fidalgo,3,261503,Álvaro Fidalgo,2,,0,best covers 2/3 goals (< 80%)
+l_1XLtP0,World Cup,t_0IuuRb,Mexico,p_4V9uDL,Álvaro Fidalgo,3,261503,Álvaro Fidalgo,2,,0,best covers 2/3 goals (< 80%)
+l_2WZ2tt,Conference League,t_2ULmuf,NK Celje,p_4VtbLy,Darko Hrka,1,543836,,1,,0,"single goal, names share no token"
+l_0F4I4F,1. Liga,t_11JbPq,Slovácko,p_4WMnmV,Michal Trávník,3,189640,Michal Travnik,2,,0,best covers 2/3 goals (< 80%)
+l_2WZ2tt,Conference League,t_28up0p,Zrinjski Mostar,p_4XJn6z,Karlo Abramovic,1,701391,,1,,0,"single goal, names share no token"
+l_3xwVF2,Super League 1,t_1uUsje,Kifisia FC,p_4XJvEF,Lazare Amani,2,435808,Lazare Amani,1,,0,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_1mTqNS,Yokohama F.Marinos,p_4XV64d,Ren Kato,1,,,0,,0,no coinciding Transfermarkt goal
+l_2xBPKk,Super Liga,t_3cFDTA,TSC Bačka Topola,p_4Y04vg,Miloš Šatara,2,266941,Milos Satara,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_1QqhS7,San Lorenzo,p_4YbP7i,Gaston Hernandez,1,,,0,,0,no coinciding Transfermarkt goal
+l_3v84VE,Liga MX,t_3aG59l,Chivas,p_4YrlI6,Roberto Alvarado,4,353583,Roberto Alvarado,1,,0,fewer than 2 coinciding goals
+l_3v84VE,Liga MX,t_33VE4n,Toluca,p_4ZFvAf,Jorge Díaz,2,560312,Jorge Díaz Price,2,439108,1,runner-up too close
+l_1XsMdH,Allsvenskan,t_3qN7LN,Brommapojkarna,p_4a1NHf,Wilmer Odefalk,1,959047,Wilmer Odefalk,1,,0,"single goal, minute not identical"
+l_2xBPKk,Super Liga,t_47DAlu,Novi Pazar,p_4aJGUg,Vieiri Ferdinand William Kotzebue,3,697898,Vieiri Kotzebue,2,,0,best covers 2/3 goals (< 80%)
+l_45VZuL,Liga Profesional,t_2fePa3,Godoy Cruz,p_4bCUcN,Agustín Auzmendi,6,732442,Agustín Auzmendi,2,,0,best covers 2/6 goals (< 80%)
+l_45VZuL,Liga Profesional,t_0rGDE4,Gimnasia LP,p_4bCUcN,Agustín Auzmendi,6,732442,Agustín Auzmendi,2,,0,best covers 2/6 goals (< 80%)
+l_2ApGa4,J. League,t_3lBlnh,Kyoto Sanga FC,p_4bPP2W,Yoshinori Suzuki,2,344090,Yoshinori Suzuki,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_2Swqmw,Club Atlético Platense,p_4bqyr6,Ronaldo Martínez,11,567736,Ronaldo Martínez,3,,0,best covers 3/11 goals (< 80%)
+l_45VZuL,Liga Profesional,t_02LuKO,Talleres,p_4bqyr6,Ronaldo Martínez,11,567736,Ronaldo Martínez,3,,0,best covers 3/11 goals (< 80%)
+l_2ApGa4,J. League,t_2fx2NT,Fagiano Okayama FC,p_4cJCQe,Daichi Tagami,1,,,0,,0,no coinciding Transfermarkt goal
+l_0F4I4F,1. Liga,t_4cz6mV,Baník Ostrava,p_4cJbro,David Planka,2,931428,David Planka,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_1Fzy5s,River Plate,p_4d8JFW,Ian Subiabre,2,1074969,Ian Subiabre,1,125906,1,fewer than 2 coinciding goals
+l_2ApGa4,J. League,t_0LfLJ4,Vissel Kobe,p_4daEWd,Yosuke Ideguchi,1,,,0,,0,no coinciding Transfermarkt goal
+l_4WFCIZ,Premier League,t_2ihyjC,Brentford,p_4dgH0u,Yehor Yarmoliuk,1,717411,Yegor Yarmolyuk,1,,0,"single goal, names share no token"
+l_0F4I4F,1. Liga,t_1EaAa4,Zlín,p_4diORh,Tomáš Ulbrich,3,539377,Tom Ulbrich,2,,0,best covers 2/3 goals (< 80%)
+l_3xwVF2,Super League 1,t_2DRkpy,Asteras Tripolis,p_4dnvAO,Okoh Chidera,1,,,0,,0,no coinciding Transfermarkt goal
+l_3zsMpo,Bundesliga,t_0BUzDV,Grazer AK,p_4dxpm2,Donovan Pines,1,638692,Donovan Pines,1,,0,"single goal, minute not identical"
+l_2ApGa4,J. League,t_1mTqNS,Yokohama F.Marinos,p_4dz7iR,Jeison Quiñónes,3,607811,Jeison Quiñónes,2,948548,1,best covers 2/3 goals (< 80%)
+l_45VZuL,Liga Profesional,t_1Fzy5s,River Plate,p_4e3a9Y,Juan Quintero,4,122582,Juan Fernando Quintero,2,,0,best covers 2/4 goals (< 80%)
+l_2EKrnc,K League 1,t_46FQj1,Daejeon Hana Citizen,p_4ehFbh,Min-Kyu Joo,6,264082,Min-kyu Joo,4,,0,best covers 4/6 goals (< 80%)
+l_3xwVF2,Super League 1,t_2jeqmO,AEK Athens,p_4ehc9M,Dimitrios Kaloskamis,1,895905,Dimitrios Kaloskamis,1,,0,"single goal, minute not identical"
+l_45VZuL,Liga Profesional,t_3XuEvf,Argentinos Juniors,p_4ek1bV,Hernán López,8,665309,Hernán López Muñoz,2,,0,best covers 2/8 goals (< 80%)
+l_2L6d1F,First Division A,t_11R95l,St.Truiden,p_4fEew1,Abdoulaye Sissako,2,418661,Abdoulaye Sissako,1,,0,fewer than 2 coinciding goals
+l_45VZuL,Liga Profesional,t_2eRs85,Vélez Sarsfield,p_4fbCCX,Tomás Galván,5,893850,Tomás Galván,2,360412,1,best covers 2/5 goals (< 80%)
+l_45VZuL,Liga Profesional,t_1Fzy5s,River Plate,p_4fbCCX,Tomás Galván,5,893850,Tomás Galván,2,360412,1,best covers 2/5 goals (< 80%)
+l_2L6d1F,First Division A,t_2J5yFC,Anderlecht,p_4gIdPB,Tristan Degreef,4,903513,Tristan Degreef,3,,0,best covers 3/4 goals (< 80%)
+l_2L6d1F,First Division A,t_1vesUg,RAAL La Louvière,p_4gLam6,Oucasse Mendy,6,859536,Oucasse Mendy,3,,0,best covers 3/6 goals (< 80%)
+l_0kSJLz,Liga I,t_307T8v,Universitatea Cluj,p_4gLam6,Oucasse Mendy,6,859536,Oucasse Mendy,3,,0,best covers 3/6 goals (< 80%)
+l_45VZuL,Liga Profesional,t_2qXAzu,Huracán,p_4gXr9L,Agustín Urzi,1,,,0,,0,no coinciding Transfermarkt goal
