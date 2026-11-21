@@ -5,7 +5,7 @@ athlete_id,name,dob,team,competition_id
 178237,Jorge Salinas,2007-04-03,Racing Santander,ES1
 181582,Adrien Monfray,1990-12-20,Troyes,FR1
 182573,Steven Hall,2005-01-16,Brighton & Hove Albion,GB1
-184757,Jorge Castillo,2006-03-26,Atlético Madrid,ES1
+184757,Jorge Castillo,2006-05-23,Atlético Madrid,ES1
 186306,Mohamed Coulibaly,1988-08-07,AJ Auxerre,FR1
 190167,Maximilian Rohr,1995-06-27,SV Elversberg,L1
 198150,Matteo Pisseri,1991-11-21,Frosinone,IT1
@@ -50,6 +50,7 @@ athlete_id,name,dob,team,competition_id
 3102531,Arman Durmiši,,Juventus,IT1
 3102556,Jan-Luca Riedl,,Borussia Dortmund,L1
 3102821,Bruno Galassi,,Lazio,IT1
+3104145,Noah Codjo-Evora,,Bayern Munich,L1
 3104151,Tim Binder,,Bayern Munich,L1
 3105981,Muhammed Yasin Batuhan Zor,,TSG Hoffenheim,L1
 3106512,Jesús Vizcay Hurtado,,Athletic Club,ES1
@@ -348,3 +349,5 @@ athlete_id,name,dob,team,competition_id
 5331647,Valerio Maccaroni,,AS Roma,IT1
 5331648,Levente Kilvinger,,AS Roma,IT1
 5331888,Adnane Hamza Kharroubi,,Le Mans,FR1
+5334015,Bocar Wade,,Le Havre AC,FR1
+5334016,Makar Kotovshchikov,,Espanyol,ES1
