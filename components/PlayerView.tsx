@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useCallback, useMemo, useTransition } from "react";
+import { useState, useEffect, useCallback, useMemo, useRef, useTransition } from "react";
 import Link from "next/link";
 import type { PlayerData } from "@/lib/data";
 import TimelineStrip from "@/components/TimelineStrip";
@@ -40,9 +40,13 @@ export default function PlayerView({ initialPlayer, initialMinute }: PlayerViewP
     return () => media.removeEventListener("change", handler);
   }, []);
 
+  // Token of the latest request: a superseded one (even for the same id) must not apply.
+  const latestRequest = useRef(0);
+
   // Fetch and morph to player
   const morphToPlayer = useCallback(
     async (id: number, shouldPushState = true) => {
+      const token = ++latestRequest.current;
       try {
         if (!reducedMotion) {
           setIsCrossFading(true);
@@ -51,6 +55,7 @@ export default function PlayerView({ initialPlayer, initialMinute }: PlayerViewP
         const res = await fetch(`/api/player/${id}`);
         if (!res.ok) throw new Error("Failed to load player");
         const newPlayerData: PlayerData = await res.json();
+        if (latestRequest.current !== token) return;
 
         startTransition(() => {
           setPlayer(newPlayerData);
@@ -77,6 +82,7 @@ export default function PlayerView({ initialPlayer, initialMinute }: PlayerViewP
           setIsCrossFading(false);
         }
       } catch (err) {
+        if (latestRequest.current !== token) return;
         console.error("Error morphing player:", err);
         setIsCrossFading(false);
       }

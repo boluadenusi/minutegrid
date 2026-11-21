@@ -12,6 +12,12 @@ const nextConfig: NextConfig = {
       "./data/cache/**/*",
       "./data/*.csv",
       "./data/*.parquet",
+      // Pipeline-only JSON; the site reads index, boards, coverage and leagues.
+      "./data/espn_history.json",
+      "./data/espn_probe.json",
+      "./data/images.json",
+      "./data/live_matches.json",
+      "./data/source_totals.json",
     ],
   },
   turbopack: {

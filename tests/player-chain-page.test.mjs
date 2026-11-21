@@ -1,10 +1,11 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
 
-const baseUrl = process.env.TEST_BASE_URL ?? "http://localhost:3011";
+// Needs a running server: TEST_BASE_URL=http://localhost:3011 npm test
+const baseUrl = process.env.TEST_BASE_URL;
 
 for (const query of ["", "?view=chain", "?view=grid&minute=45"]) {
-  test(`player page renders only chains for ${query || "the default URL"}`, async () => {
+  test(`player page renders only chains for ${query || "the default URL"}`, { skip: !baseUrl && "set TEST_BASE_URL" }, async () => {
     const response = await fetch(`${baseUrl}/player/418560${query}`);
     assert.equal(response.status, 200);
     const html = await response.text();

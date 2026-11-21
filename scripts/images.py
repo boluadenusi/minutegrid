@@ -1,4 +1,4 @@
-"""Player photos and club logos from data/images.json (written by collect_images.py)."""
+"""Player photos and club logos from data/images.json (collected from PitchAPI, now retired)."""
 
 import json
 

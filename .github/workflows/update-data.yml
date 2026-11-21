@@ -36,6 +36,18 @@ jobs:
       - name: Rebuild site data
         run: python scripts/prep.py
 
+      # Node 22 runs the .ts imports in tests/*.test.mjs directly.
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+
+      - name: Check the rebuilt data before committing
+        run: |
+          python -m unittest discover -s tests
+          npm ci
+          npm test
+
       - name: Commit changes
         run: |
           git config user.name "minutegrid-bot"

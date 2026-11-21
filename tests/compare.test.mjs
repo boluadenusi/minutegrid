@@ -13,11 +13,12 @@ test("minutes are split into both, only A, only B and neither", () => {
   assert.equal(result.minutes.length, 90);
 });
 
-test("Lewandowski against Haaland adds up to 90 minutes", () => {
-  const load = (id) => JSON.parse(readFileSync(new URL(`../data/players/${id}.json`, import.meta.url))).minuteGoalCounts;
-  const result = compareMinutes(load(38253), load(418560));
+test("a complete player against Haaland adds up to 90 minutes", () => {
+  const haaland = JSON.parse(readFileSync(new URL("../data/players/418560.json", import.meta.url))).minuteGoalCounts;
+  const complete = Object.fromEntries(Array.from({ length: 90 }, (_, i) => [String(i + 1), 1]));
+  const result = compareMinutes(complete, haaland);
   assert.equal(result.both.length + result.onlyA.length + result.onlyB.length + result.neither.length, 90);
-  assert.equal(result.onlyB.length, 0); // Lewandowski has every minute
+  assert.equal(result.onlyB.length, 0); // A has every minute
 });
 
 test("player ids in the URL", () => {

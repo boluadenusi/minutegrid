@@ -408,3 +408,16 @@ h1, h2 { font-family: var(--font-display); font-weight: 400; }
 .site-footer { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 0.5rem; padding: 0.5rem 1rem 2.5rem; font-size: 0.75rem; color: var(--color-tone-500); }
 .site-footer a { color: var(--color-tone-400); text-underline-offset: 3px; transition: color 150ms; }
 .site-footer a:hover, .site-footer a:focus-visible { color: var(--foreground); text-decoration: underline; }
+
+/* Player page loading screen: a minute-by-minute sweep across the grid */
+.player-loading { display: flex; min-block-size: 70vh; flex-direction: column; align-items: center; justify-content: center; gap: 1.25rem; padding: 2rem 1rem; }
+.player-loading-grid { display: grid; grid-template-columns: repeat(10, 1fr); gap: 0.3125rem; inline-size: min(100%, 17rem); }
+.player-loading-grid span { aspect-ratio: 1; border-radius: 0.25rem; border: 1px dashed var(--gap); animation: loadingSweep 2.4s var(--ease-out) infinite both; }
+.player-loading-text { font-family: var(--font-display); font-size: 0.875rem; color: var(--muted-foreground); }
+@keyframes loadingSweep {
+  0%, 45%, 100% { background: transparent; border-color: var(--gap); }
+  12% { background: var(--accent); border-color: var(--accent); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .player-loading-grid span { animation: none; background: color-mix(in srgb, var(--accent) 25%, transparent); }
+}

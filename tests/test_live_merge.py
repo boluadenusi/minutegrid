@@ -1,13 +1,10 @@
 import sys
-import tempfile
 import unittest
-from datetime import date
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "scripts"))
 
 from scripts.live_merge import gap_closed_date, live_goals  # noqa: E402
-from scripts import sync_goals  # noqa: E402
 
 INFO = {"GB1": {"name": "premier-league", "sub_type": "first_tier"}, "CL": {"name": "uefa-champions-league", "sub_type": None}}
 
@@ -50,24 +47,6 @@ class ResolveTeamByNameTest(unittest.TestCase):
         self.assertEqual(resolve_team_by_name("Racing Club", clubs, name_tokens), "1444")
         self.assertIsNone(resolve_team_by_name("Atlético", clubs, name_tokens))  # fits several
         self.assertIsNone(resolve_team_by_name("Boca Juniors", clubs, name_tokens))  # fits none
-
-
-class SyncSaveTest(unittest.TestCase):
-    def test_save_and_load_round_trip(self):
-        with tempfile.TemporaryDirectory() as folder:
-            data = Path(folder)
-            old = sync_goals.DATA, sync_goals.OUT, sync_goals.STATE
-            sync_goals.DATA, sync_goals.OUT, sync_goals.STATE = data, data / "live.parquet", data / "state.json"
-            try:
-                record = {name: None for name, _ in sync_goals.COLUMNS}
-                record.update(date=date(2026, 8, 1), match_id="m1", minute=45, minute_added=2,
-                              is_penalty=False, source="pitchapi", tm_player_id=418560)
-                sync_goals.save([record], {"m1": {"date": "2026-08-01"}})
-                loaded = sync_goals.load_rows()
-            finally:
-                sync_goals.DATA, sync_goals.OUT, sync_goals.STATE = old
-        self.assertEqual(loaded[0]["tm_player_id"], 418560)
-        self.assertEqual(loaded[0]["date"], date(2026, 8, 1))
 
 
 if __name__ == "__main__":

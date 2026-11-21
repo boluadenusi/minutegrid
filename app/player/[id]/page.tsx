@@ -1,20 +1,12 @@
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
-import { getAllPlayerIds, getPlayerData } from "@/lib/data";
+import { getPlayerData } from "@/lib/data";
 import PlayerView from "@/components/PlayerView";
 import { getInitialMinute } from "@/lib/minute";
 
 interface Props {
   params: Promise<{ id: string }>;
   searchParams: Promise<{ view?: string | string[]; minute?: string | string[] }>;
-}
-
-// ---------------------------------------------------------------------------
-// Static generation
-// ---------------------------------------------------------------------------
-export async function generateStaticParams() {
-  const ids = getAllPlayerIds();
-  return ids.map((id) => ({ id: String(id) }));
 }
 
 // ---------------------------------------------------------------------------

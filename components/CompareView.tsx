@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import type { PlayerData } from "@/lib/data";
@@ -117,29 +117,34 @@ export default function CompareView({ initialA, initialB }: CompareViewProps) {
     [a, b]
   );
 
+  // The URL follows the players, so concurrent picks on both sides both land.
+  useEffect(() => {
+    router.replace(compareUrl(a, b), { scroll: false });
+  }, [a, b, router]);
+
+  // Token of the latest request per side: a superseded one (even for the same id) must not win.
+  const latestRequest = useRef<Record<Side, number>>({ a: 0, b: 0 });
+
   const pick = async (side: Side, id: number) => {
+    const token = ++latestRequest.current[side];
     setLoading(side);
     setError(null);
     try {
       const response = await fetch(`/api/player/${id}`);
       if (!response.ok) throw new Error(`Player request failed: ${response.status}`);
       const player = (await response.json()) as PlayerData;
-      const next = { ...players, [side]: player };
-      setPlayers(next);
-      router.replace(compareUrl(next.a, next.b), { scroll: false });
+      if (latestRequest.current[side] !== token) return;
+      setPlayers((current) => ({ ...current, [side]: player }));
     } catch (reason) {
+      if (latestRequest.current[side] !== token) return;
       console.error("Could not load player:", reason);
       setError("Could not load that player. Try again.");
     } finally {
-      setLoading(null);
+      if (latestRequest.current[side] === token) setLoading(null);
     }
   };
 
-  const swap = () => {
-    const next = { a: b, b: a };
-    setPlayers(next);
-    router.replace(compareUrl(next.a, next.b), { scroll: false });
-  };
+  const swap = () => setPlayers((current) => ({ a: current.b, b: current.a }));
 
   const nameA = a ? surname(a.name) : "A";
   const nameB = b ? surname(b.name) : "B";

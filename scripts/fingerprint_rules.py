@@ -1,6 +1,6 @@
 """Match a scorer from another source to a Transfermarkt player by goals:
 same competition, date within one day, same regular/extra-time half and a
-minute cell within one. Used by map_by_goals.py (PitchAPI) and espn_map.py.
+minute cell within one. Used by espn_map.py.
 """
 
 from collections import Counter

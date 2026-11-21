@@ -17,7 +17,7 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 The home page shows players at top-5 league clubs who have scored in all 90
-minutes and those missing one to three minutes. `/coverage` lists the
+minutes and those missing one to five minutes. `/coverage` lists the
 competitions counted (`scripts/scope.py`): the Premier League, LaLiga, Serie A,
 Bundesliga and Ligue 1; their domestic cups and super cups (FA Cup, EFL/Carabao
 Cup, Community Shield, Copa del Rey, Supercopa, DFB-Pokal, DFL-Supercup, Coppa
@@ -33,7 +33,8 @@ Super Cup (no qualifying rounds). Only goals from the last 10 years count.
   France and Coupe de la Ligue come from ESPN only (Transfermarkt lacks them).
   Sources are never mixed within one competition-season.
 - **Live:** ESPN's public feed for everything after Transfermarkt's last day.
-  PitchAPI is retired; its scripts are kept but not used.
+  PitchAPI is retired and its scripts removed (see git history); player photos
+  and club logos in `data/images.json` were collected from it and no longer update.
 - **Players:** only players in a current ESPN squad of a top-5 league club.
   They are matched to Transfermarkt by date of birth and name, then club and
   name, then by goals. Players Transfermarkt does not know get an ESPN-only page.

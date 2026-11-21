@@ -29,6 +29,8 @@ test("added time and no goals", () => {
 
 test("Haaland's last goal comes from the built data", () => {
   const data = JSON.parse(readFileSync(new URL("../data/players/418560.json", import.meta.url)));
+  // prep.py leaves dataUpTo out of player files; index.json holds it.
+  const { dataUpTo } = JSON.parse(readFileSync(new URL("../data/index.json", import.meta.url)));
   const last = getLastGoal(data);
-  assert.ok(last && last.date <= data.dataUpTo);
+  assert.ok(last && last.date <= dataUpTo);
 });

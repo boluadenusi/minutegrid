@@ -190,11 +190,16 @@ function readJson<T>(filePath: string): T {
 // Public API
 // ---------------------------------------------------------------------------
 
+// shortcut: parsed once per server process; data only changes with a redeploy, so restart `next dev` after a local prep.py run.
+let indexCache: IndexData | undefined;
+function readIndex(): IndexData {
+  return (indexCache ??= readJson<IndexData>(path.resolve(DATA_DIR, "index.json")));
+}
+
 /** Returns the full search index (id, name, goalCount for every player). */
 export function getIndex(): IndexData {
-  const indexPath = path.resolve(DATA_DIR, "index.json");
   const window = currentWindow();
-  return { ...readJson<IndexData>(indexPath), windowStart: window.start, windowEnd: window.end };
+  return { ...readIndex(), windowStart: window.start, windowEnd: window.end };
 }
 
 /** Home-page leaderboards, re-checked against today's 10-year window. */
@@ -225,12 +230,6 @@ export function getLeague(id: string): LeagueDetail | null {
   return readJson<LeagueDetail>(filePath);
 }
 
-/** Returns the list of all player IDs (for generateStaticParams). */
-export function getAllPlayerIds(): number[] {
-  const { players } = getIndex();
-  return players.map((p) => p.id);
-}
-
 /** Returns full data for one player, or null if not found. */
 export function getPlayerData(id: number): PlayerData | null {
   const filePath = path.resolve(DATA_DIR, "players", `${String(id)}.json`);
@@ -238,6 +237,6 @@ export function getPlayerData(id: number): PlayerData | null {
   // Player files are written by prep.py; the window moves on every day, so
   // goals that have since fallen out of it are dropped here.
   const player = readJson<PlayerData>(filePath);
-  if (!player.dataUpTo) player.dataUpTo = readJson<IndexData>(path.resolve(DATA_DIR, "index.json")).dataUpTo;
+  if (!player.dataUpTo) player.dataUpTo = readIndex().dataUpTo;
   return applyWindow(player, currentWindow());
 }
