@@ -4,7 +4,6 @@ athlete_id,name,dob,team,competition_id,reason
 194718,Ousmane Diallo,1993-05-25,Parma,IT1,"a Transfermarkt player has this name, but neither club, date of birth nor goals confirm it"
 205916,Janik Bachmann,1996-05-06,Schalke 04,L1,runner-up too close
 250460,Demba Thiam,1989-12-02,Monza,IT1,"a Transfermarkt player has this name, but neither club, date of birth nor goals confirm it"
-250508,Pepe Carmona,1995-02-17,Sevilla,ES1,best covers 2/3 goals (< 80%)
 253816,Ron Schallenberg,1998-10-06,Schalke 04,L1,single goal with several candidates
 264484,Gideon Mensah,2000-10-09,FC Cologne,L1,"a Transfermarkt player has this name, but neither club, date of birth nor goals confirm it"
 279609,Riki Rodríguez,1997-09-25,Deportivo,ES1,single goal with several candidates
@@ -40,6 +39,7 @@ athlete_id,name,dob,team,competition_id,reason
 375566,Rubén,2004-08-26,Deportivo,ES1,single goal with several candidates
 377777,Aarón Moloney,2007-04-18,Málaga,ES1,"single goal, names share no token"
 378369,Reigan Heskey,2008-01-18,FC Cologne,L1,"a Transfermarkt player has this name, but neither club, date of birth nor goals confirm it"
+379392,Dino Kaiser,2007-02-09,Fulham,GB1,"a Transfermarkt player has this name, but neither club, date of birth nor goals confirm it"
 386454,Frederik Schmahl,2002-12-21,SV Elversberg,L1,"single goal, names share no token"
 387472,Berkay Yilmaz,2005-02-25,SC Freiburg,L1,single goal with several candidates
 392107,Trey Ogunsuyi,2006-11-26,Sunderland,GB1,"a Transfermarkt player has this name, but neither club, date of birth nor goals confirm it"

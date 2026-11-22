@@ -25486,17 +25486,32 @@ FR1,401876395,2026-11-20,170,Troyes,Le Havre AC,270173,Antoine Mille,69,0,69,Fal
 FR1,401876395,2026-11-20,170,Troyes,Le Havre AC,176406,Renaud Ripart,90,8,90,False,True,True
 L1,401884736,2026-11-20,122,FC Cologne,Bayern Munich,365332,Mikey Moore,12,0,12,False,False,False
 L1,401884736,2026-11-20,132,Bayern Munich,FC Cologne,120829,Nathaniel Brown,37,0,37,False,False,False
+ES1,401882797,2026-11-21,244,Real Betis,Sevilla,281558,Antony,50,0,50,False,False,False
+ES1,401882797,2026-11-21,243,Sevilla,Real Betis,334163,Enrique Salas,90,1,90,False,True,False
+ES1,401882798,2026-11-21,85,Celta Vigo,Real Madrid,138448,Pablo Durán,6,0,6,False,False,False
+ES1,401882798,2026-11-21,86,Real Madrid,Celta Vigo,291281,Jude Bellingham,66,0,66,False,False,False
+ES1,401882798,2026-11-21,86,Real Madrid,Celta Vigo,380286,Carlos Espí,85,0,85,False,False,False
 ES1,401882799,2026-11-21,94,Valencia,Rayo Vallecano,300927,Copete,41,0,41,False,False,False
 ES1,401882806,2026-11-21,96,Alavés,Deportivo,374621,Ángel Pérez,2,0,2,False,False,False
 ES1,401882806,2026-11-21,96,Alavés,Deportivo,207236,Lucas Boyé,62,0,62,False,False,False
 ES1,401882806,2026-11-21,96,Alavés,Deportivo,163068,Denis Suárez,90,0,90,False,False,False
+FR1,401876396,2026-11-21,6997,Brest,Strasbourg,367360,Noah Edjouma,22,0,22,False,False,False
 FR1,401876398,2026-11-21,2502,Nice,Paris Saint-Germain,315384,Mohamed Amoura,8,0,8,False,False,False
 FR1,401876398,2026-11-21,160,Paris Saint-Germain,Nice,379088,Senny Mayulu,31,0,31,False,False,True
 FR1,401876398,2026-11-21,160,Paris Saint-Germain,Nice,336388,Désiré Doué,32,0,32,False,False,False
 FR1,401876398,2026-11-21,160,Paris Saint-Germain,Nice,265869,Ferran Torres,85,0,85,False,False,False
 FR1,401876398,2026-11-21,2502,Nice,Paris Saint-Germain,265234,Ali Abdi,90,5,90,False,True,False
+FR1,401876399,2026-11-21,172,AJ Auxerre,AS Monaco,268591,Romain Faivre,29,0,29,False,False,False
+FR1,401876399,2026-11-21,174,AS Monaco,AJ Auxerre,345645,Edan Diop,82,0,82,False,False,False
+FR1,401876402,2026-11-21,167,Lyon,Lille,290401,Mads Bidstrup,40,0,40,False,False,False
+FR1,401876403,2026-11-21,179,Toulouse,Lens,297121,Jacen Russell-Rowe,39,0,39,False,False,False
+FR1,401876403,2026-11-21,175,Lens,Toulouse,258871,Michaël Cuisance,47,0,47,False,False,False
 GB1,401878754,2026-11-21,367,Tottenham Hotspur,Ipswich Town,395939,Luca Williams-Barnett,15,0,15,False,False,False
 GB1,401878754,2026-11-21,367,Tottenham Hotspur,Ipswich Town,194115,Dominic Solanke,51,0,51,False,False,False
+GB1,401879232,2026-11-21,359,Arsenal,Newcastle United,251400,Eberechi Eze,33,0,33,False,False,False
+GB1,401879232,2026-11-21,361,Newcastle United,Arsenal,243386,Harvey Barnes,49,0,49,False,False,False
+GB1,401879232,2026-11-21,361,Newcastle United,Arsenal,303444,Malick Thiaw,62,0,62,False,False,False
+GB1,401879232,2026-11-21,359,Arsenal,Newcastle United,293236,Noni Madueke,78,0,78,False,False,False
 GB1,401879233,2026-11-21,370,Fulham,Manchester City,301525,Rodrigo Muniz,16,0,16,False,False,False
 GB1,401879233,2026-11-21,382,Manchester City,Fulham,238472,Elliot Anderson,57,0,57,False,False,False
 GB1,401879235,2026-11-21,388,Coventry City,Crystal Palace,194686,Taiwo Awoniyi,5,0,5,False,False,False
@@ -25521,6 +25536,7 @@ IT1,401874981,2026-11-21,112,Lazio,Lecce,323113,Tijjani Noslin,68,0,68,False,Fal
 IT1,401874981,2026-11-21,112,Lazio,Lecce,250850,Davide Frattesi,90,0,90,False,False,False
 IT1,401875056,2026-11-21,2572,Como,Cagliari,380318,Jacobo Ramón,24,0,24,False,False,False
 IT1,401875056,2026-11-21,2572,Como,Cagliari,291285,Lucas Da Cunha,56,0,56,False,False,False
+IT1,401875067,2026-11-21,114,Napoli,Torino,255850,Scott McTominay,73,0,73,False,False,False
 L1,401884728,2026-11-21,126,SC Freiburg,SV Elversberg,310883,Igor Matanovic,68,0,68,False,False,False
 L1,401884731,2026-11-21,124,Borussia Dortmund,Borussia Mönchengladbach,281122,Felix Nmecha,80,0,80,False,False,False
 L1,401884732,2026-11-21,11420,RB Leipzig,1. FC Union Berlin,319368,Antonio Nusa,18,0,18,False,False,True
