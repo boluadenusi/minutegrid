@@ -25556,6 +25556,9 @@ ES1,401882800,2026-11-22,89,Real Sociedad,Racing Santander,229018,Mikel Oyarzaba
 ES1,401882800,2026-11-22,89,Real Sociedad,Racing Santander,213141,Gonçalo Guedes,60,0,60,False,False,False
 ES1,401882800,2026-11-22,87,Racing Santander,Real Sociedad,125383,Sergio Canales,68,0,68,False,False,True
 ES1,401882801,2026-11-22,97,Osasuna,Málaga,207288,Ante Budimir,20,0,20,False,False,False
+ES1,401882803,2026-11-22,1068,Atlético Madrid,Getafe,297373,Álex Baena,10,0,10,False,False,False
+ES1,401882803,2026-11-22,1068,Atlético Madrid,Getafe,290802,Johnny Cardoso,30,0,30,False,False,False
+ES1,401882803,2026-11-22,1068,Atlético Madrid,Getafe,166396,Alejandro Grimaldo,90,2,90,False,True,True
 ES1,401882804,2026-11-22,102,Villarreal,Barcelona,284769,Tajon Buchanan,5,0,5,False,False,False
 ES1,401882804,2026-11-22,102,Villarreal,Barcelona,294039,Tani Oluwaseyi,7,0,7,False,False,False
 ES1,401882804,2026-11-22,83,Barcelona,Villarreal,312015,Gerard Martín,57,0,57,False,False,False
@@ -25564,6 +25567,11 @@ FR1,401876397,2026-11-22,6851,Paris FC,Angers,398780,Zabi Gueu,47,0,47,False,Fal
 FR1,401876397,2026-11-22,6851,Paris FC,Angers,341333,Luca Koleosho,55,0,55,False,False,False
 FR1,401876397,2026-11-22,6851,Paris FC,Angers,223122,Maxime López,65,0,65,False,False,False
 FR1,401876397,2026-11-22,6851,Paris FC,Angers,332549,Diego Coppola,72,0,72,False,False,False
+FR1,401876400,2026-11-22,176,Marseille,Le Mans,259743,Amine Gouiri,33,0,33,False,False,False
+FR1,401876400,2026-11-22,176,Marseille,Le Mans,289114,Igor Paixão,40,0,40,False,False,False
+FR1,401876400,2026-11-22,2697,Le Mans,Marseille,268720,Louis Mafouta,70,0,70,False,False,False
+FR1,401876400,2026-11-22,2697,Le Mans,Marseille,357006,Erwan Colas,84,0,84,False,False,False
+FR1,401876400,2026-11-22,2697,Le Mans,Marseille,315460,Jean Vercruysse,90,5,90,False,True,False
 FR1,401876401,2026-11-22,169,Stade Rennais,Lorient,282381,Boulaye Dia,27,0,27,False,False,False
 FR1,401876401,2026-11-22,273,Lorient,Stade Rennais,265099,Montassar Talbi,45,0,45,False,False,False
 GB1,401878755,2026-11-22,364,Liverpool,Manchester United,257206,Dominik Szoboszlai,10,0,10,False,False,False
@@ -25579,6 +25587,14 @@ IT1,401874989,2026-11-22,4057,Frosinone,AC Milan,346840,Patrizio Masini,25,0,25,
 IT1,401874989,2026-11-22,103,AC Milan,Frosinone,303973,Ardon Jashari,48,0,48,False,False,False
 IT1,401874989,2026-11-22,103,AC Milan,Frosinone,359754,Alphadjo Cissè,60,0,60,False,False,False
 IT1,401874989,2026-11-22,103,AC Milan,Frosinone,225607,Christian Pulisic,68,0,68,False,False,False
+IT1,401875001,2026-11-22,110,Internazionale,Atalanta,362674,Pio Esposito,16,0,16,False,False,False
+IT1,401875001,2026-11-22,110,Internazionale,Atalanta,362674,Pio Esposito,32,0,32,False,False,False
+IT1,401875001,2026-11-22,105,Atalanta,Internazionale,237435,Eljif Elmas,35,0,35,False,False,False
+IT1,401875001,2026-11-22,110,Internazionale,Atalanta,362674,Pio Esposito,52,0,52,False,False,False
+IT1,401875001,2026-11-22,105,Atalanta,Internazionale,296319,Charles De Ketelaere,72,0,72,False,False,False
+IT1,401875001,2026-11-22,110,Internazionale,Atalanta,341494,Petar Sucic,76,0,76,False,False,True
+IT1,401875001,2026-11-22,105,Atalanta,Internazionale,296319,Charles De Ketelaere,80,0,80,False,False,False
+IT1,401875001,2026-11-22,105,Atalanta,Internazionale,194711,Franck Kessié,90,1,90,False,True,True
 IT1,401875008,2026-11-22,111,Juventus,Venezia,298349,Nick Woltemade,53,0,53,False,False,False
 IT1,401875008,2026-11-22,111,Juventus,Venezia,258968,Teun Koopmeiners,59,0,59,False,False,False
 IT1,401875008,2026-11-22,111,Juventus,Venezia,24412,Juan Cabal,65,0,65,False,False,False
