@@ -171,7 +171,7 @@ athlete_id,name,dob,team,competition_id
 343990,Enzo Leopold,2000-07-23,Borussia Mönchengladbach,L1
 344518,Augustin Delbecque,2002-02-03,Le Mans,FR1
 345106,Calvin Brackelmann,1999-08-22,FC Augsburg,L1
-346359,Mouhamed Diop,2000-09-30,Troyes,FR1
+346359,Mouhamed Diop,2001-04-17,Troyes,FR1
 346596,Raphael Kofler,2005-04-26,Cagliari,IT1
 346913,Darryl Ombang,2005-07-11,Leeds United,GB1
 346974,Gabriele Bracaglia,2003-07-19,Frosinone,IT1
@@ -245,6 +245,7 @@ athlete_id,name,dob,team,competition_id
 399747,Dariusz Stalmach,2005-12-08,Werder Bremen,L1
 399893,Marcell Washington,2007-08-21,Arsenal,GB1
 400649,Wei Xiangxin,2008-03-05,AJ Auxerre,FR1
+400750,Josh Ogunnaike,2008-04-04,Arsenal,GB1
 401325,Tristan Zobel,2003-10-04,SC Paderborn 07,L1
 401421,Alejandro Postigo,2006-01-01,Real Betis,ES1
 403400,Mert Can Ayhan,2006-09-08,Schalke 04,L1
@@ -359,3 +360,6 @@ athlete_id,name,dob,team,competition_id
 5334138,Kwesi Sorotu Badori,,Bologna,IT1
 5334139,Ianis Sacko,,Angers,FR1
 5334164,Bafode Gassama Gassama,,Getafe,ES1
+5334373,Leopold Joursky,,Lens,FR1
+5334374,Cristian Mazzara,,Como,IT1
+5334375,Toni Stefan Langsteiner,,RB Leipzig,L1

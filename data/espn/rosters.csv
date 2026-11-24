@@ -31,6 +31,7 @@ GB1,349,AFC Bournemouth,361809,Junior Kroupi,Junior Kroupi,2006-06-23,France,202
 GB1,359,Arsenal,169532,Kepa Arrizabalaga,Kepa Arrizabalaga,1994-10-03,Spain,2026-11-18,2026-11-24
 GB1,359,Arsenal,196176,David Raya,David Raya,1995-09-15,Spain,2026-11-18,2026-11-24
 GB1,359,Arsenal,265921,Illan Meslier,Illan Meslier,2000-03-02,France,2026-11-18,2026-11-24
+GB1,359,Arsenal,390095,Jack Porter,Jack Porter,2008-07-15,England,2026-11-24,2026-11-24
 GB1,359,Arsenal,231859,Ezri Konsa,Ezri Konsa,1997-10-23,England,2026-11-18,2026-11-24
 GB1,359,Arsenal,236322,Gabriel Magalhães,Gabriel Magalhães,1997-12-19,Brazil,2026-11-18,2026-11-24
 GB1,359,Arsenal,241077,Ben White,Ben White,1997-10-08,England,2026-11-18,2026-11-24
@@ -42,6 +43,7 @@ GB1,359,Arsenal,328497,Cristhian Mosquera,Cristhian Mosquera,2004-06-27,Spain,20
 GB1,359,Arsenal,352758,Myles Lewis-Skelly,Myles Lewis-Skelly,2006-09-26,England,2026-11-18,2026-11-24
 GB1,359,Arsenal,399893,Marcell Washington,Marcell Washington,2007-08-21,England,2026-11-18,2026-11-24
 GB1,359,Arsenal,400284,Marli Salmon,Marli Salmon,2009-08-29,England,2026-11-18,2026-11-24
+GB1,359,Arsenal,400750,Josh Ogunnaike,Josh Ogunnaike,2008-04-04,England,2026-11-24,2026-11-24
 GB1,359,Arsenal,203669,Martin Ødegaard,Martin Ødegaard,1998-12-17,Norway,2026-11-18,2026-11-24
 GB1,359,Arsenal,209581,Mikel Merino,Mikel Merino,1996-06-22,Spain,2026-11-18,2026-11-24
 GB1,359,Arsenal,218522,Bruno Guimarães,Bruno Guimarães,1997-11-16,Brazil,2026-11-18,2026-11-24
@@ -1022,7 +1024,7 @@ ES1,101,Rayo Vallecano,158151,Iván Balliu,Iván Balliu,1992-01-01,Albania,2026-
 ES1,101,Rayo Vallecano,225637,Luiz Felipe,Luiz Felipe,1997-03-22,Italy,2026-11-18,2026-11-24
 ES1,101,Rayo Vallecano,261403,Marash Kumbulla,Marash Kumbulla,2000-02-08,Albania,2026-11-18,2026-11-24
 ES1,101,Rayo Vallecano,265996,Mujaid Sadick,Mujaid Sadick,2000-03-14,Spain,2026-11-18,2026-11-24
-ES1,101,Rayo Vallecano,268751,Sergio Lozano,Sergio Lozano,1999-03-24,Spain,2026-11-18,2026-11-24
+ES1,101,Rayo Vallecano,268751,Sergio Lozano,Sergio Lozano,2006-03-30,Spain,2026-11-18,2026-11-24
 ES1,101,Rayo Vallecano,277292,Adrià Pedrosa,Adrià Pedrosa,1998-05-13,Spain,2026-11-18,2026-11-24
 ES1,101,Rayo Vallecano,287224,Andrei Ratiu,Andrei Ratiu,1998-06-20,Romania,2026-11-18,2026-11-24
 ES1,101,Rayo Vallecano,319231,Jozhua Vertrouwd,Jozhua Vertrouwd,2004-08-21,Netherlands,2026-11-18,2026-11-24
@@ -1445,6 +1447,7 @@ IT1,2572,Como,364742,Assane Diao,Assane Diao,2005-09-07,Senegal,2026-11-18,2026-
 IT1,2572,Como,387491,Jesús Rodriguez,Jesús Rodriguez,2005-11-21,Spain,2026-11-18,2026-11-24
 IT1,2572,Como,419210,Zebedee Kennedy,Zebedee Kennedy,2010-02-24,Sweden,2026-11-18,2026-11-24
 IT1,2572,Como,5334073,Kevin Fustini,Kevin Fustini,,,2026-11-22,2026-11-24
+IT1,2572,Como,5334374,Cristian Mazzara,Cristian Mazzara,,,2026-11-24,2026-11-24
 IT1,109,Fiorentina,108482,David de Gea,David de Gea,1990-11-07,Spain,2026-11-18,2026-11-24
 IT1,109,Fiorentina,164581,Luca Lezzerini,Luca Lezzerini,1995-03-24,Italy,2026-11-18,2026-11-24
 IT1,109,Fiorentina,249668,Oliver Christensen,Oliver Christensen,1999-03-22,Denmark,2026-11-18,2026-11-24
@@ -2225,6 +2228,7 @@ L1,11420,RB Leipzig,364897,Assan Ouédraogo,Assan Ouédraogo,2006-05-09,Germany,
 L1,11420,RB Leipzig,372232,Andrija Maksimovic,Andrija Maksimovic,2007-06-05,Serbia,2026-11-18,2026-11-24
 L1,11420,RB Leipzig,388683,Viggo Gebel,Viggo Gebel,2007-11-22,Germany,2026-11-18,2026-11-24
 L1,11420,RB Leipzig,413837,Benno Kaltefleiter,Benno Kaltefleiter,2008-02-14,Germany,2026-11-18,2026-11-24
+L1,11420,RB Leipzig,5334375,Toni Stefan Langsteiner,Toni Stefan Langsteiner,,,2026-11-24,2026-11-24
 L1,11420,RB Leipzig,222176,Christopher Nkunku,Christopher Nkunku,1997-11-14,France,2026-11-18,2026-11-24
 L1,11420,RB Leipzig,310131,Johan Bakayoko,Johan Bakayoko,2003-04-20,Belgium,2026-11-18,2026-11-24
 L1,11420,RB Leipzig,324766,Rômulo,Rômulo,2002-02-08,Brazil,2026-11-18,2026-11-24
@@ -2648,6 +2652,7 @@ FR1,175,Lens,258871,Michaël Cuisance,Michaël Cuisance,1999-08-16,France,2026-1
 FR1,175,Lens,341720,Yassine Titraoui,Yassine Titraoui,2003-07-26,Algeria,2026-11-18,2026-11-24
 FR1,175,Lens,387061,Andrija Bulatovic,Andrija Bulatovic,2006-12-27,Montenegro,2026-11-18,2026-11-24
 FR1,175,Lens,412217,Mezian Soares,Mezian Soares,2009-11-08,Portugal,2026-11-18,2026-11-24
+FR1,175,Lens,5334373,Leopold Joursky,Leopold Joursky,,,2026-11-24,2026-11-24
 FR1,175,Lens,156898,Florian Thauvin,Florian Thauvin,1993-01-26,France,2026-11-18,2026-11-24
 FR1,175,Lens,213535,Moussa Diarra,Moussa Diarra,2000-11-10,Mali,2026-11-18,2026-11-24
 FR1,175,Lens,215687,Florian Sotoca,Florian Sotoca,1990-10-25,France,2026-11-18,2026-11-24
@@ -2967,7 +2972,7 @@ FR1,170,Troyes,270173,Antoine Mille,Antoine Mille,1997-08-14,France,2026-11-18,2
 FR1,170,Troyes,283692,Alexandre Philiponeau,Alexandre Philiponeau,2000-01-26,France,2026-11-18,2026-11-24
 FR1,170,Troyes,286972,Iron Gomis,Iron Gomis,1999-11-09,France,2026-11-18,2026-11-24
 FR1,170,Troyes,323058,Dermane Karim,Dermane Karim,2003-12-26,Togo,2026-11-18,2026-11-24
-FR1,170,Troyes,346359,Mouhamed Diop,Mouhamed Diop,2000-09-30,Senegal,2026-11-18,2026-11-24
+FR1,170,Troyes,346359,Mouhamed Diop,Mouhamed Diop,2001-04-17,USA,2026-11-18,2026-11-24
 FR1,170,Troyes,351379,Hugo Picard,Hugo Picard,2003-05-09,France,2026-11-18,2026-11-24
 FR1,170,Troyes,386387,Merwan Ifnaoui,Merwan Ifnaoui,1998-10-22,France,2026-11-18,2026-11-24
 FR1,170,Troyes,408779,Roman Murcy,Roman Murcy,2006-02-23,France,2026-11-18,2026-11-24
