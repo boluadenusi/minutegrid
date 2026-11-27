@@ -5,7 +5,7 @@ athlete_id,name,dob,team,competition_id
 178237,Jorge Salinas,2007-04-03,Racing Santander,ES1
 181582,Adrien Monfray,1990-12-20,Troyes,FR1
 182573,Steven Hall,2005-01-16,Brighton & Hove Albion,GB1
-184757,Jorge Castillo,2006-05-23,Atlético Madrid,ES1
+184757,Jorge Castillo,2006-03-26,Atlético Madrid,ES1
 186306,Mohamed Coulibaly,1988-08-07,AJ Auxerre,FR1
 190167,Maximilian Rohr,1995-06-27,SV Elversberg,L1
 198150,Matteo Pisseri,1991-11-21,Frosinone,IT1
@@ -24,6 +24,7 @@ athlete_id,name,dob,team,competition_id
 277614,Josh Eccles,2000-04-06,Coventry City,GB1
 279699,Íñigo Sainz,1998-06-16,Racing Santander,ES1
 286967,Jack Rudoni,2001-06-14,Coventry City,GB1
+289988,Joseph Cowan,1999-10-12,Sunderland,GB1
 291817,Lion Schweers,1996-04-01,Borussia Mönchengladbach,L1
 292225,Ramón Enríquez,2001-04-19,Málaga,ES1
 300471,Alvaro Mantilla,2000-05-09,Racing Santander,ES1
@@ -92,6 +93,7 @@ athlete_id,name,dob,team,competition_id
 3121265,Enzo Monchatre,,Brest,FR1
 3121500,Grady Makiobo Makiobo,,Juventus,IT1
 3121652,Younes Idder,,Paris Saint-Germain,FR1
+3121757,Marcos Pachón Sánchez,,Getafe,ES1
 3121766,Ibrahima Danfakha Keita,,Getafe,ES1
 3121791,Martin Ponsot,,Nice,FR1
 3121808,Rael-Tshimbela Nakuzola,,Mainz,L1
@@ -107,6 +109,7 @@ athlete_id,name,dob,team,competition_id
 3124795,Anis Soubeir,,AS Monaco,FR1
 3125566,Gabriel Jiménez Carpintero,,Racing Santander,ES1
 3125573,Alejandro Laso Molino,,Racing Santander,ES1
+3126268,Mohamed Lamine Baradji,,Marseille,FR1
 3127048,Nassim Laarej,,Nice,FR1
 3127847,Ricardo Bordon,,Lazio,IT1
 3128651,Iván Alonso Martín,,Rayo Vallecano,ES1
@@ -268,6 +271,7 @@ athlete_id,name,dob,team,competition_id
 404381,Alynho Haïdara,2008-07-26,Mainz,L1
 404675,Ibrahim Gomis,2005-03-20,Marseille,FR1
 405490,Illia Voloshyn,2007-01-15,Real Madrid,ES1
+405623,Stefano Turco,2005-01-24,Juventus,IT1
 406374,Jeremiaha Maluze,2004-11-11,Eintracht Frankfurt,L1
 406466,Ruben Müller,2005-08-24,SC Paderborn 07,L1
 407583,Rory Mahady,2006-08-16,Leeds United,GB1
@@ -285,6 +289,7 @@ athlete_id,name,dob,team,competition_id
 409318,Sergio Martínez,2007-05-15,Real Madrid,ES1
 409565,Aljaz Strajnar,2007-08-16,Monza,IT1
 409634,Lorenzo Paratici,2008-10-21,AS Roma,IT1
+409810,Charlie Walker-Smith,2007-09-19,Crystal Palace,GB1
 409924,Callum Mills,2008-09-19,Leeds United,GB1
 409974,Edion Gashi,2006-01-22,Schalke 04,L1
 410098,Digne Pounga,2006-05-15,Atalanta,IT1
@@ -364,3 +369,5 @@ athlete_id,name,dob,team,competition_id
 5334373,Leopold Joursky,,Lens,FR1
 5334374,Cristian Mazzara,,Como,IT1
 5334375,Toni Stefan Langsteiner,,RB Leipzig,L1
+5334546,Loïc Tiamuna Lubaki,,AS Monaco,FR1
+5334547,Melvin Gomes Da Veiga,,AS Monaco,FR1
